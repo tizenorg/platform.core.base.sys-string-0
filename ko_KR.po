@@ -1,0 +1,1425 @@
+msgid "IDS_COM_BODY_BASIC"
+msgstr "기본"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "이름 변경"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "형식"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "디스플레이"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "이메일 동기화"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "폴더"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "전달:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "정보"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "메모 목록"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "분"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "더보기"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "동영상이 없습니다"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "비공개"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "계속"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "벨소리"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "초"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "단일 선택"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "설정"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "시스템"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "추가할 수 없습니다"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "사용자 이름"
+
+msgid "IDS_COM_DISCARD"
+msgstr "취소"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "배경화면 변경"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "추가되었습니다"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "연락처 추가"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "태그 추가"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "폴더"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "태그 추가"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "단일 선택"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "업데이트"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "동영상"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "추가되었습니다"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "첨부"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "연결되었습니다"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "파일이 존재하지 않습니다"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "글자가 바르지 않습니다"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "이동되었습니다"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "이동 중..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "이동하지 못하였습니다"
+
+msgid "IDS_COM_POP_NAME"
+msgstr "이름"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "내부 오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "선택된 파일이 없습니다"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "선택된 태그가 없습니다"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "처리 중..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "녹음하지 못하였습니다"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "가져오기가 끝났습니다"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "불러오지 못하였습니다"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "저장하지 못하였습니다"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "저장 중..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "선택되었습니다"
+
+msgid "IDS_COM_POP_SMALL_MINUTES"
+msgstr "분"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "다시 시도하세요"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "제한 없음"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "진동"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "지금 해제할까요?"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "더보기"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "보기"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "숨기기"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "언어"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "더보기"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "더보기"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "녹음"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "새로고침"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "결과"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "설정"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "업데이트"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "취소"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12시간"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1초"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2주"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "항상"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "항상 묻기"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "저자"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "자동"
+
+msgid "IDS_COM_BODY_BY_MMS"
+msgstr "MMS"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "편집"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "안 함"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "메모"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "이전"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "검색 중..."
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "사운드"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "메시지를 입력하려면 누르세요"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "이메일"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "공유"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "편집"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "파일"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "가져오기"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "이메일"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "계정 삭제"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "파일"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "초기화 중..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "설치 중..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "URL이 바르지 않습니다"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "중요도"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "전송되었습니다"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "저장할 수 없습니다"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "확인"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "최근 기록"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "공유"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "북마크"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "북마크"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "정렬"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "로딩 중..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "이전"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "수신인을 추가하려면 누르세요"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "발신자 이미지"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "발신자 이미지"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "다운로드할 수 없습니다"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "파일을 찾을 수 없습니다"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "네트워크 오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "설정된 계정이 없습니다"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "앨범"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "앨범"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "자동 새로고침"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "설명"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "다운로드가 끝났습니다"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "다운로드 관리"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "이메일 주소"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "이메일 크기"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "비밀번호를 입력하세요"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "포맷"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "구글 맵스"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "위치"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "수동"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "내용이 없습니다"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "검색 결과가 없습니다"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "비밀번호"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "제거"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "메시지 보내기"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "크기"
+
+msgid "IDS_COM_BODY_START"
+msgstr "시작"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "일"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "사진 촬영"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "추가하려면 누르세요"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "수신인"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "동영상"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "음성"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "경고"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "답장"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "로그아웃"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "등록"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "로그인"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "높음"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "읽을 수 없습니다"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "블루투스로 듣기"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "이미 저장되어 있습니다"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "취소되었습니다"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "삭제할까요?"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "삭제 중..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "다운로드 중..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "형식"
+
+msgid "IDS_COM_POP_INTERNAL_ERROR"
+msgstr "Unknown error"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "메모리 카드가 삽입되었습니다"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "메모리 카드가 제거되었습니다"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "메모리가 부족합니다"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "비밀번호"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "제거되었습니다"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "검색 중..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "전송하지 못하였습니다"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "서비스를 사용할 수 없습니다"
+
+msgid "IDS_COM_POP_SIZE"
+msgstr "크기"
+
+msgid "IDS_COM_POP_TIME"
+msgstr "시간"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "형식"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "삭제할 수 없습니다"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "차단"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "작성"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "다운로드"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "추가"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "답장"
+
+msgid "IDS_COM_SK_START"
+msgstr "시작"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1일"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1시간"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1분"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1주"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "계정"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "생일"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "닫기"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "폴더 추가"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "상세 정보"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "이름을 입력하세요"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "서체"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "그룹"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "이미지"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "정보"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "벨소리"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "기타"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d분"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "이름 변경"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "벨소리"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "검색"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "전송"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "제목"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "오늘"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "동영상"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "배경화면"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "어제"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "북마크에 추가"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "연락처에 추가"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "밝기"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "새 연락처 추가"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "삭제"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "효과"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "이미지"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "키패드"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "로그아웃"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "저장"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "수락"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "오전"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "비밀번호 변경"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "지우기"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "닫기"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "연결 중..."
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "연결 오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "연결하지 못하였습니다"
+
+msgid "IDS_COM_POP_DATE"
+msgstr "날짜"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "삭제되었습니다"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "완료"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "이름을 입력하세요"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "비밀번호가 바르지 않습니다"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "비밀번호가 바르지 않습니다"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d시간"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "거절"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "수신 거부하였습니다"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "저장되었습니다"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "전송 중..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "지원되지 않는 파일 형식입니다"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "업데이트"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "업데이트가 끝났습니다"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "계정 추가"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "보통"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "취소"
+
+msgid "IDS_COM_ADD"
+msgstr "추가"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "통화"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "연락처"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "갤러리"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "지도"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "뮤직 스토어"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "없음"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "이름이 없습니다"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "모두 선택"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "주소"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "취소"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "실패하였습니다"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "없음"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "완료되었습니다"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "수락"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "추가"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "이전"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "통화"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "다음"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "종료"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "저장"
+
+msgid "IDS_IDLE_BODY_CARD_SCANNER"
+msgstr "카드 판독기"
+
+msgid "IDS_IDLE_BODY_CLOCK"
+msgstr "시계"
+
+msgid "IDS_IDLE_BODY_E_BOOK"
+msgstr "E-book"
+
+msgid "IDS_IDLE_BODY_MOBILE_AP"
+msgstr "모바일 AP"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "날씨"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
+msgstr "삼성Apps"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "실행되었습니다"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "알람"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "전체"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "오전"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "4월"
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "8월"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "비밀번호"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "사용 가능"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "이전"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "배터리 충전이 완료되었습니다.\n충전기를 분리하세요"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "배터리 충전이 완료되었습니다. 충전기를 분리하세요"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "블루투스"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "인터넷"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "계산기"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "일정"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "카메라"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "연락처"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "단위환산"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "복사"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "추가"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "12월"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "삭제"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "모두 삭제"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "이름"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "제목"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "이메일"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "2월"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM 라디오"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "전달"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "전달"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "금"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "도움말"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "메신저"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "이미지 에디터"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "인터넷"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "1월"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "7월"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "6월"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "잠금"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "잠금"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "최근기록"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "낮음"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "배터리가 부족합니다"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "3월"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "5월"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "메모"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "메모리 카드"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "메시지"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "메시지"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "메시지"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "분"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "분"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "분"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "월"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "이동"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "뮤직"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "뮤직 플레이어"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "내 계정"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "내 파일"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "내비게이션"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "11월"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "10월"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "끄기"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "켜기"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "휴대폰"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN 잠금"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "초기화"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "초기화"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "토"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "9월"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "설정"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "진동/무음"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "스마트 검색"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "스피커 켜기"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "스톱워치"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "동기화"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "목"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "타이머"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "화"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "트위터"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "단위"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "분"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "초"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "알 수 없음"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "영상통화"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "음성통화"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "음성녹음"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "수"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "세계시각"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "년.월.일"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "년/월/일"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "데일리 브리핑"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "알림"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "정보"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "실행 중..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "해제되었습니다"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "비어 있음"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "시간"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "시간"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "부재중 전화"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "부재중 통화"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "부재중 알림"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "미확인 알림"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "새 이메일"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "새 이메일"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "새 메시지"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "새 메시지"
+
+msgid "IDS_COM_POP_PM"
+msgstr "오후"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "잠금 해제"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "경고"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "삭제"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "키패드"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "완료"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "편집"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "메뉴"
+
+msgid "IDS_COM_SK_NO"
+msgstr "아니요"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "끄기"
+
+msgid "IDS_COM_SK_OK"
+msgstr "확인"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "열기"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "옵션"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "일시정지"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "재생"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "재생"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "제거"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "이름 변경"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "검색"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "선택"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "선택"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "전송"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "전송"
+
+msgid "IDS_COM_SK_SET"
+msgstr "설정"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "중지"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "영상통화"
+
+msgid "IDS_COM_SK_YES"
+msgstr "예"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_ASPHALT5"
+msgstr "Asphalt5"
+
+msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
+msgstr "Creyon physics"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "해상도"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "삼성Apps"
+
+msgid "IDS_COM_BODY_END"
+msgstr "종료"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "즐겨찾기"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "파일 이름"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "음소거"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "파일이 없습니다"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "이미지가 없습니다"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "항목이 없습니다"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "일시 정지"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "변경"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "블루투스로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "블루투스로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "이메일로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "메시지로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "MMS로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "문자 메시지로 전송"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "폴더"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "금"
+
+msgid "IDS_COM_POP_MON"
+msgstr "월"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "음소거"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "토"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "임시보관함에 저장"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "임시보관함에 저장할까요?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "전송"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "무음 모드에서 재생할까요?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "일"
+
+msgid "IDS_COM_POP_THU"
+msgstr "목"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "화"
+
+msgid "IDS_COM_POP_WED"
+msgstr "수"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "완료"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "애플리케이션"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "레이아웃 선택"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "실행"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "헤드폰"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d개가 선택되었습니다"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "반복"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "지원되지 않는 파일 형식입니다"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "복사되었습니다"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "클립보드에 복사되었습니다"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "복사 중..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "목록"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "목록 보기"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "선택된 것이 없습니다"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "사용 가능"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "전송"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "서비스 지역이 아닙니다"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "음성 명령"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "대용량 저장소 모드를 실행 중일 때는 사용할 수 없습니다"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "대용량 저장소 모드가 해제되었습니다"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "대용량 저장소 모드가 실행되었습니다"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d일 전에"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "인증서"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "서버 오류가 발생하였습니다"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "모든 채널"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "확인"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "거부"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "일반"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "집"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "회의 중입니다"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Wi-Fi로 Kies 연결"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "휴대폰"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "회사"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "애플리케이션이 설치되지 않았습니다"
+

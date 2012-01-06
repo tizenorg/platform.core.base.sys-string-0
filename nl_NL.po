@@ -1,0 +1,1425 @@
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Basis"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Naam wijzigen"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Type"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Weergave"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "E-mail sync."
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Mappen"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "Fw:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Informatie"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Lijst met notities"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "minuten"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Meer"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Geen video's"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Privé"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Hervatten"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Beltonen"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "seconden"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Geselecteerd"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Instellen als"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Systeem"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Kan niet toevoegen"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Gebruikersnaam"
+
+msgid "IDS_COM_DISCARD"
+msgstr "Annuleer"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Andere achtergrond"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Toegevoegd"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Contact toevoegen"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Tag toev."
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Mappen"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Nieuwe tag"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Geselecteerd"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Bijwerken"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Toegevoegd"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Bijvoegen"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Verbonden"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Dit bestand bestaat niet"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Ongeldige tekens"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Verplaatst"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Verplaatsen..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Verplaatsen is mislukt"
+
+msgid "IDS_COM_POP_NAME"
+msgstr "Naam"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Interne fout"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Geen bestanden geselecteerd"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Geen tags geselecteerd"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Verwerken..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Opnemen mislukt"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Opgehaald"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Ophalen mislukt"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Opslaan mislukt"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Opslaan..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Geselecteerd"
+
+msgid "IDS_COM_POP_SMALL_MINUTES"
+msgstr "minuten"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Opnieuw proberen aub"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Onbeperkt"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Trillen"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Wilt u het apparaat nu ontgrendelen?"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Meer"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Weergave"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Verberg."
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Taal"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Meer"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Meer"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Opnemen"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Vernieuw"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Resultaat"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Inst. als"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Bijwerken"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Annuleren"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12-uurs"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 seconde"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 weken"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Altijd"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Altijd vragen"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Auteur"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Automatisch"
+
+msgid "IDS_COM_BODY_BY_MMS"
+msgstr "Via MMS"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Wijzigen"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Nooit"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Notitie"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Vorige dagen"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Zoeken"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Geluiden"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Tik om tekst toe te voegen"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "Via e-mail"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Delen"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Wijzigen"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Bestanden"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Importeren"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "Via e-mail"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Account wissen"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Bestand"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Initialiseren..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Installeren..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "Adres is onjuist"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Prioriteit"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Verzonden"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Opslaan niet mogelijk"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "OK"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Recent"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Delen"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Favorieten"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Favorieten"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Sorteren op"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Laden..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Vorige"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Tik om ontvanger toe te voegen"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Beller-id"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Beller-id"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Downloaden mislukt"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Bestand niet gevonden"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Netwerkfout"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Geen accounts"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Album"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albums"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Automatisch vernieuwen"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Beschrijving"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Gedownload"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "E-mailadres"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "E-mailgrootte"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Geef wachtwoord in"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Formatteren"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google Maps"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Locatie"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Handmatig"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Geen inhoud"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Geen zoekresultaten"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Wachtwoord"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Wissen"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Bericht zenden"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Grootte"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Start"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "ZO"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Foto maken"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Tik om toe te voegen"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Aan"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Spraak"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Waarschuwing"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Antwoord"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Log uit"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Aanmelden"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Inloggen"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Hoog"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Ongelezen"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Via Bluetooth"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Bestaat al"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Geannuleerd"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Wissen?"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Wissen..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Downloaden..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Formaat"
+
+msgid "IDS_COM_POP_INTERNAL_ERROR"
+msgstr "Onbekende fout"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Geheugenkaart geplaatst"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Geheugenkaart verwijderd"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Onvoldoende geheugen"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Wachtwoord"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Verwijderd"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Zoeken..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Verzenden mislukt"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Service niet beschikbaar"
+
+msgid "IDS_COM_POP_SIZE"
+msgstr "Grootte"
+
+msgid "IDS_COM_POP_TIME"
+msgstr "Tijd"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Type"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Kan niet wissen"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Blokkeren"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Opstellen"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Download"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Nieuw"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Antwoord"
+
+msgid "IDS_COM_SK_START"
+msgstr "Start"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 dag"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 uur"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 minuut"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 week"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Accounts"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Verjaardag"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Sluiten"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Map maken"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Details"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Geef de naam in"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Lettertype"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Groep"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Afbeeldingen"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Info"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Melodie"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Overige"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d minuten"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Naam wijzigen"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Beltoon"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Google Search"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Verzenden"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Onderwerp"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Vandaag"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Video's"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Achtergrond"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Gisteren"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Toevoegen aan Favorieten"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Voeg toe aan contacten"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Helderheid"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Contact toevoegen"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Wissen"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Effecten"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Afbeelding"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Toetsenbord"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Uitloggen"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Opslaan"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "OK"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Wachtwoord wijzigen"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Wissen"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Sluiten"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Verbinden..."
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Verbindingsfout"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Verbinding mislukt"
+
+msgid "IDS_COM_POP_DATE"
+msgstr "Datum"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Gewist"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Gereed"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Geef de naam in"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Fout"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Wachtwoord onjuist"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Wachtwoord onjuist"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d uur"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Weigeren"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Geweigerd"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Opgeslagen"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Verzenden..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Niet-ondersteund\nbestandstype"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Bijwerken"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Bijgewerkt"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Account toevoegen"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Normaal"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Annuleer"
+
+msgid "IDS_COM_ADD"
+msgstr "Toevoegen"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Oproep"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Contact"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galerij"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Maps"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Music Store"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Geen"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Geen naam"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Alles selecteren"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Adres"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Annuleren"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Mislukt"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Geen"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Voltooid"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "OK"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Voeg toe"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Terug"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Bellen"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Volgende"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Sluiten"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Opslaan"
+
+msgid "IDS_IDLE_BODY_CARD_SCANNER"
+msgstr "Kaartscanner"
+
+msgid "IDS_IDLE_BODY_CLOCK"
+msgstr "Klok"
+
+msgid "IDS_IDLE_BODY_E_BOOK"
+msgstr "E-book"
+
+msgid "IDS_IDLE_BODY_MOBILE_AP"
+msgstr "Mobiel toegangspunt"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Weer"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Ingeschakeld"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Alarm"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Alles"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "apr"
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "aug"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Wachtwoord"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Beschikbaar"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Terug"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Batterij helemaal opgeladen.\nVerwijder de oplader."
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Batterij helemaal opgeladen. Verwijder de oplader."
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Browser"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Calculator"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Agenda"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Camera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Contacten"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Omrekenen"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Kopiëren"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Toevoegen"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "dec"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Wissen"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Alles wissen"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Naam"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Titel"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "feb"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM-radio"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Doorsturen"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Doorsturen"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "VR"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Help"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Afbeelding bewerken"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "jan"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "jul"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "jun"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Vergrendelen"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Vergrend."
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Logbestanden"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Laag"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Batterij bijna leeg"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "mrt"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Mei"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Notities"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Geheugenkaart"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Bericht"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Berichten"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Berichten"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Minuut"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "minuut"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "min."
+
+msgid "IDS_COM_BODY_MON"
+msgstr "MA"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Verplaatsen"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Muziek"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "MP3-speler"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Mijn account"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Mijn bestanden"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Navigatie"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "nov"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "okt"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Uit"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Aan"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Telefoon"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN-blokkering"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Resetten"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Resetten"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "ZA"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "sep"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Instellingen"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Stil"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Slim zoeken"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Luidspreker aan"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Stopwatch"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Synchroniseren"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "DO"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Timer"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "DI"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Eenheden"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "min."
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "sec."
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Onbekend"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Video-oproep"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Spraakoproep"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Spraakrecorder"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "WO"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Wereldklok"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "JJJJ/MM/DD"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "JJJJ/MM/DD"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Daily briefing"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Melding"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Informatie"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Inschakelen..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Uitgeschakeld"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Leeg"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Uur"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "uur"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Gemiste oproep"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Gemiste oproepen"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Gemiste act."
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Gemiste gebeurtenissen"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Nieuwe e-mail"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Nieuwe e-mails"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Nieuw bericht"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Nieuwe berichten"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Ontgrendelen"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Waarschuwing"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Wissen"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Bellen"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Gereed"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Wijzigen"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Menu"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Nee"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Uit"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Openen"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Opties"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Pauze"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Afspelen"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Afspelen"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Wissen"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Hernoem"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Zoeken"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Selecteer"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Sel."
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Verzend"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Verzend"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Instellen"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Stop"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Video-oproep"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Ja"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_ASPHALT5"
+msgstr "Asphalt5"
+
+msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
+msgstr "Creyon physics"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Resolutie"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Stop"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Favorieten"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Bestandsnaam"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Dempen"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Geen bestanden"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Geen afbeeldingen"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Geen items"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Pauze"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Vervangen"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Verzenden via Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Verzenden via"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Verzenden via Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Verzenden via e-mail"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Verzenden via bericht"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Verzenden via MMS"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "Verzenden via SMS"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Map"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "VR"
+
+msgid "IDS_COM_POP_MON"
+msgstr "MA"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Dempen"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "ZA"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Opslaan in Concepten"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Opslaan in Concepten?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Verzenden via"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Afspelen in stille stand?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "ZO"
+
+msgid "IDS_COM_POP_THU"
+msgstr "DO"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "DI"
+
+msgid "IDS_COM_POP_WED"
+msgstr "WO"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Gereed"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Apps"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Indeling selecteren"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Start"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Koptelefoons"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d geselecteerd"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Herhalen"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Niet-ondersteund bestandstype"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Gekopieerd"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Gekopieerd naar klembord"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Kopiëren..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Lijst"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Lijstweergave"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Niets geselecteerd"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Aantal keer dat het gebruikt mag worden"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Doorsturen"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Geen netwerk"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Spraakopdracht"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Kan niet worden gebruikt tijdens Massaopslag-modus"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Modus voor massaopslag uitgeschakeld"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Modus voor massaopslag ingeschakeld"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d dagen geleden"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Certificaten"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Serverfout"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Alle kanalen"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "OK"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Afwijzen"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Algemeen"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Privé"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Ik ben in een vergadering"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies via Wi-Fi"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Mobiel"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Zakelijk"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Applicatie niet geïnstalleerd"
+

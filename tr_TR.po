@@ -1,0 +1,1425 @@
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Temel"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "İsim değiştir"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Tür"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Ekran"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "E-post senkr"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Klasörler"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "İlt:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Bilgi"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Not listesi"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "Dakika"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Diğer"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Video yok"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Özel"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Devam"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Zil sesleri"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "saniye"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Seçili"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Yap"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Sistem"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Eklenemiyor"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Kullanıcı adı"
+
+msgid "IDS_COM_DISCARD"
+msgstr "At"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Duvar kağıdını değiştir"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Eklendi"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Kişi ekle"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "İm ekle"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Klasörler"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Yeni im"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Seçili"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Güncelle"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Eklendi"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Ekle"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Bağlantı kuruldu"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Dosya yok"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Geçersiz karakter"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Taşındı"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Taşıyor..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Taşıma başarısız"
+
+msgid "IDS_COM_POP_NAME"
+msgstr "İsim"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Dahili hata"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Dosya seçilmedi"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "İm seçili değil"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Uygulanıyor..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Kayıt işlemi başarısız"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Alındı"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Alma başarısız"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Kaydetme başarısız"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Kaydediliyor…"
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Seçili"
+
+msgid "IDS_COM_POP_SMALL_MINUTES"
+msgstr "Dakika"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Tekrar dene"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Sınırsız"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Titreşim"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Kilidi kaldırmak istiyor musunuz?"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Diğer"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Görüntüle"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Gizle"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Dil"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Diğer"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Daha Fzl"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Kayıt"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Yenile"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Sonuç"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Farklı ayarla"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Güncelle"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "İptal"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 saat"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 saniye"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 hafta"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Her zaman"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Her zaman sor"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Yazar"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Otomatik"
+
+msgid "IDS_COM_BODY_BY_MMS"
+msgstr "MMS ile"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Düzenle"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Hiçbir zaman"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Not"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Önceki günler"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Aranıyor"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Sesler"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Metin eklemek için dokunun"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "E-posta ile"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Paylaş"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Düzenle"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Dosya"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Dışardan al"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "E-posta ile"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Hesap sil"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Dosya"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Başlatılıyor..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Yükleniyor..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "Geçersiz URL"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Öncelik"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Gönderildi"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Kaydetme başarısız"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Onayla"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Yakın"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Paylaş"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Yer imi"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Yer imleri"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Listele"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Yükleniyor..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Önceki"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Alıcı eklemek için dokunun"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Arayan kimliği"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Arayan kimliği"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "İndirme başarısız"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Dosya bulunamadı"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Şebeke hatası"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Hesap yok"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Albüm"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albümler"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Otomatik yenileme"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Açıklama"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "İndirildi"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "İndirilenler"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "E-posta adresi"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "E-posta boyutu"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Şifreyi girin"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Biçimlendir"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google Maps"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "Kimlik"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Konum"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Manuel"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "İçerik yok"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Hiç arama sonucu bulunamadı"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Şifre"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Kaldır"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Mesaj gönder"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Boyut"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Başlat"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Paz"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Fotoğraf çek"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Eklemek için dokunun"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Alıcı"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Ses"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Uyarı"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Cevapla"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Oturumu kapat"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Kaydol"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Oturum aç"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "YÜKSEK"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Okunmadı"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Bluetooth ile"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Zaten var"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "İptal edildi"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Sil?"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Siliniyor..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "İndiriliyor..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Biçim"
+
+msgid "IDS_COM_POP_INTERNAL_ERROR"
+msgstr "Bilinmeyen hata"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Bellek kartı takıldı"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Hafıza kartı çıkarıldı"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Yeterli hafıza yok"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Şifre"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Kaldırıldı"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Aranıyor..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Gönderme başarısız"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Servis Kullanılamıyor"
+
+msgid "IDS_COM_POP_SIZE"
+msgstr "Boyut"
+
+msgid "IDS_COM_POP_TIME"
+msgstr "Saat"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Tür"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Silinemiyor"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Engelle"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Yaz"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "İndir"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Yeni"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Cevapla"
+
+msgid "IDS_COM_SK_START"
+msgstr "Başlat"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 gün"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 saat"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 dakika"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 hafta"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Hesaplar"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Doğum günü"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Kapat"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Klasör oluştur"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Ayrıntılar"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "İsim girin"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Yazı tipi"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Grup"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Resimler"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Bilgi"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Melodi"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Diğerleri"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d dakika"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Yeniden adlandır"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Zil sesi"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Akıllı Arama"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Gönder"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Konu"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Bugün"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Videolar"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Duvar kağıdı"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Dün"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Yer imlerine ekle"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Rehbere ekle"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Parlaklık"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Yeni kişi ekle"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Sil"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Efektler"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Görüntü"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Tuşlar"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Oturumu kapat"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Kaydet"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Kabul et"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Şifre değiştir"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Temizle"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Kapat"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Bağlanılıyor..."
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Bağlantı hatası"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Bağlantı başarısız"
+
+msgid "IDS_COM_POP_DATE"
+msgstr "Tarih"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Silindi"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Tamamlandı"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "İsim girin"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Hata"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Yanlış şifre"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Geçersiz şifre"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d saat"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Reddet"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Reddedildi"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Kaydedildi"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Gönderiliyor..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Dosya türü\ndesteklenmiyor"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Güncelle"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Güncelleştirildi"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Hesap ekle"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Normal"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "İptal"
+
+msgid "IDS_COM_ADD"
+msgstr "Ekle"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Arama"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Kişi"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galeri"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Haritalar"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Müzik mağazası"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Hiçbiri"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "İsim yok"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Hepsini seç"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Adres"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "İptal"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Başarısız"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Hiçbiri"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Başarılı"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Kabul et"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Ekle"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Geri"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Arama"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "İleri"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Çık"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Kaydet"
+
+msgid "IDS_IDLE_BODY_CARD_SCANNER"
+msgstr "Kart Tarayıcı"
+
+msgid "IDS_IDLE_BODY_CLOCK"
+msgstr "Saat"
+
+msgid "IDS_IDLE_BODY_E_BOOK"
+msgstr "E-kitap"
+
+msgid "IDS_IDLE_BODY_MOBILE_AP"
+msgstr "Mobil AP"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Hava"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Etkinleştirildi"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Alarm"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Hepsi"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Nis."
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Ağu."
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Şifre"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Uygun"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Geri"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Pil tamamen şarj oldu.\nŞarj cihazını çıkartın"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Pil tümüyle şarj oldu.\nŞarj cihazını çıkartın"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "İnternet"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Hesap makinesi"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Takvim"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Rehber"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Dönüştürücü"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Kopyala"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Oluştur"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Ara."
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Sil"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Tümünü sil"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "İsim"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Başlık"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-posta"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Şub."
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM radyo"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "İlet"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "İlet"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Cum"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Yardım"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Görüntü düzenleyici"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "İnternet"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Oca."
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Tem."
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Haz."
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Kilitle"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Kilitle"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Arama kaydı"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Düşük"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Düşük pil"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Mar."
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Mayıs"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Not"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Hafıza kartı"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Mesaj"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Mesajlar"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Mesajlaşma"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Dakika"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "Dakika"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "dk."
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Pts"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Taşı"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Müzik"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Müzik çalar"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Hesabım"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Dosyalarım"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Navigasyon"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Kas."
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "Eki."
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Kapalı"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Açık"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN kilidi"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Sıfırla"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Sıfırla"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Cts"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Eyl."
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Ayarlar"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Sessiz"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Akıllı arama"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Hoparlör açık"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Kronometre"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Senkronizasyon"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Per"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Zamanlayıcı"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Sal"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Birimler"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "dk."
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "sn"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Bilinmeyen"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Video arama"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Sesli arama"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Ses kaydedici"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Çar"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Dünya saati"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "YYYY/AA/GG"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "YYYY/AA/GG"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Günlük bilgilendirme"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Bildirim"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Bilgi"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Etkinleştiriliyor…"
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Devre dışı bırakıldı"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Boş"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Saat"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "Saat"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Cevapsız arama"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Cevapsız arama"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Unutulan etkinlik"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Unutulan etkinlik"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "yeni E-posta"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Yeni e-posta"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Yeni mesaj"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Yeni mesaj"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Kilit aç"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Uyarı"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Sil"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Arayıcı"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Kaydet"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Düzenle"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Menü"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Hayır"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Kapalı"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Tamam"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Aç"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Sçnklr"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Duraklat"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Çal"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Çal"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Kaldır"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Yen. ad."
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Bul"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Seç"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Seç"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Gönder"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Gönder"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Ayarla"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Durdur"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Video arama"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Evet"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_ASPHALT5"
+msgstr "Asphalt5"
+
+msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
+msgstr "Creyon physics"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Çözünürlük"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Bitir"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Favorilerim"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Dosya adı"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Sessiz"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Dosya yok"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Resim yok"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Öğe yok"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Duraklat"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Değiştir"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Bluetooth ile gönder"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Gönder"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Bluetooth ile gönder"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "E-posta ile gönder"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Mesaj ile gönder"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "MMS ile gönder"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "SMS ile gönder"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Klasör"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Cum"
+
+msgid "IDS_COM_POP_MON"
+msgstr "Pts"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Sessiz"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Cts"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Taslaklara kaydet"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Taslaklara kaydedilsin mi?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Gönder"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Sessiz modda oynatılsın mı?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Paz"
+
+msgid "IDS_COM_POP_THU"
+msgstr "Per"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Sal"
+
+msgid "IDS_COM_POP_WED"
+msgstr "Çar"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Tamamlandı"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Uygulamalar"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Yerleşim seç"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Başlat"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Kulaklıklar"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d seçildi"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Tekrarla"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Desteklenmeyen dosya türü"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Kopyalandı"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Panoya kopyalandı"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Kopyalanıyor..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Listele"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Liste görünümü"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Bir şey seçilmedi"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Mevcut kullanımlar"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "İletme"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Servis yok"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Sesli komut"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Toplu saklama modu sırasında kullanılamıyor"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Yığın depolama modu devre dışı"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Yığın depolama modu etkin"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d gün önce"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Sertifikalar"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Sunucu hatası"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Tüm kanallar"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Onayla"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Reddet"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Genel"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Ev"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Toplantıdayım"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Wi-Fi ile Kies"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Cep Telefonu"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "İş"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Uygulama yüklenmedi"
+

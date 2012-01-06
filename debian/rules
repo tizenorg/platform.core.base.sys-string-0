@@ -1,0 +1,147 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+# Sample debian/rules that uses debhelper.
+# This file was originally written by Joey Hess and Craig Small.
+# As a special exception, when this file is copied by dh-make into a
+# dh-make output file, you may use that output file without restriction.
+# This special exception was added by Craig Small in version 0.37 of dh-make.
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+
+
+
+CFLAGS = -Wall -g
+
+ifneq (,$(findstring noopt,$(DEB_BUILD_OPTIONS)))
+	CFLAGS += -O0
+else
+	CFLAGS += -O2
+endif
+
+configure: configure-stamp
+configure-stamp:
+	dh_testdir
+	# Add here commands to configure the package.
+	
+	/usr/bin/msgfmt -o en.mo en.po
+	/usr/bin/msgfmt -o nl_NL.mo nl_NL.po 
+	/usr/bin/msgfmt -o de_DE.mo de_DE.po 
+	/usr/bin/msgfmt -o zh_HK.mo zh_HK.po 
+	/usr/bin/msgfmt -o zh_CN.mo zh_CN.po 
+	/usr/bin/msgfmt -o ru_RU.mo ru_RU.po 
+	/usr/bin/msgfmt -o ko_KR.mo ko_KR.po 
+	/usr/bin/msgfmt -o zh_TW.mo zh_TW.po 
+	/usr/bin/msgfmt -o ja_JP.mo ja_JP.po 
+	/usr/bin/msgfmt -o es_ES.mo es_ES.po 
+	/usr/bin/msgfmt -o el_GR.mo el_GR.po 
+	/usr/bin/msgfmt -o it_IT.mo it_IT.po 
+	/usr/bin/msgfmt -o tr_TR.mo tr_TR.po 
+	/usr/bin/msgfmt -o pt_PT.mo pt_PT.po 
+	/usr/bin/msgfmt -o fr_FR.mo fr_FR.po 
+
+	touch configure-stamp
+
+
+build: build-stamp
+
+build-stamp: configure-stamp 
+	dh_testdir
+
+	# Add here commands to compile the package.
+#	$(MAKE)
+	#docbook-to-man debian/sys-string.sgml > sys-string.1
+
+	touch $@
+
+clean:
+	dh_testdir
+	dh_testroot
+	rm -f build-stamp configure-stamp
+
+	# Add here commands to clean up after the build process.
+#	-$(MAKE) clean
+
+	dh_clean 
+
+install: build
+	dh_testdir
+	dh_testroot
+	dh_clean -k 
+	dh_installdirs
+
+	# Add here commands to install the package into debian/sys-string.
+#	$(MAKE) DESTDIR=$(CURDIR)/debian/sys-string install
+
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/en/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/nl_NL/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/de_DE/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/zh_HK/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/zh_CN/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/ru_RU/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/ko_KR/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/zh_TW/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/ja_JP/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/es_ES/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/el_GR/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/it_IT/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/tr_TR/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/pt_PT/LC_MESSAGES/
+	mkdir -p $(CURDIR)/debian/tmp/usr/share/locale/fr_FR/LC_MESSAGES/
+
+	cp $(CURDIR)/en.mo $(CURDIR)/debian/tmp/usr/share/locale/en/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/nl_NL.mo $(CURDIR)/debian/tmp/usr/share/locale/nl_NL/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/de_DE.mo $(CURDIR)/debian/tmp/usr/share/locale/de_DE/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/zh_HK.mo $(CURDIR)/debian/tmp/usr/share/locale/zh_HK/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/zh_CN.mo $(CURDIR)/debian/tmp/usr/share/locale/zh_CN/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/ru_RU.mo $(CURDIR)/debian/tmp/usr/share/locale/ru_RU/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/ko_KR.mo $(CURDIR)/debian/tmp/usr/share/locale/ko_KR/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/zh_TW.mo $(CURDIR)/debian/tmp/usr/share/locale/zh_TW/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/ja_JP.mo $(CURDIR)/debian/tmp/usr/share/locale/ja_JP/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/es_ES.mo $(CURDIR)/debian/tmp/usr/share/locale/es_ES/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/el_GR.mo $(CURDIR)/debian/tmp/usr/share/locale/el_GR/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/it_IT.mo $(CURDIR)/debian/tmp/usr/share/locale/it_IT/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/tr_TR.mo $(CURDIR)/debian/tmp/usr/share/locale/tr_TR/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/pt_PT.mo $(CURDIR)/debian/tmp/usr/share/locale/pt_PT/LC_MESSAGES/sys_string.mo
+	cp $(CURDIR)/fr_FR.mo $(CURDIR)/debian/tmp/usr/share/locale/fr_FR/LC_MESSAGES/sys_string.mo
+
+
+# Build architecture-independent files here.
+binary-indep: build install
+# We have nothing to do by default.
+
+# Build architecture-dependent files here.
+binary-arch: build install
+	dh_testdir
+	dh_testroot
+	dh_installchangelogs 
+	dh_installdocs
+	dh_installexamples
+	dh_install --list-missing --sourcedir=debian/tmp
+#	dh_install
+#	dh_installmenu
+#	dh_installdebconf	
+#	dh_installlogrotate
+#	dh_installemacsen
+#	dh_installpam
+#	dh_installmime
+#	dh_python
+#	dh_installinit
+#	dh_installcron
+#	dh_installinfo
+	dh_installman
+	dh_link
+	dh_strip
+	dh_compress
+	dh_fixperms
+#	dh_perl
+	dh_makeshlibs
+	dh_installdeb
+	dh_shlibdeps
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+binary: binary-indep binary-arch
+.PHONY: build clean binary-indep binary-arch binary install configure

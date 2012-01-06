@@ -1,0 +1,11 @@
+Source: sys-string
+Section: main/base
+Priority: extra
+Maintainer: Newton Lee <newton.lee@samsung.com>, Junghyun Kim <jh1114.kim@samsung.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sys-string-0
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: System string package for multilinugual support

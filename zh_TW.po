@@ -1,0 +1,1425 @@
+msgid "IDS_COM_BODY_BASIC"
+msgstr "基本"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "變更名稱"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "類型"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "顯示"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "電子郵件同步"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "資料夾"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "轉寄："
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "資訊"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "備忘錄清單"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "分鐘"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "更多"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "無影片"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "私人"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "繼續"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "鈴聲"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "秒"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "已選擇"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "設定為"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "系統"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "無法加入"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "使用者名稱"
+
+msgid "IDS_COM_DISCARD"
+msgstr "捨棄"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "更改桌布"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "已新增"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "新增聯絡人"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "加入標籤"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "資料夾"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "新標籤"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "已選擇"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "更新"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "影片"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "已新增"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "附件"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "已連線"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "此檔案不存在"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "字元無效"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "已移動"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "正在移動..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "移動失敗"
+
+msgid "IDS_COM_POP_NAME"
+msgstr "名稱"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "內部錯誤"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "未選擇檔案"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "沒有選擇標籤"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "正在處理..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "錄製失敗"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "已擷取"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "擷取失敗"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "儲存失敗"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "正在儲存..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "已選擇"
+
+msgid "IDS_COM_POP_SMALL_MINUTES"
+msgstr "分鐘"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "請重試"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "無限制"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "震動"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "要立即解鎖嗎？"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "更多"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "檢視方式"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "隱藏"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "語言"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "更多"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "更多"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "錄音"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "重新整理"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "結果"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "設定為"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "更新"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "取消"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 小時"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 秒"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 週"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "永遠"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "每次詢問"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "作者"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "自動"
+
+msgid "IDS_COM_BODY_BY_MMS"
+msgstr "透過 MMS"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "編輯"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "永不"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "備註"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "前幾天"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "正在搜尋"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "聲音"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "輕觸增加文字"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "透過電子郵件"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "分享"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "編輯"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "檔案"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "匯入"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "透過電子郵件"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "刪除帳號"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "檔案"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "正在初始化..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "正在安裝..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "URL 無效"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "優先順序"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "已傳送"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "無法儲存"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "確認"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "最近"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "分享"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "書籤"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "書籤"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "排列依據"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "正在載入..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "上一頁"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "輕觸以加入收件人"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "來電顯示"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "來電顯示"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "無法下載"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "找不到檔案"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "網路錯誤"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "沒有任何帳戶"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "專輯"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "專輯"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "自動重新整理"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "說明"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "已下載"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "下載"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "電子郵件地址"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "電子郵件大小"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "輸入密碼"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "格式化"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "地圖"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "位置"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "手動"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "無內容"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "無搜尋結果"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "密碼"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "移除"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "傳送訊息"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "大小"
+
+msgid "IDS_COM_BODY_START"
+msgstr "開始"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "星期日"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "拍照"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "輕觸加入"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "至"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "影片"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "語音"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "警告"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "回覆"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "登出"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "登入"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "登入"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "高"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "未讀"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "透過藍芽"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "已存在"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "已取消"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "要刪除嗎？"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "正在刪除..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "正在下載..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "格式"
+
+msgid "IDS_COM_POP_INTERNAL_ERROR"
+msgstr "Unknown error"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "已插入記憶卡"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "已移除記憶卡"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "記憶體不足"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "密碼"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "已移除"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "正在搜尋..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "傳送失敗"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "無法使用服務"
+
+msgid "IDS_COM_POP_SIZE"
+msgstr "大小"
+
+msgid "IDS_COM_POP_TIME"
+msgstr "時間"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "類型"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "無法刪除"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "封鎖"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "撰寫"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "下載"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "新增"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "回覆"
+
+msgid "IDS_COM_SK_START"
+msgstr "開始"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 天"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 小時"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 分鐘"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 週"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "帳號"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "生日"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "關閉"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "建立資料夾"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "詳細資料"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "輸入名稱"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "字型"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "群組"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "圖像"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "資訊"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "旋律"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "其他"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d 分鐘"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "重新命名"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "鈴聲"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "搜尋"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "傳送"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "簡訊"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "主旨"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "今天"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "影片"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "桌布"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "昨天"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "加至書籤"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "新增至聯絡人"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "亮度"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "建立聯絡人"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "刪除"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "效果"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "圖像"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "鍵盤"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "登出"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "儲存"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "接受"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "更改密碼"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "清除"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "關閉"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "連線中..."
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "連線時發生錯誤"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "連線失敗"
+
+msgid "IDS_COM_POP_DATE"
+msgstr "日期"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "已刪除"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "完成"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "輸入名稱"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "錯誤"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "密碼不正確"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "密碼無效"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d 個小時"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "拒絕"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "已拒絕"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "已儲存"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "正在傳送..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "不支援的\n檔案類型"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "更新"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "已更新"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "新增帳號"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "正常"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "取消"
+
+msgid "IDS_COM_ADD"
+msgstr "新增"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "通話"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "聯絡人"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "媒體瀏覽器"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "地圖"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "音樂商店"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "無"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "無姓名"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "全選"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "地址"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "取消"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "失敗"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "無"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "成功"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "接受"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "新增"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "返回"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "通話"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "下一步"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "結束"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "儲存"
+
+msgid "IDS_IDLE_BODY_CARD_SCANNER"
+msgstr "卡掃瞄器"
+
+msgid "IDS_IDLE_BODY_CLOCK"
+msgstr "時鐘"
+
+msgid "IDS_IDLE_BODY_E_BOOK"
+msgstr "電子書"
+
+msgid "IDS_IDLE_BODY_MOBILE_AP"
+msgstr "Mobile AP"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "天氣"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "已啟動"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM 卡"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "鬧鐘"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "全部"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "4 月"
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "8 月"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "密碼"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "可用"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "上一步"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "電池已完全充電。\n請拔除充電器"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "電池已完全充電。請拔下充電器"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "藍牙"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "瀏覽器"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "計算機"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "日曆"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "相機"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "聯絡人"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "換算器"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "複製"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "建立"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "12 月"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "刪除"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "全部刪除"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "名稱"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "標題"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "電子郵件"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "2 月"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM 收音機"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "轉寄"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "轉寄"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "星期五"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "說明"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "影像編輯器"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "網際網路"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "1 月"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "7 月"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "6 月"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "鎖定"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "鎖定"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "記錄"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "低"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "電量不足"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "3 月"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "5 月"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "備忘錄"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "記憶卡"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "訊息"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "訊息"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "訊息"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "分鐘"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "分鐘"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "分鐘"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "星期一"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "移動"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "音樂"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "音樂播放器"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "我的帳戶"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "我的檔案"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "導航"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "11 月"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "10 月"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "關"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "開啟"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "手機"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN 鎖"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "重設"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "重設"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "星期六"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "9 月"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "設定"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "安靜"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "智慧型搜尋"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "開啟揚聲器"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "碼錶"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "同步"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "星期四"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "計時器"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "星期二"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "單位"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "分鐘"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "秒"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "不明"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "視訊通話"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "語音通話"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "語音錄製"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "星期三"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "世界時間"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "YYYY.MM.DD"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "年/月/日"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "今日動態"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "通知"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "資訊"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "正在啟動..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "已停用"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "空白"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "小時"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "小時"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "未接電話"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "未接電話"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "錯過的活動"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "錯過的活動"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "新電子郵件"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "新電子郵件"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "新訊息"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "新訊息"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "解鎖"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "警告"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "刪除"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "撥號器"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "完成"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "編輯"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "選單"
+
+msgid "IDS_COM_SK_NO"
+msgstr "取消"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "關"
+
+msgid "IDS_COM_SK_OK"
+msgstr "確定"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "開啟"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "選項"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "暫停"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "播放"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "播放"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "移除"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "重新命名"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "搜尋"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "選擇"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "選擇"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "傳送"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "傳送"
+
+msgid "IDS_COM_SK_SET"
+msgstr "設定"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "停止"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "視訊通話"
+
+msgid "IDS_COM_SK_YES"
+msgstr "是"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_ASPHALT5"
+msgstr "Asphalt5"
+
+msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
+msgstr "Creyon physics"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "解析度"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_END"
+msgstr "結束"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "我的最愛"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "檔案名稱"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "靜音"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "無檔案"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "無影像"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "無項目"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "暫停"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "取代"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "透過藍牙傳送"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "傳送透過"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "透過藍牙傳送"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "透過電子郵件傳送"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "透過訊息傳送"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "透過 MMS 傳送"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "透過簡訊傳送"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "資料夾"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "星期五"
+
+msgid "IDS_COM_POP_MON"
+msgstr "星期一"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "靜音"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "星期六"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "儲存在草稿匣中"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "要儲存在草稿匣中嗎？"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "傳送透過"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "在靜音模式下播放嗎？"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "星期日"
+
+msgid "IDS_COM_POP_THU"
+msgstr "星期四"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "星期二"
+
+msgid "IDS_COM_POP_WED"
+msgstr "星期三"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "完成"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "程式"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "選擇配置"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "啟動"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "耳機"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "已選擇 %d"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "重複"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "不支援的檔案類型"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "已複製"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "複製到剪貼簿"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "正在複製..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "清單"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "清單檢視"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "未選擇任何項目"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "可供使用"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "正在轉寄"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "無服務"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "語音命令"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "無法使用大容量存儲模式"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "大容量儲存裝置模式已停用"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "已啟用大容量儲存模式"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d 天前"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "憑證"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "伺服器錯誤"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "所有頻道"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "確認"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "拒絕"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "一般"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "主畫面"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "我在開會"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "使用Wi-Fi連接iKies"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "行動裝置"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "公司"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "應用程式未安裝"
+

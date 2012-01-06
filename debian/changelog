@@ -1,0 +1,15 @@
+sys-string (0.1.12) unstable; urgency=low
+
+  * Update String
+  * pkgs/s/sys-string-0
+  * Tag: sys-string_0.1.12 
+
+ -- Junghyun Kim <jh1114.kim@samsung.com>  Mon, 19 Dec 2011 20:19:11 +0900
+
+sys-string (0.1.11) unstable; urgency=low
+
+  * Initial Release
+  * pkgs/sys-string-0
+  * Tag: sys-string_0.1.11
+
+ -- Junghyun Kim <jh1114.kim@samsung.com>  Thu, 08 Dec 2011 10:55:25 +0900

@@ -1,0 +1,1425 @@
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Основной"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Изменить имя"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Тип"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Дисплей"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Синхронизация электронной почты"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Папки"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "FWD:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Информация"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Список заметок"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "мин."
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Опции"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Нет видео"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Личное"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Возобновить"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Мелодии вызова"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "сек."
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Выбранное"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Установить как"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Система"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Не удалось добавить"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Имя пользователя"
+
+msgid "IDS_COM_DISCARD"
+msgstr "Отменить"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Изменить обои"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Добавлено"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Создать контакт"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Добавить метку"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Папки"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Новый тег"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Выбранное"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Обновить"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Видео"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Добавлено"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Вложить"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Подключено"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Файл не существует"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Недопустимые символы"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Перемещено"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Перемещение..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Сбой перемещения"
+
+msgid "IDS_COM_POP_NAME"
+msgstr "Имя"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Внутренняя ошибка"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Нет выбранных файлов"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Не выбраны метки"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Обработка..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Сбой записи"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Извлечено"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Сбой извлечения"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Сбой сохранения"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Сохранение..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Выбрано"
+
+msgid "IDS_COM_POP_SMALL_MINUTES"
+msgstr "мин."
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Попытайтесь снова"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Неограниченно"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Вибрация"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Разблокировать элемент?"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Опции"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Вид"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Скрыть"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Язык"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Опции"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Опции"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Запись"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Обновить"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Результат"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Установить как"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Обновить"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Отмена"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 часов"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 секунда"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 недели"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Всегда"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Всегда спрашивать"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Автор"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Автоматически"
+
+msgid "IDS_COM_BODY_BY_MMS"
+msgstr "MMS"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Изменить"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Никогда"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Заметка"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Предыдущие дни"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Поиск"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Звуки"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Нажмите для добавления текста"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Отправ."
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Изменить"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Файлы"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Импорт"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Удалить учетную запись"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Файл"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Инициализация..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Установка..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "Неправильный URL"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Приоритет"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Отправлено"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Невозможно сохранить"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Да"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Послед."
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Отправить"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Закладка"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Закладки"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Сортировка по"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Загрузка..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Назад"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Добавить получателя"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Фотоопределитель"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Фотоопределитель"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Загрузка невозможна"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Файл не найден"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Ошибка сети"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Нет учетных записей"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Альбом"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Альбомы"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Автообновление"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Описание"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Загружено"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Загрузки"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "E-mail"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "Размер сообщения E-mail"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Введите пароль"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Форматировать"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google Maps"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "Логин"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Ячейка"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Вручную"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Нет содержимого"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Нет результатов поиска"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Пароль"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Удалить"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Отправить сообщение"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Размер"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Начать"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Вс"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Сделать фото"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Коснитесь для добавления"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Кому"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Видео"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Голос"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Предупреждение"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Ответить"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Выход"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Регистрация"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Вход"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Высокое"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Непрочитанные"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Уже существует"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Отменено"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Удалить?"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Удаление..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Загрузка..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Формат"
+
+msgid "IDS_COM_POP_INTERNAL_ERROR"
+msgstr "Неизвестная ошибка"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Карта памяти вставлена"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Карта памяти извлечена"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Недостаточно памяти"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Пароль"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Удалено"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Поиск..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Сбой при отправке"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Услуга недоступна"
+
+msgid "IDS_COM_POP_SIZE"
+msgstr "Размер"
+
+msgid "IDS_COM_POP_TIME"
+msgstr "Время"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Тип"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Невозможно удалить"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Заблокировать"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Создать"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Загрузить"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Создать"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Ответить"
+
+msgid "IDS_COM_SK_START"
+msgstr "Запуск"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 день"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 час"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 минута"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 неделя"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Учетные записи"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "День рождения"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Закрыть"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Создать папку"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Свойства"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Введите имя"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Шрифт"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Группа"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Картинки"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Инфо"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Мелодия"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Прочее"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d мин."
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Переименовать"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Мелодия звонка"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Поиск"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Отправить"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Тема"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Сегодня"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Видео"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Обои"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Вчера"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Добавить в Закладки"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Добавить в Контакты"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Яркость"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Создать контакт"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Удалить"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Эффекты"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Картинка"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Клавиатура"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Выход из системы"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Соxранить"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Принять"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Изменить пароль"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Очистить"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Закрыть"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Подключение..."
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Ошибка подключения"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Сбой при подключении"
+
+msgid "IDS_COM_POP_DATE"
+msgstr "Дата"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Удалено"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Готово"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Введите имя"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Ошибка"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Неправильный пароль"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Неправильный пароль"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d часов"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Отказ"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Отклонено"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Соxранено"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Отправка..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Неподдерживаемый тип файла"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Обновить"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Обновлено"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Добавить уч. запись"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Обычный"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Отмена"
+
+msgid "IDS_COM_ADD"
+msgstr "Добавить"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Вызов"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Контакт"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Галерея"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Карты"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Music Store"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Нет"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Нет имени"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Выбрать все"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Адрес"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Отмена"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Сбой"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Нет"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Успешно"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Принять"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Добавить"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Назад"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Вызов"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Далее"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Выход"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Соxранить"
+
+msgid "IDS_IDLE_BODY_CARD_SCANNER"
+msgstr "Сканер визитных карточек"
+
+msgid "IDS_IDLE_BODY_CLOCK"
+msgstr "Часы"
+
+msgid "IDS_IDLE_BODY_E_BOOK"
+msgstr "Электронные книги"
+
+msgid "IDS_IDLE_BODY_MOBILE_AP"
+msgstr "Mobile AP"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Погода"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Включено"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Сигнал"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Все"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Апр"
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Авг"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Пароль"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Доступно"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Назад"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Аккумулятор заряжен. Отключите от сети"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Аккумулятор заряжен. Отключите зарядное устройство"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Интернет"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Калькулятор"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Календарь"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Камера"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Контакты"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Конвертер"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Копировать"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Создать"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Дек"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Удалить"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Удалить все"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Имя"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Название"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Фев"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM-радио"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Переслать"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Переслать"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Пт"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Справка"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "Чат"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Фоторедактор"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Интернет"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Янв"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Июл"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Июн"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Заблокировать"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Блокир"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Журналы"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Низкий"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Аккумулятор разряжен"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Мар"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Май"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Заметки"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Карта памяти"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Сообщение"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Сообщения"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Сообщения"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Минута"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "минута"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "мин."
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Пн"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Переместить"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Музыка"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Музыка"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Моя учетная запись"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Мои файлы"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Навигация"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Ноя"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "Окт"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Выключено"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Включено"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Телефон"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "Проверка PIN"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Сброс"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Сброс"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Сб"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Сен"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Настройки"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Без звука"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Smart search"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Включить динамик"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Секундомер"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Синхронизация"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Чт"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Таймер"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Вт"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Единицы измерения"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "мин."
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "сек."
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Неизвестно"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Видеовызов"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Голосовой вызов"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Диктофон"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Ср"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Мировое время"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "ГГГГ.ММ.ДД"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "ГГГГ/MM/ДД"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Daily briefing"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Уведомление"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Информация"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Включение..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Выключено"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Пусто"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Час"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "час"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "пропущенный вызов"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Пропущено вызовов:"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Пропущенные события"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Пропущенные события"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Новое сообщение E-mail"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Новые сообщения E-mail"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Новое сообщение"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "новых сообщ."
+
+msgid "IDS_COM_POP_PM"
+msgstr "РМ"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Разблокировать"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Предупреждение"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Удалить"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Набор"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Готово"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Изменить"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Меню"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Нет"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Выключено"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Да"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Открыть"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Опции"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Пауза"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Запуск"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Запуск"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Удалить"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Переименовать"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Поиск"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Выбор"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Выбор"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Отправить"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Отпр."
+
+msgid "IDS_COM_SK_SET"
+msgstr "Применить"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Стоп"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Видеовызов"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Да"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_ASPHALT5"
+msgstr "Asphalt5"
+
+msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
+msgstr "Creyon physics"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Разрешение"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
+msgstr "Samsung Apps"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Завершить"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Избранное"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Имя файла"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Выключить звук"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Нет файлов"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Нет изображений"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Нет элементов"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Пауза"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Заменить"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Отправить по Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Отправить по"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Отправить по Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Отправить по E-mail"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Отправить в сообщении"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Отправить по MMS"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "Отправить по SMS"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Папка"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Пт"
+
+msgid "IDS_COM_POP_MON"
+msgstr "Пн"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Выключить звук"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Сб"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Сохранить в Черновики"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Сохранить в Черновики?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Отправить по"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Воспроизвести в профиле “Без звука”?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Вс"
+
+msgid "IDS_COM_POP_THU"
+msgstr "Чт"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Вт"
+
+msgid "IDS_COM_POP_WED"
+msgstr "Ср"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Готово"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Приложения"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Выберите макет"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Запуск"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Наушники"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "Выбрано: %d"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Повторить"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Неподдерживаемый тип файла"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Скопировано"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Скопировано в буфер обмена"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Копирование..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Список файлов"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Список"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Ничего не выбрано"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Доступно"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Пересылка"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Нет сети"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Голосовое управление"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Нельзя использовать в режиме съемного носителя"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Режим съемного устройства отключен"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Режим съемного устройства"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d дн. назад"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Сертификаты"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Ошибка сервера"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Все каналы"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Да"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Отклонить"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Общие"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Домашний"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Я на собрании"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies через Wi-Fi"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Мобильный"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Рабочий"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Приложение не установлено"
+
