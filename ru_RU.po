@@ -299,7 +299,7 @@ msgid "IDS_COM_SK_CONFIRM_LITE"
 msgstr "Да"
 
 msgid "IDS_COM_BUTTON_RECENT"
-msgstr "Послед."
+msgstr "Последние"
 
 msgid "IDS_COM_SK4_SHARE"
 msgstr "Отправить"
@@ -377,7 +377,7 @@ msgid "IDS_COM_BODY_ID"
 msgstr "Логин"
 
 msgid "IDS_COM_BODY_LOCATION"
-msgstr "Ячейка"
+msgstr "Расположение"
 
 msgid "IDS_COM_BODY_MANUAL"
 msgstr "Вручную"
@@ -1422,4 +1422,103 @@ msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Приложение не установлено"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "Кб"
+
+msgid "IDS_COM_BODY_B"
+msgstr "б"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "Мб"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "Гб"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Широта"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Долгота"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Динамик"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Не удается найти приложение для выполнения этого действия"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Выключено"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Включено"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "Файл %s сейчас заблокирован. Разблокировать?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Вы можете использовать %s еще 1 раз. Запустить?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Вы можете использовать %s еще 2 раза. Запустить?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Вы сможете использовать %s в течение %d дн. Начать?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "Срок %s подходит к концу. Получить другую лицензию?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Вы можете использовать %s еще 1 раз. Получить другую лицензию?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Вы больше не можете использовать %s. Получить другую лицензию?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Звуковое устройство"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Устан."
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Зарегистрировать"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Непредвиденная ошибка"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Сбой соединения прокси"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Ошибка подключения к сети"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Неправильная SIM-карта"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Сбой операции"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Версия"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "По умолчанию"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Вырезать"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Вставить"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Буфер обмена"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Политика безопасности ограничивает создание снимков экрана"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Невозможно запустить %s"
 

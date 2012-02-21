@@ -920,7 +920,7 @@ msgid "IDS_COM_BODY_LOCK_A"
 msgstr "Κλείδωμα"
 
 msgid "IDS_COM_BODY_LOGS"
-msgstr "Αρχεία καταγραφής"
+msgstr "Αρχ. κλήσεων"
 
 msgid "IDS_COM_BODY_LOW"
 msgstr "Χαμηλή"
@@ -947,7 +947,7 @@ msgid "IDS_COM_BODY_MESSAGES"
 msgstr "Μηνύματα"
 
 msgid "IDS_COM_BODY_MESSAGING"
-msgstr "Ανταλλαγή μηνυμάτων"
+msgstr "Μηνύματα"
 
 msgid "IDS_COM_BODY_MINUTE"
 msgstr "Λεπτό"
@@ -1422,4 +1422,103 @@ msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Η εφαρμογή δεν εγκαταστάθηκε"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Γεωγραφικό πλάτος"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Γεωγραφικό μήκος"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Ηχείο"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Δεν είναι δυνατή η εύρεση εφαρμογών για την εκτέλεση αυτής της ενέργειας"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Ανενεργό"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Ενεργό"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "Το %s έχει προσωρινά ξεκλειδωθεί. Ξεκλείδωμα;"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Μπορείτε να χρησιμοποιήσετε το %s 1 φορά ακόμα. Έναρξη τώρα;"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Μπορείτε να χρησιμοποιήσετε το %s 2 φορές ακόμα. Έναρξη τώρα;"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Μπορείτε να χρησιμοποιήσετε το στοιχείο %s για %d ημέρες. Έναρξη τώρα;"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "Το %s κοντεύει να λήξει. Λήψη νέας άδειας;"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Μπορείτε να χρησιμοποιήσετε το %s 1 φορά ακόμα. Λήψη νέας άδειας;"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Δεν μπορείτε να χρησιμοποιήσετε το %s άλλη φορά. Λήψη νέας άδειας;"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Συσκευή ήχου"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Εγκατ."
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Εγγραφή"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Μη αναμενόμενο σφάλμα"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Αποτυχία σύνδεσης με διακομιστή μεσολάβησης"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Σφάλμα σύνδεσης δικτύου"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Μη έγκυρη κάρτα SIM"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Λειτουργία απέτυχε"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Έκδοση"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Προεπιλογή"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Αποκοπή"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Επικόλληση"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Πρόχειρο"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Η πολιτική ασφαλείας περιορίζει της αποτύπωσης οθόνης"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Αδύνατη η εκκίνηση του %s"
 

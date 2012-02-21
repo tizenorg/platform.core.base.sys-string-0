@@ -209,7 +209,7 @@ msgid "IDS_COM_BODY_2_WEEKS"
 msgstr "2 週"
 
 msgid "IDS_COM_BODY_ALWAYS"
-msgstr "總是轉駁"
+msgstr "總是"
 
 msgid "IDS_COM_BODY_ALWAYS_ASK"
 msgstr "總是詢問"
@@ -404,7 +404,7 @@ msgid "IDS_COM_BODY_START"
 msgstr "開始"
 
 msgid "IDS_COM_BODY_SUN"
-msgstr "週日"
+msgstr "日"
 
 msgid "IDS_COM_BODY_TAKE_PHOTO"
 msgstr "拍照"
@@ -593,7 +593,7 @@ msgid "IDS_COM_BODY_TODAY"
 msgstr "今天"
 
 msgid "IDS_COM_BODY_VIDEOS"
-msgstr "影片"
+msgstr "影片播放器"
 
 msgid "IDS_COM_BODY_WALLPAPER"
 msgstr "螢幕牆紙"
@@ -641,7 +641,7 @@ msgid "IDS_COM_POP_CHANGE_PASSWORD"
 msgstr "更改密碼"
 
 msgid "IDS_COM_POP_CLEAR"
-msgstr "清除"
+msgstr "晴朗"
 
 msgid "IDS_COM_POP_CLOSE"
 msgstr "關閉"
@@ -731,7 +731,7 @@ msgid "IDS_COM_BODY_NONE"
 msgstr "無"
 
 msgid "IDS_COM_BODY_NO_NAME"
-msgstr "沒有姓名"
+msgstr "無姓名"
 
 msgid "IDS_COM_BODY_SELECT_ALL"
 msgstr "選擇全部"
@@ -890,7 +890,7 @@ msgid "IDS_COM_BODY_FORWARD_A"
 msgstr "轉寄"
 
 msgid "IDS_COM_BODY_FRI"
-msgstr "週五"
+msgstr "五"
 
 msgid "IDS_COM_BODY_HELP"
 msgstr "說明"
@@ -932,7 +932,7 @@ msgid "IDS_COM_BODY_MAR"
 msgstr "3 月"
 
 msgid "IDS_COM_BODY_MAY"
-msgstr "5 月"
+msgstr "五月"
 
 msgid "IDS_COM_BODY_MEMO"
 msgstr "備忘錄"
@@ -992,7 +992,7 @@ msgid "IDS_COM_BODY_ON"
 msgstr "開"
 
 msgid "IDS_COM_BODY_PHONE"
-msgstr "手機"
+msgstr "電話"
 
 msgid "IDS_COM_BODY_PIN_LOCK"
 msgstr "PIN 碼鎖"
@@ -1004,7 +1004,7 @@ msgid "IDS_COM_BODY_RESET_A"
 msgstr "重設"
 
 msgid "IDS_COM_BODY_SAT"
-msgstr "週六"
+msgstr "六"
 
 msgid "IDS_COM_BODY_SEP"
 msgstr "9 月"
@@ -1028,13 +1028,13 @@ msgid "IDS_COM_BODY_SYNCHRONIZE"
 msgstr "同步處理"
 
 msgid "IDS_COM_BODY_THU"
-msgstr "週四"
+msgstr "四"
 
 msgid "IDS_COM_BODY_TIMER"
 msgstr "計時器"
 
 msgid "IDS_COM_BODY_TUE"
-msgstr "週二"
+msgstr "二"
 
 msgid "IDS_COM_BODY_TWITTER"
 msgstr "Twitter"
@@ -1049,7 +1049,7 @@ msgid "IDS_COM_BODY_UNIT_SEC_LC"
 msgstr "秒"
 
 msgid "IDS_COM_BODY_UNKNOWN"
-msgstr "不明"
+msgstr "未知"
 
 msgid "IDS_COM_BODY_USB"
 msgstr "USB"
@@ -1064,7 +1064,7 @@ msgid "IDS_COM_BODY_VOICE_RECORDER"
 msgstr "錄音機"
 
 msgid "IDS_COM_BODY_WED"
-msgstr "週三"
+msgstr "三"
 
 msgid "IDS_COM_BODY_WI_FI"
 msgstr "Wi-Fi"
@@ -1247,7 +1247,7 @@ msgid "IDS_COM_BODY_NO_IMAGES"
 msgstr "無圖像"
 
 msgid "IDS_COM_BODY_NO_ITEMS"
-msgstr "沒有項目"
+msgstr "無項目"
 
 msgid "IDS_COM_BODY_PAUSE"
 msgstr "暫停"
@@ -1280,7 +1280,7 @@ msgid "IDS_COM_POP_FOLDER"
 msgstr "資料夾"
 
 msgid "IDS_COM_POP_FRI"
-msgstr "週五"
+msgstr "五"
 
 msgid "IDS_COM_POP_MON"
 msgstr "週一"
@@ -1289,7 +1289,7 @@ msgid "IDS_COM_POP_MUTE"
 msgstr "靜音"
 
 msgid "IDS_COM_POP_SAT"
-msgstr "週六"
+msgstr "六"
 
 msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
 msgstr "存儲到草稿匣"
@@ -1304,16 +1304,16 @@ msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
 msgstr "以靜音模式播放？"
 
 msgid "IDS_COM_POP_SUN"
-msgstr "週日"
+msgstr "日"
 
 msgid "IDS_COM_POP_THU"
-msgstr "週四"
+msgstr "四"
 
 msgid "IDS_COM_POP_TUE"
-msgstr "週二"
+msgstr "二"
 
 msgid "IDS_COM_POP_WED"
-msgstr "週三"
+msgstr "三"
 
 msgid "IDS_COM_BODY_DONE"
 msgstr "完成"
@@ -1422,4 +1422,103 @@ msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "未安裝應用程式"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "緯度"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "經度"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Speaker"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "找不到執行此動作的應用程式"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "關"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "開"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s 目前已鎖定。解鎖嗎？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "可再使用  %s 一次。 現在開始嗎？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "可再使用  %s 兩次。 現在開始嗎？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "您可使用 %s %d 天。現在開始嗎？"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s 即將到期。要取得另一個許可嗎？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "可再使用  %s 一次。 要取得另一個許可嗎？"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "您無法再使用  %s。要取得另一個許可嗎？"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "音訊裝置"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "安裝"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "註冊"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "非預期的錯誤"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "代理伺服器連接失敗"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "網絡連接錯誤"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "SIM 卡無效"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "操作失敗"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "版本"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "預設"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "剪下"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "貼上"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "剪貼板"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "安全政策限制擷取螢幕秩使用"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "無法啟動 %s"
 

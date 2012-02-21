@@ -1,6 +1,6 @@
 Name:       sys-string
 Summary:    System string package for multilinugual support 
-Version:    0.1.10
+Version:    0.1.15
 Release:    0
 Group:      TO_BE/FILLED_IN
 License:    TO BE FILLED IN

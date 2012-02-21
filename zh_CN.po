@@ -95,7 +95,7 @@ msgid "IDS_COM_POP_ADDED"
 msgstr "已添加"
 
 msgid "IDS_COM_POP_ATTACH"
-msgstr "附件"
+msgstr "附加"
 
 msgid "IDS_COM_POP_CONNECTED"
 msgstr "已连接"
@@ -230,7 +230,7 @@ msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
 
 msgid "IDS_COM_BODY_NEVER"
-msgstr "从不"
+msgstr "永不休眠"
 
 msgid "IDS_COM_BODY_NOTE"
 msgstr "注释"
@@ -299,7 +299,7 @@ msgid "IDS_COM_SK_CONFIRM_LITE"
 msgstr "确认"
 
 msgid "IDS_COM_BUTTON_RECENT"
-msgstr "最近联系人"
+msgstr "最近任务"
 
 msgid "IDS_COM_SK4_SHARE"
 msgstr "共享"
@@ -314,7 +314,7 @@ msgid "IDS_COM_BODY_LIST_BY"
 msgstr "排序方式"
 
 msgid "IDS_COM_BODY_LOADING"
-msgstr "裝载中…"
+msgstr "载入中…"
 
 msgid "IDS_COM_BODY_PREVIOUS"
 msgstr "上一个"
@@ -563,7 +563,7 @@ msgid "IDS_COM_BODY_INFO"
 msgstr "信息"
 
 msgid "IDS_COM_BODY_MELODY"
-msgstr "乐曲"
+msgstr "铃音"
 
 msgid "IDS_COM_BODY_OTHERS"
 msgstr "其它"
@@ -593,7 +593,7 @@ msgid "IDS_COM_BODY_TODAY"
 msgstr "今天"
 
 msgid "IDS_COM_BODY_VIDEOS"
-msgstr "录像"
+msgstr "视频"
 
 msgid "IDS_COM_BODY_WALLPAPER"
 msgstr "墙纸"
@@ -635,7 +635,7 @@ msgid "IDS_COM_POP_ACCEPT"
 msgstr "接受"
 
 msgid "IDS_COM_POP_AM_M_ABB"
-msgstr "AM"
+msgstr "上午"
 
 msgid "IDS_COM_POP_CHANGE_PASSWORD"
 msgstr "更改密码"
@@ -806,7 +806,7 @@ msgid "IDS_COM_BODY_ALLSHARE"
 msgstr "娱乐共享"
 
 msgid "IDS_COM_BODY_AM"
-msgstr "AM"
+msgstr "上午"
 
 msgid "IDS_COM_BODY_APR"
 msgstr "4 月"
@@ -881,7 +881,7 @@ msgid "IDS_COM_BODY_FEB"
 msgstr "2 月"
 
 msgid "IDS_COM_BODY_FM_RADIO"
-msgstr "FM 收音机"
+msgstr "FM收音机"
 
 msgid "IDS_COM_BODY_FORWARD"
 msgstr "转发"
@@ -965,7 +965,7 @@ msgid "IDS_COM_BODY_MOVE"
 msgstr "移动"
 
 msgid "IDS_COM_BODY_MUSIC"
-msgstr "音频"
+msgstr "音乐"
 
 msgid "IDS_COM_BODY_MUSIC_PLAYER"
 msgstr "音乐播放器"
@@ -1130,7 +1130,7 @@ msgid "IDS_COM_POP_NEW_MESSAGES"
 msgstr "新信息"
 
 msgid "IDS_COM_POP_PM"
-msgstr "PM"
+msgstr "下午"
 
 msgid "IDS_COM_POP_UNLOCK"
 msgstr "解锁"
@@ -1422,4 +1422,103 @@ msgstr "WLAN直连"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "未安装应用程序"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "纬度"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "经度"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Speaker"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "无法找到应用程序以执行该操作"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "关"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "打开"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s 当前已锁定。是否解锁？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "您还可使用 %s 1 次。现在开始？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "您还可使用 %s 2 次。现在开始？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "您可以使用%s %d天。现在开始？"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s 将过期。获取另一许可证？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "您还可使用 %s 1 次。获取另一许可证？"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "您无法再使用 %s。获取另一许可证？"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "音频设备"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "安装"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "注册"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "意外错误"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "服务器连接失败"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "网络连接错误"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "SIM 卡无效"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "操作失败"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "版本"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "默认"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "剪贴"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "粘贴"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "剪贴板"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "安全政策限制屏幕捕捉的使用"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "无法启动 %s"
 

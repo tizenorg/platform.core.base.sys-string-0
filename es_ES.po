@@ -800,7 +800,7 @@ msgid "IDS_COM_BODY_ALARM"
 msgstr "Alarma"
 
 msgid "IDS_COM_BODY_ALL"
-msgstr "Todos"
+msgstr "Todas"
 
 msgid "IDS_COM_BODY_ALLSHARE"
 msgstr "AllShare"
@@ -947,7 +947,7 @@ msgid "IDS_COM_BODY_MESSAGES"
 msgstr "Mensajes"
 
 msgid "IDS_COM_BODY_MESSAGING"
-msgstr "Mensajería"
+msgstr "Mensajes"
 
 msgid "IDS_COM_BODY_MINUTE"
 msgstr "Minuto"
@@ -986,7 +986,7 @@ msgid "IDS_COM_BODY_OCT"
 msgstr "Oct."
 
 msgid "IDS_COM_BODY_OFF"
-msgstr "Desactivado"
+msgstr "Off"
 
 msgid "IDS_COM_BODY_ON"
 msgstr "Activado"
@@ -1422,4 +1422,103 @@ msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Aplicación no instalada"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Latitud"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Longitud"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Altavoz"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "No se encuentran aplicaciones que puedan realizar esta acción"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Desactivado"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Activado"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s está bloqueado actualmente. ¿Desbloquear?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Puede usar %s 1 vez más. ¿Iniciar ahora?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Puede usar %s 2 veces más. ¿Iniciar ahora?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Puede utilizar %s durante %d días. ¿Empezar ahora?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s está a punto de caducar. ¿Obtener otra licencia?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Puede usar %s 1 vez más. ¿Obtener otra licencia?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "No puede usar %s más veces. ¿Obtener otra licencia?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Dispositivo de audio"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Instal."
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Registrar"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Error inesperado"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Error al conectar con proxy"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Error de conexión de red"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Tarjeta SIM no válida"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Error de funcionamiento"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Versión"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Predeterminado"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Cortar"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Pegar"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Portapapeles"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "La política de seguridad restringe el uso de captura de pantalla"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "No se puede iniciar %s"
 

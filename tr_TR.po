@@ -1423,3 +1423,102 @@ msgstr "Wi-Fi Direct"
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Uygulama yüklenmedi"
 
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Enlem"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Boylam"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Hoparlör"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Bu eylemi gerçekleştirecek uygulama bulunamadı"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Kapalı"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Açık"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s şu anda kilitli. Kilit açılsın mı?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "%s öğesini 1 kez daha kullanabilirsiniz. Şimdi başlatılsın mı?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "%s öğesini 2 kez daha kullanabilirsiniz. Şimdi başlatılsın mı?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "%s dosyasını %d gün kullanabilirsiniz. Şimdi başlatılsın mı?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s süresi dolmak üzere. Başka lisans alınsın mı?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "%s öğesini 1 kez daha kullanabilirsiniz. Başka lisans alınsın mı?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "%s öğesini daha fazla kullanamazsınız. Başka lisans alınsın mı?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Ses cihazı"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Yükle"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Kaydet"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Beklenmedik hata"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Proxy bağlantısı başarısız"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Ağ bağlantısı hatası"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Geçersiz SIM kart"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "İşlem başarısız"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Sürüm"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Varsayılan"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Kes"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Yapıştır"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Pano"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Güvenlik ilkesi ekran yakalama kullanımını kısıtlıyor"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "%s öğesi başlatılamıyor"
+

@@ -71,7 +71,7 @@ msgid "IDS_COM_OPT_ADDED"
 msgstr "追加しました。"
 
 msgid "IDS_COM_OPT_ADD_CONTACT"
-msgstr "電話帳に追加"
+msgstr "連絡先を追加"
 
 msgid "IDS_COM_OPT_ADD_TAG"
 msgstr "タグ​を​追加​"
@@ -353,7 +353,7 @@ msgid "IDS_COM_BODY_DESCRIPTION"
 msgstr "詳細"
 
 msgid "IDS_COM_BODY_DOWNLOADED"
-msgstr "ダウンロードしました"
+msgstr "ダウンロードしました。"
 
 msgid "IDS_COM_BODY_DOWNLOADS"
 msgstr "ダウンロード履歴"
@@ -395,7 +395,7 @@ msgid "IDS_COM_BODY_REMOVE"
 msgstr "削除"
 
 msgid "IDS_COM_BODY_SEND_MESSAGE"
-msgstr "SMS送信"
+msgstr "メッセージ送信"
 
 msgid "IDS_COM_BODY_SIZE"
 msgstr "サイズ"
@@ -500,7 +500,7 @@ msgid "IDS_COM_POP_TYPE"
 msgstr "種類"
 
 msgid "IDS_COM_POP_UNABLE_TO_DELETE"
-msgstr "削除​できません"
+msgstr "削除​できません。​"
 
 msgid "IDS_COM_SK3_BLOCK"
 msgstr "ブロック"
@@ -542,7 +542,7 @@ msgid "IDS_COM_BODY_CLOSE"
 msgstr "閉じる"
 
 msgid "IDS_COM_BODY_CREATE_FOLDER"
-msgstr "フォルダー作成"
+msgstr "フォルダ作成"
 
 msgid "IDS_COM_BODY_DETAILS"
 msgstr "詳細"
@@ -941,10 +941,10 @@ msgid "IDS_COM_BODY_MEMORY_CARD"
 msgstr "外部SDカード"
 
 msgid "IDS_COM_BODY_MESSAGE"
-msgstr "SMS"
+msgstr "メッセージ"
 
 msgid "IDS_COM_BODY_MESSAGES"
-msgstr "メール"
+msgstr "メッセージ"
 
 msgid "IDS_COM_BODY_MESSAGING"
 msgstr "SMS"
@@ -1124,10 +1124,10 @@ msgid "IDS_COM_POP_NEW_EMAILS"
 msgstr "新規​電子​メール"
 
 msgid "IDS_COM_POP_NEW_MESSAGE"
-msgstr "新着SMS"
+msgstr "新着メッセージ"
 
 msgid "IDS_COM_POP_NEW_MESSAGES"
-msgstr "新着SMS"
+msgstr "新着メッセージ"
 
 msgid "IDS_COM_POP_PM"
 msgstr "PM"
@@ -1154,7 +1154,7 @@ msgid "IDS_COM_SK_MENU"
 msgstr "メニュー"
 
 msgid "IDS_COM_SK_NO"
-msgstr "キャンセル"
+msgstr "いいえ"
 
 msgid "IDS_COM_SK_OFF"
 msgstr "OFF"
@@ -1244,7 +1244,7 @@ msgid "IDS_COM_BODY_NO_FILES"
 msgstr "ファイルがありません。"
 
 msgid "IDS_COM_BODY_NO_IMAGES"
-msgstr "画像​が​ありません"
+msgstr "画像​が​ありません。"
 
 msgid "IDS_COM_BODY_NO_ITEMS"
 msgstr "アイテム​が​ありません。"
@@ -1268,7 +1268,7 @@ msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
 msgstr "Eメール​​送信​"
 
 msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
-msgstr "メール送信"
+msgstr "メッセージ送信"
 
 msgid "IDS_COM_OPT_SEND_VIA_MMS"
 msgstr "MMS​で​送信"
@@ -1277,7 +1277,7 @@ msgid "IDS_COM_OPT_SEND_VIA_SMS"
 msgstr "SMS​で​送信"
 
 msgid "IDS_COM_POP_FOLDER"
-msgstr "フォルダー別"
+msgstr "フォルダー"
 
 msgid "IDS_COM_POP_FRI"
 msgstr "金"
@@ -1415,11 +1415,110 @@ msgid "IDS_COM_BODY_MOBILE"
 msgstr "端末"
 
 msgid "IDS_COM_BODY_WORK"
-msgstr "会社"
+msgstr "勤務先"
 
 msgid "IDS_COM_OPT1_WI_FI_DIRECT"
 msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "アプリケーションが​インストールされていません"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "緯度"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "経度"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Speaker"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "この操作を行うためのアプリケーションが見つかりません。"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "OFF"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "ON"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%sは現在ロックされています。 ロックを解除しますか？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "%sをもう1回使用できます。すぐに実行しますか？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "%sをあと2回使用できます。すぐに実行しますか？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr " %s​を​%d日間​ご利用​できます。​今すぐ​開始​します​か？"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%sの有効期限が間もなく切れます。追加のライセンスを取得しますか？"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "%sをもう1回使用できます。追加のライセンスを取得しますか？"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "%sはこれ以上使用できません。追加のライセンスを取得しますか？"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "オーディオデバイス"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "インストール"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "登録"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "予期しない​エラー"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "プロキシ​接続​エラー​"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "ネットワーク接続エラーです。"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "無効​な​SIM​カード​です"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "​失敗しました"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "バージョン"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "標準"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "カット"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "貼り付け"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "クリップ​ボード"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "セキュリティポリシーによって、画面キャプチャーの使用が制限されています。"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "%s​を​開始​できません"
 

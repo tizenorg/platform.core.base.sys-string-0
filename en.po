@@ -59,7 +59,7 @@ msgid "IDS_COM_BODY_UNABLE_TO_ADD"
 msgstr "Unable to add"
 
 msgid "IDS_COM_BODY_USER_NAME"
-msgstr "User name"
+msgstr "Username"
 
 msgid "IDS_COM_DISCARD"
 msgstr "Discard"
@@ -887,7 +887,7 @@ msgid "IDS_COM_BODY_FORWARD"
 msgstr "Forward"
 
 msgid "IDS_COM_BODY_FORWARD_A"
-msgstr "Forward"
+msgstr "Fwd"
 
 msgid "IDS_COM_BODY_FRI"
 msgstr "Fri"
@@ -956,7 +956,7 @@ msgid "IDS_COM_BODY_MINUTE_LC"
 msgstr "minute"
 
 msgid "IDS_COM_BODY_MIN_SMALL_ABB"
-msgstr "min"
+msgstr "mins"
 
 msgid "IDS_COM_BODY_MON"
 msgstr "Mon"
@@ -1043,10 +1043,10 @@ msgid "IDS_COM_BODY_UNITS"
 msgstr "Units"
 
 msgid "IDS_COM_BODY_UNIT_MIN_ABB"
-msgstr "min"
+msgstr "mins"
 
 msgid "IDS_COM_BODY_UNIT_SEC_LC"
-msgstr "sec"
+msgstr "secs"
 
 msgid "IDS_COM_BODY_UNKNOWN"
 msgstr "Unknown"
@@ -1422,4 +1422,103 @@ msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Application not installed"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Latitude"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Longitude"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Speaker"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Unable to find application to perform this action"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Off"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "On"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s currently locked. Unlock?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "You can use %s 1 more time. Start now?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "You can use %s 2 more times. Start now?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "You can use %s for %d days. Start now?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s is about to expire. Get another licence?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "You can use %s 1 more time. Get another licence?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "You cannot use %s any more times. Get another licence?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Audio device"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Install"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Register"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Unexpected error"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Proxy connection failed"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Network connection error"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Invalid SIM card"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Operation failed"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Version"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Default"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Cut"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Paste"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Clipboard"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Security policy restricts use of screen capture"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Unable to launch %s"
 

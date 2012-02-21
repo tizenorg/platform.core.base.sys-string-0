@@ -8,7 +8,7 @@ msgid "IDS_COM_BODY_DETAILS_TYPE"
 msgstr "Tipo"
 
 msgid "IDS_COM_BODY_DISPLAY"
-msgstr "Display"
+msgstr "Visualizza"
 
 msgid "IDS_COM_BODY_EMAIL_SYNC"
 msgstr "Sincronizza e-mail"
@@ -314,7 +314,7 @@ msgid "IDS_COM_BODY_LIST_BY"
 msgstr "Elenca per"
 
 msgid "IDS_COM_BODY_LOADING"
-msgstr "Caricamento"
+msgstr "Caricamento..."
 
 msgid "IDS_COM_BODY_PREVIOUS"
 msgstr "Indietro"
@@ -659,7 +659,7 @@ msgid "IDS_COM_POP_DATE"
 msgstr "Data"
 
 msgid "IDS_COM_POP_DELETED"
-msgstr "Eliminato"
+msgstr "Eliminati"
 
 msgid "IDS_COM_POP_DONE"
 msgstr "Fatto"
@@ -710,7 +710,7 @@ msgid "IDS_IDLE_BUTTON_CANCEL"
 msgstr "Annulla"
 
 msgid "IDS_COM_ADD"
-msgstr "Agg."
+msgstr "Aggiungi"
 
 msgid "IDS_COM_BODY_CALL"
 msgstr "Chiama"
@@ -800,7 +800,7 @@ msgid "IDS_COM_BODY_ALARM"
 msgstr "Sveglia"
 
 msgid "IDS_COM_BODY_ALL"
-msgstr "Tutte"
+msgstr "Tutto"
 
 msgid "IDS_COM_BODY_ALLSHARE"
 msgstr "DLNA"
@@ -1346,7 +1346,7 @@ msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
 msgstr "Elemento copiato negli appunti"
 
 msgid "IDS_COM_POP_COPYING_ING"
-msgstr "Copia in corso..."
+msgstr "Copia..."
 
 msgid "IDS_COM_OPT_LIST"
 msgstr "Elenco"
@@ -1422,4 +1422,103 @@ msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Applicazione non installata"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Latitudine"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Longitudine"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Vivavoce"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Impossibile trovare un'applicazione per compiere questa azione"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Non attivo"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Attivo"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s è attualmente bloccato. Sbloccarlo?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Potete utilizzare %s ancora una volta. Avviare adesso?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Potete utilizzare %s ancora due volte. Avviare adesso?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "È possibile utilizzare %s per %d giorni. Avviare adesso?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s sta per scadere. Acquistare un'altra licenza?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Potete utilizzare %s ancora una volta. Acquistare un'altra licenza?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Non è più possibile utilizzare %s. Acquistare un'altra licenza?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Dispositivo audio"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Installa"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Registra"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Errore inatteso"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Errore connessione proxy"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Errore di connessione di rete"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Scheda SIM non valida"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Operazione non eseguita"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Versione"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Predefinito"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Taglia"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Incolla"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Appunti"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "I criteri di protezione limitano l'acquisizione delle schermate"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Impossibile avviare %s"
 

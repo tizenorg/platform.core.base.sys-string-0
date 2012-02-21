@@ -17,7 +17,7 @@ msgid "IDS_COM_BODY_FOLDERS"
 msgstr "Dossiers"
 
 msgid "IDS_COM_BODY_FWD_C"
-msgstr "TR :"
+msgstr "Tr :"
 
 msgid "IDS_COM_BODY_INFORMATION"
 msgstr "Infos complémentaires"
@@ -62,7 +62,7 @@ msgid "IDS_COM_BODY_USER_NAME"
 msgstr "Nom d'utilisateur"
 
 msgid "IDS_COM_DISCARD"
-msgstr "Ignorer"
+msgstr "Ne pas enregistrer"
 
 msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
 msgstr "Modifier fond d'écran"
@@ -71,7 +71,7 @@ msgid "IDS_COM_OPT_ADDED"
 msgstr "Ajouté"
 
 msgid "IDS_COM_OPT_ADD_CONTACT"
-msgstr "Ajouter un contact"
+msgstr "Ajouter aux contacts"
 
 msgid "IDS_COM_OPT_ADD_TAG"
 msgstr "Libellé"
@@ -113,7 +113,7 @@ msgid "IDS_COM_POP_MOVING"
 msgstr "Déplacement..."
 
 msgid "IDS_COM_POP_MOVING_FAILED"
-msgstr "Echec déplacement"
+msgstr "Echec du déplacement"
 
 msgid "IDS_COM_POP_NAME"
 msgstr "Nom"
@@ -128,7 +128,7 @@ msgid "IDS_COM_POP_NO_TAGS_SELECTED"
 msgstr "Aucun libellé sélectionné"
 
 msgid "IDS_COM_POP_PROCESSING"
-msgstr "En cours ..."
+msgstr "En cours..."
 
 msgid "IDS_COM_POP_RECORDING_FAILED"
 msgstr "Echec de l'enregistrement"
@@ -137,13 +137,13 @@ msgid "IDS_COM_POP_RETRIEVED"
 msgstr "Récupéré"
 
 msgid "IDS_COM_POP_RETRIEVING_FAILED"
-msgstr "Echec de récupération"
+msgstr "Echec de la récupération"
 
 msgid "IDS_COM_POP_SAVING_FAILED"
 msgstr "Echec de l'enregistrement"
 
 msgid "IDS_COM_POP_SAVING_ING"
-msgstr "Enregistrement ..."
+msgstr "Enregistrement..."
 
 msgid "IDS_COM_POP_SELECTED"
 msgstr "Sélectionné"
@@ -152,7 +152,7 @@ msgid "IDS_COM_POP_SMALL_MINUTES"
 msgstr "minutes"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
-msgstr "Réessayez."
+msgstr "Réessayer"
 
 msgid "IDS_COM_POP_UNLIMITED"
 msgstr "Illimité"
@@ -191,10 +191,10 @@ msgid "IDS_COM_SK_RESULT"
 msgstr "Résultat"
 
 msgid "IDS_COM_SK_SET_AS"
-msgstr "Définir comme"
+msgstr "Déf. comme"
 
 msgid "IDS_COM_SK_UPDATE"
-msgstr "Mettre à jour"
+msgstr "MàJ"
 
 msgid "IDS_COM_SK_CANCEL"
 msgstr "Annuler"
@@ -305,7 +305,7 @@ msgid "IDS_COM_SK4_SHARE"
 msgstr "Partag."
 
 msgid "IDS_COM_BODY_BOOKMARK"
-msgstr "Favoris"
+msgstr "Favori"
 
 msgid "IDS_COM_BODY_BOOKMARKS"
 msgstr "Favoris"
@@ -323,13 +323,13 @@ msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
 msgstr "Ajouter destinataire(s)"
 
 msgid "IDS_COM_OPT_CALLER_ID"
-msgstr "ID appelant"
+msgstr "Identité de l'appelant"
 
 msgid "IDS_COM_POP_CALLER_ID"
-msgstr "ID appelant"
+msgstr "Identité de l'appelant"
 
 msgid "IDS_COM_POP_DOWNLOAD_FAILED"
-msgstr "Téléchargement impossible"
+msgstr "Echec du téléchargement"
 
 msgid "IDS_COM_POP_FILE_NOT_FOUND"
 msgstr "Fichier introuvable"
@@ -353,7 +353,7 @@ msgid "IDS_COM_BODY_DESCRIPTION"
 msgstr "Description"
 
 msgid "IDS_COM_BODY_DOWNLOADED"
-msgstr "Téléchargé(es)"
+msgstr "Téléchargement terminé"
 
 msgid "IDS_COM_BODY_DOWNLOADS"
 msgstr "Téléchargements"
@@ -365,16 +365,16 @@ msgid "IDS_COM_BODY_EMAIL_SIZE"
 msgstr "Taille e-mail"
 
 msgid "IDS_COM_BODY_ENTER_PASSWORD"
-msgstr "Entrer un mot de passe"
+msgstr "Saisir le mot de passe"
 
 msgid "IDS_COM_BODY_FORMAT"
 msgstr "Formater"
 
 msgid "IDS_COM_BODY_GOOGLE_MAPS"
-msgstr "Google Maps"
+msgstr "Maps"
 
 msgid "IDS_COM_BODY_ID"
-msgstr "E-mail"
+msgstr "Identifiant"
 
 msgid "IDS_COM_BODY_LOCATION"
 msgstr "Emplacement"
@@ -419,7 +419,7 @@ msgid "IDS_COM_BODY_VIDEO"
 msgstr "Vidéo"
 
 msgid "IDS_COM_BODY_VOICE"
-msgstr "Vocal"
+msgstr "Voix"
 
 msgid "IDS_COM_BODY_WARNING"
 msgstr "Avertissement"
@@ -434,7 +434,7 @@ msgid "IDS_COM_BUTTON_SIGN_UP"
 msgstr "Créer un compte"
 
 msgid "IDS_COM_HEADER_SIGN_IN"
-msgstr "Créer un compte"
+msgstr "Connexion"
 
 msgid "IDS_COM_OPT_HIGH_M_QUALITY"
 msgstr "Elevée"
@@ -455,7 +455,7 @@ msgid "IDS_COM_POP_DELETE_Q"
 msgstr "Supprimer ?"
 
 msgid "IDS_COM_POP_DELETING"
-msgstr "Suppression ..."
+msgstr "Suppression..."
 
 msgid "IDS_COM_POP_DOWNLOADING"
 msgstr "Téléchargement ..."
@@ -482,7 +482,7 @@ msgid "IDS_COM_POP_REMOVED"
 msgstr "Supprimé"
 
 msgid "IDS_COM_POP_SEARCHING"
-msgstr "Recherche ..."
+msgstr "Recherche..."
 
 msgid "IDS_COM_POP_SENDING_FAILED"
 msgstr "Echec de l'envoi"
@@ -548,7 +548,7 @@ msgid "IDS_COM_BODY_DETAILS"
 msgstr "Détails"
 
 msgid "IDS_COM_BODY_ENTER_NAME"
-msgstr "Saisir un nom"
+msgstr "Saisissez votre nom"
 
 msgid "IDS_COM_BODY_FONT"
 msgstr "Police"
@@ -647,7 +647,7 @@ msgid "IDS_COM_POP_CLOSE"
 msgstr "Fermer"
 
 msgid "IDS_COM_POP_CONNECTING"
-msgstr "Connexion ..."
+msgstr "Connexion..."
 
 msgid "IDS_COM_POP_CONNECTION_ERROR"
 msgstr "Erreur de connexion"
@@ -662,10 +662,10 @@ msgid "IDS_COM_POP_DELETED"
 msgstr "Supprimé"
 
 msgid "IDS_COM_POP_DONE"
-msgstr "OK"
+msgstr "Effectué"
 
 msgid "IDS_COM_POP_ENTER_NAME"
-msgstr "Saisir un nom"
+msgstr "Saisissez votre nom"
 
 msgid "IDS_COM_POP_ERROR"
 msgstr "Erreur"
@@ -689,7 +689,7 @@ msgid "IDS_COM_POP_SAVED"
 msgstr "Enregistré"
 
 msgid "IDS_COM_POP_SENDING"
-msgstr "Envoi ..."
+msgstr "Envoi..."
 
 msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
 msgstr "Type de fichier\nnon pris en charge"
@@ -722,7 +722,7 @@ msgid "IDS_COM_BODY_GALLERY"
 msgstr "Galerie"
 
 msgid "IDS_COM_BODY_MAPS"
-msgstr "Maps"
+msgstr "Cartes"
 
 msgid "IDS_COM_BODY_MUSIC_STORE"
 msgstr "Music Store"
@@ -761,7 +761,7 @@ msgid "IDS_COM_SK_BACK"
 msgstr "Retour"
 
 msgid "IDS_COM_SK_CALL"
-msgstr "Appeler"
+msgstr "Appel"
 
 msgid "IDS_COM_SK_NEXT"
 msgstr "Suivant"
@@ -851,7 +851,7 @@ msgid "IDS_COM_BODY_CONVERTOR"
 msgstr "Convertisseur"
 
 msgid "IDS_COM_BODY_COPY"
-msgstr "Copier"
+msgstr "Copie"
 
 msgid "IDS_COM_BODY_CREATE"
 msgstr "Créer"
@@ -884,7 +884,7 @@ msgid "IDS_COM_BODY_FM_RADIO"
 msgstr "Radio FM"
 
 msgid "IDS_COM_BODY_FORWARD"
-msgstr "Transférer"
+msgstr "Transf."
 
 msgid "IDS_COM_BODY_FORWARD_A"
 msgstr "Transférer"
@@ -986,7 +986,7 @@ msgid "IDS_COM_BODY_OCT"
 msgstr "Oct."
 
 msgid "IDS_COM_BODY_OFF"
-msgstr "Désactivé"
+msgstr "Désactivée"
 
 msgid "IDS_COM_BODY_ON"
 msgstr "Activé"
@@ -1091,7 +1091,7 @@ msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
 msgstr "ABC"
 
 msgid "IDS_COM_POP_ACTIVATING"
-msgstr "En cours d'activation ..."
+msgstr "Activation en cours..."
 
 msgid "IDS_COM_POP_DEACTIVATED"
 msgstr "Désactivé"
@@ -1145,7 +1145,7 @@ msgid "IDS_COM_SK_DIALLER"
 msgstr "Clavier"
 
 msgid "IDS_COM_SK_DONE"
-msgstr "OK"
+msgstr "Effectué"
 
 msgid "IDS_COM_SK_EDIT"
 msgstr "Modifier"
@@ -1157,7 +1157,7 @@ msgid "IDS_COM_SK_NO"
 msgstr "Non"
 
 msgid "IDS_COM_SK_OFF"
-msgstr "OFF"
+msgstr "Désactivée"
 
 msgid "IDS_COM_SK_OK"
 msgstr "OK"
@@ -1178,7 +1178,7 @@ msgid "IDS_COM_SK_PLAY_ABB"
 msgstr "Lire"
 
 msgid "IDS_COM_SK_REMOVE"
-msgstr "Suppr."
+msgstr "Supprimer"
 
 msgid "IDS_COM_SK_RENAME"
 msgstr "Renommer"
@@ -1205,7 +1205,7 @@ msgid "IDS_COM_SK_STOP"
 msgstr "Arrêter"
 
 msgid "IDS_COM_SK_VIDEO_CALL"
-msgstr "Appel visio"
+msgstr "Visio"
 
 msgid "IDS_COM_SK_YES"
 msgstr "Oui"
@@ -1274,7 +1274,7 @@ msgid "IDS_COM_OPT_SEND_VIA_MMS"
 msgstr "Envoyer via MMS"
 
 msgid "IDS_COM_OPT_SEND_VIA_SMS"
-msgstr "Envoyer par MMS"
+msgstr "Envoyer par SMS"
 
 msgid "IDS_COM_POP_FOLDER"
 msgstr "Dossier"
@@ -1316,7 +1316,7 @@ msgid "IDS_COM_POP_WED"
 msgstr "Mer"
 
 msgid "IDS_COM_BODY_DONE"
-msgstr "OK"
+msgstr "Effectué"
 
 msgid "IDS_COM_BODY_APPLICATIONS"
 msgstr "Applications"
@@ -1340,13 +1340,13 @@ msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
 msgstr "Type de fichier non pris en charge"
 
 msgid "IDS_COM_POP_COPIED_P"
-msgstr "Copié(s)"
+msgstr "Copié"
 
 msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
 msgstr "Copié dans le Presse-papiers"
 
 msgid "IDS_COM_POP_COPYING_ING"
-msgstr "Copie ..."
+msgstr "Copie..."
 
 msgid "IDS_COM_OPT_LIST"
 msgstr "Liste"
@@ -1388,7 +1388,7 @@ msgid "IDS_COM_POP_SERVER_ERROR"
 msgstr "Erreur serveur"
 
 msgid "IDS_COM_BODY_ALL_CHANNELS"
-msgstr "Toutes les stations"
+msgstr "Tous les canaux"
 
 msgid "IDS_COM_SK_CONFIRM"
 msgstr "Confirmer"
@@ -1422,4 +1422,103 @@ msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Application non installée"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "Ko"
+
+msgid "IDS_COM_BODY_B"
+msgstr "O"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "Mo"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "Go"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Latitude"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Longitude"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "HP"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Application introuvable pour exécuter cette action"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "OFF"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "ON"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s est actuellement verrouillé. Déverrouiller ?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Vous pouvez utiliser %s encore 1 fois. Démarrer maintenant ?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Vous pouvez utiliser %s encore 2 fois. Démarrer maintenant ?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Vous pouvez utiliser %s pendant %d jours. Démarrer maintenant ?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s est sur le point d'expirer. Obtenir une autre licence ?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Vous pouvez utiliser %s encore 1 fois. Obtenir une autre licence ?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Vous ne pouvez plus utiliser %s. Obtenir une autre licence ?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Périphérique audio"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Installer"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Enregistrer"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Erreur inattendue"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Echec de la connexion proxy"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Erreur connexion réseau"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Carte SIM non valide"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Échec de l'opération"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Version"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Par défaut"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Couper"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Coller"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Presse-papiers"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "La politique de sécurité limite l'utilisation de la capture d'écran"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Impossible de lancer %s"
 

@@ -62,7 +62,7 @@ msgid "IDS_COM_BODY_USER_NAME"
 msgstr "Gebruikersnaam"
 
 msgid "IDS_COM_DISCARD"
-msgstr "Annuleer"
+msgstr "Verwijderen"
 
 msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
 msgstr "Andere achtergrond"
@@ -152,7 +152,7 @@ msgid "IDS_COM_POP_SMALL_MINUTES"
 msgstr "minuten"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
-msgstr "Opnieuw proberen aub"
+msgstr "Opnieuw proberen"
 
 msgid "IDS_COM_POP_UNLIMITED"
 msgstr "Onbeperkt"
@@ -224,7 +224,7 @@ msgid "IDS_COM_BODY_BY_MMS"
 msgstr "Via MMS"
 
 msgid "IDS_COM_BODY_EDIT"
-msgstr "Wijzigen"
+msgstr "Bewerken"
 
 msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
@@ -260,7 +260,7 @@ msgid "IDS_COM_BUTTON_SHARE"
 msgstr "Delen"
 
 msgid "IDS_COM_HEADER_EDIT"
-msgstr "Wijzigen"
+msgstr "Bewerken"
 
 msgid "IDS_COM_OPT_FILES"
 msgstr "Bestanden"
@@ -350,7 +350,7 @@ msgid "IDS_COM_BODY_AUTO_REFRESH"
 msgstr "Automatisch vernieuwen"
 
 msgid "IDS_COM_BODY_DESCRIPTION"
-msgstr "Beschrijving"
+msgstr "Omschrijving"
 
 msgid "IDS_COM_BODY_DOWNLOADED"
 msgstr "Gedownload"
@@ -365,7 +365,7 @@ msgid "IDS_COM_BODY_EMAIL_SIZE"
 msgstr "E-mailgrootte"
 
 msgid "IDS_COM_BODY_ENTER_PASSWORD"
-msgstr "Geef wachtwoord in"
+msgstr "Wachtwoord invoeren"
 
 msgid "IDS_COM_BODY_FORMAT"
 msgstr "Formatteren"
@@ -392,7 +392,7 @@ msgid "IDS_COM_BODY_PASSWORD"
 msgstr "Wachtwoord"
 
 msgid "IDS_COM_BODY_REMOVE"
-msgstr "Wissen"
+msgstr "Verwijderen"
 
 msgid "IDS_COM_BODY_SEND_MESSAGE"
 msgstr "Bericht zenden"
@@ -452,10 +452,10 @@ msgid "IDS_COM_POP_CANCELLED"
 msgstr "Geannuleerd"
 
 msgid "IDS_COM_POP_DELETE_Q"
-msgstr "Wissen?"
+msgstr "Verwijderen?"
 
 msgid "IDS_COM_POP_DELETING"
-msgstr "Wissen..."
+msgstr "Verwijderen..."
 
 msgid "IDS_COM_POP_DOWNLOADING"
 msgstr "Downloaden..."
@@ -500,7 +500,7 @@ msgid "IDS_COM_POP_TYPE"
 msgstr "Type"
 
 msgid "IDS_COM_POP_UNABLE_TO_DELETE"
-msgstr "Kan niet wissen"
+msgstr "Kan niet verwijderen"
 
 msgid "IDS_COM_SK3_BLOCK"
 msgstr "Blokkeren"
@@ -509,7 +509,7 @@ msgid "IDS_COM_SK3_COMPOSE"
 msgstr "Opstellen"
 
 msgid "IDS_COM_SK_DOWNLOAD"
-msgstr "Download"
+msgstr "Downloaden"
 
 msgid "IDS_COM_SK_NEW"
 msgstr "Nieuw"
@@ -545,10 +545,10 @@ msgid "IDS_COM_BODY_CREATE_FOLDER"
 msgstr "Map maken"
 
 msgid "IDS_COM_BODY_DETAILS"
-msgstr "Details"
+msgstr "Gegevens"
 
 msgid "IDS_COM_BODY_ENTER_NAME"
-msgstr "Geef de naam in"
+msgstr "Naam invoeren"
 
 msgid "IDS_COM_BODY_FONT"
 msgstr "Lettertype"
@@ -578,7 +578,7 @@ msgid "IDS_COM_BODY_RINGTONE"
 msgstr "Beltoon"
 
 msgid "IDS_COM_BODY_SEARCH"
-msgstr "Google Search"
+msgstr "Zoeken"
 
 msgid "IDS_COM_BODY_SEND"
 msgstr "Verzenden"
@@ -611,7 +611,7 @@ msgid "IDS_COM_OPT_BRIGHTNESS"
 msgstr "Helderheid"
 
 msgid "IDS_COM_OPT_CREATE_CONTACT"
-msgstr "Contact toevoegen"
+msgstr "Contact maken"
 
 msgid "IDS_COM_OPT_DELETE"
 msgstr "Wissen"
@@ -659,19 +659,19 @@ msgid "IDS_COM_POP_DATE"
 msgstr "Datum"
 
 msgid "IDS_COM_POP_DELETED"
-msgstr "Gewist"
+msgstr "Verwijderd"
 
 msgid "IDS_COM_POP_DONE"
 msgstr "Gereed"
 
 msgid "IDS_COM_POP_ENTER_NAME"
-msgstr "Geef de naam in"
+msgstr "Naam invoeren"
 
 msgid "IDS_COM_POP_ERROR"
 msgstr "Fout"
 
 msgid "IDS_COM_POP_INCORRECT_PASSWORD"
-msgstr "Wachtwoord onjuist"
+msgstr "Onjuist wachtwoord"
 
 msgid "IDS_COM_POP_INVALID_PASSWORD"
 msgstr "Wachtwoord onjuist"
@@ -755,7 +755,7 @@ msgid "IDS_COM_SK_ACCEPT"
 msgstr "OK"
 
 msgid "IDS_COM_SK_ADD"
-msgstr "Voeg toe"
+msgstr "Toevoegen"
 
 msgid "IDS_COM_SK_BACK"
 msgstr "Terug"
@@ -854,7 +854,7 @@ msgid "IDS_COM_BODY_COPY"
 msgstr "Kopiëren"
 
 msgid "IDS_COM_BODY_CREATE"
-msgstr "Toevoegen"
+msgstr "Maken"
 
 msgid "IDS_COM_BODY_DEC"
 msgstr "dec"
@@ -863,7 +863,7 @@ msgid "IDS_COM_BODY_DELETE"
 msgstr "Wissen"
 
 msgid "IDS_COM_BODY_DELETE_ALL"
-msgstr "Alles wissen"
+msgstr "Alles verwijderen"
 
 msgid "IDS_COM_BODY_DETAILS_NAME"
 msgstr "Naam"
@@ -935,10 +935,10 @@ msgid "IDS_COM_BODY_MAY"
 msgstr "Mei"
 
 msgid "IDS_COM_BODY_MEMO"
-msgstr "Notities"
+msgstr "Notitie"
 
 msgid "IDS_COM_BODY_MEMORY_CARD"
-msgstr "Geheugenkaart"
+msgstr "Geheugen-\nkaart"
 
 msgid "IDS_COM_BODY_MESSAGE"
 msgstr "Bericht"
@@ -1148,7 +1148,7 @@ msgid "IDS_COM_SK_DONE"
 msgstr "Gereed"
 
 msgid "IDS_COM_SK_EDIT"
-msgstr "Wijzigen"
+msgstr "Bewerken"
 
 msgid "IDS_COM_SK_MENU"
 msgstr "Menu"
@@ -1178,16 +1178,16 @@ msgid "IDS_COM_SK_PLAY_ABB"
 msgstr "Afspelen"
 
 msgid "IDS_COM_SK_REMOVE"
-msgstr "Wissen"
+msgstr "Verwijderen"
 
 msgid "IDS_COM_SK_RENAME"
-msgstr "Hernoem"
+msgstr "Hernoemen"
 
 msgid "IDS_COM_SK_SEARCH"
 msgstr "Zoeken"
 
 msgid "IDS_COM_SK_SELECT"
-msgstr "Selecteer"
+msgstr "Select."
 
 msgid "IDS_COM_SK_SELECT_ABB"
 msgstr "Sel."
@@ -1422,4 +1422,103 @@ msgstr "Wi-Fi Direct"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Applicatie niet geïnstalleerd"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Breedtegraad"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Lengtegraad"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Speaker"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Kan geen applicatie vinden om deze actie uit te voeren"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Uit"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Aan"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s is nu vergrendeld. Ontgrendelen?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "U kunt %s nog 1 keer gebruiken. Nu beginnen?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "U kunt %s nog 2 keer gebruiken. Nu beginnen?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "U kunt %s %d dagen gebruiken. Nu starten?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s verloopt binnenkort. Nieuwe licentie aanvragen?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "U kunt %s nog 1 keer gebruiken. Nieuwe licentie aanvragen?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "U kunt %s niet meer gebruiken. Nieuwe licentie aanvragen?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Audioapparaat"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Install."
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Registreren"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Onverwachte fout"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Proxyverbinding mislukt"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Netwerkverbindingsfout"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Ongeldige SIM-kaart"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Bewerking is mislukt"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Versie"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Standaard"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Knippen"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Plakken"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Klembord"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Gebruik van schermafbeelding beperkt door beveiligingsbeleid"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Kan %s niet starten"
 
