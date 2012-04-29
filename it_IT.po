@@ -113,7 +113,7 @@ msgid "IDS_COM_POP_MOVING"
 msgstr "Spostamento..."
 
 msgid "IDS_COM_POP_MOVING_FAILED"
-msgstr "Spostamento non eseguito"
+msgstr "Spostamento non riuscito"
 
 msgid "IDS_COM_POP_NAME"
 msgstr "Nome"
@@ -134,7 +134,7 @@ msgid "IDS_COM_POP_RECORDING_FAILED"
 msgstr "Registrazione non riuscita"
 
 msgid "IDS_COM_POP_RETRIEVED"
-msgstr "Recuperato"
+msgstr "Recuperata"
 
 msgid "IDS_COM_POP_RETRIEVING_FAILED"
 msgstr "Errore recupero"
@@ -188,7 +188,7 @@ msgid "IDS_COM_SK_REFRESH"
 msgstr "Aggiorna"
 
 msgid "IDS_COM_SK_RESULT"
-msgstr "Risult."
+msgstr "Risultato"
 
 msgid "IDS_COM_SK_SET_AS"
 msgstr "Imp. come"
@@ -251,7 +251,7 @@ msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
 msgstr "Toccare per aggiungere il testo"
 
 msgid "IDS_COM_BODY_VIA_EMAIL"
-msgstr "Con e-mail"
+msgstr "Tramite e-mail"
 
 msgid "IDS_COM_BODY_YOU_TUBE"
 msgstr "YouTube"
@@ -269,7 +269,7 @@ msgid "IDS_COM_OPT_IMPORT"
 msgstr "Importa"
 
 msgid "IDS_COM_OPT_VIA_EMAIL"
-msgstr "Con e-mail"
+msgstr "Tramite e-mail"
 
 msgid "IDS_COM_POP_DELETE_ACCOUNT"
 msgstr "Elimina account"
@@ -290,7 +290,7 @@ msgid "IDS_COM_POP_PRIORITY"
 msgstr "Priorità"
 
 msgid "IDS_COM_POP_SENT"
-msgstr "Inviato/i"
+msgstr "Inviato"
 
 msgid "IDS_COM_POP_UNABLE_TO_SAVE"
 msgstr "Impossibile salvare"
@@ -329,7 +329,7 @@ msgid "IDS_COM_POP_CALLER_ID"
 msgstr "ID chiamante"
 
 msgid "IDS_COM_POP_DOWNLOAD_FAILED"
-msgstr "Errore download"
+msgstr "Download non riuscito"
 
 msgid "IDS_COM_POP_FILE_NOT_FOUND"
 msgstr "File non trovato"
@@ -371,7 +371,7 @@ msgid "IDS_COM_BODY_FORMAT"
 msgstr "Formatta"
 
 msgid "IDS_COM_BODY_GOOGLE_MAPS"
-msgstr "Maps"
+msgstr "Mappe"
 
 msgid "IDS_COM_BODY_ID"
 msgstr "ID"
@@ -764,7 +764,7 @@ msgid "IDS_COM_SK_CALL"
 msgstr "Chiama"
 
 msgid "IDS_COM_SK_NEXT"
-msgstr "Succ."
+msgstr "Avanti"
 
 msgid "IDS_COM_SK_QUIT"
 msgstr "Esci"
@@ -1019,13 +1019,13 @@ msgid "IDS_COM_BODY_SMART_SEARCH"
 msgstr "Ricerca veloce"
 
 msgid "IDS_COM_BODY_SPEAKER_ON"
-msgstr "Attiva altoparlante"
+msgstr "Attiva vivavoce"
 
 msgid "IDS_COM_BODY_STOPWATCH"
 msgstr "Cronometro"
 
 msgid "IDS_COM_BODY_SYNCHRONIZE"
-msgstr "Sincronizzazione"
+msgstr "Sincronizza"
 
 msgid "IDS_COM_BODY_THU"
 msgstr "Gio"
@@ -1187,7 +1187,7 @@ msgid "IDS_COM_SK_SEARCH"
 msgstr "Cerca"
 
 msgid "IDS_COM_SK_SELECT"
-msgstr "Selez."
+msgstr "Seleziona"
 
 msgid "IDS_COM_SK_SELECT_ABB"
 msgstr "Sel."
@@ -1265,7 +1265,7 @@ msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
 msgstr "Invia con Bluetooth"
 
 msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
-msgstr "Invia con e-mail"
+msgstr "Invia tramite e-mail"
 
 msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
 msgstr "Invia con messaggio"
@@ -1274,7 +1274,7 @@ msgid "IDS_COM_OPT_SEND_VIA_MMS"
 msgstr "Invia con MMS"
 
 msgid "IDS_COM_OPT_SEND_VIA_SMS"
-msgstr "Invia tramite SMS"
+msgstr "Invia con SMS"
 
 msgid "IDS_COM_POP_FOLDER"
 msgstr "Cartella"

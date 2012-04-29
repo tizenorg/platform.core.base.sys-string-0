@@ -3,7 +3,7 @@ Summary:    System string package for multilinugual support
 Version:    0.1.15
 Release:    0
 Group:      TO_BE/FILLED_IN
-License:    TO BE FILLED IN
+License:    Apache License, Version 2.0
 Source0:    %{name}-%{version}.tar.gz
 BuildRequires: gettext-tools
 

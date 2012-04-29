@@ -632,7 +632,7 @@ msgid "IDS_COM_OPT_SAVE"
 msgstr "Speichern"
 
 msgid "IDS_COM_POP_ACCEPT"
-msgstr "Annahme"
+msgstr "Annehmen"
 
 msgid "IDS_COM_POP_AM_M_ABB"
 msgstr "AM"
@@ -680,10 +680,10 @@ msgid "IDS_COM_POP_PD_HOURS"
 msgstr "%d Stunden"
 
 msgid "IDS_COM_POP_REJECT"
-msgstr "Abweisen"
+msgstr "Ablehnen"
 
 msgid "IDS_COM_POP_REJECTED"
-msgstr "Abgewiesen"
+msgstr "Abgelehnt"
 
 msgid "IDS_COM_POP_SAVED"
 msgstr "Gespeichert"
@@ -1091,7 +1091,7 @@ msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
 msgstr "ABC"
 
 msgid "IDS_COM_POP_ACTIVATING"
-msgstr "Aktiviere..."
+msgstr "Wird aktiviert..."
 
 msgid "IDS_COM_POP_DEACTIVATED"
 msgstr "Deaktiviert"
@@ -1388,7 +1388,7 @@ msgid "IDS_COM_POP_SERVER_ERROR"
 msgstr "Serverfehler"
 
 msgid "IDS_COM_BODY_ALL_CHANNELS"
-msgstr "Alle Kanäle"
+msgstr "Alle Sender"
 
 msgid "IDS_COM_SK_CONFIRM"
 msgstr "Bestät."

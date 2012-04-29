@@ -8,7 +8,7 @@ msgid "IDS_COM_BODY_DETAILS_TYPE"
 msgstr "Type"
 
 msgid "IDS_COM_BODY_DISPLAY"
-msgstr "Weergave"
+msgstr "Display"
 
 msgid "IDS_COM_BODY_EMAIL_SYNC"
 msgstr "E-mail sync."

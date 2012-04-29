@@ -2,7 +2,7 @@ msgid "IDS_COM_BODY_BASIC"
 msgstr "標準"
 
 msgid "IDS_COM_BODY_CHANGE_NAME"
-msgstr "フォルダー名変更"
+msgstr "フォルダ名変更"
 
 msgid "IDS_COM_BODY_DETAILS_TYPE"
 msgstr "種類"
@@ -14,7 +14,7 @@ msgid "IDS_COM_BODY_EMAIL_SYNC"
 msgstr "Eメール​同期"
 
 msgid "IDS_COM_BODY_FOLDERS"
-msgstr "フォルダー"
+msgstr "フォルダ"
 
 msgid "IDS_COM_BODY_FWD_C"
 msgstr "転送："
@@ -32,7 +32,7 @@ msgid "IDS_COM_BODY_MORE"
 msgstr "その他"
 
 msgid "IDS_COM_BODY_NO_VIDEOS"
-msgstr "ビデオがありません。"
+msgstr "動画がありません。"
 
 msgid "IDS_COM_BODY_PRIVATE"
 msgstr "非公開"
@@ -77,7 +77,7 @@ msgid "IDS_COM_OPT_ADD_TAG"
 msgstr "タグ​を​追加​"
 
 msgid "IDS_COM_OPT_FOLDERS"
-msgstr "フォルダー"
+msgstr "フォルダ"
 
 msgid "IDS_COM_OPT_NEW_TAG"
 msgstr "新しい​タグ"
@@ -101,10 +101,10 @@ msgid "IDS_COM_POP_CONNECTED"
 msgstr "接続しました。"
 
 msgid "IDS_COM_POP_FILE_NOT_EXIST"
-msgstr "この​ファイル​は​存在​しません"
+msgstr "このファイルは存在しません。"
 
 msgid "IDS_COM_POP_INVALID_CHARACTERS"
-msgstr "無効な​文字​です"
+msgstr "無効な文字です。"
 
 msgid "IDS_COM_POP_MOVED"
 msgstr "移動しました。"
@@ -131,7 +131,7 @@ msgid "IDS_COM_POP_PROCESSING"
 msgstr "処理中..."
 
 msgid "IDS_COM_POP_RECORDING_FAILED"
-msgstr "録音​に​失敗​しました"
+msgstr "録音​に​失敗​しました。"
 
 msgid "IDS_COM_POP_RETRIEVED"
 msgstr "受信しました"
@@ -140,19 +140,19 @@ msgid "IDS_COM_POP_RETRIEVING_FAILED"
 msgstr "受信​できません​でした"
 
 msgid "IDS_COM_POP_SAVING_FAILED"
-msgstr "保存​に​失敗​しました"
+msgstr "保存​に​失敗​しました。"
 
 msgid "IDS_COM_POP_SAVING_ING"
 msgstr "保存中..."
 
 msgid "IDS_COM_POP_SELECTED"
-msgstr "1件"
+msgstr "選択しました。"
 
 msgid "IDS_COM_POP_SMALL_MINUTES"
 msgstr "分"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
-msgstr "再度実行してください"
+msgstr "再度実行してください。"
 
 msgid "IDS_COM_POP_UNLIMITED"
 msgstr "無制限"
@@ -242,7 +242,7 @@ msgid "IDS_COM_BODY_PREVIOUS_DAYS"
 msgstr "前のメール"
 
 msgid "IDS_COM_BODY_SEARCHING"
-msgstr "検索中"
+msgstr "検索しています。"
 
 msgid "IDS_COM_BODY_SOUNDS"
 msgstr "サウンド"
@@ -284,7 +284,7 @@ msgid "IDS_COM_POP_INSTALLING_ING"
 msgstr "インストール中..."
 
 msgid "IDS_COM_POP_INVALID_URL"
-msgstr "URL​が​無効です"
+msgstr "無効なURLです。"
 
 msgid "IDS_COM_POP_PRIORITY"
 msgstr "優先度"
@@ -386,7 +386,7 @@ msgid "IDS_COM_BODY_NO_CONTENTS"
 msgstr "コンテンツがありません。"
 
 msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
-msgstr "検索​結果​が​ありません"
+msgstr "検索​結果​が​ありません。"
 
 msgid "IDS_COM_BODY_PASSWORD"
 msgstr "パスワード"
@@ -401,7 +401,7 @@ msgid "IDS_COM_BODY_SIZE"
 msgstr "サイズ"
 
 msgid "IDS_COM_BODY_START"
-msgstr "開始"
+msgstr "スタート"
 
 msgid "IDS_COM_BODY_SUN"
 msgstr "日"
@@ -470,10 +470,10 @@ msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
 msgstr "メモリカードが挿入されました"
 
 msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
-msgstr "メモリカードが取り外されました"
+msgstr "外部SDカードが取り外されました。"
 
 msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
-msgstr "メモリ不足です。"
+msgstr "メモリが不足しています。"
 
 msgid "IDS_COM_POP_PASSWORD"
 msgstr "パスワード"
@@ -671,7 +671,7 @@ msgid "IDS_COM_POP_ERROR"
 msgstr "エラー"
 
 msgid "IDS_COM_POP_INCORRECT_PASSWORD"
-msgstr "パスワードが間違っています。"
+msgstr "不正なパスワードです。"
 
 msgid "IDS_COM_POP_INVALID_PASSWORD"
 msgstr "パスワードが無効です"
@@ -698,7 +698,7 @@ msgid "IDS_COM_POP_UPDATE"
 msgstr "更新"
 
 msgid "IDS_COM_POP_UPDATED"
-msgstr "更新しました"
+msgstr "更新しました。"
 
 msgid "IDS_COM_SK_ADD_ACCOUNT"
 msgstr "アカウント追加"
@@ -749,7 +749,7 @@ msgid "IDS_COM_POP_NONE"
 msgstr "なし"
 
 msgid "IDS_COM_POP_SUCCESS"
-msgstr "正常完了"
+msgstr "正常に完了しました。"
 
 msgid "IDS_COM_SK_ACCEPT"
 msgstr "同意する"
@@ -788,7 +788,7 @@ msgid "IDS_IDLE_BODY_WEATHER"
 msgstr "天気予報"
 
 msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
-msgstr "Samsungアプリ"
+msgstr "Samsung Apps"
 
 msgid "IDS_COM_BODY_ACTIVATED"
 msgstr "有効になりました"
@@ -899,7 +899,7 @@ msgid "IDS_COM_BODY_IM"
 msgstr "ﾒｯｾﾝｼﾞｬｰ"
 
 msgid "IDS_COM_BODY_IMAGE_EDITOR"
-msgstr "画像​編集"
+msgstr "イメージエディター"
 
 msgid "IDS_COM_BODY_INTERNET"
 msgstr "インターネット"
@@ -1013,7 +1013,7 @@ msgid "IDS_COM_BODY_SETTINGS"
 msgstr "設定"
 
 msgid "IDS_COM_BODY_SILENT"
-msgstr "消音"
+msgstr "マナー"
 
 msgid "IDS_COM_BODY_SMART_SEARCH"
 msgstr "スマート​検索"
@@ -1091,10 +1091,10 @@ msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
 msgstr "ABC"
 
 msgid "IDS_COM_POP_ACTIVATING"
-msgstr "アクティベートしています..."
+msgstr "起動中..."
 
 msgid "IDS_COM_POP_DEACTIVATED"
-msgstr "無効になりました"
+msgstr "無効になりました。"
 
 msgid "IDS_COM_POP_EMPTY"
 msgstr "空き"
@@ -1181,7 +1181,7 @@ msgid "IDS_COM_SK_REMOVE"
 msgstr "削除"
 
 msgid "IDS_COM_SK_RENAME"
-msgstr "名前を変更"
+msgstr "名前変更"
 
 msgid "IDS_COM_SK_SEARCH"
 msgstr "検索"
@@ -1277,7 +1277,7 @@ msgid "IDS_COM_OPT_SEND_VIA_SMS"
 msgstr "SMS​で​送信"
 
 msgid "IDS_COM_POP_FOLDER"
-msgstr "フォルダー"
+msgstr "フォルダ"
 
 msgid "IDS_COM_POP_FRI"
 msgstr "金"
@@ -1319,7 +1319,7 @@ msgid "IDS_COM_BODY_DONE"
 msgstr "完了"
 
 msgid "IDS_COM_BODY_APPLICATIONS"
-msgstr "アプリ"
+msgstr "アプリケーション"
 
 msgid "IDS_COM_BODY_SELECT_LAYOUT"
 msgstr "レイアウトを​選択"
@@ -1337,7 +1337,7 @@ msgid "IDS_COM_BODY_REPEAT"
 msgstr "繰り返し"
 
 msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
-msgstr "未対応のファイルです"
+msgstr "未対応のファイルです。"
 
 msgid "IDS_COM_POP_COPIED_P"
 msgstr "コピーしました。"
@@ -1406,7 +1406,7 @@ msgid "IDS_COM_BODY_HOME"
 msgstr "ホーム"
 
 msgid "IDS_COM_BODY_IM_IN_A_MEETING"
-msgstr "会議中​です"
+msgstr "申し訳ありません、会議中です。"
 
 msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
 msgstr "Wi-Fi Kies接続"
@@ -1496,7 +1496,7 @@ msgid "IDS_COM_BODY_INVALID_SIM_CARD"
 msgstr "無効​な​SIM​カード​です"
 
 msgid "IDS_COM_BODY_OPERATION_FAILED"
-msgstr "​失敗しました"
+msgstr "​失敗しました。"
 
 msgid "IDS_COM_POP_VERSION"
 msgstr "バージョン"
@@ -1514,7 +1514,7 @@ msgid "IDS_COM_BODY_CLIPBOARD"
 msgstr "クリップ​ボード"
 
 msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
-msgstr "セキュリティポリシーによって、画面キャプチャーの使用が制限されています。"
+msgstr "セキュリティポリシーによって、スクリーンキャプチャーの使用が制限されています。"
 
 msgid "IDS_COM_BODY_NFC"
 msgstr "NFC"

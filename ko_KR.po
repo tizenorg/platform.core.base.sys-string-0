@@ -1049,7 +1049,7 @@ msgid "IDS_COM_BODY_UNIT_SEC_LC"
 msgstr "초"
 
 msgid "IDS_COM_BODY_UNKNOWN"
-msgstr "알 수 없음"
+msgstr "번호정보 없음"
 
 msgid "IDS_COM_BODY_USB"
 msgstr "USB"

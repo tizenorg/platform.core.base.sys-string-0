@@ -377,7 +377,7 @@ msgid "IDS_COM_BODY_ID"
 msgstr "ID"
 
 msgid "IDS_COM_BODY_LOCATION"
-msgstr "位置"
+msgstr "地址"
 
 msgid "IDS_COM_BODY_MANUAL"
 msgstr "手動"
@@ -404,7 +404,7 @@ msgid "IDS_COM_BODY_START"
 msgstr "開始"
 
 msgid "IDS_COM_BODY_SUN"
-msgstr "日"
+msgstr "週日"
 
 msgid "IDS_COM_BODY_TAKE_PHOTO"
 msgstr "拍照"
@@ -890,7 +890,7 @@ msgid "IDS_COM_BODY_FORWARD_A"
 msgstr "轉寄"
 
 msgid "IDS_COM_BODY_FRI"
-msgstr "五"
+msgstr "週五"
 
 msgid "IDS_COM_BODY_HELP"
 msgstr "說明"
@@ -932,7 +932,7 @@ msgid "IDS_COM_BODY_MAR"
 msgstr "3 月"
 
 msgid "IDS_COM_BODY_MAY"
-msgstr "五月"
+msgstr "5 月"
 
 msgid "IDS_COM_BODY_MEMO"
 msgstr "備忘錄"
@@ -1004,7 +1004,7 @@ msgid "IDS_COM_BODY_RESET_A"
 msgstr "重設"
 
 msgid "IDS_COM_BODY_SAT"
-msgstr "六"
+msgstr "週六"
 
 msgid "IDS_COM_BODY_SEP"
 msgstr "9 月"
@@ -1028,13 +1028,13 @@ msgid "IDS_COM_BODY_SYNCHRONIZE"
 msgstr "同步處理"
 
 msgid "IDS_COM_BODY_THU"
-msgstr "四"
+msgstr "週四"
 
 msgid "IDS_COM_BODY_TIMER"
 msgstr "計時器"
 
 msgid "IDS_COM_BODY_TUE"
-msgstr "二"
+msgstr "週二"
 
 msgid "IDS_COM_BODY_TWITTER"
 msgstr "Twitter"
@@ -1064,7 +1064,7 @@ msgid "IDS_COM_BODY_VOICE_RECORDER"
 msgstr "錄音機"
 
 msgid "IDS_COM_BODY_WED"
-msgstr "三"
+msgstr "週三"
 
 msgid "IDS_COM_BODY_WI_FI"
 msgstr "Wi-Fi"
@@ -1280,7 +1280,7 @@ msgid "IDS_COM_POP_FOLDER"
 msgstr "資料夾"
 
 msgid "IDS_COM_POP_FRI"
-msgstr "五"
+msgstr "週五"
 
 msgid "IDS_COM_POP_MON"
 msgstr "週一"
@@ -1289,7 +1289,7 @@ msgid "IDS_COM_POP_MUTE"
 msgstr "靜音"
 
 msgid "IDS_COM_POP_SAT"
-msgstr "六"
+msgstr "週六"
 
 msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
 msgstr "存儲到草稿匣"
@@ -1304,16 +1304,16 @@ msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
 msgstr "以靜音模式播放？"
 
 msgid "IDS_COM_POP_SUN"
-msgstr "日"
+msgstr "週日"
 
 msgid "IDS_COM_POP_THU"
-msgstr "四"
+msgstr "週四"
 
 msgid "IDS_COM_POP_TUE"
-msgstr "二"
+msgstr "週二"
 
 msgid "IDS_COM_POP_WED"
-msgstr "三"
+msgstr "週三"
 
 msgid "IDS_COM_BODY_DONE"
 msgstr "完成"

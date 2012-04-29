@@ -572,7 +572,7 @@ msgid "IDS_COM_BODY_PD_MINUTES"
 msgstr "%d minutos"
 
 msgid "IDS_COM_BODY_RENAME"
-msgstr "Cambiar nombre"
+msgstr "Renombrar"
 
 msgid "IDS_COM_BODY_RINGTONE"
 msgstr "Melodía"

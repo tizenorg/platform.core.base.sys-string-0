@@ -116,7 +116,7 @@ msgid "IDS_COM_POP_MOVING_FAILED"
 msgstr "移动失败"
 
 msgid "IDS_COM_POP_NAME"
-msgstr "名称"
+msgstr "姓名"
 
 msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
 msgstr "内部错误"
@@ -230,7 +230,7 @@ msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
 
 msgid "IDS_COM_BODY_NEVER"
-msgstr "永不休眠"
+msgstr "从不"
 
 msgid "IDS_COM_BODY_NOTE"
 msgstr "注释"
@@ -317,7 +317,7 @@ msgid "IDS_COM_BODY_LOADING"
 msgstr "载入中…"
 
 msgid "IDS_COM_BODY_PREVIOUS"
-msgstr "上一个"
+msgstr "上一步"
 
 msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
 msgstr "点击并添加收件人"
@@ -344,7 +344,7 @@ msgid "IDS_COM_BODY_ALBUM"
 msgstr "专辑"
 
 msgid "IDS_COM_BODY_ALBUMS"
-msgstr "唱片"
+msgstr "相册"
 
 msgid "IDS_COM_BODY_AUTO_REFRESH"
 msgstr "自动刷新"
@@ -377,7 +377,7 @@ msgid "IDS_COM_BODY_ID"
 msgstr "ID"
 
 msgid "IDS_COM_BODY_LOCATION"
-msgstr "网址"
+msgstr "地址"
 
 msgid "IDS_COM_BODY_MANUAL"
 msgstr "手动"
@@ -494,7 +494,7 @@ msgid "IDS_COM_POP_SIZE"
 msgstr "大小"
 
 msgid "IDS_COM_POP_TIME"
-msgstr "持续期间"
+msgstr "时间"
 
 msgid "IDS_COM_POP_TYPE"
 msgstr "类型"
@@ -563,7 +563,7 @@ msgid "IDS_COM_BODY_INFO"
 msgstr "信息"
 
 msgid "IDS_COM_BODY_MELODY"
-msgstr "铃音"
+msgstr "乐曲"
 
 msgid "IDS_COM_BODY_OTHERS"
 msgstr "其它"
@@ -593,7 +593,7 @@ msgid "IDS_COM_BODY_TODAY"
 msgstr "今天"
 
 msgid "IDS_COM_BODY_VIDEOS"
-msgstr "视频"
+msgstr "个视频"
 
 msgid "IDS_COM_BODY_WALLPAPER"
 msgstr "墙纸"
@@ -668,7 +668,7 @@ msgid "IDS_COM_POP_ENTER_NAME"
 msgstr "名字不能为空"
 
 msgid "IDS_COM_POP_ERROR"
-msgstr "错误"
+msgstr "警告"
 
 msgid "IDS_COM_POP_INCORRECT_PASSWORD"
 msgstr "密码错误"
@@ -713,7 +713,7 @@ msgid "IDS_COM_ADD"
 msgstr "添加"
 
 msgid "IDS_COM_BODY_CALL"
-msgstr "通话设定"
+msgstr "通话"
 
 msgid "IDS_COM_BODY_CONTACT"
 msgstr "联系人"
@@ -866,7 +866,7 @@ msgid "IDS_COM_BODY_DELETE_ALL"
 msgstr "全部删除"
 
 msgid "IDS_COM_BODY_DETAILS_NAME"
-msgstr "名称"
+msgstr "姓名"
 
 msgid "IDS_COM_BODY_DETAILS_TITLE"
 msgstr "题目"
@@ -896,7 +896,7 @@ msgid "IDS_COM_BODY_HELP"
 msgstr "帮助"
 
 msgid "IDS_COM_BODY_IM"
-msgstr "IM"
+msgstr "即时信息"
 
 msgid "IDS_COM_BODY_IMAGE_EDITOR"
 msgstr "图像编辑器"
@@ -986,7 +986,7 @@ msgid "IDS_COM_BODY_OCT"
 msgstr "10 月"
 
 msgid "IDS_COM_BODY_OFF"
-msgstr "关闭"
+msgstr "关"
 
 msgid "IDS_COM_BODY_ON"
 msgstr "开"
@@ -1199,7 +1199,7 @@ msgid "IDS_COM_SK_SEND_ABB"
 msgstr "发送"
 
 msgid "IDS_COM_SK_SET"
-msgstr "已设置"
+msgstr "设置"
 
 msgid "IDS_COM_SK_STOP"
 msgstr "停止"
@@ -1232,7 +1232,7 @@ msgid "IDS_COM_BODY_END"
 msgstr "结束"
 
 msgid "IDS_COM_BODY_FAVOURITES"
-msgstr "我的最爱"
+msgstr "我的收藏"
 
 msgid "IDS_COM_BODY_FILE_NAME"
 msgstr "文件名称"
@@ -1403,13 +1403,13 @@ msgid "IDS_COM_BODY_GOOGLE"
 msgstr "Google"
 
 msgid "IDS_COM_BODY_HOME"
-msgstr "家"
+msgstr "家庭"
 
 msgid "IDS_COM_BODY_IM_IN_A_MEETING"
 msgstr "我正在开会"
 
 msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
-msgstr "Kies通过WLAN"
+msgstr "KIES 通过Wi-Fi"
 
 msgid "IDS_COM_BODY_MOBILE"
 msgstr "手机"
@@ -1505,7 +1505,7 @@ msgid "IDS_COM_BODY_DEFAULT"
 msgstr "默认"
 
 msgid "IDS_COM_BODY_CUT"
-msgstr "剪贴"
+msgstr "剪切"
 
 msgid "IDS_COM_BODY_PASTE"
 msgstr "粘贴"

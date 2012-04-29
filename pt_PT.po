@@ -494,7 +494,7 @@ msgid "IDS_COM_POP_SIZE"
 msgstr "Tamanho"
 
 msgid "IDS_COM_POP_TIME"
-msgstr "Data"
+msgstr "Hora"
 
 msgid "IDS_COM_POP_TYPE"
 msgstr "Tipo"
