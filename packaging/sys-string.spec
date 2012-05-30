@@ -5,6 +5,7 @@ Release:    0
 Group:      TO_BE/FILLED_IN
 License:    Apache License, Version 2.0
 Source0:    %{name}-%{version}.tar.gz
+Source1001: packaging/sys-string.manifest 
 BuildRequires: gettext-tools
 
 %description
@@ -14,6 +15,7 @@ System string package for multilinugual support
 %setup -q
 
 %build
+cp %{SOURCE1001} .
 /usr/bin/msgfmt -o en.mo en.po
 /usr/bin/msgfmt -o nl_NL.mo nl_NL.po
 /usr/bin/msgfmt -o de_DE.mo de_DE.po
@@ -67,5 +69,6 @@ cp pt_PT.mo %{buildroot}%{_datadir}/locale/pt_PT/LC_MESSAGES/sys_string.mo
 cp fr_FR.mo %{buildroot}%{_datadir}/locale/fr_FR/LC_MESSAGES/sys_string.mo
 
 %files
+%manifest sys-string.manifest
 %defattr(-,root,root,-)
 %{_datadir}/locale/*/LC_MESSAGES/*
