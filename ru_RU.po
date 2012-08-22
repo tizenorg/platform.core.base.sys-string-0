@@ -1,3 +1,33 @@
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Звук выкл."
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Звук вкл."
+
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Пятница"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Понедельник"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Сyббота"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Воскресенье"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Четверг"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Вторник"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Среда"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "Н/Д"
+
 msgid "IDS_COM_BODY_BASIC"
 msgstr "Основной"
 
@@ -17,7 +47,7 @@ msgid "IDS_COM_BODY_FOLDERS"
 msgstr "Папки"
 
 msgid "IDS_COM_BODY_FWD_C"
-msgstr "FWD:"
+msgstr "Fwd:"
 
 msgid "IDS_COM_BODY_INFORMATION"
 msgstr "Информация"
@@ -41,13 +71,13 @@ msgid "IDS_COM_BODY_RESUME"
 msgstr "Возобновить"
 
 msgid "IDS_COM_BODY_RINGTONES"
-msgstr "Мелодии вызова"
+msgstr "Мелодии звонка"
 
 msgid "IDS_COM_BODY_SECONDS_LC"
 msgstr "сек."
 
 msgid "IDS_COM_BODY_SELECTED"
-msgstr "Выбранное"
+msgstr "Выбрано"
 
 msgid "IDS_COM_BODY_SET_AS"
 msgstr "Установить как"
@@ -83,7 +113,7 @@ msgid "IDS_COM_OPT_NEW_TAG"
 msgstr "Новый тег"
 
 msgid "IDS_COM_OPT_SELECTED"
-msgstr "Выбранное"
+msgstr "Выбрано"
 
 msgid "IDS_COM_OPT_UPDATE"
 msgstr "Обновить"
@@ -134,10 +164,10 @@ msgid "IDS_COM_POP_RECORDING_FAILED"
 msgstr "Сбой записи"
 
 msgid "IDS_COM_POP_RETRIEVED"
-msgstr "Извлечено"
+msgstr "Получено"
 
 msgid "IDS_COM_POP_RETRIEVING_FAILED"
-msgstr "Сбой извлечения"
+msgstr "Сбой загрузки"
 
 msgid "IDS_COM_POP_SAVING_FAILED"
 msgstr "Сбой сохранения"
@@ -152,10 +182,10 @@ msgid "IDS_COM_POP_SMALL_MINUTES"
 msgstr "мин."
 
 msgid "IDS_COM_POP_TRY_AGAIN"
-msgstr "Попытайтесь снова"
+msgstr "Повторите попытку"
 
 msgid "IDS_COM_POP_UNLIMITED"
-msgstr "Неограниченно"
+msgstr "Не ограничено"
 
 msgid "IDS_COM_POP_VIBRATION"
 msgstr "Вибрация"
@@ -323,10 +353,10 @@ msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
 msgstr "Добавить получателя"
 
 msgid "IDS_COM_OPT_CALLER_ID"
-msgstr "Фотоопределитель"
+msgstr "Изображение"
 
 msgid "IDS_COM_POP_CALLER_ID"
-msgstr "Фотоопределитель"
+msgstr "Изображение"
 
 msgid "IDS_COM_POP_DOWNLOAD_FAILED"
 msgstr "Загрузка невозможна"
@@ -377,7 +407,7 @@ msgid "IDS_COM_BODY_ID"
 msgstr "Логин"
 
 msgid "IDS_COM_BODY_LOCATION"
-msgstr "Расположение"
+msgstr "Местоположение"
 
 msgid "IDS_COM_BODY_MANUAL"
 msgstr "Вручную"
@@ -520,6 +550,12 @@ msgstr "Ответить"
 msgid "IDS_COM_SK_START"
 msgstr "Запуск"
 
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Сбой удаления"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Повтор"
+
 msgid "IDS_COM_BODY_1_DAY"
 msgstr "1 день"
 
@@ -560,7 +596,7 @@ msgid "IDS_COM_BODY_IMAGES"
 msgstr "Картинки"
 
 msgid "IDS_COM_BODY_INFO"
-msgstr "Инфо"
+msgstr "Сведения"
 
 msgid "IDS_COM_BODY_MELODY"
 msgstr "Мелодия"
@@ -692,7 +728,7 @@ msgid "IDS_COM_POP_SENDING"
 msgstr "Отправка..."
 
 msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
-msgstr "Неподдерживаемый тип файла"
+msgstr "Неподдерживаемый\nтип файла"
 
 msgid "IDS_COM_POP_UPDATE"
 msgstr "Обновить"
@@ -733,6 +769,9 @@ msgstr "Нет"
 msgid "IDS_COM_BODY_NO_NAME"
 msgstr "Нет имени"
 
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "Нет SIM-карты"
+
 msgid "IDS_COM_BODY_SELECT_ALL"
 msgstr "Выбрать все"
 
@@ -744,6 +783,9 @@ msgstr "Отмена"
 
 msgid "IDS_COM_POP_FAILED"
 msgstr "Сбой"
+
+msgid "IDS_COM_POP_LOW_BATTERY_UNABLE_TO_LAUNCH_APPLICATION"
+msgstr "Низкий заряд батареи. Не удается запустить приложение"
 
 msgid "IDS_COM_POP_NONE"
 msgstr "Нет"
@@ -794,10 +836,10 @@ msgid "IDS_COM_BODY_ACTIVATED"
 msgstr "Включено"
 
 msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
-msgstr "SIM"
+msgstr "SIM-карта"
 
 msgid "IDS_COM_BODY_ALARM"
-msgstr "Сигнал"
+msgstr "Будильник"
 
 msgid "IDS_COM_BODY_ALL"
 msgstr "Все"
@@ -917,7 +959,7 @@ msgid "IDS_COM_BODY_LOCK"
 msgstr "Заблокировать"
 
 msgid "IDS_COM_BODY_LOCK_A"
-msgstr "Блокир"
+msgstr "Блокир."
 
 msgid "IDS_COM_BODY_LOGS"
 msgstr "Журналы"
@@ -1106,7 +1148,7 @@ msgid "IDS_COM_POP_HOUR_LC"
 msgstr "час"
 
 msgid "IDS_COM_POP_MISSED_CALL"
-msgstr "пропущенный вызов"
+msgstr "Пропущенный вызов"
 
 msgid "IDS_COM_POP_MISSED_CALLS"
 msgstr "Пропущено вызовов:"
@@ -1127,7 +1169,7 @@ msgid "IDS_COM_POP_NEW_MESSAGE"
 msgstr "Новое сообщение"
 
 msgid "IDS_COM_POP_NEW_MESSAGES"
-msgstr "новых сообщ."
+msgstr "Новые сообщения"
 
 msgid "IDS_COM_POP_PM"
 msgstr "РМ"
@@ -1157,7 +1199,7 @@ msgid "IDS_COM_SK_NO"
 msgstr "Нет"
 
 msgid "IDS_COM_SK_OFF"
-msgstr "Выключено"
+msgstr "Выкл."
 
 msgid "IDS_COM_SK_OK"
 msgstr "Да"
@@ -1193,7 +1235,7 @@ msgid "IDS_COM_SK_SELECT_ABB"
 msgstr "Выбор"
 
 msgid "IDS_COM_SK_SEND"
-msgstr "Отправить"
+msgstr "Отправ."
 
 msgid "IDS_COM_SK_SEND_ABB"
 msgstr "Отпр."
@@ -1256,13 +1298,13 @@ msgid "IDS_COM_BODY_REPLACE_ABB"
 msgstr "Заменить"
 
 msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
-msgstr "Отправить по Bluetooth"
+msgstr "Отправить через Bluetooth"
 
 msgid "IDS_COM_OPT_SEND_VIA"
-msgstr "Отправить по"
+msgstr "Отправить"
 
 msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
-msgstr "Отправить по Bluetooth"
+msgstr "Отправить через Bluetooth"
 
 msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
 msgstr "Отправить по E-mail"
@@ -1274,7 +1316,7 @@ msgid "IDS_COM_OPT_SEND_VIA_MMS"
 msgstr "Отправить по MMS"
 
 msgid "IDS_COM_OPT_SEND_VIA_SMS"
-msgstr "Отправить по SMS"
+msgstr "Отправить через SMS"
 
 msgid "IDS_COM_POP_FOLDER"
 msgstr "Папка"
@@ -1298,7 +1340,7 @@ msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
 msgstr "Сохранить в Черновики?"
 
 msgid "IDS_COM_POP_SEND_VIA"
-msgstr "Отправить по"
+msgstr "Отправить"
 
 msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
 msgstr "Воспроизвести в профиле “Без звука”?"
@@ -1327,6 +1369,9 @@ msgstr "Выберите макет"
 msgid "IDS_COM_SK_LAUNCH"
 msgstr "Запуск"
 
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Экстренный вызов"
+
 msgid "IDS_COM_OPT_HEADPHONES_ABB"
 msgstr "Наушники"
 
@@ -1338,6 +1383,9 @@ msgstr "Повторить"
 
 msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
 msgstr "Неподдерживаемый тип файла"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "Вставьте SIM-карту"
 
 msgid "IDS_COM_POP_COPIED_P"
 msgstr "Скопировано"
@@ -1391,7 +1439,7 @@ msgid "IDS_COM_BODY_ALL_CHANNELS"
 msgstr "Все каналы"
 
 msgid "IDS_COM_SK_CONFIRM"
-msgstr "Да"
+msgstr "Подтвердить"
 
 msgid "IDS_COM_SK_DECLINE"
 msgstr "Отклонить"
@@ -1419,6 +1467,339 @@ msgstr "Рабочий"
 
 msgid "IDS_COM_OPT1_WI_FI_DIRECT"
 msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Абиджан"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Абу-Даби"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Объединенные Арабские Эмираты"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Аккра"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Гана"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Аддис-Абеба"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "Эфиопия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Аделаида"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "Австралия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Аляска"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "США"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "Кот-д'Ивуар"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Алжир"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "Алжир"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Алматы"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "Казахстан"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Амбон"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "Индонезия"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Амман"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "Иордан"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Амстердам"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "Нидерланды"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Анадырь"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "Россия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Анкоридж"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Анкара"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "Турция"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Антананариву"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "Мадагаскар"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Ашхабад"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "Туркменистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Асмара"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "Эритрея"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Астана"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Асунсьон"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Парагвай"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "Афины"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "Греция"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Окленд"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "Новая Зеландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Остин"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "Азорские острова"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "Португалия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Багдад"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "Ирак"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Баку"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "Азербайджан"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Балтимор"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Бамако"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Мали"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Бангкок"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "Таиланд"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Банги"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Центрально-Африканская Республика"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Барселона"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "Испания"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Бари"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "Италия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Бас-Тер"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Гваделупа"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Пекин"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "Китай"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Бейрут"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "Ливан"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Белград"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "Сербия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Белиз (город)"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "Белиз"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Берлин"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "Германия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Берн"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "Швейцария"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Бишкек"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "Киргизия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Бисау"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Гвинея-Бисау"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Богота"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "Колумбия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Болонья"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Бостон"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Бразилиа"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "Бразилия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "Братислава"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "Словакия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Бриджтаун"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Барбадос"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Брисбен"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "Брюссель"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "Бельгия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Бухарест"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "Румыния"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Будапешт"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "Венгрия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Буэнос-Айрес"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "Аргентина"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Каир"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "Египет"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Калгари"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Канада"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Канарские острова"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Канберра"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Кантон"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Кейптаун"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Южно-Африканская Республика"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Каракас"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Венесуэла"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Кардифф"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "Уэльс"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Касабланка"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Марокко"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Катандзаро"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
 msgstr "Приложение не установлено"
@@ -1487,7 +1868,7 @@ msgid "IDS_COM_POP_UNEXPECTED_ERROR"
 msgstr "Непредвиденная ошибка"
 
 msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
-msgstr "Сбой соединения прокси"
+msgstr "Сбой подключения к прокси"
 
 msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
 msgstr "Ошибка подключения к сети"
@@ -1516,9 +1897,1167 @@ msgstr "Буфер обмена"
 msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
 msgstr "Политика безопасности ограничивает создание снимков экрана"
 
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Кайенна"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Французская Гвиана"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Шарлотт"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Шарлотта-Амалия"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "Виргинские острова (США)"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Челябинск"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Ченнай"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "Индия"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Чикаго"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Кишинёв"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "Молдова"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Чита"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Кливленд"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Коломбо"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Шри-Ланка"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Колумбус"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Конакри"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "Гвинея"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Копенгаген"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "Дания"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Корк"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "Ирландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Кротоне"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Дакар"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "Сенегал"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Даллас"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "Дамаск"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "Сирия"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Дар-эс-Салам"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "Танзания"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Дарвин"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Дели"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Дэнпасар"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Денвер"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Детройт"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Дакка"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "Бангладеш"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Диего-Гарсия"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "Великобритания"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Джибути"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Джибути"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Доха"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Катар"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Дуала"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Камерун"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Дубай"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Дублин"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Душанбе"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "Таджикистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Остров Пасхи"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "Чили"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Эдинбург"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Шотландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "Эль-Пасо"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Флоренция"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Фор-де-Франс"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Мартиника"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Фритаун"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Сьерра-Леоне"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Габороне"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "Ботсвана"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Галапагосские острова"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Эквадор"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "Женева"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Генуя"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Джорджтаун"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "Гайана"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Грютвикен"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "Южная Георгия"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Гуам"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Гватемала"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Гватемала"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Густавия"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Сен-Бартельми"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Галифакс"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Гамбург"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Ханой"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Вьетнам"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Хараре"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "Зимбабве"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Гавана"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Куба"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Гавайи"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Хельсинки"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "Финляндия"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Хобарт"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Гонконг"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Гонолулу"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Хьюстон"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Ховд"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "Монголия"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Индианаполис"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "Иркутск"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "Исламабад"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "Пакистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "Стамбул"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "Ижевск"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Джакарта"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Джедда"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "Саудовская Аравия"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Иерусалим"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "Израиль"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Йоханнесбург"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Кабул"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "Афганистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Калининград"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Камчатка"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Кампала"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Уганда"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Карачи"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Катманду"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Непал"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Хабаровск"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Харьков"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "Украина"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Хартум"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "Судан"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Киев"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Кингстон"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Ямайка"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Киншаса"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Демократическая Республика Конго"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Калькутта"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Красноярск"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Куала-Лумпур"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "Малайзия"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Кувейт"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Лос-Анджелес"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "Ла-Пас"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "Боливия"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Лагос"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "Нигерия"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Лас-Вегас"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Лима"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Перу"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Лиссабон"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Любляна"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "Лондон"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Лунхуа"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Луисвилл"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Луанда"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Ангола"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Лубумбаши"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Лусака"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "Замбия"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Люксембург"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Львов"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Макао"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Мадрид"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Магадан"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Малабо"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "Экваториальная Гвинея"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Мале"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Мальдивы"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Манагуа"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Никарагуа"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Манама"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Бахрейн"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Манила"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Филиппины"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Мапуто"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Мозамбик"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Мариго"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Сен-Мартен"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Мазатлан"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Мексика"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Эр-Рияд"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Мельбурн"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Мемфис"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Мессина"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Мехико"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Майами"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "Средняя Атлантика"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Острова Мидуэй"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Милан"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Милуоки"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Минск"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "Беларусь"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Могадишо"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "Сомали"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Монровия"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "Либерия"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Монтевидео"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Уругвай"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Монреаль"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Москва"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Мумбай"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "Мюнхен"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Маскат"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Оман"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Найроби"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "Кения"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "Рим"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Натерс"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "Нджамена"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Неаполь"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "Чад"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Мекка"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "Нью-Дели"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "Нью-Йорк"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Ньюфаундленд"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Ниамей"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "Нигер"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Нуакшот"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "Мавритания"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Нумеа"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "Новая Каледония"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Новокузнецк"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Новосибирск"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Нукуалофа"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Тонга"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Нук"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "Гренландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Омск"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Осака"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "Япония"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Оттава"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Уагадугу"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Буркина-Фасо"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Паго-Паго"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Независимое Государство Самоа"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Палермо"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Панама-Сити"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Панама"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Парамарибо"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Суринам"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "Париж"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "Франция"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Пермь"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Перт"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Петропавловск-Камчатский"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Филадельфия"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Пномпень"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "Камбоджа"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Финикс"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Подгорица"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Черногория"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Понта-Делгада"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Порт-Луи"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Маврикий"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Порт-о-Пренс"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Гаити"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Портленд"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Прага"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Чешская Республика"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Пхеньян"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "Северная Корея"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Кито"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Рабат"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Янгон"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Бирма"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Ресифи"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Регина"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Рейкьявик"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "Исландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Рига"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "Латвия"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Рио-де-Жанейро"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Сен-Дени"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Реюньон"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Самара"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "Сан-Антонио"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "Сан-Диего"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "Сан-Франциско"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "Сан-Хосе"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Коста-Рика"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "Сан-Хуан"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Пуэрто-Рико"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "Сан-Марино"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "Сан-Сальвадор"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "Сальвадор"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Сана"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Йемен"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Сантьяго"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Санто-Доминго"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "Доминиканская Республика"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "Сан-Паулу"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Сиэтл"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Сеул"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Республика Корея"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Шанхай"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Шэньчжэнь"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Сингапур"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Республика Сингапур"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Скопье"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "Македония"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "София"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "Болгария"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "Сент-Джонс"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Антигуа и Барбуда"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Стокгольм"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "Швеция"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Сува"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Фиджи"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Республика Островов Фиджи"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Сидней"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Таити"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Французская Полинезия"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Тайбэй"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "Тайвань"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "Таллин"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "Эстония"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Тарава"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Кирибати"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Ташкент"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "Узбекистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Тбилиси"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "Грузия"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Тегусигальпа"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Гондурас"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Тегеран"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "Иран"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Хошимин"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "Сетлмент"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Британские Виргинские острова"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Тяньцзинь"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Тиуана"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Токио"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Торонто"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Трее"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Триполи"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "Ливия"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Тунис"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "Тунис"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Турин"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Уфа"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Башкирия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Улан-Батор"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Вадуц"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Лихтенштейн"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "Валлетта"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Мальта"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Ванкувер"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Верона"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Виктория"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Сейшельские острова"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Вена"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "Австрия"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Вильнюс"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "Литва"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Владивосток"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Волгоград"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "Санкт-Петербург"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Варшава"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "Польша"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Вашингтон"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Веллингтон"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Виннипег"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Якутск"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Ямусукро"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Яунде"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Екатеринбург"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Ереван"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "Армения"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Южно-Сахалинск"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Загреб"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "Хорватия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Цюрих"
+
 msgid "IDS_COM_BODY_NFC"
 msgstr "NFC"
 
 msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
 msgstr "Невозможно запустить %s"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Продолжить"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Вход"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Приложение по умолчанию"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Включено"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Отключено"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Поиск"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Цвет"
+
+msgid "IDS_COM_BODY_CERTIFICATE"
+msgstr "Сертификат"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Видеопроигрыватель"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Избранное"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Перезапуск"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Копировать"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Просмотр"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Январь"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Февраль"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Март"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "Апрель"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "Июнь"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "Июль"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "Август"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "Сентябрь"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "Октябрь"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "Ноябрь"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "Декабрь"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Выбранные данные не найдены"
 

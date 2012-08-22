@@ -1,7 +1,0 @@
-sys-string (0.1.15) unstable; urgency=low
-
-  * Initial Release
-  * Git: pkgs/s/sys-string-0
-  * Tag: sys-string_0.1.15
-
- -- Sewook Park <sewook7.park@samsung.com>  Fri, 02 Mar 2012 14:01:47 +0900

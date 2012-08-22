@@ -1,1256 +1,1256 @@
 msgid "IDS_COM_POP_SOUND_OFF"
-msgstr "声音关"
+msgstr "Sound off"
 
 msgid "IDS_COM_POP_SOUND_ON"
-msgstr "声音开"
+msgstr "Sound on"
 
 msgid "IDS_COM_BODY_FRIDAY"
-msgstr "星期五"
+msgstr "Friday"
 
 msgid "IDS_COM_BODY_MONDAY"
-msgstr "星期一"
+msgstr "Monday"
 
 msgid "IDS_COM_BODY_SATURDAY"
-msgstr "星期六"
+msgstr "Saturday"
 
 msgid "IDS_COM_BODY_SUNDAY"
-msgstr "星期日"
+msgstr "Sunday"
 
 msgid "IDS_COM_BODY_THURSDAY"
-msgstr "星期四"
+msgstr "Thursday"
 
 msgid "IDS_COM_BODY_TUESDAY"
-msgstr "星期二"
+msgstr "Tuesday"
 
 msgid "IDS_COM_BODY_WEDNESDAY"
-msgstr "星期三"
+msgstr "Wednesday"
 
 msgid "IDS_COM_BODY_NA"
 msgstr "N/A"
 
 msgid "IDS_COM_BODY_BASIC"
-msgstr "基本"
+msgstr "Basic"
 
 msgid "IDS_COM_BODY_CHANGE_NAME"
-msgstr "更改名称"
+msgstr "Change name"
 
 msgid "IDS_COM_BODY_DETAILS_TYPE"
-msgstr "类型"
+msgstr "Type"
 
 msgid "IDS_COM_BODY_DISPLAY"
-msgstr "显示"
+msgstr "Display"
 
 msgid "IDS_COM_BODY_EMAIL_SYNC"
-msgstr "电子邮件同步"
+msgstr "Email sync"
 
 msgid "IDS_COM_BODY_FOLDERS"
-msgstr "文件夹"
+msgstr "Folders"
 
 msgid "IDS_COM_BODY_FWD_C"
-msgstr "转发:"
+msgstr "Fwd:"
 
 msgid "IDS_COM_BODY_INFORMATION"
-msgstr "信息"
+msgstr "Information"
 
 msgid "IDS_COM_BODY_MEMO_LIST"
-msgstr "备忘录列表"
+msgstr "Memo list"
 
 msgid "IDS_COM_BODY_MINUTES_LC"
-msgstr "分钟"
+msgstr "minutes"
 
 msgid "IDS_COM_BODY_MORE"
-msgstr "更多"
+msgstr "More"
 
 msgid "IDS_COM_BODY_NO_VIDEOS"
-msgstr "无视频"
+msgstr "No videos"
 
 msgid "IDS_COM_BODY_PRIVATE"
-msgstr "私人"
+msgstr "Private"
 
 msgid "IDS_COM_BODY_RESUME"
-msgstr "继续"
+msgstr "Resume"
 
 msgid "IDS_COM_BODY_RINGTONES"
-msgstr "铃声"
+msgstr "Ringtones"
 
 msgid "IDS_COM_BODY_SECONDS_LC"
-msgstr "秒"
+msgstr "Seconds"
 
 msgid "IDS_COM_BODY_SELECTED"
-msgstr "已选择"
+msgstr "Selected"
 
 msgid "IDS_COM_BODY_SET_AS"
-msgstr "设定为"
+msgstr "Set as"
 
 msgid "IDS_COM_BODY_SYSTEM"
-msgstr "系统"
+msgstr "System"
 
 msgid "IDS_COM_BODY_UNABLE_TO_ADD"
-msgstr "无法添加"
+msgstr "Unable to add"
 
 msgid "IDS_COM_BODY_USER_NAME"
-msgstr "用户名"
+msgstr "User name"
 
 msgid "IDS_COM_DISCARD"
-msgstr "放弃"
+msgstr "Discard"
 
 msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
-msgstr "更改墙纸"
+msgstr "Change wallpaper"
 
 msgid "IDS_COM_OPT_ADDED"
-msgstr "已添加"
+msgstr "Added"
 
 msgid "IDS_COM_OPT_ADD_CONTACT"
-msgstr "添加联系人"
+msgstr "Add contact"
 
 msgid "IDS_COM_OPT_ADD_TAG"
-msgstr "添加标签"
+msgstr "Add tag"
 
 msgid "IDS_COM_OPT_FOLDERS"
-msgstr "文件夹"
+msgstr "Folders"
 
 msgid "IDS_COM_OPT_NEW_TAG"
-msgstr "新标签"
+msgstr "New tag"
 
 msgid "IDS_COM_OPT_SELECTED"
-msgstr "已选择"
+msgstr "Selected"
 
 msgid "IDS_COM_OPT_UPDATE"
-msgstr "更新"
+msgstr "Update"
 
 msgid "IDS_COM_OPT_VIDEO"
-msgstr "录像"
+msgstr "Video"
 
 msgid "IDS_COM_POP_ADDED"
-msgstr "已添加"
+msgstr "Added"
 
 msgid "IDS_COM_POP_ATTACH"
-msgstr "附加"
+msgstr "Attach"
 
 msgid "IDS_COM_POP_CONNECTED"
-msgstr "已连接"
+msgstr "Connected"
 
 msgid "IDS_COM_POP_FILE_NOT_EXIST"
-msgstr "此文件不存在"
+msgstr "This file does not exist"
 
 msgid "IDS_COM_POP_INVALID_CHARACTERS"
-msgstr "字符无效"
+msgstr "Invalid characters"
 
 msgid "IDS_COM_POP_MOVED"
-msgstr "已移动"
+msgstr "Moved"
 
 msgid "IDS_COM_POP_MOVING"
-msgstr "移动中..."
+msgstr "Moving..."
 
 msgid "IDS_COM_POP_MOVING_FAILED"
-msgstr "移动失败"
+msgstr "Moving failed"
 
 msgid "IDS_COM_POP_NAME"
-msgstr "名称"
+msgstr "Name"
 
 msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
-msgstr "内部错误"
+msgstr "Internal error"
 
 msgid "IDS_COM_POP_NO_FILES_SELECTED"
-msgstr "没有可选的文件"
+msgstr "No files selected"
 
 msgid "IDS_COM_POP_NO_TAGS_SELECTED"
-msgstr "没有选择标签"
+msgstr "No tags selected"
 
 msgid "IDS_COM_POP_PROCESSING"
-msgstr "处理中..."
+msgstr "Processing..."
 
 msgid "IDS_COM_POP_RECORDING_FAILED"
-msgstr "录音失败"
+msgstr "Recording failed"
 
 msgid "IDS_COM_POP_RETRIEVED"
-msgstr "已取回"
+msgstr "Retrieved"
 
 msgid "IDS_COM_POP_RETRIEVING_FAILED"
-msgstr "取回失败"
+msgstr "Retrieving failed"
 
 msgid "IDS_COM_POP_SAVING_FAILED"
-msgstr "储存失败"
+msgstr "Saving failed"
 
 msgid "IDS_COM_POP_SAVING_ING"
-msgstr "正在保存..."
+msgstr "Saving..."
 
 msgid "IDS_COM_POP_SELECTED"
-msgstr "已选择"
+msgstr "Selected"
 
 msgid "IDS_COM_POP_SMALL_MINUTES"
-msgstr "分钟"
+msgstr "minutes"
 
 msgid "IDS_COM_POP_TRY_AGAIN"
-msgstr "重试"
+msgstr "Try again"
 
 msgid "IDS_COM_POP_UNLIMITED"
-msgstr "无限"
+msgstr "Unlimited"
 
 msgid "IDS_COM_POP_VIBRATION"
-msgstr "振动"
+msgstr "Vibration"
 
 msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
-msgstr "您要现在解锁？"
+msgstr "Do you want to unlock it now?"
 
 msgid "IDS_COM_SK3_MORE"
-msgstr "更多"
+msgstr "More"
 
 msgid "IDS_COM_SK4_VIEW_BY"
-msgstr "查看方式"
+msgstr "View by"
 
 msgid "IDS_COM_SK_HIDE"
-msgstr "隐藏"
+msgstr "Hide"
 
 msgid "IDS_COM_SK_LANGUAGE"
-msgstr "语言"
+msgstr "Language"
 
 msgid "IDS_COM_SK_MORE"
-msgstr "更多"
+msgstr "More"
 
 msgid "IDS_COM_SK_MORE_LITE"
-msgstr "更多"
+msgstr "More"
 
 msgid "IDS_COM_SK_RECORD"
-msgstr "录音"
+msgstr "Record"
 
 msgid "IDS_COM_SK_REFRESH"
-msgstr "刷新"
+msgstr "Refresh"
 
 msgid "IDS_COM_SK_RESULT"
-msgstr "结果"
+msgstr "Result"
 
 msgid "IDS_COM_SK_SET_AS"
-msgstr "设定为"
+msgstr "Set as"
 
 msgid "IDS_COM_SK_UPDATE"
-msgstr "更新"
+msgstr "Update"
 
 msgid "IDS_COM_SK_CANCEL"
-msgstr "取消"
+msgstr "Cancel"
 
 msgid "IDS_COM_BODY_12_HOURS"
-msgstr "12 小时"
+msgstr "12 hours"
 
 msgid "IDS_COM_BODY_1_SECOND"
-msgstr "1 秒"
+msgstr "1 second"
 
 msgid "IDS_COM_BODY_2_WEEKS"
-msgstr "2周"
+msgstr "2 weeks"
 
 msgid "IDS_COM_BODY_ALWAYS"
-msgstr "总是"
+msgstr "Always"
 
 msgid "IDS_COM_BODY_ALWAYS_ASK"
-msgstr "总是询问"
+msgstr "Always ask"
 
 msgid "IDS_COM_BODY_AUTHOR"
-msgstr "作者"
+msgstr "Author"
 
 msgid "IDS_COM_BODY_AUTOMATIC"
-msgstr "自动"
+msgstr "Automatic"
 
 msgid "IDS_COM_BODY_BY_MMS"
-msgstr "通过多媒体简讯"
+msgstr "Via MMS"
 
 msgid "IDS_COM_BODY_EDIT"
-msgstr "编辑"
+msgstr "Edit"
 
 msgid "IDS_COM_BODY_FLICKR"
 msgstr "Flickr"
 
 msgid "IDS_COM_BODY_NEVER"
-msgstr "从不"
+msgstr "Never"
 
 msgid "IDS_COM_BODY_NOTE"
-msgstr "注释"
+msgstr "Note"
 
 msgid "IDS_COM_BODY_PICASA"
 msgstr "Picasa"
 
 msgid "IDS_COM_BODY_PREVIOUS_DAYS"
-msgstr "前几天"
+msgstr "Previous days"
 
 msgid "IDS_COM_BODY_SEARCHING"
-msgstr "正在搜索"
+msgstr "Searching"
 
 msgid "IDS_COM_BODY_SOUNDS"
-msgstr "声音"
+msgstr "Sounds"
 
 msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
-msgstr "点击添加文本"
+msgstr "Tap to add text"
 
 msgid "IDS_COM_BODY_VIA_EMAIL"
-msgstr "通过电子邮件"
+msgstr "Via Email"
 
 msgid "IDS_COM_BODY_YOU_TUBE"
 msgstr "YouTube"
 
 msgid "IDS_COM_BUTTON_SHARE"
-msgstr "共享"
+msgstr "Share"
 
 msgid "IDS_COM_HEADER_EDIT"
-msgstr "编辑"
+msgstr "Edit"
 
 msgid "IDS_COM_OPT_FILES"
-msgstr "文件"
+msgstr "Files"
 
 msgid "IDS_COM_OPT_IMPORT"
-msgstr "导入"
+msgstr "Import"
 
 msgid "IDS_COM_OPT_VIA_EMAIL"
-msgstr "通过电子邮件"
+msgstr "Via Email"
 
 msgid "IDS_COM_POP_DELETE_ACCOUNT"
-msgstr "删除帐户"
+msgstr "Delete account"
 
 msgid "IDS_COM_POP_FILE"
-msgstr "文件"
+msgstr "File"
 
 msgid "IDS_COM_POP_INITIALIZING"
-msgstr "初始化中..."
+msgstr "Initializing..."
 
 msgid "IDS_COM_POP_INSTALLING_ING"
-msgstr "正在安装…"
+msgstr "Installing..."
 
 msgid "IDS_COM_POP_INVALID_URL"
-msgstr "网址无效"
+msgstr "Invalid URL"
 
 msgid "IDS_COM_POP_PRIORITY"
-msgstr "优先级"
+msgstr "Priority"
 
 msgid "IDS_COM_POP_SENT"
-msgstr "已发送"
+msgstr "Sent"
 
 msgid "IDS_COM_POP_UNABLE_TO_SAVE"
-msgstr "无法存储"
+msgstr "Unable to save"
 
 msgid "IDS_COM_SK_CONFIRM_LITE"
-msgstr "确认"
+msgstr "Confirm"
 
 msgid "IDS_COM_BUTTON_RECENT"
-msgstr "最近通话"
+msgstr "Recent"
 
 msgid "IDS_COM_SK4_SHARE"
-msgstr "共享"
+msgstr "Share"
 
 msgid "IDS_COM_BODY_BOOKMARK"
-msgstr "书签"
+msgstr "Bookmark"
 
 msgid "IDS_COM_BODY_BOOKMARKS"
-msgstr "书签"
+msgstr "Bookmarks"
 
 msgid "IDS_COM_BODY_LIST_BY"
-msgstr "排序方式"
+msgstr "List by"
 
 msgid "IDS_COM_BODY_LOADING"
-msgstr "载入中…"
+msgstr "Loading..."
 
 msgid "IDS_COM_BODY_PREVIOUS"
-msgstr "上一步"
+msgstr "Previous"
 
 msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
-msgstr "点击并添加收件人"
+msgstr "Tap to add recipient"
 
 msgid "IDS_COM_OPT_CALLER_ID"
-msgstr "来电显示"
+msgstr "Caller ID"
 
 msgid "IDS_COM_POP_CALLER_ID"
-msgstr "来电显示"
+msgstr "Caller ID"
 
 msgid "IDS_COM_POP_DOWNLOAD_FAILED"
-msgstr "下载失败"
+msgstr "Download unavailable"
 
 msgid "IDS_COM_POP_FILE_NOT_FOUND"
-msgstr "找不到文件"
+msgstr "File not found"
 
 msgid "IDS_COM_POP_NETWORK_ERROR"
-msgstr "网络故障"
+msgstr "Network error"
 
 msgid "IDS_COM_POP_NO_ACCOUNTS"
-msgstr "没有帐户"
+msgstr "No accounts"
 
 msgid "IDS_COM_BODY_ALBUM"
-msgstr "专辑"
+msgstr "Album"
 
 msgid "IDS_COM_BODY_ALBUMS"
-msgstr "相册"
+msgstr "Albums"
 
 msgid "IDS_COM_BODY_AUTO_REFRESH"
-msgstr "自动刷新"
+msgstr "Auto refresh"
 
 msgid "IDS_COM_BODY_DESCRIPTION"
-msgstr "说明"
+msgstr "Description"
 
 msgid "IDS_COM_BODY_DOWNLOADED"
-msgstr "已下载"
+msgstr "Downloaded"
 
 msgid "IDS_COM_BODY_DOWNLOADS"
-msgstr "下载列表"
+msgstr "Downloads"
 
 msgid "IDS_COM_BODY_EMAIL_ADDRESS"
-msgstr "邮件地址"
+msgstr "Email address"
 
 msgid "IDS_COM_BODY_EMAIL_SIZE"
-msgstr "电邮大小"
+msgstr "Email size"
 
 msgid "IDS_COM_BODY_ENTER_PASSWORD"
-msgstr "输入密码"
+msgstr "Enter password"
 
 msgid "IDS_COM_BODY_FORMAT"
-msgstr "格式化"
+msgstr "Format"
 
 msgid "IDS_COM_BODY_GOOGLE_MAPS"
-msgstr "Google 地图"
+msgstr "Maps"
 
 msgid "IDS_COM_BODY_ID"
 msgstr "ID"
 
 msgid "IDS_COM_BODY_LOCATION"
-msgstr "位置"
+msgstr "Location"
 
 msgid "IDS_COM_BODY_MANUAL"
-msgstr "手动"
+msgstr "Manual"
 
 msgid "IDS_COM_BODY_NO_CONTENTS"
-msgstr "无内容"
+msgstr "No contents"
 
 msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
-msgstr "无搜索结果"
+msgstr "No search results"
 
 msgid "IDS_COM_BODY_PASSWORD"
-msgstr "密码"
+msgstr "Password"
 
 msgid "IDS_COM_BODY_REMOVE"
-msgstr "移除"
+msgstr "Remove"
 
 msgid "IDS_COM_BODY_SEND_MESSAGE"
-msgstr "发送信息"
+msgstr "Send message"
 
 msgid "IDS_COM_BODY_SIZE"
-msgstr "大小"
+msgstr "Size"
 
 msgid "IDS_COM_BODY_START"
-msgstr "开始"
+msgstr "Start"
 
 msgid "IDS_COM_BODY_SUN"
-msgstr "星期日"
+msgstr "Sun"
 
 msgid "IDS_COM_BODY_TAKE_PHOTO"
-msgstr "拍照"
+msgstr "Take photo"
 
 msgid "IDS_COM_BODY_TAP_TO_ADD"
-msgstr "点击以添加"
+msgstr "Tap to add"
 
 msgid "IDS_COM_BODY_TO"
-msgstr "至"
+msgstr "To"
 
 msgid "IDS_COM_BODY_VIDEO"
-msgstr "录像"
+msgstr "Video"
 
 msgid "IDS_COM_BODY_VOICE"
-msgstr "语音"
+msgstr "Voice"
 
 msgid "IDS_COM_BODY_WARNING"
-msgstr "警告"
+msgstr "Warning"
 
 msgid "IDS_COM_BUTTON_REPLY"
-msgstr "回复"
+msgstr "Reply"
 
 msgid "IDS_COM_BUTTON_SIGN_OUT"
-msgstr "登出"
+msgstr "Sign out"
 
 msgid "IDS_COM_BUTTON_SIGN_UP"
-msgstr "注册"
+msgstr "Sign up"
 
 msgid "IDS_COM_HEADER_SIGN_IN"
-msgstr "登录"
+msgstr "Sign in"
 
 msgid "IDS_COM_OPT_HIGH_M_QUALITY"
-msgstr "高"
+msgstr "High"
 
 msgid "IDS_COM_OPT_UNREAD"
-msgstr "未读"
+msgstr "Unread"
 
 msgid "IDS_COM_OPT_VIA_BLUETOOTH"
-msgstr "通过蓝牙"
+msgstr "Via Bluetooth"
 
 msgid "IDS_COM_POP_ALREDY_EXISTS"
-msgstr "已经存在"
+msgstr "Already exists"
 
 msgid "IDS_COM_POP_CANCELLED"
-msgstr "已取消"
+msgstr "Canceled"
 
 msgid "IDS_COM_POP_DELETE_Q"
-msgstr "删除？"
+msgstr "Delete?"
 
 msgid "IDS_COM_POP_DELETING"
-msgstr "删除中.."
+msgstr "Deleting..."
 
 msgid "IDS_COM_POP_DOWNLOADING"
-msgstr "下载中..."
+msgstr "Downloading..."
 
 msgid "IDS_COM_POP_FORMAT"
-msgstr "格式"
+msgstr "Format"
 
 msgid "IDS_COM_POP_INTERNAL_ERROR"
-msgstr "未知错误"
+msgstr "Unknown error"
 
 msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
-msgstr "已插入存储卡"
+msgstr "Memory card inserted"
 
 msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
-msgstr "已移除存储卡"
+msgstr "Memory card removed"
 
 msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
-msgstr "没有足够内存"
+msgstr "Not enough memory"
 
 msgid "IDS_COM_POP_PASSWORD"
-msgstr "密码"
+msgstr "Password"
 
 msgid "IDS_COM_POP_REMOVED"
-msgstr "已移除"
+msgstr "Removed"
 
 msgid "IDS_COM_POP_SEARCHING"
-msgstr "正在搜索"
+msgstr "Searching..."
 
 msgid "IDS_COM_POP_SENDING_FAILED"
-msgstr "发送失败"
+msgstr "Sending failed"
 
 msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
-msgstr "服务无法正常提供"
+msgstr "Service unavailable"
 
 msgid "IDS_COM_POP_SIZE"
-msgstr "大小"
+msgstr "Size"
 
 msgid "IDS_COM_POP_TIME"
-msgstr "时间"
+msgstr "Time"
 
 msgid "IDS_COM_POP_TYPE"
-msgstr "类型"
+msgstr "Type"
 
 msgid "IDS_COM_POP_UNABLE_TO_DELETE"
-msgstr "无法删除"
+msgstr "Unable to delete"
 
 msgid "IDS_COM_SK3_BLOCK"
-msgstr "阻止"
+msgstr "Block"
 
 msgid "IDS_COM_SK3_COMPOSE"
-msgstr "编写"
+msgstr "Compose"
 
 msgid "IDS_COM_SK_DOWNLOAD"
-msgstr "下载"
+msgstr "Download"
 
 msgid "IDS_COM_SK_NEW"
-msgstr "新建"
+msgstr "New"
 
 msgid "IDS_COM_SK_REPLY"
-msgstr "回复"
+msgstr "Reply"
 
 msgid "IDS_COM_SK_START"
-msgstr "开始"
+msgstr "Start"
 
 msgid "IDS_COM_POP_DELETE_FAILED"
-msgstr "删除失败"
+msgstr "Delete failed"
 
 msgid "IDS_COM_SK_RETRY"
-msgstr "重试"
+msgstr "Retry"
 
 msgid "IDS_COM_BODY_1_DAY"
-msgstr "1天"
+msgstr "1 day"
 
 msgid "IDS_COM_BODY_1_HOUR"
-msgstr "1 小时"
+msgstr "1 hour"
 
 msgid "IDS_COM_BODY_1_MINUTE"
-msgstr "1 分钟"
+msgstr "1 minute"
 
 msgid "IDS_COM_BODY_1_WEEK"
-msgstr "1周"
+msgstr "1 week"
 
 msgid "IDS_COM_BODY_ACCOUNTS"
-msgstr "账户"
+msgstr "Accounts"
 
 msgid "IDS_COM_BODY_BIRTHDAY"
-msgstr "生日"
+msgstr "Birthday"
 
 msgid "IDS_COM_BODY_CLOSE"
-msgstr "关闭"
+msgstr "Close"
 
 msgid "IDS_COM_BODY_CREATE_FOLDER"
-msgstr "新建文件夹"
+msgstr "Create folder"
 
 msgid "IDS_COM_BODY_DETAILS"
-msgstr "详情"
+msgstr "Details"
 
 msgid "IDS_COM_BODY_ENTER_NAME"
-msgstr "名字不能为空"
+msgstr "Enter name"
 
 msgid "IDS_COM_BODY_FONT"
-msgstr "字体"
+msgstr "Font"
 
 msgid "IDS_COM_BODY_GROUP"
-msgstr "分组"
+msgstr "Group"
 
 msgid "IDS_COM_BODY_IMAGES"
-msgstr "图片"
+msgstr "Images"
 
 msgid "IDS_COM_BODY_INFO"
-msgstr "信息"
+msgstr "Info"
 
 msgid "IDS_COM_BODY_MELODY"
-msgstr "乐曲"
+msgstr "Melody"
 
 msgid "IDS_COM_BODY_OTHERS"
-msgstr "其它"
+msgstr "Others"
 
 msgid "IDS_COM_BODY_PD_MINUTES"
-msgstr "%d 分钟"
+msgstr "%d minutes"
 
 msgid "IDS_COM_BODY_RENAME"
-msgstr "重命名"
+msgstr "Rename"
 
 msgid "IDS_COM_BODY_RINGTONE"
-msgstr "铃声"
+msgstr "Ringtone"
 
 msgid "IDS_COM_BODY_SEARCH"
-msgstr "搜索"
+msgstr "Search"
 
 msgid "IDS_COM_BODY_SEND"
-msgstr "发送"
+msgstr "Send"
 
 msgid "IDS_COM_BODY_SMS"
-msgstr "短信息"
+msgstr "SMS"
 
 msgid "IDS_COM_BODY_SUBJECT"
-msgstr "主题"
+msgstr "Subject"
 
 msgid "IDS_COM_BODY_TODAY"
-msgstr "今天"
+msgstr "Today"
 
 msgid "IDS_COM_BODY_VIDEOS"
-msgstr "视频"
+msgstr "Videos"
 
 msgid "IDS_COM_BODY_WALLPAPER"
-msgstr "墙纸"
+msgstr "Wallpaper"
 
 msgid "IDS_COM_BODY_YESTERDAY"
-msgstr "昨天"
+msgstr "Yesterday"
 
 msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
-msgstr "添加到书签"
+msgstr "Add to Bookmarks"
 
 msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
-msgstr "添加到联系人"
+msgstr "Add to Contacts"
 
 msgid "IDS_COM_OPT_BRIGHTNESS"
-msgstr "亮度"
+msgstr "Brightness"
 
 msgid "IDS_COM_OPT_CREATE_CONTACT"
-msgstr "新建联系人"
+msgstr "Create contact"
 
 msgid "IDS_COM_OPT_DELETE"
-msgstr "删除"
+msgstr "Delete"
 
 msgid "IDS_COM_OPT_EFFECTS"
-msgstr "效果"
+msgstr "Effects"
 
 msgid "IDS_COM_OPT_IMAGE"
-msgstr "图片"
+msgstr "Image"
 
 msgid "IDS_COM_OPT_KEYPAD"
-msgstr "键盘"
+msgstr "Keypad"
 
 msgid "IDS_COM_OPT_LOGOUT"
-msgstr "登出"
+msgstr "Logout"
 
 msgid "IDS_COM_OPT_SAVE"
-msgstr "存储"
+msgstr "Save"
 
 msgid "IDS_COM_POP_ACCEPT"
-msgstr "接受"
+msgstr "Accept"
 
 msgid "IDS_COM_POP_AM_M_ABB"
-msgstr "上午"
+msgstr "AM"
 
 msgid "IDS_COM_POP_CHANGE_PASSWORD"
-msgstr "更改密码"
+msgstr "Change password"
 
 msgid "IDS_COM_POP_CLEAR"
-msgstr "清除"
+msgstr "Clear"
 
 msgid "IDS_COM_POP_CLOSE"
-msgstr "关闭"
+msgstr "Close"
 
 msgid "IDS_COM_POP_CONNECTING"
-msgstr "连接中..."
+msgstr "Connecting..."
 
 msgid "IDS_COM_POP_CONNECTION_ERROR"
-msgstr "连接错误"
+msgstr "Connection error"
 
 msgid "IDS_COM_POP_CONNECTION_FAILED"
-msgstr "连接失败"
+msgstr "Connection failed"
 
 msgid "IDS_COM_POP_DATE"
-msgstr "日期"
+msgstr "Date"
 
 msgid "IDS_COM_POP_DELETED"
-msgstr "已删除"
+msgstr "Deleted"
 
 msgid "IDS_COM_POP_DONE"
-msgstr "完成"
+msgstr "Done"
 
 msgid "IDS_COM_POP_ENTER_NAME"
-msgstr "名字不能为空"
+msgstr "Enter name"
 
 msgid "IDS_COM_POP_ERROR"
-msgstr "出错"
+msgstr "Error"
 
 msgid "IDS_COM_POP_INCORRECT_PASSWORD"
-msgstr "密码错误"
+msgstr "Incorrect password"
 
 msgid "IDS_COM_POP_INVALID_PASSWORD"
-msgstr "密码错误"
+msgstr "Invalid password"
 
 msgid "IDS_COM_POP_PD_HOURS"
-msgstr "%d 小时"
+msgstr "%d hours"
 
 msgid "IDS_COM_POP_REJECT"
-msgstr "拒绝"
+msgstr "Reject"
 
 msgid "IDS_COM_POP_REJECTED"
-msgstr "被拒绝"
+msgstr "Rejected"
 
 msgid "IDS_COM_POP_SAVED"
-msgstr "已保存"
+msgstr "Saved"
 
 msgid "IDS_COM_POP_SENDING"
-msgstr "发送中…"
+msgstr "Sending..."
 
 msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
-msgstr "不支持的\n文件类型"
+msgstr "Unsupported\nfile type"
 
 msgid "IDS_COM_POP_UPDATE"
-msgstr "更新"
+msgstr "Update"
 
 msgid "IDS_COM_POP_UPDATED"
-msgstr "已更新"
+msgstr "Updated"
 
 msgid "IDS_COM_SK_ADD_ACCOUNT"
-msgstr "添加账户"
+msgstr "Add account"
 
 msgid "IDS_IDLE_BODY_NORMAL"
-msgstr "正常"
+msgstr "Normal"
 
 msgid "IDS_IDLE_BUTTON_CANCEL"
-msgstr "取消"
+msgstr "Cancel"
 
 msgid "IDS_COM_ADD"
-msgstr "添加"
+msgstr "Add"
 
 msgid "IDS_COM_BODY_CALL"
-msgstr "通话"
+msgstr "Call"
 
 msgid "IDS_COM_BODY_CONTACT"
-msgstr "联系人"
+msgstr "Contact"
 
 msgid "IDS_COM_BODY_GALLERY"
-msgstr "相册"
+msgstr "Gallery"
 
 msgid "IDS_COM_BODY_MAPS"
-msgstr "地图"
+msgstr "Maps"
 
 msgid "IDS_COM_BODY_MUSIC_STORE"
-msgstr "音乐存储"
+msgstr "Music store"
 
 msgid "IDS_COM_BODY_NONE"
-msgstr "无"
+msgstr "None"
 
 msgid "IDS_COM_BODY_NO_NAME"
-msgstr "无名称"
+msgstr "No name"
 
 msgid "IDS_COM_BODY_NO_SIM"
-msgstr "无 SIM 卡"
+msgstr "No SIM"
 
 msgid "IDS_COM_BODY_SELECT_ALL"
-msgstr "全选"
+msgstr "Select all"
 
 msgid "IDS_COM_POP_ADDRESS"
-msgstr "地址"
+msgstr "Address"
 
 msgid "IDS_COM_POP_CANCEL"
-msgstr "取消"
+msgstr "Cancel"
 
 msgid "IDS_COM_POP_FAILED"
-msgstr "失败"
+msgstr "Failed"
 
 msgid "IDS_COM_POP_LOW_BATTERY_UNABLE_TO_LAUNCH_APPLICATION"
-msgstr "电池电量低。无法启动应用程序"
+msgstr "Low battery. Unable to launch application"
 
 msgid "IDS_COM_POP_NONE"
-msgstr "无"
+msgstr "None"
 
 msgid "IDS_COM_POP_SUCCESS"
-msgstr "成功"
+msgstr "Success"
 
 msgid "IDS_COM_SK_ACCEPT"
-msgstr "接受"
+msgstr "Accept"
 
 msgid "IDS_COM_SK_ADD"
-msgstr "添加"
+msgstr "Add"
 
 msgid "IDS_COM_SK_BACK"
-msgstr "返回"
+msgstr "Back"
 
 msgid "IDS_COM_SK_CALL"
-msgstr "通话"
+msgstr "Call"
 
 msgid "IDS_COM_SK_NEXT"
-msgstr "下一步"
+msgstr "Next"
 
 msgid "IDS_COM_SK_QUIT"
-msgstr "退出"
+msgstr "Quit"
 
 msgid "IDS_COM_SK_SAVE"
-msgstr "保存"
+msgstr "Save"
 
 msgid "IDS_IDLE_BODY_CARD_SCANNER"
-msgstr "名片扫描器"
+msgstr "Card Scanner"
 
 msgid "IDS_IDLE_BODY_CLOCK"
-msgstr "时钟"
+msgstr "Clock"
 
 msgid "IDS_IDLE_BODY_E_BOOK"
-msgstr "电子书"
+msgstr "E-book"
 
 msgid "IDS_IDLE_BODY_MOBILE_AP"
-msgstr "移动接入点"
+msgstr "Mobile AP"
 
 msgid "IDS_IDLE_BODY_WEATHER"
-msgstr "天气"
+msgstr "Weather"
 
 msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU_ABB"
 msgstr "Samsung Apps"
 
 msgid "IDS_COM_BODY_ACTIVATED"
-msgstr "已激活"
+msgstr "Activated"
 
 msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
-msgstr "SIM卡"
+msgstr "SIM"
 
 msgid "IDS_COM_BODY_ALARM"
-msgstr "闹钟"
+msgstr "Alarm"
 
 msgid "IDS_COM_BODY_ALL"
-msgstr "全部"
+msgstr "All"
 
 msgid "IDS_COM_BODY_ALLSHARE"
-msgstr "娱乐共享"
+msgstr "AllShare"
 
 msgid "IDS_COM_BODY_AM"
 msgstr "AM"
 
 msgid "IDS_COM_BODY_APR"
-msgstr "4 月"
+msgstr "Apr."
 
 msgid "IDS_COM_BODY_AUG"
-msgstr "8 月"
+msgstr "Aug."
 
 msgid "IDS_COM_BODY_AUTH_PASSWORD"
-msgstr "密码"
+msgstr "Password"
 
 msgid "IDS_COM_BODY_AVAILABLE"
-msgstr "适用"
+msgstr "Available"
 
 msgid "IDS_COM_BODY_BACK"
-msgstr "返回"
+msgstr "Back"
 
 msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
-msgstr "充电完成\n请拔下充电器"
+msgstr "Battery fully charged.\nUnplug charger"
 
 msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
-msgstr "电池充电已满\n请拔出充电器"
+msgstr "Battery fully charged. Unplug charger"
 
 msgid "IDS_COM_BODY_BLUETOOTH"
-msgstr "蓝牙"
+msgstr "Bluetooth"
 
 msgid "IDS_COM_BODY_BROWSER"
-msgstr "浏览器"
+msgstr "Browser"
 
 msgid "IDS_COM_BODY_CALCULATOR"
-msgstr "计算器"
+msgstr "Calculator"
 
 msgid "IDS_COM_BODY_CALENDAR"
-msgstr "日历"
+msgstr "Calendar"
 
 msgid "IDS_COM_BODY_CAMERA"
-msgstr "照相机"
+msgstr "Camera"
 
 msgid "IDS_COM_BODY_CONTACTS"
-msgstr "联系人"
+msgstr "Contacts"
 
 msgid "IDS_COM_BODY_CONVERTOR"
-msgstr "单位换算"
+msgstr "Converter"
 
 msgid "IDS_COM_BODY_COPY"
-msgstr "复制"
+msgstr "Copy"
 
 msgid "IDS_COM_BODY_CREATE"
-msgstr "新建"
+msgstr "Create"
 
 msgid "IDS_COM_BODY_DEC"
-msgstr "12 月"
+msgstr "Dec."
 
 msgid "IDS_COM_BODY_DELETE"
-msgstr "删除"
+msgstr "Delete"
 
 msgid "IDS_COM_BODY_DELETE_ALL"
-msgstr "全部删除"
+msgstr "Delete all"
 
 msgid "IDS_COM_BODY_DETAILS_NAME"
-msgstr "名称"
+msgstr "Name"
 
 msgid "IDS_COM_BODY_DETAILS_TITLE"
-msgstr "标题"
+msgstr "Title"
 
 msgid "IDS_COM_BODY_EMAIL"
-msgstr "电子邮件"
+msgstr "Email"
 
 msgid "IDS_COM_BODY_FACEBOOK"
 msgstr "Facebook"
 
 msgid "IDS_COM_BODY_FEB"
-msgstr "2 月"
+msgstr "Feb."
 
 msgid "IDS_COM_BODY_FM_RADIO"
-msgstr "FM 收音机"
+msgstr "FM Radio"
 
 msgid "IDS_COM_BODY_FORWARD"
-msgstr "转发"
+msgstr "Forward"
 
 msgid "IDS_COM_BODY_FORWARD_A"
-msgstr "转发"
+msgstr "Forward"
 
 msgid "IDS_COM_BODY_FRI"
-msgstr "星期五"
+msgstr "Fri"
 
 msgid "IDS_COM_BODY_HELP"
-msgstr "帮助"
+msgstr "Help"
 
 msgid "IDS_COM_BODY_IM"
-msgstr "即时信息"
+msgstr "IM"
 
 msgid "IDS_COM_BODY_IMAGE_EDITOR"
-msgstr "图像编辑器"
+msgstr "Image editor"
 
 msgid "IDS_COM_BODY_INTERNET"
-msgstr "互联网"
+msgstr "Internet"
 
 msgid "IDS_COM_BODY_JAN"
-msgstr "1 月"
+msgstr "Jan."
 
 msgid "IDS_COM_BODY_JUL"
-msgstr "7 月"
+msgstr "Jul."
 
 msgid "IDS_COM_BODY_JUN"
-msgstr "6 月"
+msgstr "Jun."
 
 msgid "IDS_COM_BODY_LOCK"
-msgstr "锁定"
+msgstr "Lock"
 
 msgid "IDS_COM_BODY_LOCK_A"
-msgstr "锁定"
+msgstr "Lock"
 
 msgid "IDS_COM_BODY_LOGS"
-msgstr "记录"
+msgstr "Logs"
 
 msgid "IDS_COM_BODY_LOW"
-msgstr "低"
+msgstr "Low"
 
 msgid "IDS_COM_BODY_LOW_BATTERY"
-msgstr "电量低"
+msgstr "Low battery"
 
 msgid "IDS_COM_BODY_MAR"
-msgstr "3 月"
+msgstr "Mar."
 
 msgid "IDS_COM_BODY_MAY"
-msgstr "5月"
+msgstr "May"
 
 msgid "IDS_COM_BODY_MEMO"
-msgstr "备忘录"
+msgstr "Memo"
 
 msgid "IDS_COM_BODY_MEMORY_CARD"
-msgstr "存储卡"
+msgstr "Memory card"
 
 msgid "IDS_COM_BODY_MESSAGE"
-msgstr "信息"
+msgstr "Message"
 
 msgid "IDS_COM_BODY_MESSAGES"
-msgstr "信息"
+msgstr "Messages"
 
 msgid "IDS_COM_BODY_MESSAGING"
-msgstr "信息"
+msgstr "Messaging"
 
 msgid "IDS_COM_BODY_MINUTE"
-msgstr "分钟"
+msgstr "Minute"
 
 msgid "IDS_COM_BODY_MINUTE_LC"
-msgstr "分钟"
+msgstr "minute"
 
 msgid "IDS_COM_BODY_MIN_SMALL_ABB"
-msgstr "分钟"
+msgstr "min"
 
 msgid "IDS_COM_BODY_MON"
-msgstr "星期一"
+msgstr "Mon"
 
 msgid "IDS_COM_BODY_MOVE"
-msgstr "移动"
+msgstr "Move"
 
 msgid "IDS_COM_BODY_MUSIC"
-msgstr "音乐"
+msgstr "Music"
 
 msgid "IDS_COM_BODY_MUSIC_PLAYER"
-msgstr "音乐播放器"
+msgstr "Music Player"
 
 msgid "IDS_COM_BODY_MY_ACCOUNT"
-msgstr "我的帐户"
+msgstr "My Account"
 
 msgid "IDS_COM_BODY_MY_FILES"
-msgstr "我的文件"
+msgstr "My Files"
 
 msgid "IDS_COM_BODY_NAVIGATION"
-msgstr "导航"
+msgstr "Navigation"
 
 msgid "IDS_COM_BODY_NOV"
-msgstr "11 月"
+msgstr "Nov."
 
 msgid "IDS_COM_BODY_OCT"
-msgstr "10 月"
+msgstr "Oct."
 
 msgid "IDS_COM_BODY_OFF"
-msgstr "关"
+msgstr "Off"
 
 msgid "IDS_COM_BODY_ON"
-msgstr "开"
+msgstr "On"
 
 msgid "IDS_COM_BODY_PHONE"
-msgstr "手机"
+msgstr "Phone"
 
 msgid "IDS_COM_BODY_PIN_LOCK"
-msgstr "PIN码锁"
+msgstr "PIN lock"
 
 msgid "IDS_COM_BODY_RESET"
-msgstr "重置"
+msgstr "Reset"
 
 msgid "IDS_COM_BODY_RESET_A"
-msgstr "重置"
+msgstr "Reset"
 
 msgid "IDS_COM_BODY_SAT"
-msgstr "星期六"
+msgstr "Sat"
 
 msgid "IDS_COM_BODY_SEP"
-msgstr "9月"
+msgstr "Sep."
 
 msgid "IDS_COM_BODY_SETTINGS"
-msgstr "设定"
+msgstr "Settings"
 
 msgid "IDS_COM_BODY_SILENT"
-msgstr "静音"
+msgstr "Silent"
 
 msgid "IDS_COM_BODY_SMART_SEARCH"
-msgstr "智能搜索"
+msgstr "Smart search"
 
 msgid "IDS_COM_BODY_SPEAKER_ON"
-msgstr "扬声器开"
+msgstr "Speaker on"
 
 msgid "IDS_COM_BODY_STOPWATCH"
-msgstr "秒表"
+msgstr "Stopwatch"
 
 msgid "IDS_COM_BODY_SYNCHRONIZE"
-msgstr "同步"
+msgstr "Synchronize"
 
 msgid "IDS_COM_BODY_THU"
-msgstr "星期四"
+msgstr "Thu"
 
 msgid "IDS_COM_BODY_TIMER"
-msgstr "计时器"
+msgstr "Timer"
 
 msgid "IDS_COM_BODY_TUE"
-msgstr "星期二"
+msgstr "Tue"
 
 msgid "IDS_COM_BODY_TWITTER"
 msgstr "Twitter"
 
 msgid "IDS_COM_BODY_UNITS"
-msgstr "单位"
+msgstr "Units"
 
 msgid "IDS_COM_BODY_UNIT_MIN_ABB"
-msgstr "分钟"
+msgstr "min"
 
 msgid "IDS_COM_BODY_UNIT_SEC_LC"
-msgstr "秒"
+msgstr "Sec"
 
 msgid "IDS_COM_BODY_UNKNOWN"
-msgstr "未知"
+msgstr "Unknown"
 
 msgid "IDS_COM_BODY_USB"
 msgstr "USB"
 
 msgid "IDS_COM_BODY_VIDEO_CALL"
-msgstr "视频通话"
+msgstr "Video call"
 
 msgid "IDS_COM_BODY_VOICE_CALL"
-msgstr "语音通话"
+msgstr "Voice call"
 
 msgid "IDS_COM_BODY_VOICE_RECORDER"
-msgstr "录音机"
+msgstr "Voice recorder"
 
 msgid "IDS_COM_BODY_WED"
-msgstr "星期三"
+msgstr "Wed"
 
 msgid "IDS_COM_BODY_WI_FI"
 msgstr "Wi-Fi"
 
 msgid "IDS_COM_BODY_WORLD_CLOCK"
-msgstr "世界时间"
+msgstr "World Clock"
 
 msgid "IDS_COM_BODY_YYYYMMDD"
-msgstr "年.月.日"
+msgstr "YYYY.MM.DD"
 
 msgid "IDS_COM_BODY_YYYY_MM_DD"
-msgstr "年/月/日"
+msgstr "YYYY/MM/DD"
 
 msgid "IDS_COM_HEADER_DAILY_BRIEFING"
-msgstr "每日简报"
+msgstr "Daily briefing"
 
 msgid "IDS_COM_HEADER_NOTIFICATION"
-msgstr "通知"
+msgstr "Notification"
 
 msgid "IDS_COM_OPT_INFORMATION"
-msgstr "信息"
+msgstr "Information"
 
 msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
 msgstr "ABC"
 
 msgid "IDS_COM_POP_ACTIVATING"
-msgstr "激活中..."
+msgstr "Activating..."
 
 msgid "IDS_COM_POP_DEACTIVATED"
-msgstr "已取消"
+msgstr "Deactivated"
 
 msgid "IDS_COM_POP_EMPTY"
-msgstr "空白"
+msgstr "Empty"
 
 msgid "IDS_COM_POP_HOUR"
-msgstr "小时"
+msgstr "Hour"
 
 msgid "IDS_COM_POP_HOUR_LC"
-msgstr "小时"
+msgstr "hour"
 
 msgid "IDS_COM_POP_MISSED_CALL"
-msgstr "未接来电"
+msgstr "Missed call"
 
 msgid "IDS_COM_POP_MISSED_CALLS"
-msgstr "未接来电"
+msgstr "Missed calls"
 
 msgid "IDS_COM_POP_MISSED_EVENT"
-msgstr "错失事件"
+msgstr "Missed event"
 
 msgid "IDS_COM_POP_MISSED_EVENTS"
-msgstr "错失事件"
+msgstr "Missed events"
 
 msgid "IDS_COM_POP_NEW_EMAIL"
-msgstr "新邮件"
+msgstr "New email"
 
 msgid "IDS_COM_POP_NEW_EMAILS"
-msgstr "新邮件"
+msgstr "New emails"
 
 msgid "IDS_COM_POP_NEW_MESSAGE"
-msgstr "新信息"
+msgstr "New message"
 
 msgid "IDS_COM_POP_NEW_MESSAGES"
-msgstr "新信息"
+msgstr "New messages"
 
 msgid "IDS_COM_POP_PM"
 msgstr "PM"
 
 msgid "IDS_COM_POP_UNLOCK"
-msgstr "解锁"
+msgstr "Unlock"
 
 msgid "IDS_COM_POP_WARNING"
-msgstr "警告"
+msgstr "Warning"
 
 msgid "IDS_COM_SK_DELETE"
-msgstr "删除"
+msgstr "Delete"
 
 msgid "IDS_COM_SK_DIALLER"
-msgstr "拨号盘"
+msgstr "Dialer"
 
 msgid "IDS_COM_SK_DONE"
-msgstr "完成"
+msgstr "Done"
 
 msgid "IDS_COM_SK_EDIT"
-msgstr "编辑"
+msgstr "Edit"
 
 msgid "IDS_COM_SK_MENU"
-msgstr "功能表"
+msgstr "Menu"
 
 msgid "IDS_COM_SK_NO"
-msgstr "否"
+msgstr "No"
 
 msgid "IDS_COM_SK_OFF"
-msgstr "关"
+msgstr "Off"
 
 msgid "IDS_COM_SK_OK"
-msgstr "确定"
+msgstr "OK"
 
 msgid "IDS_COM_SK_OPEN"
-msgstr "打开"
+msgstr "Open"
 
 msgid "IDS_COM_SK_OPTIONS"
-msgstr "选项"
+msgstr "Options"
 
 msgid "IDS_COM_SK_PAUSE"
-msgstr "暂停"
+msgstr "Pause"
 
 msgid "IDS_COM_SK_PLAY"
-msgstr "播放"
+msgstr "Play"
 
 msgid "IDS_COM_SK_PLAY_ABB"
-msgstr "播放"
+msgstr "Play"
 
 msgid "IDS_COM_SK_REMOVE"
-msgstr "移除"
+msgstr "Remove"
 
 msgid "IDS_COM_SK_RENAME"
-msgstr "重命名"
+msgstr "Rename"
 
 msgid "IDS_COM_SK_SEARCH"
-msgstr "搜索"
+msgstr "Search"
 
 msgid "IDS_COM_SK_SELECT"
-msgstr "选择"
+msgstr "Select"
 
 msgid "IDS_COM_SK_SELECT_ABB"
-msgstr "选择"
+msgstr "Select"
 
 msgid "IDS_COM_SK_SEND"
-msgstr "发送"
+msgstr "Send"
 
 msgid "IDS_COM_SK_SEND_ABB"
-msgstr "发送"
+msgstr "Send"
 
 msgid "IDS_COM_SK_SET"
-msgstr "设置"
+msgstr "Set"
 
 msgid "IDS_COM_SK_STOP"
-msgstr "停止"
+msgstr "Stop"
 
 msgid "IDS_COM_SK_VIDEO_CALL"
-msgstr "视频通话"
+msgstr "Video call"
 
 msgid "IDS_COM_SK_YES"
-msgstr "是"
+msgstr "Yes"
 
 msgid "IDS_IDLE_BODY_ACTIVESYNC"
 msgstr "ActiveSync"
@@ -1262,7 +1262,7 @@ msgid "IDS_IDLE_BODY_CREYON_PHYSICS"
 msgstr "Creyon physics"
 
 msgid "IDS_IDLE_BODY_RESOLUTION"
-msgstr "分辨率"
+msgstr "Resolution"
 
 msgid "IDS_IDLE_BODY_RSS"
 msgstr "RSS"
@@ -1271,538 +1271,538 @@ msgid "IDS_IDLE_BODY_SAMSUNG_APPS_T_MAINMENU"
 msgstr "Samsung Apps"
 
 msgid "IDS_COM_BODY_END"
-msgstr "结束"
+msgstr "End"
 
 msgid "IDS_COM_BODY_FAVOURITES"
-msgstr "我的收藏"
+msgstr "Favorites"
 
 msgid "IDS_COM_BODY_FILE_NAME"
-msgstr "文件名称"
+msgstr "File name"
 
 msgid "IDS_COM_BODY_MUTE"
-msgstr "静音"
+msgstr "Mute"
 
 msgid "IDS_COM_BODY_NO_FILES"
-msgstr "无文件"
+msgstr "No files"
 
 msgid "IDS_COM_BODY_NO_IMAGES"
-msgstr "无图像"
+msgstr "No images"
 
 msgid "IDS_COM_BODY_NO_ITEMS"
-msgstr "无项目"
+msgstr "No items"
 
 msgid "IDS_COM_BODY_PAUSE"
-msgstr "暂停"
+msgstr "Pause"
 
 msgid "IDS_COM_BODY_REPLACE_ABB"
-msgstr "替换"
+msgstr "Replace"
 
 msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
-msgstr "通过蓝牙发送"
+msgstr "Send via Bluetooth"
 
 msgid "IDS_COM_OPT_SEND_VIA"
-msgstr "发送方式"
+msgstr "Send via"
 
 msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
-msgstr "通过蓝牙发送"
+msgstr "Send via Bluetooth"
 
 msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
-msgstr "通过电子邮件发送"
+msgstr "Send via Email"
 
 msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
-msgstr "通过信息发送"
+msgstr "Send via Message"
 
 msgid "IDS_COM_OPT_SEND_VIA_MMS"
-msgstr "通过彩信发送"
+msgstr "Send via MMS"
 
 msgid "IDS_COM_OPT_SEND_VIA_SMS"
-msgstr "通过短信息发送"
+msgstr "Send via SMS"
 
 msgid "IDS_COM_POP_FOLDER"
-msgstr "文件夹"
+msgstr "Folder"
 
 msgid "IDS_COM_POP_FRI"
-msgstr "星期五"
+msgstr "Fri"
 
 msgid "IDS_COM_POP_MON"
-msgstr "星期一"
+msgstr "Mon"
 
 msgid "IDS_COM_POP_MUTE"
-msgstr "静音"
+msgstr "Mute"
 
 msgid "IDS_COM_POP_SAT"
-msgstr "星期六"
+msgstr "Sat"
 
 msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
-msgstr "保存到草稿箱"
+msgstr "Save in Drafts"
 
 msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
-msgstr "存储到草稿箱？"
+msgstr "Save in Drafts?"
 
 msgid "IDS_COM_POP_SEND_VIA"
-msgstr "发送方式"
+msgstr "Send via"
 
 msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
-msgstr "在安静模式下播放？"
+msgstr "Play in Silent mode?"
 
 msgid "IDS_COM_POP_SUN"
-msgstr "星期日"
+msgstr "Sun"
 
 msgid "IDS_COM_POP_THU"
-msgstr "星期四"
+msgstr "Thu"
 
 msgid "IDS_COM_POP_TUE"
-msgstr "星期二"
+msgstr "Tue"
 
 msgid "IDS_COM_POP_WED"
-msgstr "星期三"
+msgstr "Wed"
 
 msgid "IDS_COM_BODY_DONE"
-msgstr "完成"
+msgstr "Done"
 
 msgid "IDS_COM_BODY_APPLICATIONS"
-msgstr "应用程序"
+msgstr "Applications"
 
 msgid "IDS_COM_BODY_SELECT_LAYOUT"
-msgstr "选择布局"
+msgstr "Select layout"
 
 msgid "IDS_COM_SK_LAUNCH"
-msgstr "执行"
+msgstr "Launch"
 
 msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
-msgstr "紧急呼叫"
+msgstr "Emergency call"
 
 msgid "IDS_COM_OPT_HEADPHONES_ABB"
-msgstr "耳机"
+msgstr "Headphones"
 
 msgid "IDS_COM_BODY_PD_SELECTED"
-msgstr "已选择%d"
+msgstr "%d selected"
 
 msgid "IDS_COM_BODY_REPEAT"
-msgstr "重复"
+msgstr "Repeat"
 
 msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
-msgstr "不支持的文件类型"
+msgstr "Unsupported file type"
 
 msgid "IDS_COM_POP_INSERT_SIM_CARD"
-msgstr "插入SIM卡"
+msgstr "Insert SIM card"
 
 msgid "IDS_COM_POP_COPIED_P"
-msgstr "已复制"
+msgstr "Copied"
 
 msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
-msgstr "已复制到剪贴板"
+msgstr "Copied to clipboard"
 
 msgid "IDS_COM_POP_COPYING_ING"
-msgstr "正在复制..."
+msgstr "Copying..."
 
 msgid "IDS_COM_OPT_LIST"
-msgstr "列表"
+msgstr "List"
 
 msgid "IDS_COM_OPT_LIST_VIEW"
-msgstr "列表视图"
+msgstr "List view"
 
 msgid "IDS_COM_POP_NOTHING_SELECTED"
-msgstr "未选择"
+msgstr "Nothing selected"
 
 msgid "IDS_COM_POP_AVAILABLE_USES"
-msgstr "可用于"
+msgstr "Available uses"
 
 msgid "IDS_COM_BODY_FORWARDING"
-msgstr "转发"
+msgstr "Forwarding"
 
 msgid "IDS_COM_BODY_NO_SERVICE"
-msgstr "无服务"
+msgstr "No service"
 
 msgid "IDS_COM_BODY_VOICE_COMMAND"
-msgstr "声控指令"
+msgstr "Voice command"
 
 msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
-msgstr "在大容量存储模式下无法使用"
+msgstr "Unable to use during Mass storage mode"
 
 msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
-msgstr "大容量存储模式已禁用"
+msgstr "Mass storage mode disabled"
 
 msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
-msgstr "大容量存储器模式已激活"
+msgstr "Mass storage mode enabled"
 
 msgid "IDS_COM_BODY_PD_DAYS_AGO"
-msgstr "%d 天前"
+msgstr "%d days ago"
 
 msgid "IDS_COM_BODY_CERTIFICATES"
-msgstr "证书"
+msgstr "Certificates"
 
 msgid "IDS_COM_POP_SERVER_ERROR"
-msgstr "服务器错误"
+msgstr "Server error"
 
 msgid "IDS_COM_BODY_ALL_CHANNELS"
-msgstr "全部频道"
+msgstr "All channels"
 
 msgid "IDS_COM_SK_CONFIRM"
-msgstr "确认"
+msgstr "Confirm"
 
 msgid "IDS_COM_SK_DECLINE"
-msgstr "拒绝"
+msgstr "Decline"
 
 msgid "IDS_COM_BODY_GENERAL"
-msgstr "一般"
+msgstr "General"
 
 msgid "IDS_COM_BODY_GOOGLE"
 msgstr "Google"
 
 msgid "IDS_COM_BODY_HOME"
-msgstr "家庭"
+msgstr "Home"
 
 msgid "IDS_COM_BODY_IM_IN_A_MEETING"
-msgstr "我正在开会"
+msgstr "I'm in a meeting"
 
 msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
-msgstr "KIES 通过Wi-Fi"
+msgstr "Kies via Wi-Fi"
 
 msgid "IDS_COM_BODY_MOBILE"
-msgstr "手机"
+msgstr "Mobile"
 
 msgid "IDS_COM_BODY_WORK"
-msgstr "工作"
+msgstr "Work"
 
 msgid "IDS_COM_OPT1_WI_FI_DIRECT"
-msgstr "Wi-Fi直连"
+msgstr "Wi-Fi Direct"
 
 msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
-msgstr "阿比让"
+msgstr "Abidjan"
 
 msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
-msgstr "阿布扎比"
+msgstr "Abu Dhabi"
 
 msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
-msgstr "阿拉伯联合酋长国"
+msgstr "United Arab Emirates"
 
 msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
-msgstr "阿克拉"
+msgstr "Accra"
 
 msgid "IDS_WCL_BODY_GHANA"
-msgstr "加纳"
+msgstr "Ghana"
 
 msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
-msgstr "亚的斯亚贝巴"
+msgstr "Addis Ababa"
 
 msgid "IDS_WCL_BODY_ETHIOPIA"
-msgstr "埃塞俄比亚"
+msgstr "Ethiopia"
 
 msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
-msgstr "阿德莱德"
+msgstr "Adelaide"
 
 msgid "IDS_WCL_BODY_AUSTRALIA"
-msgstr "澳大利亚"
+msgstr "Australia"
 
 msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
-msgstr "阿拉斯加"
+msgstr "Alaska"
 
 msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
-msgstr "美国"
+msgstr "USA"
 
 msgid "IDS_WCL_BODY_COTE_DIVOIRE"
-msgstr "科特迪瓦"
+msgstr "Côte d’Ivoire"
 
 msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
-msgstr "阿尔及尔"
+msgstr "Algiers"
 
 msgid "IDS_WCL_BODY_ALGERIA"
-msgstr "阿尔及利亚"
+msgstr "Algeria"
 
 msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
-msgstr "阿拉木图"
+msgstr "Almaty"
 
 msgid "IDS_WCL_BODY_KAZAKHSTAN"
-msgstr "哈萨克斯坦"
+msgstr "Kazakhstan"
 
 msgid "IDS_WCL_BODY_CITYNAME_AMBON"
-msgstr "安汶"
+msgstr "Ambon"
 
 msgid "IDS_WCL_BODY_INDONESIA"
-msgstr "印度尼西亚"
+msgstr "Indonesia"
 
 msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
-msgstr "安曼"
+msgstr "Amman"
 
 msgid "IDS_WCL_BODY_JORDAN"
-msgstr "约旦"
+msgstr "Jordan"
 
 msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
-msgstr "阿姆斯特丹"
+msgstr "Amsterdam"
 
 msgid "IDS_WCL_BODY_NETHERLANDS"
-msgstr "荷兰"
+msgstr "Netherlands"
 
 msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
-msgstr "阿纳德尔河"
+msgstr "Anadyr"
 
 msgid "IDS_WCL_BODY_RUSSIA"
-msgstr "俄罗斯"
+msgstr "Russia"
 
 msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
-msgstr "安克雷奇"
+msgstr "Anchorage"
 
 msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
-msgstr "安卡拉"
+msgstr "Ankara"
 
 msgid "IDS_WCL_BODY_TURKEY"
-msgstr "土耳其"
+msgstr "Turkey"
 
 msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
-msgstr "安塔那利佛"
+msgstr "Antananarivo"
 
 msgid "IDS_WCL_BODY_MADAGASCAR"
-msgstr "马达加斯加"
+msgstr "Madagascar"
 
 msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
-msgstr "阿什哈巴德"
+msgstr "Ashgabat"
 
 msgid "IDS_WCL_BODY_TURKMENISTAN"
-msgstr "土库曼斯坦"
+msgstr "Turkmenistan"
 
 msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
-msgstr "阿斯马拉"
+msgstr "Asmara"
 
 msgid "IDS_WCL_BODY_ERITREA"
-msgstr "厄立特里亚"
+msgstr "Eritrea"
 
 msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
-msgstr "阿斯坦纳"
+msgstr "Astana"
 
 msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
-msgstr "亚松森"
+msgstr "Asuncion"
 
 msgid "IDS_WCL_BODY_PARAGUAY"
-msgstr "巴拉圭"
+msgstr "Paraguay"
 
 msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
-msgstr "雅典"
+msgstr "Athens"
 
 msgid "IDS_WCL_BODY_GREECE"
-msgstr "希腊"
+msgstr "Greece"
 
 msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
-msgstr "奥克兰"
+msgstr "Auckland"
 
 msgid "IDS_WCL_BODY_NEW_ZEALAND"
-msgstr "新西兰"
+msgstr "New Zealand"
 
 msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
-msgstr "奥斯汀"
+msgstr "Austin"
 
 msgid "IDS_WCL_BODY_CITYNAME_AZORES"
-msgstr "亚述尔群岛"
+msgstr "Azores"
 
 msgid "IDS_WCL_BODY_PORTUGAL"
-msgstr "葡萄牙"
+msgstr "Portugal"
 
 msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
-msgstr "巴格达"
+msgstr "Baghdad"
 
 msgid "IDS_WCL_BODY_IRAQ"
-msgstr "伊拉克"
+msgstr "Iraq"
 
 msgid "IDS_WCL_BODY_CITYNAME_BAKU"
-msgstr "巴库"
+msgstr "Baku"
 
 msgid "IDS_WCL_BODY_AZERBAIJAN"
-msgstr "阿塞拜疆"
+msgstr "Azerbaijan"
 
 msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
-msgstr "巴尔的摩"
+msgstr "Baltimore"
 
 msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
-msgstr "巴马科"
+msgstr "Bamako"
 
 msgid "IDS_WCL_BODY_MALI"
-msgstr "马里"
+msgstr "Mali"
 
 msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
-msgstr "曼谷"
+msgstr "Bangkok"
 
 msgid "IDS_WCL_BODY_THAILAND"
-msgstr "泰国"
+msgstr "Thailand"
 
 msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
-msgstr "班吉"
+msgstr "Bangui"
 
 msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
-msgstr "中非共和国"
+msgstr "Central African Republic"
 
 msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
-msgstr "巴塞罗那"
+msgstr "Barcelona"
 
 msgid "IDS_WCL_BODY_SPAIN"
-msgstr "西班牙"
+msgstr "Spain"
 
 msgid "IDS_WCL_BODY_CITYNAME_BARI"
-msgstr "巴里"
+msgstr "Bari"
 
 msgid "IDS_WCL_BODY_ITALY"
-msgstr "意大利"
+msgstr "Italy"
 
 msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
-msgstr "巴斯特尔"
+msgstr "Basse-Terre"
 
 msgid "IDS_WCL_BODY_GUADELOUPE"
-msgstr "瓜德罗普岛"
+msgstr "Guadeloupe"
 
 msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
-msgstr "北京"
+msgstr "Beijing"
 
 msgid "IDS_WCL_BODY_CHINA"
-msgstr "中国"
+msgstr "China"
 
 msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
-msgstr "贝鲁特"
+msgstr "Beirut"
 
 msgid "IDS_WCL_BODY_LEBANON"
-msgstr "黎巴嫩"
+msgstr "Lebanon"
 
 msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
-msgstr "贝尔格莱德"
+msgstr "Belgrade"
 
 msgid "IDS_WCL_BODY_SERBIA"
-msgstr "塞尔维亚"
+msgstr "Serbia"
 
 msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
-msgstr "伯利兹城"
+msgstr "Belize City"
 
 msgid "IDS_WCL_BODY_BELIZE"
-msgstr "伯利兹"
+msgstr "Belize"
 
 msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
-msgstr "柏林"
+msgstr "Berlin"
 
 msgid "IDS_WCL_BODY_GERMANY"
-msgstr "德国"
+msgstr "Germany"
 
 msgid "IDS_WCL_BODY_CITYNAME_BERN"
-msgstr "伯尔尼"
+msgstr "Bern"
 
 msgid "IDS_WCL_BODY_SWITZERLAND"
-msgstr "瑞士"
+msgstr "Switzerland"
 
 msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
-msgstr "比什凯克"
+msgstr "Bishkek"
 
 msgid "IDS_WCL_BODY_KYRGYZSTAN"
-msgstr "吉尔吉斯斯坦"
+msgstr "Kyrgyzstan"
 
 msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
-msgstr "比绍"
+msgstr "Bissau"
 
 msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
-msgstr "几内亚比绍"
+msgstr "Guinea Bissau"
 
 msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
-msgstr "波哥大"
+msgstr "Bogota"
 
 msgid "IDS_WCL_BODY_COLOMBIA"
-msgstr "哥伦比亚"
+msgstr "Colombia"
 
 msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
-msgstr "博洛尼亚"
+msgstr "Bologna"
 
 msgid "IDS_WCL_BODY_BOSTON"
-msgstr "波士顿"
+msgstr "Boston                      "
 
 msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
-msgstr "巴西利亚"
+msgstr "Brasilia"
 
 msgid "IDS_WCL_BODY_BRAZIL"
-msgstr "巴西"
+msgstr "Brazil"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
-msgstr "布拉迪斯拉发"
+msgstr "Bratislava"
 
 msgid "IDS_WCL_BODY_SLOVAKIA"
-msgstr "斯洛伐克"
+msgstr "Slovakia"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
-msgstr "布里奇顿"
+msgstr "Bridgetown"
 
 msgid "IDS_WCL_BODY_BARBADOS"
-msgstr "巴巴多斯"
+msgstr "Barbados"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
-msgstr "布里斯班"
+msgstr "Brisbane"
 
 msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
-msgstr "布鲁塞尔"
+msgstr "Brussels"
 
 msgid "IDS_WCL_BODY_BELGIUM"
-msgstr "比利时"
+msgstr "Belgium"
 
 msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
-msgstr "布加勒斯特"
+msgstr "Bucharest"
 
 msgid "IDS_WCL_BODY_ROMANIA"
-msgstr "罗马尼亚"
+msgstr "Romania"
 
 msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
-msgstr "布达佩斯"
+msgstr "Budapest"
 
 msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
-msgstr "匈牙利"
+msgstr "Hungary"
 
 msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
-msgstr "布宜诺斯艾利斯"
+msgstr "Buenos Aires"
 
 msgid "IDS_WCL_BODY_ARGENTINA"
-msgstr "阿根廷"
+msgstr "Argentina"
 
 msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
-msgstr "开罗"
+msgstr "Cairo"
 
 msgid "IDS_WCL_BODY_EGYPT"
-msgstr "埃及"
+msgstr "Egypt"
 
 msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
-msgstr "卡尔加里"
+msgstr "Calgary"
 
 msgid "IDS_WCL_BODY_CANADA"
-msgstr "加拿大"
+msgstr "Canada"
 
 msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
-msgstr "加那利群岛"
+msgstr "Canary Islands"
 
 msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
-msgstr "堪培拉"
+msgstr "Canberra"
 
 msgid "IDS_WCL_BODY_CITYNAME_CANTON"
-msgstr "广州"
+msgstr "Canton"
 
 msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
-msgstr "开普敦"
+msgstr "Cape Town"
 
 msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
-msgstr "南非共和国"
+msgstr "Republic of South Africa"
 
 msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
-msgstr "加拉加斯"
+msgstr "Caracas"
 
 msgid "IDS_WCL_BODY_VENEZUELA"
-msgstr "委内瑞拉"
+msgstr "Venezuela"
 
 msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
-msgstr "加的夫"
+msgstr "Cardiff"
 
 msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
-msgstr "威尔士"
+msgstr "Wales"
 
 msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
-msgstr "卡萨布兰卡"
+msgstr "Casablanca"
 
 msgid "IDS_WCL_BODY_MOROCCO"
-msgstr "摩洛哥"
+msgstr "Morocco"
 
 msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
-msgstr "卡坦扎罗"
+msgstr "Catanzaro"
 
 msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
-msgstr "未安装应用程序"
+msgstr "Application not installed"
 
 msgid "IDS_COM_BODY_KB"
 msgstr "KB"
@@ -1817,1201 +1817,1201 @@ msgid "IDS_COM_BODY_GB"
 msgstr "GB"
 
 msgid "IDS_COM_BODY_LATITUDE"
-msgstr "纬度"
+msgstr "Latitude"
 
 msgid "IDS_COM_BODY_LONGITUDE"
-msgstr "经度"
+msgstr "Longitude"
 
 msgid "IDS_COM_OPT_SPEAKER_ABB"
 msgstr "Speaker"
 
 msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
-msgstr "无法找到应用程序以执行该操作"
+msgstr "Unable to find application to perform this action"
 
 msgid "IDS_COM_BODY_OFF_M_STATUS"
-msgstr "关"
+msgstr "Off"
 
 msgid "IDS_COM_BODY_ON_M_STATUS"
-msgstr "开"
+msgstr "On"
 
 msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
-msgstr "%s 当前已锁定。是否解锁？"
+msgstr "%s currently locked. Unlock?"
 
 msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
-msgstr "您还可使用 %s 1 次。现在开始？"
+msgstr "You can use %s 1 more time. Start now?"
 
 msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
-msgstr "您还可使用 %s 2 次。现在开始？"
+msgstr "You can use %s 2 more times. Start now?"
 
 msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
-msgstr "您可以使用%s %d天。现在开始？"
+msgstr "You can use %s for %d days. Start now?"
 
 msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
-msgstr "%s 将过期。获取另一许可证？"
+msgstr "%s is about to expire. Get another license?"
 
 msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
-msgstr "您还可使用 %s 1 次。获取另一许可证？"
+msgstr "You can use %s 1 more time. Get another license?"
 
 msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
-msgstr "您无法再使用 %s。获取另一许可证？"
+msgstr "You cannot use %s any more times. Get another license?"
 
 msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
-msgstr "音频设备"
+msgstr "Audio device"
 
 msgid "IDS_COM_SK_INSTALL_A"
-msgstr "安装"
+msgstr "Install"
 
 msgid "IDS_COM_OPT_REGISTER"
-msgstr "注册"
+msgstr "Register"
 
 msgid "IDS_COM_POP_UNEXPECTED_ERROR"
-msgstr "意外错误"
+msgstr "Unexpected error"
 
 msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
-msgstr "服务器连接失败"
+msgstr "Proxy connection failed"
 
 msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
-msgstr "网络连接错误"
+msgstr "Network connection error"
 
 msgid "IDS_COM_BODY_INVALID_SIM_CARD"
-msgstr "SIM 卡无效"
+msgstr "Invalid SIM card"
 
 msgid "IDS_COM_BODY_OPERATION_FAILED"
-msgstr "操作失败"
+msgstr "Operation failed"
 
 msgid "IDS_COM_POP_VERSION"
-msgstr "版本"
+msgstr "Version"
 
 msgid "IDS_COM_BODY_DEFAULT"
-msgstr "默认"
+msgstr "Default"
 
 msgid "IDS_COM_BODY_CUT"
-msgstr "剪切"
+msgstr "Cut"
 
 msgid "IDS_COM_BODY_PASTE"
-msgstr "粘贴"
+msgstr "Paste"
 
 msgid "IDS_COM_BODY_CLIPBOARD"
-msgstr "剪贴板"
+msgstr "Clipboard"
 
 msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
-msgstr "安全政策限制屏幕捕捉的使用"
+msgstr "Security policy restricts use of screen capture"
 
 msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
-msgstr "卡宴"
+msgstr "Cayenne"
 
 msgid "IDS_WCL_BODY_FRENCH_GUIANA"
-msgstr "法属圭亚那"
+msgstr "French Guiana"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
-msgstr "夏洛特市"
+msgstr "Charlotte"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
-msgstr "夏洛特阿马利亚"
+msgstr "Charlotte Amalie"
 
 msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
-msgstr "美属维尔京群岛"
+msgstr "United States Virgin Islands"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
-msgstr "车里雅宾斯克"
+msgstr "Chelyabinsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
-msgstr "陈奈"
+msgstr "Chennai"
 
 msgid "IDS_WCL_BODY_INDIA"
-msgstr "印度"
+msgstr "India"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
-msgstr "芝加哥"
+msgstr "Chicago"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
-msgstr "基希讷乌"
+msgstr "Chişinău"
 
 msgid "IDS_WCL_BODY_MOLDOVA"
-msgstr "摩尔多瓦"
+msgstr "Moldova"
 
 msgid "IDS_WCL_BODY_CITYNAME_CHITA"
-msgstr "赤塔"
+msgstr "Chita"
 
 msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
-msgstr "克里夫兰"
+msgstr "Cleveland"
 
 msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
-msgstr "科伦坡"
+msgstr "Colombo"
 
 msgid "IDS_WCL_BODY_SRI_LANKA"
-msgstr "斯里兰卡"
+msgstr "Sri Lanka"
 
 msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
-msgstr "哥伦布"
+msgstr "Columbus"
 
 msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
-msgstr "科纳克里"
+msgstr "Conakry"
 
 msgid "IDS_WCL_BODY_GUINEA"
-msgstr "几内亚"
+msgstr "Guinea"
 
 msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
-msgstr "哥本哈根"
+msgstr "Copenhagen"
 
 msgid "IDS_WCL_BODY_DENMARK"
-msgstr "丹麦"
+msgstr "Denmark"
 
 msgid "IDS_WCL_BODY_CITYNAME_CORK"
-msgstr "科克"
+msgstr "Cork"
 
 msgid "IDS_WCL_BODY_IRELAND"
-msgstr "爱尔兰"
+msgstr "Ireland"
 
 msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
-msgstr "克努托内意大利"
+msgstr "Crotone"
 
 msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
-msgstr "达喀尔"
+msgstr "Dakar"
 
 msgid "IDS_WCL_BODY_SENEGAL"
-msgstr "塞内加尔"
+msgstr "Senegal"
 
 msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
-msgstr "达拉斯"
+msgstr "Dallas"
 
 msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
-msgstr "大马士革"
+msgstr "Damascus"
 
 msgid "IDS_WCL_BODY_SYRIA"
-msgstr "叙利亚"
+msgstr "Syria"
 
 msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
-msgstr "达累斯萨拉姆"
+msgstr "Dar es Salaam"
 
 msgid "IDS_WCL_BODY_TANZANIA"
-msgstr "坦桑尼亚"
+msgstr "Tanzania"
 
 msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
-msgstr "达尔文"
+msgstr "Darwin"
 
 msgid "IDS_WCL_BODY_CITYNAME_DELHI"
-msgstr "德里"
+msgstr "Delhi"
 
 msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
-msgstr "登巴萨"
+msgstr "Denpasar"
 
 msgid "IDS_WCL_BODY_CITYNAME_DENVER"
-msgstr "丹佛"
+msgstr "Denver"
 
 msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
-msgstr "底特律"
+msgstr "Detroit"
 
 msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
-msgstr "达卡"
+msgstr "Dhaka"
 
 msgid "IDS_WCL_BODY_BANGLADESH"
-msgstr "孟加拉国"
+msgstr "Bangladesh"
 
 msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
-msgstr "迪戈加西亚岛"
+msgstr "Diego Garcia"
 
 msgid "IDS_WCL_BODY_UNITED_KINGDOM"
-msgstr "英国"
+msgstr "United Kingdom"
 
 msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
-msgstr "吉布提"
+msgstr "Djibouti"
 
 msgid "IDS_WCL_BODY_DJIBOUTI"
-msgstr "吉布提"
+msgstr "Djibouti"
 
 msgid "IDS_WCL_BODY_CITYNAME_DOHA"
-msgstr "多哈"
+msgstr "Doha"
 
 msgid "IDS_WCL_BODY_QATAR"
-msgstr "卡塔尔"
+msgstr "Qatar"
 
 msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
-msgstr "杜阿拉"
+msgstr "Douala"
 
 msgid "IDS_WCL_BODY_CAMEROON"
-msgstr "喀麦隆"
+msgstr "Cameroon"
 
 msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
-msgstr "迪拜"
+msgstr "Dubai"
 
 msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
-msgstr "都柏林"
+msgstr "Dublin"
 
 msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
-msgstr "杜尚别"
+msgstr "Dushanbe"
 
 msgid "IDS_WCL_BODY_TAJIKISTAN"
-msgstr "塔吉克斯坦"
+msgstr "Tajikistan"
 
 msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
-msgstr "复活节岛"
+msgstr "Easter Island"
 
 msgid "IDS_WCL_BODY_CHILE"
-msgstr "智利"
+msgstr "Chile"
 
 msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
-msgstr "爱丁堡"
+msgstr "Edinburgh"
 
 msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
-msgstr "苏格兰"
+msgstr "Scotland"
 
 msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
-msgstr "艾尔帕索"
+msgstr "El Paso"
 
 msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
-msgstr "佛罗伦萨"
+msgstr "Florence"
 
 msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
-msgstr "法兰西堡"
+msgstr "Fort-de-France"
 
 msgid "IDS_WCL_BODY_MARTINIQUE"
-msgstr "马提尼克"
+msgstr "Martinique"
 
 msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
-msgstr "弗里敦"
+msgstr "Freetown"
 
 msgid "IDS_WCL_BODY_SIERRA_LEONE"
-msgstr "塞拉利昂"
+msgstr "Sierra Leone"
 
 msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
-msgstr "哈博罗内"
+msgstr "Gaborone"
 
 msgid "IDS_WCL_BODY_BOTSWANA"
-msgstr "博茨瓦那"
+msgstr "Botswana"
 
 msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
-msgstr "加拉帕戈斯群岛"
+msgstr "Galápagos Islands"
 
 msgid "IDS_WCL_BODY_ECUADOR"
-msgstr "厄瓜多尔"
+msgstr "Ecuador"
 
 msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
-msgstr "日内瓦"
+msgstr "Geneva"
 
 msgid "IDS_WCL_BODY_CITYNAME_GENOA"
-msgstr "热那亚"
+msgstr "Genoa"
 
 msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
-msgstr "乔治敦"
+msgstr "Georgetown"
 
 msgid "IDS_WCL_BODY_GUYANA"
-msgstr "圭亚那"
+msgstr "Guyana"
 
 msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
-msgstr "格雷特维根"
+msgstr "Grytviken"
 
 msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
-msgstr "南佐治亚"
+msgstr "South Georgia"
 
 msgid "IDS_WCL_BODY_CITYNAME_GUAM"
-msgstr "关岛"
+msgstr "Guam"
 
 msgid "IDS_WCL_BODY_GUATEMALA_CITY"
-msgstr "危地马拉市"
+msgstr "Guatemala City"
 
 msgid "IDS_WCL_BODY_GUATEMALA"
-msgstr "危地马拉"
+msgstr "Guatemala"
 
 msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
-msgstr "古斯塔维亚"
+msgstr "Gustavia"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
-msgstr "圣巴泰勒米岛"
+msgstr "Saint Barthélemy"
 
 msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
-msgstr "哈利法克斯"
+msgstr "Halifax"
 
 msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
-msgstr "汉堡"
+msgstr "Hamburg"
 
 msgid "IDS_WCL_BODY_CITYNAME_HANOI"
-msgstr "河内"
+msgstr "Hanoi"
 
 msgid "IDS_WCL_BODY_VIETNAM"
-msgstr "越南"
+msgstr "Vietnam"
 
 msgid "IDS_WCL_BODY_CITYNAME_HARARE"
-msgstr "哈拉雷"
+msgstr "Harare"
 
 msgid "IDS_WCL_BODY_ZIMBABWE"
-msgstr "津巴布韦"
+msgstr "Zimbabwe"
 
 msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
-msgstr "哈瓦那"
+msgstr "Havana"
 
 msgid "IDS_WCL_BODY_CUBA"
-msgstr "古巴"
+msgstr "Cuba"
 
 msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
-msgstr "夏威夷"
+msgstr "Hawaii"
 
 msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
-msgstr "赫尔辛基"
+msgstr "Helsinki"
 
 msgid "IDS_WCL_BODY_FINLAND"
-msgstr "芬兰"
+msgstr "Finland"
 
 msgid "IDS_WCL_BODY_CITYNAME_HOBART"
-msgstr "霍巴特"
+msgstr "Hobart"
 
 msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
-msgstr "香港"
+msgstr "Hong Kong"
 
 msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
-msgstr "檀香山"
+msgstr "Honolulu"
 
 msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
-msgstr "休斯顿"
+msgstr "Houston"
 
 msgid "IDS_WCL_BODY_CITYNAME_HOVD"
-msgstr "科布多"
+msgstr "Hovd"
 
 msgid "IDS_WCL_BODY_MONGOLIA"
-msgstr "蒙古"
+msgstr "Mongolia"
 
 msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
-msgstr "印第安纳波利斯"
+msgstr "Indianapolis"
 
 msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
-msgstr "伊尔库次克"
+msgstr "Irkutsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
-msgstr "伊斯兰堡"
+msgstr "Islamabad"
 
 msgid "IDS_WCL_BODY_PAKISTAN"
-msgstr "巴基斯坦"
+msgstr "Pakistan"
 
 msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
-msgstr "伊斯坦布尔"
+msgstr "Istanbul"
 
 msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
-msgstr "伊热夫斯克"
+msgstr "Izhevsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
-msgstr "雅加达"
+msgstr "Jakarta"
 
 msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
-msgstr "吉达"
+msgstr "Jeddah"
 
 msgid "IDS_WCL_BODY_SAUDI_ARABIA"
-msgstr "沙特阿拉伯"
+msgstr "Saudi Arabia"
 
 msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
-msgstr "耶路撒冷"
+msgstr "Jerusalem"
 
 msgid "IDS_WCL_BODY_ISRAEL"
-msgstr "以色列"
+msgstr "Israel"
 
 msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
-msgstr "约翰内斯堡"
+msgstr "Johannesburg"
 
 msgid "IDS_WCL_BODY_CITYNAME_KABUL"
-msgstr "喀布尔"
+msgstr "Kabul"
 
 msgid "IDS_WCL_BODY_AFGHANISTAN"
-msgstr "阿富汗"
+msgstr "Afghanistan"
 
 msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
-msgstr "加里宁格勒"
+msgstr "Kaliningrad"
 
 msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
-msgstr "堪察加半岛"
+msgstr "Kamchatka"
 
 msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
-msgstr "坎帕拉"
+msgstr "Kampala"
 
 msgid "IDS_WCL_BODY_UGANDA"
-msgstr "乌干达"
+msgstr "Uganda"
 
 msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
-msgstr "卡拉奇"
+msgstr "Karachi"
 
 msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
-msgstr "加德满都"
+msgstr "Kathmandu"
 
 msgid "IDS_WCL_BODY_NEPAL"
-msgstr "尼泊尔"
+msgstr "Nepal"
 
 msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
-msgstr "哈巴罗夫斯克"
+msgstr "Khabarovsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
-msgstr "哈尔科夫"
+msgstr "Kharkiv"
 
 msgid "IDS_WCL_BODY_UKRAINE"
-msgstr "乌克兰"
+msgstr "Ukraine"
 
 msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
-msgstr "喀土穆"
+msgstr "Khartoum"
 
 msgid "IDS_WCL_BODY_SUDAN"
-msgstr "苏丹"
+msgstr "Sudan"
 
 msgid "IDS_WCL_BODY_CITYNAME_KIEV"
-msgstr "基辅"
+msgstr "Kiev"
 
 msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
-msgstr "金斯敦"
+msgstr "Kingston"
 
 msgid "IDS_WCL_BODY_JAMAICA"
-msgstr "牙买加"
+msgstr "Jamaica"
 
 msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
-msgstr "金沙萨"
+msgstr "Kinshasa"
 
 msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
-msgstr "刚果民主共和国"
+msgstr "Democratic Republic of the Congo"
 
 msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
-msgstr "加尔各答"
+msgstr "Kolkata"
 
 msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
-msgstr "克拉斯诺亚尔斯克"
+msgstr "Krasnoyarsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
-msgstr "吉隆坡"
+msgstr "Kuala Lumpur"
 
 msgid "IDS_WCL_BODY_MALAYSIA"
-msgstr "马来西亚"
+msgstr "Malaysia"
 
 msgid "IDS_WCL_BODY_KUWAIT"
-msgstr "科威特"
+msgstr "Kuwait"
 
 msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
-msgstr "洛杉矶"
+msgstr "Los Angeles"
 
 msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
-msgstr "拉巴斯"
+msgstr "La Paz"
 
 msgid "IDS_WCL_BODY_BOLIVIA"
-msgstr "玻利维亚"
+msgstr "Bolivia"
 
 msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
-msgstr "拉多斯"
+msgstr "Lagos"
 
 msgid "IDS_WCL_BODY_NIGERIA"
-msgstr "尼日利亚"
+msgstr "Nigeria"
 
 msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
-msgstr "拉斯维加斯"
+msgstr "Las Vegas"
 
 msgid "IDS_WCL_BODY_CITYNAME_LIMA"
-msgstr "利马"
+msgstr "Lima"
 
 msgid "IDS_WCL_BODY_PERU"
-msgstr "秘鲁"
+msgstr "Peru"
 
 msgid "IDS_WCL_BODY_CITYNAME_LISBON"
-msgstr "里斯本"
+msgstr "Lisbon"
 
 msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
-msgstr "卢布尔雅那"
+msgstr "Ljubljana"
 
 msgid "IDS_WCL_BODY_CITYNAME_LONDON"
-msgstr "伦敦"
+msgstr "London"
 
 msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
-msgstr "汕头市龙华"
+msgstr "Longhua"
 
 msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
-msgstr "路易斯维尔"
+msgstr "Louisville"
 
 msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
-msgstr "罗安达"
+msgstr "Luanda"
 
 msgid "IDS_WCL_BODY_ANGOLA"
-msgstr "安哥拉"
+msgstr "Angola"
 
 msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
-msgstr "卢本巴希"
+msgstr "Lubumbashi"
 
 msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
-msgstr "卢萨卡"
+msgstr "Lusaka"
 
 msgid "IDS_WCL_BODY_ZAMBIA"
-msgstr "赞比亚"
+msgstr "Zambia"
 
 msgid "IDS_WCL_BODY_LUXEMBOURG"
-msgstr "卢森堡"
+msgstr "Luxembourg"
 
 msgid "IDS_WCL_BODY_CITYNAME_LVIV"
-msgstr "利沃夫"
+msgstr "Lviv"
 
 msgid "IDS_WCL_BODY_CITYNAME_MACAU"
-msgstr "澳门特别行政区"
+msgstr "Macau"
 
 msgid "IDS_WCL_BODY_CITYNAME_MADRID"
-msgstr "马德里"
+msgstr "Madrid"
 
 msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
-msgstr "马加丹"
+msgstr "Magadan"
 
 msgid "IDS_WCL_BODY_CITYNAME_MALABO"
-msgstr "马拉博"
+msgstr "Malabo"
 
 msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
-msgstr "赤道几内亚"
+msgstr "Equaorial Guinea"
 
 msgid "IDS_WCL_BODY_CITYNAME_MALE"
-msgstr "马累"
+msgstr "Male"
 
 msgid "IDS_WCL_BODY_MALDIVES"
-msgstr "马尔代夫"
+msgstr "Maldives"
 
 msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
-msgstr "马那瓜"
+msgstr "Managua"
 
 msgid "IDS_WCL_BODY_NICARAGUA"
-msgstr "尼加拉瓜"
+msgstr "Nicaragua"
 
 msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
-msgstr "麦纳麦"
+msgstr "Manama"
 
 msgid "IDS_WCL_BODY_BAHRAIN"
-msgstr "巴林"
+msgstr "Bahrain"
 
 msgid "IDS_WCL_BODY_CITYNAME_MANILA"
-msgstr "马尼拉"
+msgstr "Manila"
 
 msgid "IDS_WCL_BODY_PHILIPPINES"
-msgstr "菲律宾"
+msgstr "Philippines"
 
 msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
-msgstr "马普托"
+msgstr "Maputo"
 
 msgid "IDS_WCL_BODY_MOZAMBIQUE"
-msgstr "莫桑比克"
+msgstr "Mozambique"
 
 msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
-msgstr "马里戈特"
+msgstr "Marigot"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
-msgstr "圣马丁"
+msgstr "Saint Martin"
 
 msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
-msgstr "马萨特兰"
+msgstr "Mazatlan"
 
 msgid "IDS_WCL_BODY_MEXICO"
-msgstr "墨西哥"
+msgstr "Mexico"
 
 msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
-msgstr "利雅得"
+msgstr "Riyadh"
 
 msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
-msgstr "墨尔本"
+msgstr "Melbourne"
 
 msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
-msgstr "孟菲斯"
+msgstr "Memphis"
 
 msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
-msgstr "墨西拿"
+msgstr "Messina"
 
 msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
-msgstr "墨西哥城"
+msgstr "Mexico City"
 
 msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
-msgstr "迈阿密"
+msgstr "Miami"
 
 msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
-msgstr "中大西洋"
+msgstr "Mid-Atlantic"
 
 msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
-msgstr "中途岛"
+msgstr "Midway Atoll"
 
 msgid "IDS_WCL_BODY_CITYNAME_MILAN"
-msgstr "米兰"
+msgstr "Milan"
 
 msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
-msgstr "密尔沃基"
+msgstr "Milwaukee"
 
 msgid "IDS_WCL_BODY_CITYNAME_MINSK"
-msgstr "明斯克"
+msgstr "Minsk"
 
 msgid "IDS_WCL_BODY_BELARUS"
-msgstr "白俄罗斯"
+msgstr "Belarus"
 
 msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
-msgstr "摩加迪沙"
+msgstr "Mogadishu"
 
 msgid "IDS_WCL_BODY_SOMALIA"
-msgstr "索马里"
+msgstr "Somalia"
 
 msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
-msgstr "蒙罗维亚"
+msgstr "Monrovia"
 
 msgid "IDS_WCL_BODY_LIBERIA"
-msgstr "利比里亚"
+msgstr "Liberia"
 
 msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
-msgstr "蒙得维的亚"
+msgstr "Montevideo"
 
 msgid "IDS_WCL_BODY_URUGUAY"
-msgstr "乌拉圭"
+msgstr "Uruguay"
 
 msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
-msgstr "蒙特利尔"
+msgstr "Montreal"
 
 msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
-msgstr "莫斯科"
+msgstr "Moscow"
 
 msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
-msgstr "孟买"
+msgstr "Mumbai"
 
 msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
-msgstr "慕尼黑"
+msgstr "Munich"
 
 msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
-msgstr "马斯喀特"
+msgstr "Muscat"
 
 msgid "IDS_WCL_BODY_OMAN"
-msgstr "阿曼"
+msgstr "Oman"
 
 msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
-msgstr "奈洛比"
+msgstr "Nairobi"
 
 msgid "IDS_WCL_BODY_KENYA"
-msgstr "肯尼亚"
+msgstr "Kenya"
 
 msgid "IDS_WCL_BODY_CITYNAME_ROME"
-msgstr "罗马"
+msgstr "Rome"
 
 msgid "IDS_WCL_BODY_CITYNAME_NATERS"
-msgstr "那特斯"
+msgstr "Naters"
 
 msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
-msgstr "恩贾梅纳"
+msgstr "Ndjamena"
 
 msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
-msgstr "那不勒斯"
+msgstr "Naples"
 
 msgid "IDS_WCL_BODY_CHAD"
-msgstr "乍得"
+msgstr "Chad"
 
 msgid "IDS_WCL_BODY_MECCA"
-msgstr "麦加"
+msgstr "Mecca"
 
 msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
-msgstr "新德里"
+msgstr "New Delhi"
 
 msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
-msgstr "纽约"
+msgstr "New York"
 
 msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
-msgstr "纽芬兰"
+msgstr "Newfoundland"
 
 msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
-msgstr "尼亚美"
+msgstr "Niamey"
 
 msgid "IDS_WCL_BODY_NIGER"
-msgstr "尼日尔"
+msgstr "Niger"
 
 msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
-msgstr "努瓦克肖特"
+msgstr "Nouakchott"
 
 msgid "IDS_WCL_BODY_MAURITANIA"
-msgstr "毛里塔尼亚"
+msgstr "Mauritania"
 
 msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
-msgstr "努美阿"
+msgstr "Nouméa"
 
 msgid "IDS_WCL_BODY_NEW_CALEDONIA"
-msgstr "新喀里多尼亚岛"
+msgstr "New Caledonia"
 
 msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
-msgstr "新库兹涅茨克"
+msgstr "Novokuznetsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
-msgstr "新西伯利亚"
+msgstr "Novosibirsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
-msgstr "努库阿洛法"
+msgstr "Nuku'alofa"
 
 msgid "IDS_WCL_BODY_TONGA"
-msgstr "汤加"
+msgstr "Tonga"
 
 msgid "IDS_WCL_BODY_CITYNAME_NUUK"
-msgstr "努克"
+msgstr "Nuuk"
 
 msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
-msgstr "格陵兰岛"
+msgstr "Greenland"
 
 msgid "IDS_WCL_BODY_CITYNAME_OMSK"
-msgstr "鄂木斯克"
+msgstr "Omsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
-msgstr "大阪"
+msgstr "Osaka"
 
 msgid "IDS_WCL_BODY_JAPAN"
-msgstr "日本"
+msgstr "Japan"
 
 msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
-msgstr "渥太华"
+msgstr "Ottawa"
 
 msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
-msgstr "瓦加杜古"
+msgstr "Ouagadougou"
 
 msgid "IDS_WCL_BODY_BURKINA_FASO"
-msgstr "布基纳法索"
+msgstr "Burkina Faso"
 
 msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
-msgstr "帕果-帕果"
+msgstr "Pago Pago"
 
 msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
-msgstr "萨摩亚独立国"
+msgstr "Independent State of Samoa"
 
 msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
-msgstr "巴勒莫"
+msgstr "Palermo"
 
 msgid "IDS_WCL_BODY_PANAMA_CITY"
-msgstr "巴拿马城"
+msgstr "Panama City"
 
 msgid "IDS_WCL_BODY_PANAMA"
-msgstr "巴拿马"
+msgstr "Panama"
 
 msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
-msgstr "帕拉马里博"
+msgstr "Paramaribo"
 
 msgid "IDS_WCL_BODY_SURINAME"
-msgstr "苏里南"
+msgstr "Suriname"
 
 msgid "IDS_WCL_BODY_CITYNAME_PARIS"
-msgstr "巴黎"
+msgstr "Paris"
 
 msgid "IDS_WCL_BODY_FRANCE"
-msgstr "法国"
+msgstr "France"
 
 msgid "IDS_WCL_BODY_CITYNAME_PERM"
-msgstr "彼尔姆"
+msgstr "Perm"
 
 msgid "IDS_WCL_BODY_CITYNAME_PERTH"
-msgstr "珀斯"
+msgstr "Perth"
 
 msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
-msgstr "彼得罗巴甫洛夫斯克"
+msgstr "Petropavlovsk-Kamchatskiy"
 
 msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
-msgstr "费城"
+msgstr "Philadelphia"
 
 msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
-msgstr "金边"
+msgstr "Phnom Penh"
 
 msgid "IDS_WCL_BODY_CAMBODIA"
-msgstr "柬埔寨"
+msgstr "Cambodia"
 
 msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
-msgstr "菲尼克斯"
+msgstr "Phoenix"
 
 msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
-msgstr "波德戈里察"
+msgstr "Podgorica"
 
 msgid "IDS_WCL_BODY_MONTENEGRO"
-msgstr "黑山共和国"
+msgstr "Montenegro"
 
 msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
-msgstr "蓬塔德尔加达"
+msgstr "Ponta Delgada"
 
 msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
-msgstr "路易港"
+msgstr "Port Louis"
 
 msgid "IDS_WCL_BODY_MAURITIUS"
-msgstr "毛里求斯"
+msgstr "Mauritius"
 
 msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
-msgstr "太子港"
+msgstr "Port-au-Prince"
 
 msgid "IDS_WCL_BODY_HAITI"
-msgstr "海地"
+msgstr "Haiti"
 
 msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
-msgstr "波特兰"
+msgstr "Portland"
 
 msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
-msgstr "布拉格"
+msgstr "Prague"
 
 msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
-msgstr "捷克共和国"
+msgstr "Czech Republic"
 
 msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
-msgstr "平壤"
+msgstr "Pyongyang"
 
 msgid "IDS_WCL_BODY_NORTH_KOREA"
-msgstr "朝鲜"
+msgstr "North Korea"
 
 msgid "IDS_WCL_BODY_CITYNAME_QUITO"
-msgstr "基多"
+msgstr "Quito"
 
 msgid "IDS_WCL_BODY_CITYNAME_RABAT"
-msgstr "拉巴特"
+msgstr "Rabat"
 
 msgid "IDS_WCL_BODY_CITYNAME_YANGON"
-msgstr "仰光"
+msgstr "Yangon"
 
 msgid "IDS_WCL_BODY_BURMA"
-msgstr "缅甸"
+msgstr "Burma"
 
 msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
-msgstr "累西腓"
+msgstr "Recife"
 
 msgid "IDS_WCL_BODY_CITYNAME_REGINA"
-msgstr "里贾纳"
+msgstr "Regina"
 
 msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
-msgstr "雷克雅维克"
+msgstr "Reykjavík"
 
 msgid "IDS_WCL_BODY_ICELAND"
-msgstr "冰岛"
+msgstr "Iceland"
 
 msgid "IDS_WCL_BODY_CITYNAME_RIGA"
-msgstr "里加"
+msgstr "Riga"
 
 msgid "IDS_WCL_BODY_LATVIA"
-msgstr "拉脱维亚"
+msgstr "Latvia"
 
 msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
-msgstr "里约热内卢"
+msgstr "Rio de Janeiro"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
-msgstr "圣但尼"
+msgstr "Saint-Denis"
 
 msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
-msgstr "留尼汪岛"
+msgstr "Reunion Island"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
-msgstr "萨马拉"
+msgstr "Samara"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
-msgstr "圣安东尼奥"
+msgstr "San Antonio"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
-msgstr "圣迭戈"
+msgstr "San Diego"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
-msgstr "旧金山"
+msgstr "San Francisco"
 
 msgid "IDS_WCL_BODY_SAN_JOSE"
-msgstr "圣何塞"
+msgstr "San Jose"
 
 msgid "IDS_WCL_BODY_COSTA_RICA"
-msgstr "哥斯达黎加"
+msgstr "Costa Rica"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
-msgstr "圣胡安"
+msgstr "San Juan"
 
 msgid "IDS_WCL_BODY_PUERTO_RICO"
-msgstr "波多黎各"
+msgstr "Puerto Rico"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
-msgstr "圣马力诺"
+msgstr "San Marino"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
-msgstr "圣萨尔瓦多"
+msgstr "San Salvador"
 
 msgid "IDS_WCL_BODY_EL_SALVADOR"
-msgstr "萨尔瓦多"
+msgstr "El Salvador"
 
 msgid "IDS_WCL_BODY_CITYNAME_SANAA"
-msgstr "萨拉"
+msgstr "Sana'a"
 
 msgid "IDS_WCL_BODY_YEMEN"
-msgstr "也门"
+msgstr "Yemen"
 
 msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
-msgstr "圣地亚哥"
+msgstr "Santiago"
 
 msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
-msgstr "圣多明各"
+msgstr "Santo Domingo"
 
 msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
-msgstr "多米尼加共和国"
+msgstr "Dominican Republic"
 
 msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
-msgstr "圣保罗"
+msgstr "Sao Paulo"
 
 msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
-msgstr "西雅图"
+msgstr "Seattle"
 
 msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
-msgstr "首尔"
+msgstr "Seoul"
 
 msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
-msgstr "韩国"
+msgstr "Republic of Korea"
 
 msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
-msgstr "上海"
+msgstr "Shanghai"
 
 msgid "IDS_WCL_BODY_SHENZHEN"
-msgstr "深圳"
+msgstr "Shenzhen"
 
 msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
-msgstr "新加坡"
+msgstr "Singapore"
 
 msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
-msgstr "新加坡共和国"
+msgstr "Republic of Singapore"
 
 msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
-msgstr "斯科普里"
+msgstr "Skopje"
 
 msgid "IDS_WCL_BODY_MACEDONIA"
-msgstr "马其顿"
+msgstr "Macedonia"
 
 msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
-msgstr "索非亚"
+msgstr "Sofia"
 
 msgid "IDS_WCL_BODY_BULGARIA"
-msgstr "保加利亚"
+msgstr "Bulgaria"
 
 msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
-msgstr "圣约翰斯"
+msgstr "St.John's"
 
 msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
-msgstr "安提瓜和巴布达"
+msgstr "Antigua and Barbuda"
 
 msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
-msgstr "斯德哥尔摩"
+msgstr "Stockholm"
 
 msgid "IDS_WCL_BODY_SWEDEN"
-msgstr "瑞典"
+msgstr "Sweden"
 
 msgid "IDS_WCL_BODY_CITYNAME_SUVA"
-msgstr "苏瓦"
+msgstr "Suva"
 
 msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
-msgstr "斐济"
+msgstr "Fiji"
 
 msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
-msgstr "斐济群岛共和国"
+msgstr "Republic of the Fiji Islands"
 
 msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
-msgstr "悉尼"
+msgstr "Sydney"
 
 msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
-msgstr "大溪地"
+msgstr "Tahiti"
 
 msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
-msgstr "法属波利尼西亚"
+msgstr "French Polynesia"
 
 msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
-msgstr "台北"
+msgstr "Taipei"
 
 msgid "IDS_WCL_BODY_TAIWAN"
-msgstr "台湾"
+msgstr "Taiwan"
 
 msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
-msgstr "塔林"
+msgstr "Tallinn"
 
 msgid "IDS_WCL_BODY_ESTONIA"
-msgstr "爱沙尼亚"
+msgstr "Estonia"
 
 msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
-msgstr "塔拉瓦岛"
+msgstr "Tarawa"
 
 msgid "IDS_WCL_BODY_KIRIBATI"
-msgstr "基里巴斯"
+msgstr "Kiribati"
 
 msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
-msgstr "塔什干"
+msgstr "Tashkent"
 
 msgid "IDS_WCL_BODY_UZBEKISTAN"
-msgstr "乌兹别克斯坦"
+msgstr "Uzbekistan"
 
 msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
-msgstr "第比利斯"
+msgstr "Tbilisi"
 
 msgid "IDS_WCL_BODY_GEORGIA"
-msgstr "格鲁吉亚"
+msgstr "Georgia"
 
 msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
-msgstr "特古西加尔巴"
+msgstr "Tegucigalpa"
 
 msgid "IDS_WCL_BODY_HONDURAS"
-msgstr "洪都拉斯"
+msgstr "Honduras"
 
 msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
-msgstr "德黑兰"
+msgstr "Tehran"
 
 msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
-msgstr "伊朗"
+msgstr "Iran"
 
 msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
-msgstr "胡志明市"
+msgstr "Ho Chi Minh City"
 
 msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
-msgstr "塞特尔门特"
+msgstr "The Settlement"
 
 msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
-msgstr "英属维尔京群岛"
+msgstr "British Virgin Islands"
 
 msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
-msgstr "天津"
+msgstr "Tianjin"
 
 msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
-msgstr "提华纳"
+msgstr "Tijuana"
 
 msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
-msgstr "东京"
+msgstr "Tokyo"
 
 msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
-msgstr "多伦多"
+msgstr "Toronto"
 
 msgid "IDS_WCL_BODY_CITYNAME_TREHET"
-msgstr "特雷埃"
+msgstr "Tréhet"
 
 msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
-msgstr "的黎波里"
+msgstr "Tripoli"
 
 msgid "IDS_WCL_BODY_LIBYA"
-msgstr "利比亚"
+msgstr "Libya"
 
 msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
-msgstr "突尼斯"
+msgstr "Tunis"
 
 msgid "IDS_WCL_BODY_TUNISIA"
-msgstr "突尼斯"
+msgstr "Tunisia"
 
 msgid "IDS_WCL_BODY_CITYNAME_TURIN"
-msgstr "都灵"
+msgstr "Turin"
 
 msgid "IDS_WCL_BODY_CITYNAME_UFA"
-msgstr "乌法"
+msgstr "Ufa"
 
 msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
-msgstr "巴什噶尔"
+msgstr "Bashkiriya"
 
 msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
-msgstr "乌兰巴托"
+msgstr "Ulan Bator"
 
 msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
-msgstr "瓦杜兹"
+msgstr "Vaduz"
 
 msgid "IDS_WCL_BODY_LIECHTENSTEIN"
-msgstr "列支敦士登"
+msgstr "Liechtenstein"
 
 msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
-msgstr "瓦莱塔"
+msgstr "Valletta"
 
 msgid "IDS_WCL_BODY_MALTA"
-msgstr "马耳他"
+msgstr "Malta"
 
 msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
-msgstr "温哥华"
+msgstr "Vancouver"
 
 msgid "IDS_WCL_BODY_CITYNAME_VERONA"
-msgstr "维罗纳"
+msgstr "Verona"
 
 msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
-msgstr "维多利亚"
+msgstr "Victoria"
 
 msgid "IDS_WCL_BODY_SEYCHELLES"
-msgstr "塞舌尔"
+msgstr "Seychelles"
 
 msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
-msgstr "维也纳"
+msgstr "Vienna"
 
 msgid "IDS_WCL_BODY_AUSTRIA"
-msgstr "奥地利"
+msgstr "Austria"
 
 msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
-msgstr "维尔纽斯"
+msgstr "Vilnius"
 
 msgid "IDS_WCL_BODY_LITHUANIA"
-msgstr "立陶宛"
+msgstr "Lithuania"
 
 msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
-msgstr "符拉迪沃斯托克"
+msgstr "Vladivostok"
 
 msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
-msgstr "伏尔加格勒"
+msgstr "Volgograd"
 
 msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
-msgstr "圣彼得堡"
+msgstr "St. Petersburg"
 
 msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
-msgstr "华沙"
+msgstr "Warsaw"
 
 msgid "IDS_WCL_BODY_POLAND"
-msgstr "波兰"
+msgstr "Poland"
 
 msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
-msgstr "华盛顿特区"
+msgstr "Washington DC"
 
 msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
-msgstr "惠灵顿"
+msgstr "Wellington"
 
 msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
-msgstr "温尼伯湖"
+msgstr "Winnipeg"
 
 msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
-msgstr "雅库茨克"
+msgstr "Yakutsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
-msgstr "亚穆苏克罗"
+msgstr "Yamoussoukro"
 
 msgid "IDS_WCL_BODY_YAOUNDE"
-msgstr "雅温德"
+msgstr "Yaounde"
 
 msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
-msgstr "叶卡捷琳堡"
+msgstr "Yekaterinburg"
 
 msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
-msgstr "埃里温"
+msgstr "Yerevan"
 
 msgid "IDS_WCL_BODY_ARMENIA"
-msgstr "亚美尼亚"
+msgstr "Armenia"
 
 msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
-msgstr "南萨哈林斯克"
+msgstr "Yuzhno-Sakhalinsk"
 
 msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
-msgstr "萨格勒布"
+msgstr "Zagreb"
 
 msgid "IDS_WCL_BODY_CROATIA"
-msgstr "克罗地亚"
+msgstr "Croatia"
 
 msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
-msgstr "苏黎世"
+msgstr "Zurich"
 
 msgid "IDS_COM_BODY_NFC"
 msgstr "NFC"
 
 msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
-msgstr "无法启动 %s"
+msgstr "Unable to launch %s"
 
 msgid "IDS_COM_BODY_CONTINUE"
-msgstr "继续"
+msgstr "Continue"
 
 msgid "IDS_COM_BUTTON_LOGIN"
-msgstr "登录"
+msgstr "Login"
 
 msgid "IDS_COM_POP_DEFAULT_APPLICATION"
-msgstr "默认应用程序"
+msgstr "Default application"
 
 msgid "IDS_COM_POP_ENABLED"
-msgstr "已启动"
+msgstr "Enabled"
 
 msgid "IDS_COM_POP_DISABLED"
-msgstr "已关闭"
+msgstr "Disabled"
 
 msgid "IDS_COM_BUTTON_SCAN"
-msgstr "扫描"
+msgstr "Scan"
 
 msgid "IDS_COM_OPT_COLOUR"
-msgstr "颜色"
+msgstr "Color"
 
 msgid "IDS_COM_BODY_CERTIFICATE"
-msgstr "证书"
+msgstr "Certificate"
 
 msgid "IDS_COM_BODY_VIDEO_PLAYER"
-msgstr "视频播放器"
+msgstr "Video Player"
 
 msgid "IDS_COM_BODY_FAVOURITE"
-msgstr "收藏"
+msgstr "Favorite"
 
 msgid "IDS_COM_SK_RESTART"
-msgstr "重新启动"
+msgstr "Restart"
 
 msgid "IDS_COM_OPT_COPY"
-msgstr "复制"
+msgstr "Copy"
 
 msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
 msgstr "°C"
@@ -3020,44 +3020,44 @@ msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
 msgstr "°F"
 
 msgid "IDS_COM_SK3_PREVIEW"
-msgstr "预览"
+msgstr "Preview"
 
 msgid "IDS_COM_POP_SOS"
 msgstr "SOS"
 
 msgid "IDS_COM_BODY_JANUARY"
-msgstr "1 月"
+msgstr "January"
 
 msgid "IDS_COM_BODY_FEBRUARY"
-msgstr "2 月"
+msgstr "February"
 
 msgid "IDS_COM_BODY_MARCH"
-msgstr "3 月"
+msgstr "March"
 
 msgid "IDS_COM_BODY_APRIL"
-msgstr "4 月"
+msgstr "April"
 
 msgid "IDS_COM_BODY_JUNE"
-msgstr "6 月"
+msgstr "June"
 
 msgid "IDS_COM_BODY_JULY"
-msgstr "7 月"
+msgstr "July"
 
 msgid "IDS_COM_BODY_AUGUST"
-msgstr "8 月"
+msgstr "August"
 
 msgid "IDS_COM_BODY_SEPTEMBER"
-msgstr "9月"
+msgstr "September"
 
 msgid "IDS_COM_BODY_OCTOBER"
-msgstr "10 月"
+msgstr "October"
 
 msgid "IDS_COM_BODY_NOVEMBER"
-msgstr "11 月"
+msgstr "November"
 
 msgid "IDS_COM_BODY_DECEMBER"
-msgstr "12 月"
+msgstr "December"
 
 msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
-msgstr "选定数据未找到"
+msgstr "Selected data not found"
 
