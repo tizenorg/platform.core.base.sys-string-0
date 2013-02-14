@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Пятница"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Понедельник"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Суббота"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Воскресенье"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Четверг"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Вторник"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Среда"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Мелодии звонка"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Имя пользователя"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Опции"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Вид"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Скрыть"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Опции"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Обновить"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Обновить"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Отмена"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Автоматически"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Изменить"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Изменить"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Удалить учетную запись"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Отправить"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Альбомы"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "E-mail"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Местоположение"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Вручную"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Видео"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Удалить?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Пароль"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Заблокировать"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Звук выкл."
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Учетные записи"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Звук вкл."
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Картинки"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Прочее"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Поиск"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Тема"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Видео"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Обои"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Добавить в Контакты"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Яркость"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Создать контакт"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Удалить"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Соxранить"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Подключение..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Удалено"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Готово"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Вызов"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Галерея"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Нет"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Выбрать все"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Отмена"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Добавить"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Назад"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Вызов"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Соxранить"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Будильник"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Все"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Пароль"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Календарь"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Камера"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Контакты"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Копировать"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM-радио"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Переслать"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Справка"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Фоторедактор"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Интернет"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Журналы"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Заметки"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Сообщение"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Сообщения"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Музыка"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Мои файлы"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Выключено"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Включено"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Телефон"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Настройки"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Видеовызов"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Голосовой вызов"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Диктофон"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Новые сообщения E-mail"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Удалить"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Изменить"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Нет"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Да"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Переименовать"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Применить"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Стоп"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Да"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Готово"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Экстренный вызов"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Пересылка"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Отклонить"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies через Wi-Fi"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Продолжить"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Вход"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "Н/Д"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Поиск"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Основной"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Изменить имя"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Тип"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Дисплей"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Синхронизация электронной почты"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Папки"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "Fwd:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Информация"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Список заметок"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "мин."
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Опции"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Нет видео"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Личное"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Возобновить"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "сек."
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Выбрано"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Установить как"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Система"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Не удалось добавить"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Изменить обои"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Добавлено"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Создать контакт"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Добавить метку"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Папки"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Новый тег"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Выбрано"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Обновить"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Видео"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Добавлено"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Вложить"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Подключено"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Файл не существует"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Недопустимые символы"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Перемещено"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Перемещение..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Сбой перемещения"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Внутренняя ошибка"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Нет выбранных файлов"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Не выбраны метки"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Обработка..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Сбой записи"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Получено"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Сбой загрузки"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Сбой сохранения"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Сохранение..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Выбрано"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Цвет"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Повторите попытку"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Не ограничено"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Вибрация"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Разблокировать элемент?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Язык"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Опции"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Запись"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Результат"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Установить как"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Избранное"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "Метка"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Сортировка"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 часов"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 секунда"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 недели"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Всегда"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Всегда спрашивать"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Автор"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Никогда"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Заметка"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Предыдущие дни"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Поиск"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Звуки"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Нажмите для добавления текста"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Отправ."
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Файлы"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Импорт"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Файл"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Инициализация..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Установка..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "Неправильный URL"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Приоритет"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Отправлено"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Невозможно сохранить"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Да"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Последние"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Закладка"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Закладки"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Сортировка по"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Загрузка..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Назад"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Добавить получателя"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Изображение"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Изображение"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Загрузка невозможна"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Файл не найден"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Ошибка сети"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Нет учетных записей"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Перезапуск"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Копировать"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Альбом"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Автообновление"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Описание"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Загружено"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Загрузки"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "Размер сообщения E-mail"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Введите пароль"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Форматировать"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google Maps"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "Логин"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Нет содержимого"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Нет результатов поиска"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Пароль"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Удалить"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Отправить сообщение"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Размер"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Начать"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Вс"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Сделать фото"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Добавить"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Кому"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Голос"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Предупреждение"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Ответить"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Выход"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Регистрация"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Вход"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Высокое"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Непрочитанные"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Уже существует"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Отменено"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Удаление..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Загрузка..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Формат"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Карта памяти вставлена"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Карта памяти извлечена"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Недостаточно памяти"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Удалено"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Поиск..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Сбой при отправке"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Услуга недоступна"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Тип"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Невозможно удалить"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Создать"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Загрузить"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Создать"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Ответить"
+
+msgid "IDS_COM_SK_START"
+msgstr "Запуск"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Просмотр"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Сбой удаления"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Повтор"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 день"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 час"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 минута"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 неделя"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "День рождения"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Закрыть"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Создать папку"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Свойства"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Введите имя"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Шрифт"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Группа"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Сведения"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Мелодия"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d мин."
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Переименовать"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Мелодия звонка"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Отправить"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Сегодня"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Вчера"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Добавить в Закладки"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Эффекты"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Картинка"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Клавиатура"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Выход из системы"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Принять"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Изменить пароль"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Очистить"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Закрыть"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Ошибка подключения"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Сбой при подключении"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Введите имя"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Ошибка"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Неправильный пароль"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Неправильный пароль"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d часов"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Отказ"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Отклонено"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Соxранено"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Отправка..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Неподдерживаемый\nтип файла"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Обновить"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Обновлено"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Добавить уч. запись"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Обычный"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Отмена"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Контакт"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Карты"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Music Store"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Нет имени"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "Нет SIM-карты"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Адрес"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Сбой"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Нет"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Успешно"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Принять"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Далее"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Выход"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Включено"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM-карта"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Апр"
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Авг"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Доступно"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Назад"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Аккумулятор заряжен. Отключите от сети"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Аккумулятор заряжен. Отключите зарядное устройство"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Интернет"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Калькулятор"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Конвертер"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Создать"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Дек"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Удалить"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Удалить все"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Имя"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Название"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Фев"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Переслать"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Пт"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "Чат"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Янв"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Июл"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Июн"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Заблокировать"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Блокир."
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Низкий"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Аккумулятор разряжен"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Мар"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Май"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Карта памяти"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Сообщения"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Минута"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "минута"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "мин."
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Пн"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Переместить"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Музыка"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Моя учетная запись"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Навигация"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Ноя"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "Окт"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "Проверка PIN"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Сброс"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Сброс"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Сб"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Сен"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Без звука"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Smart search"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Включить динамик"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Секундомер"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Синхронизация"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Чт"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Таймер"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Вт"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Единицы измерения"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "мин."
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "сек."
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Неизвестно"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Ср"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Мировое время"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "ГГГГ.ММ.ДД"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "ГГГГ/MM/ДД"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Daily briefing"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Уведомление"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Информация"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Включение..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Выключено"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Пусто"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Час"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "час"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Пропущенный вызов"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Пропущено вызовов:"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Пропущенные события"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Пропущенные события"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Новое сообщение E-mail"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Новое сообщение"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Новые сообщения"
+
+msgid "IDS_COM_POP_PM"
+msgstr "РМ"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Разблокировать"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Предупреждение"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Набор"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Готово"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Меню"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Выкл."
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Открыть"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Опции"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Пауза"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Запуск"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Запуск"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Удалить"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Поиск"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Выбор"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Выбор"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Отправ."
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Отпр."
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Видеовызов"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Разрешение"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Завершить"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Избранное"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Имя файла"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Выключить звук"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Нет файлов"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Нет изображений"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Нет элементов"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Пауза"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Заменить"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Отправить через Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Отправить"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Отправить через Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Отправить по E-mail"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Отправить в сообщении"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Отправить по MMS"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "Отправить через SMS"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Папка"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Пт"
+
+msgid "IDS_COM_POP_MON"
+msgstr "Пн"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Выключить звук"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Сб"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Сохранить в Черновики"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Сохранить в Черновики?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Отправить"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Воспроизвести в профиле “Без звука”?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Вс"
+
+msgid "IDS_COM_POP_THU"
+msgstr "Чт"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Вт"
+
+msgid "IDS_COM_POP_WED"
+msgstr "Ср"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Приложения"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Выберите макет"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Запуск"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "MMS"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Наушники"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "Выбрано: %d"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Повторить"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Неподдерживаемый тип файла"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "Вставьте SIM-карту"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Скопировано"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Скопировано в буфер обмена"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Копирование..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Список файлов"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Список"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Ничего не выбрано"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Доступно"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Нет сети"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Голосовое управление"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Нельзя использовать в режиме съемного носителя"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Режим съемного устройства отключен"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Режим съемного устройства"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d дн. назад"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Сертификаты"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Ошибка сервера"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Все каналы"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Подтвердить"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Общие"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Домашний"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Я на собрании"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Мобильный"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Рабочий"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Абиджан"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Абу-Даби"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Объединенные Арабские Эмираты"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Аккра"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Гана"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Аддис-Абеба"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "Эфиопия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Аделаида"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "Австралия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Аляска"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "США"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "Кот-д'Ивуар"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Алжир"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "Алжир"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Алматы"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "Казахстан"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Амбон"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "Индонезия"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Амман"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "Иордан"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Амстердам"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "Нидерланды"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Анадырь"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "Россия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Анкоридж"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Анкара"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "Турция"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Антананариву"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "Мадагаскар"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Ашхабад"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "Туркменистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Асмара"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "Эритрея"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Астана"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Асунсьон"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Парагвай"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "Афины"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "Греция"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Окленд"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "Новая Зеландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Остин"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "Азорские острова"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "Португалия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Багдад"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "Ирак"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Баку"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "Азербайджан"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Балтимор"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Бамако"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Мали"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Бангкок"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "Таиланд"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Банги"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Центрально-Африканская Республика"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Барселона"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "Испания"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Бари"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "Италия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Бас-Тер"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Гваделупа"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Пекин"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "Китай"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Бейрут"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "Ливан"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Белград"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "Сербия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Белиз (город)"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "Белиз"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Берлин"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "Германия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Берн"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "Швейцария"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Бишкек"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "Киргизия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Бисау"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Гвинея-Бисау"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Богота"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "Колумбия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Болонья"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Бостон"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Бразилиа"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "Бразилия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "Братислава"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "Словакия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Бриджтаун"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Барбадос"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Брисбен"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "Брюссель"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "Бельгия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Бухарест"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "Румыния"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Будапешт"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "Венгрия"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Буэнос-Айрес"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "Аргентина"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Каир"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "Египет"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Калгари"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Канада"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Канарские острова"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Канберра"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Кантон"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Кейптаун"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Южно-Африканская Республика"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Каракас"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Венесуэла"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Кардифф"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "Уэльс"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Касабланка"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Марокко"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Катандзаро"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Приложение не установлено"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "Кб"
+
+msgid "IDS_COM_BODY_B"
+msgstr "б"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "Мб"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "Гб"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Широта"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Долгота"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Динамик"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Не удается найти приложение для выполнения этого действия"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Выключено"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Включено"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "Файл %s сейчас заблокирован. Разблокировать?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Вы можете использовать %s еще 1 раз. Запустить?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Вы можете использовать %s еще 2 раза. Запустить?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Вы сможете использовать %s в течение %d дн. Начать?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "Срок %s подходит к концу. Получить другую лицензию?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Вы можете использовать %s еще 1 раз. Получить другую лицензию?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Вы больше не можете использовать %s. Получить другую лицензию?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Звуковое устройство"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Устан."
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Зарегистрировать"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Непредвиденная ошибка"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Сбой подключения к прокси"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Ошибка подключения к сети"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Неправильная SIM-карта"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Сбой операции"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Версия"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "По умолчанию"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Вырезать"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Вставить"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Буфер обмена"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Политика безопасности ограничивает создание снимков экрана"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Кайенна"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Французская Гвиана"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Шарлотт"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Шарлотта-Амалия"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "Виргинские острова (США)"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Челябинск"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Ченнай"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "Индия"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Чикаго"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Кишинёв"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "Молдова"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Чита"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Кливленд"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Коломбо"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Шри-Ланка"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Колумбус"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Конакри"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "Гвинея"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Копенгаген"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "Дания"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Корк"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "Ирландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Кротоне"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Дакар"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "Сенегал"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Даллас"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "Дамаск"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "Сирия"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Дар-эс-Салам"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "Танзания"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Дарвин"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Дели"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Дэнпасар"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Денвер"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Детройт"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Дакка"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "Бангладеш"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Диего-Гарсия"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "Великобритания"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Джибути"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Джибути"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Доха"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Катар"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Дуала"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Камерун"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Дубай"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Дублин"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Душанбе"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "Таджикистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Остров Пасхи"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "Чили"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Эдинбург"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Шотландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "Эль-Пасо"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Флоренция"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Фор-де-Франс"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Мартиника"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Фритаун"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Сьерра-Леоне"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Габороне"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "Ботсвана"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Галапагосские острова"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Эквадор"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "Женева"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Генуя"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Джорджтаун"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "Гайана"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Грютвикен"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "Южная Георгия"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Гуам"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Гватемала"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Гватемала"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Густавия"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Сен-Бартельми"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Галифакс"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Гамбург"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Ханой"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Вьетнам"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Хараре"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "Зимбабве"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Гавана"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Куба"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Гавайи"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Хельсинки"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "Финляндия"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Хобарт"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Гонконг"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Гонолулу"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Хьюстон"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Ховд"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "Монголия"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Индианаполис"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "Иркутск"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "Исламабад"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "Пакистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "Стамбул"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "Ижевск"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Джакарта"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Джедда"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "Саудовская Аравия"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Иерусалим"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "Израиль"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Йоханнесбург"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Кабул"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "Афганистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Калининград"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Камчатка"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Кампала"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Уганда"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Карачи"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Катманду"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Непал"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Хабаровск"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Харьков"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "Украина"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Хартум"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "Судан"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Киев"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Кингстон"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Ямайка"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Киншаса"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Демократическая Республика Конго"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Калькутта"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Красноярск"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Куала-Лумпур"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "Малайзия"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Кувейт"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Лос-Анджелес"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "Ла-Пас"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "Боливия"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Лагос"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "Нигерия"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Лас-Вегас"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Лима"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Перу"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Лиссабон"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Любляна"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "Лондон"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Лунхуа"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Луисвилл"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Луанда"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Ангола"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Лубумбаши"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Лусака"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "Замбия"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Люксембург"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Львов"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Макао"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Мадрид"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Магадан"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Малабо"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "Экваториальная Гвинея"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Мале"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Мальдивы"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Манагуа"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Никарагуа"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Манама"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Бахрейн"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Манила"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Филиппины"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Мапуто"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Мозамбик"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Мариго"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Сен-Мартен"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Мазатлан"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Мексика"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Эр-Рияд"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Мельбурн"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Мемфис"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Мессина"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Мехико"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Майами"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "Средняя Атлантика"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Острова Мидуэй"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Милан"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Милуоки"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Минск"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "Беларусь"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Могадишо"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "Сомали"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Монровия"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "Либерия"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Монтевидео"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Уругвай"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Монреаль"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Москва"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Мумбай"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "Мюнхен"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Маскат"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Оман"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Найроби"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "Кения"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "Рим"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Натерс"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "Нджамена"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Неаполь"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "Чад"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Мекка"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "Нью-Дели"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "Нью-Йорк"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Ньюфаундленд"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Ниамей"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "Нигер"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Нуакшот"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "Мавритания"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Нумеа"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "Новая Каледония"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Новокузнецк"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Новосибирск"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Нукуалофа"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Тонга"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Нук"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "Гренландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Омск"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Осака"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "Япония"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Оттава"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Уагадугу"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Буркина-Фасо"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Паго-Паго"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Независимое Государство Самоа"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Палермо"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Панама-Сити"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Панама"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Парамарибо"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Суринам"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "Париж"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "Франция"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Пермь"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Перт"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Петропавловск-Камчатский"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Филадельфия"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Пномпень"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "Камбоджа"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Финикс"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Подгорица"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Черногория"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Понта-Делгада"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Порт-Луи"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Маврикий"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Порт-о-Пренс"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Гаити"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Портленд"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Прага"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Чешская Республика"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Пхеньян"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "Северная Корея"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Кито"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Рабат"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Янгон"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Бирма"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Ресифи"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Регина"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Рейкьявик"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "Исландия"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Рига"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "Латвия"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Рио-де-Жанейро"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Сен-Дени"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Реюньон"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Самара"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "Сан-Антонио"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "Сан-Диего"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "Сан-Франциско"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "Сан-Хосе"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Коста-Рика"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "Сан-Хуан"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Пуэрто-Рико"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "Сан-Марино"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "Сан-Сальвадор"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "Сальвадор"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Сана"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Йемен"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Сантьяго"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Санто-Доминго"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "Доминиканская Республика"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "Сан-Паулу"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Сиэтл"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Сеул"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Республика Корея"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Шанхай"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Шэньчжэнь"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Сингапур"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Республика Сингапур"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Скопье"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "Македония"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "София"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "Болгария"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "Сент-Джонс"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Антигуа и Барбуда"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Стокгольм"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "Швеция"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Сува"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Фиджи"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Республика Островов Фиджи"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Сидней"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Таити"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Французская Полинезия"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Тайбэй"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "Тайвань"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "Таллин"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "Эстония"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Тарава"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Кирибати"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Ташкент"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "Узбекистан"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Тбилиси"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "Грузия"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Тегусигальпа"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Гондурас"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Тегеран"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "Иран"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Хошимин"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "Сетлмент"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Британские Виргинские острова"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Тяньцзинь"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Тиуана"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Токио"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Торонто"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Трее"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Триполи"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "Ливия"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Тунис"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "Тунис"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Турин"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Уфа"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Башкирия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Улан-Батор"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Вадуц"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Лихтенштейн"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "Валлетта"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Мальта"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Ванкувер"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Верона"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Виктория"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Сейшельские острова"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Вена"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "Австрия"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Вильнюс"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "Литва"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Владивосток"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Волгоград"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "Санкт-Петербург"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Варшава"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "Польша"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Вашингтон"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Веллингтон"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Виннипег"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Якутск"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Ямусукро"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Яунде"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Екатеринбург"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Ереван"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "Армения"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Южно-Сахалинск"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Загреб"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "Хорватия"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Цюрих"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Невозможно запустить %s"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "Попытка"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Приложение по умолчанию"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Включено"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Отключено"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Видеоплеер"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Январь"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Февраль"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Март"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "Апрель"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "Июнь"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "Июль"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "Август"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "Сентябрь"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "Октябрь"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "Ноябрь"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "Декабрь"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Выбранные данные не найдены"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Погода"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Достигнуто максимальное число символов"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Достигнуто максимальное число символов (%d)"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Отменить"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Дата"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Возникла неизвестная ошибка"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Время"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Часы"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Фотоопределитель"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Очистить все"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Синхронизация"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Вставить"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Вставить сюда"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Стереть"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Печать"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Ср-во удаления"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Изменить тег"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Экран блокировки"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "Подготовка карты памяти SD..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Игнорировать"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Отмена"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "Карта памяти SD извлечена"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Нет доступа к карте памяти SD"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "Безопасное извлечение карты памяти SD"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "Непредвиденное извлечение карты памяти SD"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+

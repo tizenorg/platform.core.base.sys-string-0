@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Dé hAoine"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Dé Luain"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Dé Sathairn"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Dé Domhnaigh"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Déardaoin"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Dé Máirt"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Dé Céadaoin"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Clingthoin"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Ainm úsáideora"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Tuilleadh"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Amharc de réir"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Folaigh"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Tuilleadh"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Athnuaigh"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Nuashonraigh"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Cuir ar ceal"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Uathoibríoch"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Cuir in eagar"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Cuir in eagar"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Scrios cuntas"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Comhroinn"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albaim"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "Seoladh r-phoist"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Suíomh"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Láimhe"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Físeán"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Scrios?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Pasfhocal"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Cuir bac"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Fuaim as"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Cuntais"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Fuaim air"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Íomhánna"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Cinn Eile"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Cuardaigh"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Ábhar"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Físeáin"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Cúlbhrat"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Cuir le Teagmhálaithe"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Gile"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Déan teagmhálaí"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Scrios"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Sábháil"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Ag nascadh..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Scriosta"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Déanta"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Glaoigh"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Gailearaí"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Dada"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Roghnaigh gach"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Cuir ar ceal"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Cuir leis"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Siar"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Glaoigh"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Sábháil"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Aláram"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Gach"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Pasfhocal"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Féilire"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Ceamara"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Teagmhálaithe"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Cóipeáil"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "R-phost"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "Raidió FM"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Seol ar aghaidh"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Cuidiú"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Eagarthóir íomhá"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "an tIdirlíon"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Logaí"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Meabhrán"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Teachtaireacht"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Teachtaireachtaí"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Ceol"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Mo Chomhaid"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "As"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Air"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Fón"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Socruithe"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Glao físe"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Glao gutha"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Guth-Thaifeadán"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "R-phoist nua"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Scrios"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Eagraigh"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Ná déan é"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Athainmnigh"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Socraigh"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Stop"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Déan é"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Déanta"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Glao éigeandála"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Seoladh ar aghaidh"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Diúltaigh"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies le Wi-Fi"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Ar aghaidh"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Logáil isteach"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "N/B"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Scan"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Bunúsach"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Athraigh ainm"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Cineál"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Taispeáint"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Sionc r-phoist"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Fillteáin"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "Seol ar aghd:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Faisnéis"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Liosta meabhrán"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "nóiméid"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Tuilleadh"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Níl físeáin ann"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Príobháideach"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Atosaigh"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "soicindí"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Roghnaithe"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Socraigh mar"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Córas"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Ní féidir cur leis"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Athraigh cúlbhrat"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Curtha leis"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Cuir teagmhálaí leis"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Cuir clib leis"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Fillteáin"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Clib nua"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Roghnaithe"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Nuashonraigh"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Físeán"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Curtha leis"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Cuir i gceangail"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Nasctha"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Níl an comhad seo ann"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Carachtair neamhbhailí"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Bogtha"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Ag bogadh..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Theip ar bhogadh"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Earráid inmheánach"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Níor roghnaíodh comhaid"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Níl clib roghnaithe"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Ag próiseáil..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Theip ar thaifeadadh"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Aisghafa"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Theip ar aisghabháil"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Theip ar shábháil"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Ag sábháil..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Roghnaithe"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Dath"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Triail arís"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Gan teorainn"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Crith"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "An mian leat é a dhíghlasáil anois?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Teanga"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Eile"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Taifead"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Toradh"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Socraigh mar"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Ceanán"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "Clib"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Sórtáil de réir"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 uair an chloig"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 soicind"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 sheachtain"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "I gcónaí"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Iarr i gcónaí"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Údar"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Choíche"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Nóta"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Laethanta roimhe"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Ag cuardach"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Fuaimeanna"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Tapáil le téacs a chur leis"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "Le R-phost"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "C.roinn"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Comhaid"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Iompórtáil"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "Le R-phost"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Comhad"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Ag túsú..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Ag suiteáil..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "URL neamhbhailí"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Tosaíocht"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Seolta"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Ní féidir sábháil"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Deimh."
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Deireanach"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Leabharmharc"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Leabharmharcanna"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Liostaigh de réir"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Ag lódáil..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Roimhe"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Tapáil le faighteoir a chur leis"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "ID Glaoiteora"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "ID Glaoiteora"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Theip ar íoslódáil"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Níor aimsíodh an comhad"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Earráid líonra"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Níl cuntas ann"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Atosaigh"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Cóipeáil"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Albam"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Uath-athnuachan"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Cur síos"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Íoslódáilte"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Ioslódálacha"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "Méid an r-phoist"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Iontráil pasfhocal"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Formáidigh"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google Maps"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Níl inneachar ann"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Níl torthaí cuardaigh ann"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Pasfhocal"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Bain"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Seol teachtaireacht"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Méid"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Tosaigh"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Domh"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Glac grianghraf"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Tapáil lena chur leis"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Chuig"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Guth"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Rabhadh"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Freagair"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Sínigh amach"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Cláraigh"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Sínigh isteach"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Ard"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Neamhléite"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Le Bluetooth"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Ann cheana"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Curtha ar ceal"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Ag scriosadh..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Ag íoslódáil..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Formáid"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Cárta cuimhne ionsáite"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Cárta cuimhne bainte"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Easpa cuimhne"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Bainte"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Ag cuardach..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Theip ar sheoladh"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Níl seirbhís ar fáil"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Cineál"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Ní féidir scriosadh"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Cum"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Íoslódáil"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Nua"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Freagra"
+
+msgid "IDS_COM_SK_START"
+msgstr "Tosaigh"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Réamhamharc"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Theip ar scriosadh"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Atriail"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 lá"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 uair an chloig"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 nóiméad"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 seachtain"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Breithlá"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Dún"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Déan fillteán"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Sonraí"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Iontráil ainm"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Cló"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Grúpa"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Faisnéis"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Séis"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d nóiméad"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Athainmnigh"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Clingthon"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Seol"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Inniu"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Inné"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Cuir le Leabharmharcanna"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Maisíochtaí"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Íomhá"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Eochaircheap"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Logáil amach"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Glac leis"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "R.N."
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Athraigh pasfhocal"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Glan"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Dún"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Earráid le nasc"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Theip ar nascadh"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Iontráil ainm"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Earráid"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Pasfhocal mícheart"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Pasfhocal neamhbhailí"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d uair an chloig"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Diúltaigh"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Diúltaithe"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Sábháilte"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Ag seoladh..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Cineál comhaid\ngan tacú"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Nuashonraigh"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Nuashonraithe"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Cuir cuntas leis"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Normálta"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Cealaigh"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Teagmhálaí"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Léarscáileanna"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Siopa ceoil"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Níl ainm ann"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "Níl SIM ann"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Seoladh"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Theip air"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Dada"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "D’éirigh leis"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Glac leis"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Ar aghaidh"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Scoir"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Curtha i ngníomh"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "R.N."
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Aib."
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Lún."
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Ar fáil"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Siar"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Ceallra lánluchtaithe.\nDíphlugáil luchtaire"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Ceallra lánluchtaithe. Bain luchtaire"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Brabhsálaí"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Áireamhán"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Tiontaire"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Cruthaigh"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Nol."
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Scrios"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Scrios gach"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Ainm"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Teideal"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Feab"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Seol ar aghaidh"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Aoin"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Ean."
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Iúil"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Meit"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Glasáil"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Glasáil"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Íseal"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Ceallra lag"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Már."
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Bealtaine"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Cárta cuimhne"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Cur teachtaireachtaí"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Nóiméad"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "nóiméad"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "nóim"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Luan"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Bog"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Seinnteoir Ceoil"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Mo chuntas"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Nascleanúint"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Samh"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "D.F."
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "Glas PIN"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Athshocraigh"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Athshocraigh"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Sath"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "M.F."
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Tostach"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Cuardach Cliste"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Callaire ar siúl"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Staduaireadóir"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Sioncronaigh"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Déar"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Amadóir"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Már"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Aonaid"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "nóim"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "soic"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Anaithnid"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Céad"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Clog Domhanda"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "BBBB.MM.LL"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "BBBB/MM/LL"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Faisnéisiú laethúil"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Fógra"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Faisnéis"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Ag cur i ngníomh..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Díghníomhachtaithe"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Folamh"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Uair an chloig"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "uair an chloig"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Glao caillte"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Glaonna a cailleadh"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Imeacht a cailleadh"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Imeachtaí a cailleadh"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "R-phost nua"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Teachtaireacht nua"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Teachtaireachtaí nua"
+
+msgid "IDS_COM_POP_PM"
+msgstr "I.N."
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Díghlasáil"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Rabhadh"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Diaileoir"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Déanta"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Roghchlár"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "As"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Oscail"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Roghanna"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Ar sos"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Seinn"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Seinn"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Bain"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Cuardaigh"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Roghnaigh"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Pioc"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Seol"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Seol"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Glao físe"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Taifeach"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Scoir"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Ceanáin"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Comhadainm"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Balbh"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Níl comhaid ann"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Níl íomhanna ann"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Níl míreanna ann"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Cuir ar sos"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Ionadaigh"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Seol le Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Seol le"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Seol le Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Seol le R-phost"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Seol le teachtaireacht"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Seol le MMS"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "Seol le SMS"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Fillteán"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Aoin"
+
+msgid "IDS_COM_POP_MON"
+msgstr "Luan"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Balbh"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Sath"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Sábháil i nDréachtaí"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Sábháil i nDréachtaí?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Seol le"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Seinn i mód tostach?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Domh"
+
+msgid "IDS_COM_POP_THU"
+msgstr "Déar"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Már"
+
+msgid "IDS_COM_POP_WED"
+msgstr "Céad"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Feidhmchláir"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Roghnaigh leagan amach"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Lainseáil"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "Le MMS"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Cluasáin"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d roghnaithe"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Déan arís"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Cineál comhaid gan tacú"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "Ionsáigh cárta SIM"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Cóipeáilte"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Cóipeáilte chuig gearrthaisce"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Ag cóipeáil..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Liostaigh"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Amharc liosta"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Dada roghnaithe"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Úsáidí atá ar fáil"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Níl seirbhís ann"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Ordú gutha"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Ní féidir é a úsáid le linn Modh ollstórála"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Mód ollstórála díchumasaithe"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Mód ollstórála cumasaithe"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d lá ó shin"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Deimhnithe"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Earráid freastalaí"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Gach caineál"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Deimhnigh"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Ginearálta"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Baile"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Táim i gcruinniú"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Fón Póca"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Obair"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Abidjan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Abú Daibí"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Aontas na nÉimíríochtaí Arabacha"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Accra"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Gána"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Addis Ababa"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "an Aetóip"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Adelaide"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "an Astráil"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Alasca"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "SAM"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "an Cósta Eabhair"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Algiers"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "an Ailgéir"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Almaty"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "an Chasacstáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Ambon"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "an Indinéis"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Amman"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "an Iordáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Amstardam"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "an Ísiltír"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Anadyr"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "an Rúis"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Anchorage"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Ankara"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "an Tuirc"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Antananarivo"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "Madagascar"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Ashgabat"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "an Tuircméanastáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Asmara"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "an Eiritré"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Astana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Asuncion"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Paragua"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "an Aithin"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "an Ghréig"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Auckland"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "an Nua Shéalainn"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Austin"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "na hAsóir"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "an Phortaingéil"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Bagdad"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "an Iaráic"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Baku"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "an Asarbaiseáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Baltimore"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Bamako"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Mailí"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Bancác"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "an Téalainn"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Bangui"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Poblacht na hAfraice Láir"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Barcelona"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "An Spáinn"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Bari"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "an Iodáil"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Basse-Terre"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Guadalúip"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Béising"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "an tSín"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Béiriút"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "an Liobáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Béalgrád"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "An tSeirbia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Cathair na Beilíse"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "an Bheilís"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Beirlín"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "An Ghearmáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Bern"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "an Eilvéis"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Bishkek"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "an Chirgeastáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Bissau"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Guine Bissau"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Bogatá"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "an Cholóim"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Bologna"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Bostún                      "
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Brasília"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "an Bhrasaíl"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "An Bhratasláiv"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "an tSlóvaic"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Bridgetown"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Barbadós"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Brisbane"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "An Bhruiséil"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "An Bheilg"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Búcairist"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "an Rómáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Búdaipeist"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "An Ungáir"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Buenos Aires"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "an Airgintín"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Caireo"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "an Éigipt"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Calgary"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Ceanada"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Na hOileáin Chanáracha"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Canberra"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Canton"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Cape Town"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Poblacht na hAfraice Theas"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Caracas"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Veiniséala"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Caerdydd"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "An Bhreatain Bheag"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Casablanca"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Maracó"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Catanzaro"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Níl feidhmchlár suiteáilte"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Leithead"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Domhanfad"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Callaire"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Ní féidir feidhmchlár a aimsiú leis an ngníomh seo a dhéanamh"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "As"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Air"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "Tá %s glasáilte faoi láthair. Díghlasáil?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Is féidir leat %s a úsáid uair amháin eile. Tosaigh anois?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Is féidir leat %s a úsáid 2 uaire eile. Tosaigh anois?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Is féidir leat %s a úsáid ar feadh %d lá. Tosaigh anois?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "Tá %s ar tí dul as feidhm. Faigh ceadúnas eile?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Is féidir leat %s a úsáid uair amháin eile. Faigh ceadúnas eile?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Ní féidir leat %s a úsáid arís. Faigh ceadúnas eile?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Gléas fuaime"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Suit."
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Cláraigh"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Earráid gan choinne"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Theip ar nascadh leis an seachfhreastalaí"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Earráid leis an nasc líonra"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Cárta SIM neamhbhailí"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Theip ar oibríocht"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Leagan"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Réamhshocrú"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Gearr"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Greamaigh"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Gearrthaisce"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Cuireann an beartas slándála srian ar úsáid ghabháil an scáileáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Cayenne"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Guáin na Fraince"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Charlotte"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Charlotte Amalie"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "Oileáin Mheiriceánacha na Maighdean"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Chelyabinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Chennai"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "an India"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Chicago"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Císineá"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "an Mholdóiv"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Chita"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Cleveland"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Colombo"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Srí Lanca"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Columbas"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Conakry"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "an Ghuine"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Cóbanhávan"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "An Danmhairg"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Corcaigh"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "Éire"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Crotone"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Dacár"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "an tSeineagáil"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Dallas"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "An Damaisc"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "an tSiria"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Dar es Salaam"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "an Tansáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Darwin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Deilí"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Denpasar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Denver"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Detroit"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Dhaka"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "an Bhanglaidéis"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Diego Garcia"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "An Ríocht Aontaithe"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Djibouti"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Djibouti"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Doha"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Catar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Douala"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Camarún"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Dubai"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Baile Átha Cliath"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Dushanbe"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "an Táidsíceastáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Oileán na Cásca"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "an tSile"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Dún Éideann"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Albain"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "El Paso"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Flórans"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Fort-de-France"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Martinique"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Freetown"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Siarra Leon"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Gaborone"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "an Bhotsuáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Oileáin Galápagos"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Eacuadór"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "an Ghinéiv"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Genoa"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Georgetown"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "an Ghuáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Grytviken"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "An tSeoirsia Theas"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Guam"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Cathair Ghuatamala"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Guatamala"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Gustavia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Saint Barthélemy"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Halifax"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Hamburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Hanaí"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Vítneam"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Harare"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "an tSiombáib"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Havana"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Cúba"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Haváí"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Heilsincí"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "an Fhionlainn"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Hobart"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Hong Cong"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Honolulu"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Houston"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Hovd"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "an Mhongóil"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Indianapolis"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "Irkutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "Islamabad"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "an Phacastáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "Iostanbúl"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "Izhevsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Iacárta"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Jeddah"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "an Araib Shádach"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Iarúsailéim"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "Iosrael"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Johannesburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Cabúl"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "an Afganastáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Kaliningrad"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Kamchatka"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Kampala"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Uganda"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Karachi"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Katmandu"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Neipeal"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Khabarovsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Kharkiv"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "an Úcráin"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Cartúm"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "an tSúdáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Cív"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Kingston"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Iamáice"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Kinshasa"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Poblacht Dhaonlathach an Chongó"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Kolkata"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Krasnoyarsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Kuala Lumpur"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "an Mhalaeisia"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Cuáit"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Los Angeles"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "La Paz"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "an Bholaiv"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Lagos"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "an Nigéir"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Las Vegas"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Líoma"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Peiriú"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Liospóin"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Ljubljana"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "Londain"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Longhua"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Louisville"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Luanda"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Angóla"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Lubumbashi"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Lusaka"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "an tSaimbia"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Lucsamburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Lviv"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Macau"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Madrid"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Magadan"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Malabo"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "An Ghuine Mheánchiorclach"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Male"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Oileáin Mhaildíve"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Managua"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Nicearagua"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Manama"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Bairéin"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Mainile"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Na hOileáin Fhilipíneacha"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Mapútó"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Mósaimbíc"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Marigot"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Saint Martin"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Mazaltan"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Meicsiceo"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Riyadh"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Melbourne"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Meimfís"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Messina"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Cathair Mheicsiceo"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Miami"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "An tAtlantach Láir"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Midway Atoll"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Milano"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Milwaukee"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Minsc"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "an Bhealarúis"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Mogaidisiú"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "an tSomáil"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Monrovia"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "an Libéir"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Montevideo"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Uragua"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Montreal"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Moscó"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Mumbai"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "Munich"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Muscáit"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Óman"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Nairobi"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "an Chéinia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "An Róimh"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Naters"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "Ndjamena"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Naples"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "Chad"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Meice"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "Deilí Nua"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "Nua-Eabhrac"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Talamh an Éisc"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Niamey"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "Niger"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Nouakchott"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "an Mháratáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Nouméa"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "an Nua-Chaladóin"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Novokuznetsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Novosibirsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Nuku'alofa"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Tonga"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Nuuk"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "An Ghraonlainn"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Omsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Osaka"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "an tSeapáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Ottawa"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Ouagadougou"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Burkina Faso"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Pago Pago"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Samó"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Palermo"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Cathair Panama"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Panama"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Paramaribo"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Suriname"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "Páras"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "an Fhrainc"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Perm"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Perth"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Petropavlovsk-Kamchatskiy"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Philadelphia"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Phnom Penh"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "an Chambóid"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Féinics"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Podgairítse"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Montainéagró"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Ponta Delgada"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Port Louis"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Oileán Mhuirís"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Port-au-Prince"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Háítí"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Portland"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Prág"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Poblacht na Seice"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Pyongyang"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "an Chóiré Thuaidh"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Quito"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Rabat"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Rangún"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Burma"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Recife"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Regina"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Réicivíc"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "an Íoslainn"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Ríge"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "an Laitvia"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Rio De Janeiro"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Saint-Denis"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Reunion Island"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Samár"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "San Antonio"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "San Diego"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "San Francisco"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "San Jose"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Cósta Ríce"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "San Juan"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Pórtó Ríce"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "San Mairíne"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "San Salvador"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "an tSalvadóir"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Sana'a"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Éimin"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Santiago"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Santo Domingo"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "an Phoblacht Dhoiminiceach"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "Sao Paulo"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Seattle"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Súl"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Poblacht na Cóiré"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Shanghai"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Shenzhen"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Singeapór"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Poblacht Shingeapór"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Skopje"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "an Mhacadóin"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "Sóifia"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "an Bhulgáir"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "St.John’s"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Antigua agus Barbúda"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Stócólm"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "An tSualainn"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Suva"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Fidsí"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Poblacht Fhidsí"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Sydney"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Taihítí"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Polainéis na Fraince"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Taipei"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "an Téaváin"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "Tallinn"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "an Eastóin"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Tarawa"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Cireabaití"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Taiscint"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "an Úisbéiceastáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Tbilisi"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "an tSeorsia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Tegucigalpa"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Hondúras"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Tehran"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "an Iaráin"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Cathair Hồ Chí Minh"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "The Settlement"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Oileáin Bhriotanacha na Maighdean"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Tianjin"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Tijuana"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Tóiceo"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Toronto"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Tréhet"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Tripilí"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "an Libia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Túinis"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "an Túinéis"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Turin"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Ufa"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Bashkiriya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Ulan Bator"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Vadús"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Lichtinstéin"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "Vaileite"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Málta"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Vancouver"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Verona"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Victoria"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Na Séiséil"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Vín"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "an Ostair"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Vilnius"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "an Liotuáin"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Vladivostok"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Volgograd"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "St. Petersburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Vársá"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "an Pholainn"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Washington DC"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Wellington"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Winnipeg"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Yakutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Yamoussoukro"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Yaounde"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Yekaterinburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Yerevan"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "an Airméin"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Yuzhno-Sakhalinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Ságrab"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "an Chróit"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Zurich"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Ní féidir %s a lainseáil"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "Triail"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Feidhmchlár réamhshocraithe"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Cumasaithe"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Díchumasaithe"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Seinnteoir Físeán"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Eanáir"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Feabhra"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Márta"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "Aibreán"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "Meitheamh"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "Iúil"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "Lúnasa"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "Meán Fómhair"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "Deireadh Fómhair"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "Samhain"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "Nollaig"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Níor aimsíodh na sonraí roghnaithe"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Aimsir"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Uaslíon na gcarachtar bainte amach"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Uaslíon na gcarachtar (%d) bainte amach"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Phleanálaí"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "Guth S"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Díobh"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Dáta"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Tharla earráid anaithnid"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Am"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Clog"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Íomhá ghlaoiteora"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Glan gach"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Sioncronú"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Ionsáigh"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Greamaigh anseo"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Glan"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Priontáil"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Scriosán"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Cuir clib in eagar"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Cúlbhrat an sc. glasála"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "Cárta SD á ullmhú..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Neamhaird"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Tobscor"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "Cárta SD bainte"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Ní féidir cárta SD a rochtain"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "Sábháilte le cárta SD a bhaint"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "Baineadh cárta SD gan coinne"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+

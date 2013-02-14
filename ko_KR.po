@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "금요일"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "월요일"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "토요일"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "일요일"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "목요일"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "화요일"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "수요일"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "벨소리"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "사용자 이름"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "더보기"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "보기"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "숨기기"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "더보기"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "새로고침"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "업데이트"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "취소"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "자동"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "편집"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "편집"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "계정 삭제"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "공유"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "앨범"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "이메일 주소"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "위치"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "수동"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "동영상"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "삭제할까요?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "비밀번호"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "차단"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "소리 끄기"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "계정"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "소리 켜기"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "이미지"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "기타"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "검색"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "제목"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "동영상"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "배경화면"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "연락처에 추가"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "밝기"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "새 연락처 추가"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "삭제"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "저장"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "연결 중..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "삭제되었습니다"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "완료"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "통화"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "갤러리"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "없음"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "모두 선택"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "취소"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "추가"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "이전"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "통화"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "저장"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "알람"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "전체"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "비밀번호"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "블루투스"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "일정"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "카메라"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "연락처"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "복사"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "이메일"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM 라디오"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "전달"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "도움말"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "이미지 에디터"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "인터넷"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "최근기록"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "메모"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "메시지"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "메시지"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "음악"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "내 파일"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "끄기"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "켜기"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "휴대폰"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "설정"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "영상통화"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "음성통화"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "음성 녹음"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "새 이메일"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "삭제"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "편집"
+
+msgid "IDS_COM_SK_NO"
+msgstr "아니요"
+
+msgid "IDS_COM_SK_OK"
+msgstr "확인"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "이름 변경"
+
+msgid "IDS_COM_SK_SET"
+msgstr "설정"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "중지"
+
+msgid "IDS_COM_SK_YES"
+msgstr "예"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "완료"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "긴급전화"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "전송"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "거부"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Wi-Fi로 Kies 연결"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "계속"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "로그인"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "N/A"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "검색"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "기본"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "이름 변경"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "형식"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "디스플레이"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "이메일 동기화"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "폴더"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "전달:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "정보"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "메모 목록"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "분"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "더보기"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "동영상이 없습니다"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "비공개"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "계속"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "초"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "단일 선택"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "설정"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "시스템"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "추가할 수 없습니다"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "배경화면 변경하기"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "추가되었습니다"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "연락처 추가"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "태그 추가"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "폴더"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "태그 추가"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "단일 선택"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "업데이트"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "동영상"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "추가되었습니다"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "첨부"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "연결되었습니다"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "파일이 존재하지 않습니다"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "글자가 바르지 않습니다"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "이동되었습니다"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "이동 중..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "이동하지 못하였습니다"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "내부 오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "선택된 파일이 없습니다"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "선택된 태그가 없습니다"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "처리 중..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "녹음하지 못하였습니다"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "가져오기가 끝났습니다"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "불러오지 못하였습니다"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "저장하지 못하였습니다"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "저장 중..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "선택되었습니다"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "색상"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "다시 시도하세요"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "제한 없음"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "진동"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "지금 해제할까요?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "언어"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "더보기"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "녹음"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "결과"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "설정"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "즐겨찾기"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "태그"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "정렬"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12시간"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1초"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2주"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "항상"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "항상 묻기"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "저자"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "안 함"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "노트"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "이전"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "검색 중..."
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "사운드"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "메시지를 입력하려면 누르세요"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "이메일"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "공유"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "파일"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "가져오기"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "이메일"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "파일"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "초기화 중..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "설치 중..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "URL이 바르지 않습니다"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "중요도"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "전송되었습니다"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "저장할 수 없습니다"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "확인"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "최근 기록"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "북마크"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "북마크"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "정렬"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "로딩 중..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "이전"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "수신인을 추가하려면 누르세요"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "발신자 이미지"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "발신자 이미지"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "다운로드할 수 없습니다"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "파일을 찾을 수 없습니다"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "네트워크 오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "설정된 계정이 없습니다"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "재시작"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "복사"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "앨범"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "자동 새로고침"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "설명"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "다운로드가 끝났습니다"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "다운로드 관리"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "이메일 크기"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "비밀번호를 입력하세요"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "포맷"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "구글 맵스"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "내용이 없습니다"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "검색 결과가 없습니다"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "비밀번호"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "제거"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "메시지 보내기"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "크기"
+
+msgid "IDS_COM_BODY_START"
+msgstr "시작"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "일"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "사진 촬영"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "추가하려면 누르세요"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "수신인"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "음성"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "경고"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "답장"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "로그아웃"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "등록"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "로그인"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "높음"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "읽을 수 없습니다"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "블루투스로 듣기"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "이미 저장되어 있습니다"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "취소되었습니다"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "삭제 중..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "다운로드 중..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "형식"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "메모리 카드가 삽입되었습니다"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "메모리 카드가 제거되었습니다"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "저장 공간이 부족합니다"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "제거되었습니다"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "검색 중..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "전송하지 못하였습니다"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "서비스를 사용할 수 없습니다"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "형식"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "삭제할 수 없습니다"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "작성"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "다운로드"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "추가"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "답장"
+
+msgid "IDS_COM_SK_START"
+msgstr "시작"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "미리보기"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "삭제하지 못하였습니다"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "재시도"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1일"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1시간"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1분"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1주"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "생일"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "닫기"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "폴더 추가"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "상세 정보"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "이름을 입력하세요"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "서체"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "모둠"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "정보"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "벨소리"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d분"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "이름 변경"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "벨소리"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "전송"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "오늘"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "어제"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "북마크에 추가"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "효과"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "이미지"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "키패드"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "로그아웃"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "수락"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "오전"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "비밀번호 변경"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "지우기"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "닫기"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "연결 오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "연결하지 못하였습니다"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "이름을 입력하세요"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "비밀번호가 바르지 않습니다"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "비밀번호가 바르지 않습니다"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d시간"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "거절"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "수신 거절하였습니다"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "저장되었습니다"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "전송 중..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "지원되지 않는 파일 형식입니다"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "업데이트"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "업데이트가 끝났습니다"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "계정 추가"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "보통"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "취소"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "연락처"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "지도"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "뮤직 스토어"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "이름이 없습니다"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "SIM이 없습니다"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "주소"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "실패하였습니다"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "없음"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "완료되었습니다"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "수락"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "다음"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "종료"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "실행되었습니다"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "오전"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "4월"
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "8월"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "사용 가능"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "이전"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "배터리 충전이 완료되었습니다.\n충전기를 분리하세요"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "배터리 충전이 완료되었습니다. 충전기를 분리하세요"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "인터넷"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "계산기"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "단위환산"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "추가"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "12월"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "삭제"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "모두 삭제"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "이름"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "제목"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "2월"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "전달"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "금"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "메신저"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "1월"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "7월"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "6월"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "잠금"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "잠금"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "낮음"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "배터리가 부족합니다"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "3월"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "5월"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "메모리 카드"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "메시지"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "분"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "분"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "분"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "월"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "이동"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "뮤직 플레이어"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "내 계정"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "내비게이션"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "11월"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "10월"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN 잠금"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "초기화"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "초기화"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "토"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "9월"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "무음"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "스마트 검색"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "스피커 켜기"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "스톱워치"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "동기화"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "목"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "타이머"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "화"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "트위터"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "단위"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "분"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "초"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "알 수 없음"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "수"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "세계시각"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "년.월.일"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "년/월/일"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "데일리 브리핑"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "알림"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "정보"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "실행 중..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "해제되었습니다"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "비어 있음"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "시간"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "시간"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "부재중 전화"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "부재중통화"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "미확인 알림"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "미확인 알림"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "새 이메일"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "새 메시지"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "새 메시지"
+
+msgid "IDS_COM_POP_PM"
+msgstr "오후"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "잠금 해제"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "경고"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "키패드"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "완료"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "메뉴"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "끄기"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "열기"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "옵션"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "일시정지"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "재생"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "재생"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "제거"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "검색"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "선택"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "선택"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "전송"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "전송"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "영상통화"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "해상도"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "종료"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "즐겨찾기"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "파일 이름"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "음소거"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "파일이 없습니다"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "이미지가 없습니다"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "항목이 없습니다"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "일시 정지"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "변경"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "블루투스로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "블루투스로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "이메일로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "메시지로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "MMS로 전송"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "문자 메시지로 전송"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "폴더"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "금"
+
+msgid "IDS_COM_POP_MON"
+msgstr "월"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "음소거"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "토"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "임시보관함에 저장"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "임시보관함에 저장할까요?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "전송"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "무음 모드에서 재생할까요?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "일"
+
+msgid "IDS_COM_POP_THU"
+msgstr "목"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "화"
+
+msgid "IDS_COM_POP_WED"
+msgstr "수"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "애플리케이션"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "레이아웃 선택"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "실행"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "MMS"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "헤드폰"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d개 선택"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "반복"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "지원되지 않는 파일 형식입니다"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "SIM을 삽입하세요"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "복사되었습니다"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "클립보드에 복사되었습니다"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "복사 중..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "목록"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "목록 보기"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "선택된 것이 없습니다"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "사용 가능"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "서비스 지역이 아닙니다"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "음성 명령"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "대용량 저장소 모드를 실행 중일 때는 사용할 수 없습니다"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "대용량 저장소 모드가 해제되었습니다"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "대용량 저장소 모드가 실행되었습니다"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d일 전에"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "인증서"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "서버 오류가 발생하였습니다"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "모든 채널"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "확인"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "일반"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "집"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "회의 중입니다"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "휴대폰"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "회사"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "아비장"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "아부다비"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "아랍에미리트"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "아크라"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "가나"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "아디스아바바"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "에티오피아"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "애들레이드"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "오스트레일리아"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "알래스카"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "미국"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "코트디부아르"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "알제"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "알제리"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "알마티"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "카자흐스탄"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "암본"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "인도네시아"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "암만"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "요르단"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "암스테르담"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "네덜란드"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "아나디리"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "러시아"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "앵커리지"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "앙카라"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "터키"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "안타나나리보"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "마다가스카르"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "아시가바트"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "투르크메니스탄"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "아스마라"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "에리트레아"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "아스타나"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "아순시온"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "파라과이"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "아테네"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "그리스"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "오클랜드"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "뉴질랜드"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "오스틴"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "아조레스"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "포르투갈"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "바그다드"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "이라크"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "바쿠"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "아제르바이잔"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "볼티모어"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "바마코"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "말리"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "방콕"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "태국"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "방기"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "중앙아프리카 공화국"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "바르셀로나"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "스페인"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "바리"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "이탈리아"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "바스테르"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "과들루프"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "베이징"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "중국"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "베이루트"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "레바논"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "베오그라드"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "세르비아"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "벨리즈시티"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "벨리즈"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "베를린"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "독일"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "베른"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "스위스"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "비슈케크"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "키르기스스탄"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "비사우"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "기니비사우"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "보고타"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "콜롬비아"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "볼로냐"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "보스턴"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "브라질리아"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "브라질"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "브라티슬라바"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "슬로바키아"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "브리지타운"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "바베이도스"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "브리즈번"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "브뤼셀"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "벨기에"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "부쿠레슈티"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "루마니아"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "부다페스트"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "헝가리"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "부에노스아이레스"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "아르헨티나"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "카이로"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "이집트"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "캘거리"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "캐나다"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "카나리아 제도"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "캔버라"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "캔턴"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "케이프타운"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "남아프리카 공화국"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "카라카스"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "베네수엘라"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "카디프"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "웨일즈"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "카사블랑카"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "모로코"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "카탄차로"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "애플리케이션이 설치되지 않았습니다"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "위도"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "경도"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Speaker"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "이 작업을 실행할 수 있는 애플리케이션을 찾을 수 없습니다"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "꺼짐"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "켜짐"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s은(는) 현재 잠겨 있습니다. 잠금 해제할까요?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "%s을(를) 한 번 더 사용할 수 있습니다. 지금 시작할까요?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "%s을(를) 두 번 더 사용할 수 있습니다. 지금 시작할까요?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "%s은(는) %d일 동안 사용할 수 있습니다. 지금 실행할까요?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s이(가) 곧 만료됩니다. 다른 라이선스를 가져올까요?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "%s을(를) 한 번 더 사용할 수 있습니다. 다른 라이선스를 가져올까요?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "%s을(를) 더 이상 사용할 수 없습니다. 다른 라이선스를 가져올까요?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "오디오 기기"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "설치"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "등록"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "예상치 못한 오류가 발생하였습니다"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "프록시 서버에 연결하지 못하였습니다"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "네트워크에 연결할 수 없습니다"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "SIM이 바르지 않습니다"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "작업을 수행하지 못하였습니다"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "버전"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "기본"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "잘라내기"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "붙여넣기"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "클립보드"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "보안 정책에 따라 화면 캡처 사용이 제한됩니다"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "카옌"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "프랑스령 기아나"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "샬럿"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "샬럿아말리에"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "미국령 버진아일랜드"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "첼랴빈스크"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "첸나이"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "인도"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "시카고"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "키시너우"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "몰도바"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "치타"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "클리블랜드"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "콜롬보"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "스리랑카"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "콜럼버스"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "코나크리"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "기니"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "코펜하겐"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "덴마크"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "코크"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "아일랜드"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "크로토네"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "다카르"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "세네갈"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "댈러스"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "다마스쿠스"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "시리아"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "다르에스살람"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "탄자니아"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "다윈"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "델리"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "덴파사르"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "덴버"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "디트로이트"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "다카"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "방글라데시"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "디에고가르시아"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "영국"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "지부티"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "지부티"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "도하"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "카타르"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "두알라"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "카메룬"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "두바이"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "더블린"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "두샨베"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "타지키스탄"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "이스터 섬"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "칠레"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "에든버러"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "스코틀랜드"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "엘패소"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "피렌체"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "포르 드 프랑스"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "마르티니크"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "프리타운"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "시에라리온"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "가보로네"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "보츠와나"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "갈라파고스 제도"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "에콰도르"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "제네바"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "제노바"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "조지타운"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "가이아나"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "그리트비켄"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "사우스 조지아"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "괌"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "과테말라시티"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "과테말라"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "구스타비아"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "생 바르텔레미"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "핼리팩스"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "함부르크"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "하노이"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "베트남"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "하라레"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "짐바브웨"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "아바나"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "쿠바"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "하와이"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "헬싱키"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "핀란드"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "호바트"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "홍콩"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "호놀룰루"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "휴스턴"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "호브드"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "몽골"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "인디애나폴리스"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "이르쿠츠크"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "이슬라마바드"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "파키스탄"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "이스탄불"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "이젭스크"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "자카르타"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "제다"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "사우디아라비아"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "예루살렘"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "이스라엘"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "요하네스버그"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "카불"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "아프가니스탄"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "칼리닌그라드"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "캄차카"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "캄팔라"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "우간다"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "카라치"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "카트만두"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "네팔"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "하바롭스크"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "카르키프"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "우크라이나"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "카르툼"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "수단"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "키예프"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "킹스턴"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "자메이카"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "킨샤사"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "콩고 민주공화국"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "콜카타"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "크라스노야르스크"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "쿠알라룸푸르"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "말레이시아"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "쿠웨이트"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "로스앤젤레스"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "라파스"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "볼리비아"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "라고스"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "나이지리아"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "라스베이거스"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "리마"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "페루"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "리스본"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "류블랴나"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "런던"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "룽화"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "루이즈빌"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "루안다"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "앙골라"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "루붐바시"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "루사카"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "잠비아"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "룩셈부르크"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "리비브"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "마카오"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "마드리드"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "마가단"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "말라보"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "적도 기니"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "말레"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "몰디브"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "마나과"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "니카라과"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "마나마"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "바레인"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "마닐라"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "필리핀"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "마푸토"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "모잠비크"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "마리갓"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "생 마르텡"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "마사틀란"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "멕시코"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "리야드"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "멜버른"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "멤피스"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "메시나"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "멕시코시티"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "마이애미"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "대서양 연안 중부"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "미드웨이 아톨"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "밀라노"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "밀워키"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "민스크"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "벨라루스"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "모가디슈"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "소말리아"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "몬로비아"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "라이베리아"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "몬테비데오"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "우루과이"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "몬트리올"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "모스크바"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "뭄바이"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "뮌헨"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "무스카트"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "오만"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "나이로비"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "케냐"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "로마"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "네이터스"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "엔자메나"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "나폴리"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "차드"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "메카"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "뉴델리"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "뉴욕"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "뉴펀들랜드"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "니아메"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "니제르"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "누악쇼트"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "모리타니아"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "누메아"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "뉴칼레도니아"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "노보쿠즈네츠크"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "노보시비르스크"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "누쿠알로파"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "통가"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "누크"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "그린란드"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "옴스크"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "오사카"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "일본"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "오타와"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "와가두구"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "부르키나파소"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "파고파고"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "사모아독립국"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "팔레르모"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "파나마시티"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "파나마"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "파라마리보"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "수리남"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "파리"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "프랑스"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "페름"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "퍼스"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "페트로파블로프스크-캄차스키"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "필라델피아"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "프놈펜"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "캄보디아"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "피닉스"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "포드고리차"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "몬테네그로"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "폰타델가다"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "포트루이스"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "모리셔스"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "포르토프랭스"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "아이티"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "포틀랜드"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "프라하"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "체코"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "평양"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "북한"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "키토"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "라바트"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "양곤"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "미얀마"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "헤시피"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "리자이나"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "레이캬비크"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "아이슬란드"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "리가"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "라트비아"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "리우데자네이루"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "생드니"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "레위니옹 섬"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "사마라"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "샌안토니오"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "샌디에이고"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "샌프란시스코"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "산호세"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "코스타리카"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "산후안"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "푸에르토리코"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "산마리노"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "산살바도르"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "엘살바도르"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "사나"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "예멘"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "산티아고"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "산토도밍고"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "도미니카 공화국"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "상파울루"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "시애틀"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "서울"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "대한민국"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "상하이"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "선전"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "싱가포르"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "싱가포르"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "스코페"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "마케도니아"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "소피아"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "불가리아"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "세인트존스"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "앤티가 바부다"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "스톡홀름"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "스웨덴"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "수바"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "피지"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "피지"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "시드니"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "타히티"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "프랑스령 폴리네시아"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "타이베이"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "타이완"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "탈린"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "에스토니아"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "타라와"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "키리바시"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "타슈켄트"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "우즈베키스탄"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "트빌리시"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "그루지아"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "테구시갈파"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "온두라스"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "테헤란"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "이란"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "호치민 시"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "세틀먼트"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "영국령 버진 제도"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "톈진"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "티후아나"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "도쿄"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "토론토"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "트레"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "트리폴리"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "리비아"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "튀니스"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "튀니지"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "투린"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "우파"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "바시키리야"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "울란바토르"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "파두츠"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "리히텐슈타인"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "발레타"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "말타"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "밴쿠버"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "베로나"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "빅토리아"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "세이셸"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "비엔나"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "오스트리아"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "빌니우스"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "리투아니아"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "블라디보스토크"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "볼고그라드"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "세인트피터즈버그"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "바르샤바"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "폴란드"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "워싱턴 DC"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "웰링턴"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "위니펙"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "야쿠트"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "야무수크로"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "야운데"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "예카테린부르크"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "예레반"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "아르메니아"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "유즈노사할린스크"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "자그레브"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "크로아티아"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "취리히"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "%s을(를) 실행할 수 없습니다"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "연습"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "기본 애플리케이션"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "설정되었습니다"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "해제되었습니다"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "비디오 플레이어"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "1월"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "2월"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "3월"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "4월"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "6월"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "7월"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "8월"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "9월"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "10월"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "11월"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "12월"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "선택한 데이터를 찾을 수 없습니다"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "날씨"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "입력 가능한 최대 글자수를 초과하였습니다"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "최대 글자 수(%d개)를 초과하였습니다"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S노트"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S플래너"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S보이스"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S클라우드"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "변경 취소"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "날짜"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "알 수 없는 오류가 발생하였습니다"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "시간"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "알람/시간"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "발신자 이미지"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "모두 삭제"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "동기화"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "삽입"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "여기로 복사"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "삭제"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "인쇄"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "지우개"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "태그 편집"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "잠금화면"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "SD 카드 준비 중…"
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "무시"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "중지"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD 카드가 제거되었습니다"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "SD 카드에 접근할 수 없습니다"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "SD 카드를 안전하게 제거할 수 있습니다"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD 카드가 예기치 않게 제거되었습니다"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎAZ"
+
