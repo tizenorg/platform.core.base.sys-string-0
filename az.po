@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Cümə"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Bazar ertəsi"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Şənbə"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Bazar günü"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Cümə axşamı"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Çərşənbə axşamı"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Çərşənbə"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Zəng tonu"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "İstifadəçinin adı"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Daha çox"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Sıralama qaydası"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Gizlə"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Daha çox"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Yenilǝ"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Yenilə"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Ləğv et"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Avtomatik"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Redaktə et"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Redaktə et"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Hesabı sil"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Paylaş"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albomlar"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "Elektron poçtu ünvanı"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Yeri"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Ələ işlət"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Silinsin?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Şifrə"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Blok edin"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Səs sönülüdür"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Hesablar"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Səs yanılıdır"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Təsvirlər"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Digərləri"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Axtarış"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Mövzu"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Video"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Fon şəkli"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Kontaktlara əlavə et"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Parlaqlıq"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Ad yaz"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Sil"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Yaddaşa yaz"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "qoşulur"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Silindi"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Yerinə yetirildi"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Zəng"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Qalereya"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Yoxdur"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Hamısını seç"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Ləğv et"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Əlavə et"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Geriyə"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Zəng et"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Yaddaşa yaz"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Xəbərdarlıq siqnalı"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Hamısını"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Şifrə"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Təqvim"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Adlar"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Köçür"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Elektron poçtlar"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM radio"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Göndərmək"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Yardım"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Təsvir redaktoru"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Tarixçələr"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Yaddaş"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Mesaj"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Mesajlar"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Musiqi"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Mənim fayllarım"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Söndür"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Qoş"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Telefon"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Parametrlər"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Video zəng"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Səsli zəng"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Səs yazan"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Yeni epoçtlar"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Sil"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Redaktə et"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Xeyr"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Adını dəyişdir"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Qur"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Dayandır"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Bəli"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Yerinə yetirildi"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Təcili zəng"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Göndərilir"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "İmtina et"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Wi-Fi vasitəsilə Kies"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Davam et"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Sistemə giriş"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "M/D"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Axtarın"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Əsas"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Adı dəyişdir"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Tip"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Displey"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Epoçt sinxronlaşdırılması"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Qovluqlar"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "FWD:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Məlumat"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Yaddaş siyahısı"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "dəqiqələr"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Daha įox"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Video yoxdur"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Özəl"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Davam et"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "Saniyələr"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Seçilmişi"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Qur"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Sistem"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Əlavə etmək mümkün deyil"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Divar kağızını dəyiş"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Əlavə edildi"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Təmas əlavə et"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Et.əlv edn"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Qovluqlar"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Yeni etiket"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Seçilmişi"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Yenilə"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Əlavə edildi"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Əlavə et"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Qoşuldu"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Bu fayl mövcud deyil"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Simvollar səhvdir"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Göndərildi"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Göndərilmə..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Keçmə alınmadı"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Daxili xəta"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Heç bir fayl seçilməyib"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Heç bir etiket seçilməyib"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Emal edilir..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Yazma alınmadı"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Çıxarıldı"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Çıxarmaq mümkün olmadı"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Yaddaşa yazmaq mümkün olmadı"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Yaddaşa yazılma"
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Seçildi"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Rəng"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Yenidən cəhd edin"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Limitsiz"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrasiya"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Sən onun kilidini indi açmaq istəyirsən?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Dil"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Daha çox"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Yaz"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Nǝticǝ"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Bunun kimi qur"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Sevimli"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "Etiket"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Sıralama qaydası"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 saat"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 saniyə"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 həftə"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Həmişə"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Həmişə soruş"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Müəllif"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Heç zaman"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Qeyd"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Əvvəlki günlər"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Axtarılır"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Səslər"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Mətn əlavə etmək üçün vur"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "Elektron poçt vasitəsilə"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Paylaş"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Fayllar"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Gətir"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "Elektron poçt vasitəsilə"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Fayl"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "İlkin vəziyyətə gətirilmə"
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Yükləmə"
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "Yanlış URL"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Üstünlük"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Göndərildi"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Saxlamaq mümkün deyil"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Tsdq et"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Sonuncu"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Çevik keçid silindi"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Çevik keçidlər"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Sıralama qaydası"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Yüklənir..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Əvvəlki"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Qəbul edən əlavə etmək üçün vur"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Zəng edənin tanınması"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Zəng edənin tanınması"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Yükləmə mümkün olmadı"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Fayl tapılmadı"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Şəbəkə xətası"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Hesab yoxdur"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Yenidən başlat"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Köçür"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Albom"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Avtomatik yeniləmə"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Təsvir"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Yükləndi"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Yükləmələr"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "Epoçt ölçüsü"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Kodu daxil et"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Format"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google maps (xəritələr)"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Məzmun yoxdur"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Axtarış nəticəsi yoxdur"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Şifrə"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Sil"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Mesajı göndər"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Ölçü"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Başla"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Baz"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Foto çək"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Əlavə etmək üçün vur"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Kimə"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Səs"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Xəbərdarlıq"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Cavab"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Çıx"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Qeydiyytdən keç"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Daxil ol"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Yüksək"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Oxunmamış"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Bluetooth vasitəsilə"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Artıq var"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Ləğv edildi"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Silinmə"
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Yüklənmə..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Format"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Yaddaş kartı taxıldı"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Yaddaş kartı çıxarıldı"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Yaddaş kifayət etmir"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Silindi"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Axtarır..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Göndərmək mümkün olmadı"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Servisdən istifadə etmək mümkün deyil"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Tip"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Silmək mümkün deyil"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Yazın"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Yükləyin"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Yeni"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Cavab ver"
+
+msgid "IDS_COM_SK_START"
+msgstr "Başla"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "İlkin baxış"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Silmək mümkün olmadı"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Yenidən cəhd et"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 gün"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 saat"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 dəqiqə"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 həftə"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Doğum günü"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Bağla"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Qovluq yarat"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Təfsilatlar"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Xahiş olunur adı daxil edin"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Şrift"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Qrup"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Məlumat"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Melodiya"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr " %d dəqiqə"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Adını dəyişdir"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Zəng tonu"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Göndər"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Bu gün"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Dünən"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Nişanlara əlavə et"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Effektlər"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Şəkil"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Klaviatura"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Çıxış"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Qəbul et"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "Günortadan əvvəl"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Şifrəni dəyişdir"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Sil"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Bağla"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Bağlantıda səhv oldu"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Əlaqə mümkün olmadı"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Xahiş olunur adı daxil edin"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Xəta"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Yanlış şifrə"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Yanlış şifrə"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d saat"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "İmtina et"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "İmtina edildi"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Yaddaşa yazıldı"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Göndərilir..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Dəytəklənməyən\nfayl tipi"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Yenilə"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Yeniləndi"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Hesab əlavə edin"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Normal"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Ləğv et"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Ad"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Xəritələr"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Music Store"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Ad yoxdur"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "SIM yoxdur"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Ünvan"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Mümkün olmadı"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Yoxdur"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Uğur"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Qəbul et"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Növbəti"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Bitir"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Aktivləşdirildi"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Apr."
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Avq"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "İstifadə etmək mümkündür"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Geri"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Batareya tam dolub.\nAdapteri çıxar"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Batareya tam dolub. Adapteri çıxar"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Səhifələyici"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Kalkulyator"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Konvertor"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Yarat"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Dek"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Sil"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Hamısı silindi"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Ad"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Başlıq"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Fev."
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Ötür"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Cümə"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Yan."
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "İyul"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "İyun"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Kilidlə"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Kilidlə"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Alçaq"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Batareya zəifdir"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Mart"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "May"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Yaddaş kartı"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Mesajlaşma"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Dəqiqə"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "dəqiqə"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "dəq."
+
+msgid "IDS_COM_BODY_MON"
+msgstr "B.e"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Göndər"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Pleyer"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Mənim Hesabım"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Naviqasiya"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Noy."
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "Okt"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN kilidi"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Sıfırlansın"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Sıfırla"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Şən"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Sent"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Səssiz"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Cəld axtarış"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Səsucaldan qoşuldu"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Saniyəölçən"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Sinxronlaşdır"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "C.A."
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Sayqac"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Ç.A."
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Vahidlər"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "dəq."
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "san"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Naməlum"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Çərş."
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Ümumdünya saatı"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "il/ay/gün"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "İL/AY/GÜN"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Gündəlik xülasə"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Bildiriş"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Məlumat"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Fəallaşdırılır..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Söndürüldü"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Boşdur"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "saat(lar)"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "Saat"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Buraxılmış zəng"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Buraxılmış zənglər"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Buraxılmış hadisə"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Buraxılan hadisələr"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Yeni epoçt"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Yeni mesaj"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Yeni mesaj"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Kilidi aç"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Xəbərdarlıq"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Nömrəyığn"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Bitdi"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Menyu"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Söndür"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Aç"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Seçimlər"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Fasilə"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "İşə sal"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "İşə sal"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Sil"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Axtar"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Göndər"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Göndər"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Göndər"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Göndər"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Vid. zəng"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Rezolyusiya"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Son"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Sevimlilər"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Fayl adı"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Səssiz"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Fayl yoxdur"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Şəkil yoxdur"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Elementlər yoxdur"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Fasilə"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Əvəz et"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Bluetooth vasitəsilə göndər"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Göndərmə vasitəsi"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Bluetooth vasitəsilə göndər"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Epoçt ilə göndərin"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Mesaj vasitəsilə göndər"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "MMS ilə göndər"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "SMS ilə göndər"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Qovluq"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Cümə"
+
+msgid "IDS_COM_POP_MON"
+msgstr "B.e"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Səssiz"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Şən"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Qaralamalarda saxla"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Qaralamada saxlansın?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Göndərmə vasitəsi"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Səssiz rejimdə çalınsın?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Baz"
+
+msgid "IDS_COM_POP_THU"
+msgstr "C.A."
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Ç.A."
+
+msgid "IDS_COM_POP_WED"
+msgstr "Çərş."
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Əlavə vasitələr"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Tərtibat seçin"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "İşə burax"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "MMS vasitəsilə"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Qulaqlıqlar"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d seçilmişdir"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Təkrar et"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Dəstəklənməyən fayl tipi"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "SIM kartı yerləşdir"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Surəti saxlanıldı"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Mübadilə buferinə köçürüldü"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Köçürülmə..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Siyahı"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Siyahı görünüşü"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "He nə seçilməmişdir"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "İstifadəsi mümkün olanlar"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Servis yoxdur"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Səsli əmr"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Kütləvi yaddaş rejimində istifadə etmək mümkün deyil"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Kütləvi yaddaş rejimi qeyri-aktiv edilib"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Kütləvi yaddaş rejimi qoşuldu"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d gün əvvəl"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Sertifikatlar"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Server xətası"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Bütün kanallar"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Təsdiq et"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Ümumi"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Ev"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Mən görüşdəyəm"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Mobil"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "İş"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Abican"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Əbu Dabi"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Birləşmiş Ərəb Əmirliyi"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Akra"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Qana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Addis Ababa"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "Efiopiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Adelaida"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "Avtraliya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Alyaska"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "ABŞ"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "Kot d’Ivuar"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Əlcəzair"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "Əlcəzair"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Almatı"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "Qazaxıstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Ambon"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "Indonesiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Amman"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "İordaniya"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Amsterdam"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "Niderland"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Anadir"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "Rusiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Ankoraj"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Ankara"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "Türkiyə"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Antananarivu"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "MADAQASKAR"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Aşqabad"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "Türkmənistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Asmara"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "Eritreya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Astana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Asunson"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Paraqvay"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "Afina"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "Yunanıstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Oklend"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "Yeni Zelandiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Ostin"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "Azor adaları"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "Portuqaliya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Bağdad"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "Iraq"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Bakı"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "Azərbaycan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Baltimor"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Bamako"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Mali"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Banqkok"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "Tayland"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Bangi"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Mərkəzi Afrika Respublikası"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Barselona"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "İspaniya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Bari"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "Italiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Bas-Ter"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Qvadelupa"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Pekin"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "Çin"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Beyrut"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "Livan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Belqrad"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "Serbiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Beliz şəhəri"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "Beliz"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Berlin"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "Almaniya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Bern"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "İsveçrə"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Bişkek"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "Qırğızıstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Bisau"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Qvineya- Bissau"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Boqota"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "Kolumbiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Balonya"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Boston"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Brazilia"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "Braziliya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "Bratislava"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "Slovakiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Brictaun"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Barbados"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Brisban"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "Brüssel"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "Belçika"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Buxarest"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "Rumıniya"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Budapeşt"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "Macarıstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Buenos Ayres"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "Argentina"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Qahirə"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "Misir"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Kalqarı"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Kanada"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Kanar adaları"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Kanberra"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Quançjou"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Keyp Taun"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Cənubi Afrika Respublikası"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Karakas"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Venesuela"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Kardiff"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "Uels"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Kasablanka"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Mərakeş"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Katanzaro"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Proqram quraşdırılmamışdır"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "QB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "En"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Uzunluq"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Dinamik"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Bu əməliyyatı icra etmək üçün proqramı tapmaq mümkün deyil"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Söndür"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Qoş"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s hazırda kilidlənib. Kilid açılsın?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Siz 1 dəfə də %s istifadə edə bilərsiniz. İndi başlasın?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Siz 2 dəfə də %s istifadə edə bilərsiniz. İndi başlasın?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "%d gün üçün %s istifadə edə bilərsiniz. İndi başladılsın?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s vaxtı bitmək üzrədir. Başqa bir lisenziya alınsın?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Siz 1 dəfə də %s istifadə edə bilərsiniz. Başqa bir lisenziya alınsın?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Siz artıq %s istifadə edə bilməzsiniz. Başqa bir lisenziya alınsın?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Audio cihaz"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Yerləşdir"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Qeydə alınsın"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Gözlənilməyən yanlışlıq"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Proxy əlaqəsi baş tutmadı"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Şəbəkə bağlantısında səhv"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Yanlış SIM kart"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Əməliyyat alınmadı"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Versiya"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "İlkin təyin olunan"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Kəs"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Yapışdır"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Mübadilə buferi"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Təhlükəsizlik siyasəti ekran çəkilişindən istifadəni məhdudlaşdırır"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Kayenna"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Fransız Qvianası"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Şarlotta"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Şarlota Amaliya"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "Virciniya Adalarının Birləşmiş Ştatları"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Çelyabinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Çennai"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "Hindistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Çikaqo"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Çişinau"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "Moldoviya"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Çita"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Klivlend"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Kolombo"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Şri Lanka"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Kolumb"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Konakri"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "Qvineya"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Kopenhagen"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "Danimarka"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Kork"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "İrlandiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Kroton"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Dakar"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "Seneqal"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Dallas"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "Dəməşq"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "Suriya"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Dar əs Salam"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "Tanzaniya"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Darvin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Dehli"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Denpasar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Denver"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Detroit"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Dəkkə"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "Banqladeş"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Diyeqo Qarsiya"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "Birləşmiş Krallıq"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Cibuti"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Cibuti"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Doha"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Qətər"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Douala"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Kamerun"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Dubay"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Dublin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Düşənbə"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "Tacigistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Pasxa adası"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "Çili"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Edinburq"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Şotlandiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "El Paso"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Florensiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Fort-de-Frans"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Martinika"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Fritaun"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Sierra Leone"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Qaborone"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "Botsvana"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Qalapaqos adaları"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Ekvador"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "Cenevrə"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Genuya"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Corctaun"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "Qayana"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Qritviken"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "Cənubi Corciya"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Quam"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Qvatemala Şəhəri"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Qvatemala"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Qustavia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Sent Bartelemey"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Halifaks"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Hamburq"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Hanoy"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Vyetnam"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Harare"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "Zimbave"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Havana"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Kuba"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Havay"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Helsinki"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "Finlandiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Hobart"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Honkonq"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Honolulu"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Hyuston"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Hovd"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "Mongolustan"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Indianapolis"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "İrkutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "İslamabad"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "Pakistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "İstanbul"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "İjevsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Cakarta"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Cidda"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "Səudiyyə Ərəbistanı"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Yerusəlim"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "İsrail"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Yohannesburq"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Kabil"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "Əfqanıstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Kalininqrad"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Kamçatka"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Kampala"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Uqanda"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Karaçi"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Katmandu"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Nepal"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Xabarovsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Xarkov"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "Ukrayna"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Xartum"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "Sudan"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Kiyev"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Kinqston"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Yamayka"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Kinşasa"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Konqo Demokratik Respublikası"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Kəlküttə"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Krasnoyarsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Kuala Lumpur"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "Malayziya"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Küveyt"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Los Anceles"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "La Paz"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "Boliviya"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Laqos"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "Nigeriya"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Las Veqas"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Lima"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Peru"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Lissabon"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Lyublyana"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "London"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Lonqhua"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Luisvil"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Luanda"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Anqola"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Lubumbaşi"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Lusaka"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "Zambiya"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Luksemburq"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Lvov"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Makau"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Madrid"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Maqadan"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Malabo"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "Ekvatorial Qvineya"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Male"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Maldiv adaları"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Manaqua"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Nikaraqua"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Manama"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Bəhreyn"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Manila"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Filippin Adaları"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Maputo"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Mozambik"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Mariqot"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Sent Martin"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Mazatlan"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Meksika"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Ər-Riyad"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Melburn"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Memfis"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Messina"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Mexiko"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Mayami"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "Orta Atlantika"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Miduey Atoll"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Milan"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Miluoki"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Minsk"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "Belarusiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Moqadişo"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "Somali"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Monroviya"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "Liberiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Montevideo"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Uruqvay"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Monreal"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Moskva"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Mumbay"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "Münix"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Muskat"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Oman"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Nayrobi"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "Kenya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "Roma"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Naters"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "Ncamena"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Neapol"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "ÇAD"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Məkkə"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "Yeni Deli"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "Nyu York"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Nyufaundlend"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Niamey"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "NIGER"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Nuakşot"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "MAVRİTANİYA"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Numea"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "Yeni Kaledoniya"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Novokuznetsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Novosibirsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Nukualofa"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Tonqa"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Nuk"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "Qrenlandiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Omsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Osaka"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "Yaponiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Ottava"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Uaqaduqu"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Burkina Faso"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Paqo Paqo"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Samoa Müstəqil Dövləti"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Palermo"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Panama Şəhəri"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Panama"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Paramaribo"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Surinam"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "Parij"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "Fransa"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Perm"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Pert"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Petropavlovsk-Kamçatskiy"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Filadelfiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Pnompen"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "Kamboca"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Feniks"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Podqorisa"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Monteneqro"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Ponta Delqada"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Port Lou"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Mavrikiy"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Portno-Prins"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Haiti"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Portlend"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Praqa"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Çex Respublikası"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Pxenyan"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "Şimali Koreya"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Kito"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Rabat"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Yanqon"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Birma"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Resifi"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Recayna"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Reykyavik"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "İslandiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Riqa"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "Latviya"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Rio De Janeyro"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Sent-Denis"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Reyunion adası"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Samara"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "San Antonio"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "San Dieqo"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "San Fransisko"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "San Xose"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Kosta Rika"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "San Xuan"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Puerto Riko"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "San Marino"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "San Salvador"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "El Salvador"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Səna"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Yəmən"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Santyaqo"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Santo Dominqo"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "Dominikan Respublikası"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "San Paolo"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Sietl"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Seul"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Koreya Respublikası"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Şanxay"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Şenjen"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Sinqapur"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Sinqapur Respublikası"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Skope"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "Makedoniya"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "Sofiya"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "Bolqariya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "Sent Cons"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Antiqua və Barbuda"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Stokqolm"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "İsveç"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Suva"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Fiji"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Fici Respublikası"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Sidney"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Taiti"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Fransız Polineziya"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Taypey"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "Tayvan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "TALLIN"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "Estoniya"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Tarava"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Kiribati"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Daşkənd"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "Özbəkistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Tbilisi"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "Gürcüstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Tequsiqalpa"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Honduras"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Tehran"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "Iran"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Ho Çi Minh şəhəri"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "Qəsəbə"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Britaniyanın Virciniya Adaları"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Tyantsin"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Tixuana"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Tokio"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Toronto"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Trehet"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Tripoli"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "Liviya"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Tunis"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "Tunis"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Turin"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Ufa"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Bakırıya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Ulan Bator"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Vadus"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Lixtenşteyn"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "Valletta"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Malta"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Vankuver"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Verona"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Viktoriya"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Seyşel adası"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Vyana"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "Avstriya"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Vilnüs"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "Litva"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Vladivostok"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Volqoqrad"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "St. Peterburq"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Varşava"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "Polşa"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Vaşinqton DC"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Vellinqton"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Vinnipeq"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Yakutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Yamussukro"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Yaunde"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Yekaterinburq"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Yerevan"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "Ermənistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Cənubi Saxalin"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Zaqreb"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "Xorvatiya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Zürix"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "%s-ə başlamaq mümkün deyildir"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "Cǝhd et"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Susmaya görə proqram"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Qoşuldu"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Söndürldü"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Video pleyer"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Yanvar"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Fevral"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Mart"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "Aprel"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "İyun"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "İyul"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "Avqust"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "Sentyabr"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "Oktyabr"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "Noyabr"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "Dekabr"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Seçilmiş məlumatlar tapılmadı"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Hava"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Simvol sayı maksimuma çatıb"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Simvolların sayı maksimuma (%d) çatıb"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "İmtina"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Tarix"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Naməlum səhv baş verdi"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Vaxt"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Saat"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Zəng edənin şəkli"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr " Hamısını sil"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Sinxronizasiya"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Daxil et"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Buraya yapışdır"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Təmizlə"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Çap et"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Pozan"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Etiketi redaktə et"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Ekranin divar kəğizi kilidlə"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "SD kart hazırlanır..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Əhəmiyyət vermə"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Ləğv et"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD kart çıxarılmışdır"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "SD karta daxil olmaq mümkün deyil"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "SD kartı təhlükəsiz şəkildə çıxarmaq olar"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD kart gözlənilməz halda çıxarıldı"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZABCÇDEƏFGĞHXIİJKQLMNOÖPRSŞTUÜVYZ"
+

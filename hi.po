@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "शुक्रवार"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "सोमवार"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "शनिवार"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "रविवार"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "गुरूवार"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "मंगलवार"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "बुधवार"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "रिंगटोन"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "उपभोक्ता नाम"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "अधिक"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "के द्वारा देखें"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "छिपाएँ"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "अधिक"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "रिफ्रेश"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "अपडेट"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "रद्द"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "स्वचालित"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "संपादित करें"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "संपादित करें"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "खाता हटाएँ"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "साझा करें"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "एल्बम"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "ईमेल पता"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "स्थान"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "मैनुअल"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "विडियो"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "हटाएँ?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "पासवर्ड"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "ब्लॉक"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "ध्वनि बंद"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "खाता"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "ध्वनि शुरू"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "छवियाँ"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "अन्य"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "खोजें"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "विषय"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "विडियो"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "वॉलपेपर"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "संपर्को में जोड़ें"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "चमक"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "संपर्क बनाएँ"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "हटाएँ"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "सुरक्षित"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "जोड़ा जा रहा है…"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "हटाया गया"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "हुआ"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "कॉल"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "गैलरी"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "कुछ भी नहीं"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "सभी चुनें"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "रद्द करें"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "जोड़ें"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "पीछे"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "कॉल"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "सेव"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "अलार्म"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "सभी"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "पासवर्ड"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "ब्लूटूथ"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "कैलेंडर"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "कैमरा"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "संपर्क"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "कॉपी करें"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "ईमेल"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM रेडियो"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "आगे भेजें"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "सहायता"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "छवि संपादक"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "इंटरनेट"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "लॉग्स"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "मेमो"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "सन्देश"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "सन्देश"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "संगीत"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "मेरी फाइलें"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "बंद"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "चालू"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "फोन"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "सेटिंग्स"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "विडियो कॉल"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "वॉइस कॉल"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "आवाज रिकॉर्डर"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "नए ईमेल"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "हटाएँ"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "संपादन"
+
+msgid "IDS_COM_SK_NO"
+msgstr "नहीं"
+
+msgid "IDS_COM_SK_OK"
+msgstr "ओके"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "नाम बदलें"
+
+msgid "IDS_COM_SK_SET"
+msgstr "सेट"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "रोकें"
+
+msgid "IDS_COM_SK_YES"
+msgstr "हाँ"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "हुआ"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "आपातकाल कॉल"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "अग्रेषण"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "अस्वीकारें"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Wi-Fi के द्वारा काइज"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "जारी रखें"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "लॉगिन"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "लागू नहीं"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "स्‍कैन"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "बेसिक"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "नाम बदलें"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "प्रकार"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "प्रदर्शन"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Email सिंक"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "फोल्डर्स"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "FWD:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "सूचना"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "मेमो सूची"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "मिनट"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "अधिक"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "कोई वीडियो नहीं"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "निजी"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "पुनः शुरू"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "सेकेंड"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "चुना गया"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "के रूप में सेट करें"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "सिस्टम"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "जोड़ने में अक्षम"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "वॉलपेपर बदलें"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "जोड़ा गया"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "संपर्क जोड़ें"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "टैग जोड़ें"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "फोल्डर्स"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "नया टैग"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "चुना गया"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "अपडेट करें"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "विडियो"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "जोड़ा गया"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "जोड़ें"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "जोड़ा गया"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "यह फ़ाइल मौजूद नहीं है"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "अमान्य वर्ण"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "ले जाया गया"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "ले जा रहा है…"
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "ले जाना विफल हुआ"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "आंतरिक त्रुटी"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "फ़ाइलें नहीं चुनी गई"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "कोई टैग्स चुने नहीं"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "प्रोसेस हो रहा है…"
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "रिकॉर्डिंग विफल"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "पुनःप्राप्त किया गया"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "पुनः प्राप्त करना असफल"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "सेव करना विफल"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "सुरक्षित हो रहा है..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "चयनित"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "रंग"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "फिर प्रयास करें"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "असीमित"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "कंपन"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "क्‍या आप इसे अभी अनलॉक करना चाहते हैं?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "भाषा"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "और"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "रिकॉर्ड"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "परिणाम"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "के जैसे सेट"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "पसंदीदा"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "टैग"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "से छाटें"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 घंटे"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 सेकंड"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 सप्ताह"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "हमेशा"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "हमेशा पूछें"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "लेखक"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "कभी नहीं"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "टिप्पणी"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "पिछले दिनों"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "खोज रहा है"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "ध्वनियाँ"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "टेक्‍स्‍ट जोड़ने के लिए टैप करें"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "ईमेल द्वारा"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "साझा करें"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "फाइलें"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "आयात करें"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "ईमेल द्वारा"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "फाइल"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "शुरू हो रहा…"
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "स्थापित हो रहा है…"
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "अमान्य वेब पता"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "प्राथमिकता"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "भेजा"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "सेव करने में असमर्थ"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "पुष्टि"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "हाल ही का"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "बुकमार्क"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "बुकमार्क्स"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "द्वारा सूची"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "लोड हो रहा है..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "पिछला"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Tap to add recipient"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "कॉलर ID"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "कॉलर ID"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "डाउनलोड असफल"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "फाइल नहीं मिली"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "नेटवर्क त्रुटी"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "खाते नहीं"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "रीस्टार्ट"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "कॉपी करें"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "एल्बम"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "स्वत: ताजाकरण"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "विवरण"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "डाउनलोड किया गया"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "डाउनलोड"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "ईमेल आकार"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "पासवर्ड प्रविष्ट करें"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "फॉर्मेट"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Maps"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "कोई सामग्री नहीं"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "कोई खोज परिणाम नहीं"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "पासवर्ड"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "हटाएँ"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "सन्देश भेजें"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "आकार"
+
+msgid "IDS_COM_BODY_START"
+msgstr "प्रारंभ"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "रवि"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "फोटो लें"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "जोड़ने के लिए टैप करें"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "को"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "आवाज"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "चेतावनी"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "जवाब"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "साइन आउट"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "साइन अप करें"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "साइन इन"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "उच्च"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "अपठित"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "ब्लूटूथ द्वारा"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "पहले से ही मौजूद"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "रद्द हुआ"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "हटाया जा रहा है…"
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "डाउनलोडिंग हो रहा है…"
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "फॉर्मेट"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "मेमोरी कार्ड डाला गया"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "मेमोरी कार्ड हटाया गया"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "पर्याप्‍त मेमोरी नहीं"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "हटाया"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "खोज रहा है..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "भेजना असफल हुआ"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "सेवा अनुपलब्ध"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "प्रकार"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "हटाने में अक्षम"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "लिखें"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "डाउनलोड"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "नया"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "जवाब"
+
+msgid "IDS_COM_SK_START"
+msgstr "प्रारंभ"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "पूर्वावलोकन"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "आपातकाल"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "हटाना विफल"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "पुन: प्रयास"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 दिन"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 घंटा"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 मिनट"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 सप्ताह"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "जन्मदिन"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "बंद करें"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "फोल्डर बनाएँ"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "विवरण"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "नाम प्रविष्ट करें"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "फ़ॉन्ट"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "समूह"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "सूचना"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "मेलोडी"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d मिनट"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "पुन: नाम दें"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "रिंगटोन"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "भेजें"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "आज"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "बीता हुआ कल"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "बुकमार्क्स में जोड़ें"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "प्रभाव"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "छवि"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "कीपैड"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "लॉग आउट"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "स्‍वीकारें"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "ए ऍम"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "पासवर्ड बदलें"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "साफ करें"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "बंद करें"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "कनेक्‍शन त्रुटी"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "कनेक्शन असफल"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "नाम प्रविष्ट करें"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "त्रुटी"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "गलत पासवर्ड"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "अमान्य पासवर्ड"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d घंटे"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "अस्वीकारें"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "अस्‍वीकृत"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "सुरक्षित किया"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "भेजा जा रहा है…"
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "असमर्थित\nफ़ाइल प्रकार"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "अपडेट करें"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "अपडेट हो गया"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "खाता जोड़ें"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "सामान्य"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "रद्द"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "संपर्क"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "मानचित्र"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "संगीत भंडार"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "नाम नहीं"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "कोई SIM नहीं"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "पता"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "असफल हुआ"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "कुछ भी नहीं"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "सफलता"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "स्वीकारें"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "अगला"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "छोड़ें"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "सक्रिय हुआ"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "अप."
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "अग."
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "उपलब्ध"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "पीछे"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "बैटरी पूर्ण चार्ज है।\nचार्जर हटाएँ"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "बैटरी पूरी तरह चार्ज है। चार्जर हटाएँ।"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "ब्राउज़र"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "कैल्कुलेटर"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "परिवर्तक"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "बनाएँ"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "दिस."
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "हटाएँ"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "सभी हटाएँ"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "नाम"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "शीर्षक"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "फ़र"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "आगे भेजें"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "शुक्र"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "जन."
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "जुल."
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "जून"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "लॉक करें"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "लॉक करें"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "निम्न"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "बैटरी कम है"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "मा."
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "मई"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "मेमोरी कार्ड"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "संदेश भेजना"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "मिनट"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "मिनट"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "मिनट"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "सोम"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "ले जाएँ"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "संगीत प्लेयर"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "मेरा खाता"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "नेविगेशन"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "नव."
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "अक."
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN लॉक"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "रीसेट"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "रीसेट करें"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "शनि"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "सित."
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "शांत"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "स्‍मार्ट खोज"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "स्पीकर चालू"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "स्टॉपवॉच"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "सिंक्रोनाइज करें"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "गुरु"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "टाइमर"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "मंगल"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "इकाइयाँ"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "मिनट"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "सेकंड"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "अज्ञात"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "बुध"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "विश्व घड़ी"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "वर्ष.महीना.दिन"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "YYYY/MM/DD"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "रोज़ाना ब्रिफ़िंग"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "अधिसूचना"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "सूचना"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "सक्रिय हो रहा है…"
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "निष्क्रिय हुआ"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "खाली"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "घंटा"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "घंटा"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "छूटी कॉल"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "छूटी कॉलें"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "छूटी हुई घटना"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "छूटे हुए इवेंट्स"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "नयी ईमेल"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "नया सन्देश"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "नये सन्देश"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "अनलॉक करें"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "चेतावनी"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "डायलर"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "हुआ"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "मेन्यू"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "बंद"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "खोलें"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "विकल्प"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "विराम"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "चलाएँ"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "चलाएँ"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "हटाएँ"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "खोजें"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "चुनें"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "चुनें"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "भेजें"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "भेजें"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "वीडियो कॉल"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ऐक्टिव सिंक"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "रेज़ोल्यूशन"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "समाप्त करें"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "पसंदीदा"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "फाइल का नाम"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "मूक करें"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "कोई फ़ाइलें नहीं"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "कोई इमेज नहीं"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "कोई मदें नहीं"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "विराम"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "बदलें"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "ब्लूटूथ द्वारा भेजें"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "द्वारा भेजें"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "ब्लूटूथ द्वारा भेजें"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "ईमेल द्वारा भेजें"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Message द्वारा भेजें"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "MMS द्वारा भेजें"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "SMS द्वारा भेजें"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "फोल्डर"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "शुक्र"
+
+msgid "IDS_COM_POP_MON"
+msgstr "सोम"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "मूक करें"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "शनि"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "ड्राफ्ट में सुरक्षित करें"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "ड्राफ्ट में सुरक्षित करें?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "द्वारा भेजें"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "शांत मोड में चलाएँ?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "रवि"
+
+msgid "IDS_COM_POP_THU"
+msgstr "गुरु"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "मंगल"
+
+msgid "IDS_COM_POP_WED"
+msgstr "बुध"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "एप्लीकेशन"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "लेआउट चुनें"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "आरम्भ"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "एमएमएस द्वारा"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "हेडफ़ोन्‍स"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d चयनित"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "दोहराव"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "असमर्थित फाइल प्रकार"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "SIM कार्ड इंसर्ट करें"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "कॉपी हुआ"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "क्लिपबोर्ड में कॉपी किया गया"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "कॉपी कर रहा है…"
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "सूची"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "सूची दृश्य"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "कुछ चयनित नहीं"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "उपलब्ध उपयोग"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "कोई सेवा नहीं"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "वॉयस कमांड"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "मास स्‍टोरेज मोड के दौरान उपयोग करने में अक्षम"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "मास स्टोरेज मोड अक्षम किया गया"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "मास स्टोरेज मोड सक्रिय"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d दिन पहले"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "प्रमाणपत्र"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "सर्वर त्रुटी"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "सभी चैनल"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "पुष्टि"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "सामान्य"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "घर"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "मैं एक मीटिंग में हूँ"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "मोबाइल"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "काम"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi डायरेक्ट"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "अबिजान"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "आबु धाबी"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "संयुक्त अरब अमीरात"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "अक्रा"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "घाना"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "आदिस अबाबा"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "इथियोपिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "एडिलेड"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "ऑस्ट्रेलिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "अलास्का"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "USA"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "कोटे डि’आइवरी (आइवरी कोस्ट)"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "एलजियर्स"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "अल्‍जीरिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "अल्माटी"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "कजाकिस्तान"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "एंबॉन"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "इंडोनेशिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "अम्‍मान"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "जोर्डन"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "एमस्टर्डम"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "नीदरलैंड्स"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "अनादिर"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "रूस"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "अन्कोरेज"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "अंकारा"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "तुर्की"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "अंतानानारिवो"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "मादागास्कर"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "अश्गाबात"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "तुर्कमेनिस्तान"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "आस्मारा"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "इरिट्रिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "अस्ताना"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "एसंक्शन"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "पैराग्वे"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "एथेन्स"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "ग्रीस"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "ऑक्लैंड"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "न्यूजीलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "औस्टिन"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "एज़ोरेस"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "पुर्तगाल"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "बग़दाद"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "इराक़"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "बाकू"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "अज़रबैजान"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "बाल्टिमोर"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "बामाको"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "मालि"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "बैंकॉक"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "थाइलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "बांग्वी"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "सेंट्रल आफ्रिकी गणराज्य"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "बार्सिलोना"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "स्‍पेन"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "बारी"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "इटली"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "बेस-टेर"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "ग्वादेलूप"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "बीजिंग"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "चीन"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "बैरुत"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "लेबनान"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "बेल्ग्रेड"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "सर्बिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "बेलिज़ सिटी"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "बेलिज़"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "बर्लिन"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "ज़र्मनी"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "बर्न"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "स्विट्जरलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "बिशकेक"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "किर्गिजस्तान"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "बिसाऊ"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "गिनी बिसाउ"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "बोगोटा"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "कोलंबिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "बोलोना"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "बोस्‍टन"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "ब्रासिलिया"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "ब्राज़ील"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "ब्राटीस्लावा"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "स्लोवाकिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "ब्रिजटाउन"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "बार्बाडोस"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "ब्रिसबेन"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "ब्रूसेल्स"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "बेल्जियम"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "बुकारेस्ट"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "रुमानिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "बुडापेस्ट"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "हंगरी"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "ब्युनस आयर्स"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "अर्जेंटिना"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "कायरो"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "इजिप्‍ट"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "कैल्‍गेरी"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "कनाडा"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "कैनेरी द्वीप"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "केनबरा"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "कैंटन"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "केप टाउन"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "दक्षिण आफ़्रिकी गणराज्य"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "कैराकस"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "वेनेजुएला"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "कार्डीफ"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "वेल्स"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "कासाब्‍लांका"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "मोरक्को"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "काटानज़ारो"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "अनुप्रयोग इनस्टॉल नहीं हुआ"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "अक्षांश"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "देशांतर"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "स्पीकर"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "यह कार्रवाई क्रियान्‍वित करने के लिए ऐप्लिकेशन ढूँढने में अक्षम"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "बंद"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "चालू"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s वर्तमान में लॉक किया गया। अनलॉक करें?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "आप %s का उपयोग 1 बार और कर सकते हैं। अभी प्रारंभ करें?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "आप %s का उपयोग 2 बार और कर सकते हैं। अभी प्रारंभ करें?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "आप %s का उपयोग %d दिन के लिए कर सकते हैं। अभी प्रारंभ करें?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s समाप्त होने वाला है। लाइसेंस प्राप्त करें?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "आप %s का उपयोग 1 बार और कर सकते हैं। लाइसेंस प्राप्त करें?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "आप %s का उपयोग इसके बाद नहीं कर सकते हैं। लाइसेंस प्राप्त करें?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "ऑडियो डिवाइस"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "इंस्टॉल"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "पंजीकृत करें"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "अनपेक्षित त्रुटी"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "प्रॉक्‍सी कनेक्‍शन विफल"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "नेटवर्क कनेक्शन त्रुटी"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "अमान्य SIM कार्ड"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "कार्रवाई विफल"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "संस्करण"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "डिफॉल्ट"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "काटें"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "पेस्ट करें"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "क्लिपबोर्ड"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "सुरक्षा नीति स्‍क्रीन कैप्‍चर को प्रतिबंधित करता है"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "केयेन"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "फ़्रेंच गयाना"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "शार्लोटी"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "शेर्लोट अमेलि"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "युनाइटेड स्टेट्स वर्ज़िन द्वीप"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "चेल्याबिंस्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "चेन्नई"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "भारत"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "शिकागो"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "किसिनो"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "मोल्दोवा"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "चीता"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "क्लीवलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "कोलंबो"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "श्री लंका"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "कोलंबस"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "कोनाक्री"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "गिनी"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "कोपनहेगेन"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "डेनमार्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "कॉर्क"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "आयरलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "क्रोटोन"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "डाकार"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "सेनेगल"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "डैलैस"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "दमस्‍कस"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "सीरिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "दार ए सलाम"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "टांजानिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "डार्विन"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "दिल्ली"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "डेनपासार"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "डेनवर"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "डीट्रॉय"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "ढाका"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "बंगलादेश"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "डीएगो गार्सिया"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "यूनाइटेड किंगडम"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "ज़िबुटी"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "ज़िबुटी"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "दोहा"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "क़तर"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "दुआला"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "कैमेरून"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "दुबई"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "डबलिन"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "दुशानबे"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "ताज़िकिस्तान"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "पूर्वी द्वीप"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "चिली"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "एडिनबर्ग"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "स्कॉटलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "एल पासो"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "फ्लोरेंस"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "फ़ोर्ट-द-फ़्रांस"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "मार्टिनिक"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "फ्रीटाऊन"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "सिएरा लियोन"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "गैबोरोन"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "बोस्टवाना"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "गैलापेगोस द्वीप"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "इक्वेडोर"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "जिनीवा"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "जिनोआ"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "जॉर्जटाउन"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "गयाना"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "ग्रायतवीकेन"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "दक्षिण जॉर्जिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "गुआम"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "ग्वाटेमाला सिटि"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "ग्वाटेमाला"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "गुस्ताविया"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "सेंट बार्थेलेमी"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "हालिफैक्‍स"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "हैम्बर्ग"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "हनोई"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "विएतनाम"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "हरारे"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "ज़िंबाब्वे"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "हवाना"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "क्यूबा"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "हवाई"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "हैलसिंकी"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "फ़िनलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "होबार्ट"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "हांगकांग"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "हॉनोलुलू"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "हाऊस्‍टन"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "होव्द"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "मंगोलिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "इंडियानापोलिस"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "इरकुत्स्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "इस्लामाबाद"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "पाकिस्तान"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "इस्तांबुल"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "इज़वेस्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "जकार्ता"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "जेद्दा"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "सऊदी अरब"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "येरुशेलम"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "इज्राएल"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "जोहान्सबर्ग"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "काबुल"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "अफ़गानिस्‍तान"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "कैलिनिनग्राद"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "कामचात्का"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "कंपाला"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "युगांडा"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "कराँची"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "काठमांडू"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "नेपाल"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "खाबारोवस्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "ख़ारकिव"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "युक्रेन"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "खारटोम"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "सुडान"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "कीव"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "किंग्‍स्टन"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "जमैका"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "किंशासा"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "कांगो लोकतांत्रिक गणराज्य"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "कोलकाता"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "क्रासनोयार्स्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "कुआला लम्पुर"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "मलैशिया"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "कुवैत"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "लॉस एंजेल्स"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "ला पाज़"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "बोलिविया"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "लागोस"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "नाइजीरिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "लास वेगास"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "लीमा"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "पेरु"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "लिस्बन"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "लुब्लियाना"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "लंदन"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "लोंगहुआ"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "लुईविल"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "लौंडा"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "अंगोला"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "लुबुम्बाशी"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "लुसाका"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "झांबिया"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "लक्जेंबर्ग"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "ल्विव"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "मकाउ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "मेड्रिड"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "मैगाडान"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "मालाबो"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "एक्वोरिअल गिनी"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "माले"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "माल्दीव"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "मॅनागुआ"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "निकाराग्वा"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "मनामा"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "बहरीन"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "मनीला"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "फ़िलिपिंस"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "मापुटो"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "मोजांबिक"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "मैरिगॉट"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "सेंट मार्टिन"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "मज़तलन"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "मेक्सिको"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "रियाध"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "मेलबॉर्न"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "मेंफ़िस"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "मेसिना"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "मैक्सिको सिटी"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "मियामी"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "मध्य-अटलांटिक"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "मिडवे एटोल"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "मिलान"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "मिलवौकी"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "मिंस्क"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "बेलारुस"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "मोगादिशू"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "सोमालिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "मन्रोविया"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "लिबेरिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "मॉन्टेवीडियो"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "उरुग्वे"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "मॉन्ट्रियल"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "मास्को"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "मुंबई"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "म्यूनिख़"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "मस्कट"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "ओमान"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "नैरोबी"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "केनिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "रोम"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "नेटर्स"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "एन'जामेना"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "नापोली"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "चाड"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "मक्का"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "नई दिल्ली"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "न्यूयार्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "न्यूफाउंडलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "न्यामे"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "नाइजर"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "नौआकचोट"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "मौरिटानिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "नोमिया"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "न्यू कैलेडोनिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "नोवोकूज़नेत्‍स्‍क"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "नोवोसिबिर्स्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "नुकुआलोफा"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "टोंगा"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "नूक"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "ग्रीनलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "ओम्‍स्‍क"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "ओसाका"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "जापान"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "ओटावा"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "उआगादोगौ"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "बूरकिना फ़ासो"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "पागो पागो"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "स्वतंत्र राष्ट्र समोआ"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "पालेर्मो"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "पनामा सिटी"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "पनामा"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "पारामारिबो"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "सुरिनाम"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "पेरिस"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "फ्रांस"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "पर्म"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "पर्थ"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "पैट्रोपावलोवस्क-कामचाटस्की"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "फ़िलाडेल्फ़िया"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "नॉम पेह्न"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "कंबोडिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "फ़ोनिक्स"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "पो़डगोरिका"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "मॉँटनेग्रो"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "पोंटा डेल्गाडा"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "पोर्ट लुइस"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "मौरिशस"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "पोर्ट-ऑ-प्रिंस"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "हैती"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "पोर्टलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "प्राहा"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "जेक गणराज्य"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "प्योंगयांग"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "उत्तरी कोरिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "क्विटो"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "राबत"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "यांगून"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "बर्मा"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "रिसाइफ"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "रेजिना"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "रेकजाविक"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "आइसलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "रीगा"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "लैटविया"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "रियो दि जेनेरियो"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "सेंट-डेनिस"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "रीयुनियन द्वीप"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "समारा"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "सान ओन्टानियो"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "सैन डियेगो"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "सान फ्रांसिस्को"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "सान होजे"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "कोस्टा रिका"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "सन जुआन"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "प्वेर्टो रिको"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "सन मरिनो"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "सान सल्वाडोर"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "एल साल्वाडोर"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "साना"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "यमन"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "सैंटियागो"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "सैंटो डोमिनिगो"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "डोमिनिकन गणराज्य"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "साओ पालो"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "सिएटल"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "सियोल"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "कोरियाई गणराज्य"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "शंघाई"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "शेंजेन"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "सिंगापुर"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "सिंगापुर गणराज्य"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "स्कोप्ये"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "मैसेडोनिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "सोफिया"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "बल्गेरिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "सेंट जॉन्स"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "ऐंटिग्वा और बार्बुदा"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "स्‍टॉकहोम"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "स्‍वीडन"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "सुवा"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "फ़िजी"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "फ़िजी द्वीप गणराज्य"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "सिडनी"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "ताहिती"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "फ़्रेंच पॉलिनेशिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "ताईपेई"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "तैवान"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "तालिन्"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "इस्टोनिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "तारावा"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "किरिबाती"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "तास्कन्त"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "उजबेकिस्तान"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "बिलिसि"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "जॉर्जिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "तेगुचिगाल्पा"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "होंडुरास"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "तेहरान"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "ईरान"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "हो चि मिह्न सिटी"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "निपटारा"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "ब्रिटिश वर्ज़िन द्वीप"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "त्यांजिन"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "तिजुआना"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "टोक्यो"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "टोरंटो"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "त्रेहेट"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "त्रिपोली"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "लीबिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "ट्यूनिस"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "ट्यूनिशिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "तुरिन"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "यूफ़ा"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "बाशकिरिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "उलान बटोर"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "वेडुज़"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "लिचटेन्सटैन"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "वेलेटा"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "माल्टा"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "वैंकूवर"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "वेरोना"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "विक्टोरिया"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "सेशेल्स"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "वियना"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "ऑस्ट्रिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "विलनियस"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "लिथुआनिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "व्लादीवोस्तक"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "वोल्गोग्राद"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "सेंट पीटर्सबर्ग"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "वॉरसा"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "पोलैंड"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "वाशिंग्टन DC"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "वैलिंग्टन"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "विन्‍नीपेग"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "याकुत्‍स्‍क"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "यामोसोक्रो"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "यौंदे"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "येकातेरिनबर्ग"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "येरेवान"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "आर्मेनिया"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "युज्नो-साखालिंस्क"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "ज़ागरेब"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "क्रोएटीया"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "जूरिच"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "%s लॉन्‍च करने में अक्षम"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "कोशिश"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "डिफ़ॉल्ट एप्लीकेशन"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "सक्षमित"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "अक्षमित"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "वीडियो प्‍लेयर"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "जनवरी"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "फ़रवरी"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "मार्च"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "अप्रैल"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "जून"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "जुलाई"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "अगस्त"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "सितम्बर"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "अक्टूबर"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "नवम्बर"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "दिसम्बर"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "चयनित डाटा नहीं मिला"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "मौसम"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "वर्णो की संख्‍या अधिकतम पहुँची"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "वर्णों की अधिकतम संख्या (%d) तक पहुँच गया"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S प्लैनर"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S क्लाउड"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "निरस्त करें"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "तिथि"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "अज्ञात त्रुटि पायी गयी"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "समय"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "घड़ी"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "कॉलर छवि"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "सभी साफ़ करें"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "सिंक करें"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "इंसर्ट करें"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "यहाँ पेस्‍ट करें"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "साफ़"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "प्रिंट"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "इरेजर"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "टैग संपादित करें"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "लॉक स्क्रीन वॉलपेपर"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "SD कार्ड बना रहा है..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "उपेक्षा करें"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "अबोर्ट"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD कार्ड निकाला गया"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "SD कार्ड अभिगम करने में अक्षम"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "SD कार्ड निकाल लेना सुरक्षित है"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD कार्ड को अनपेक्षित रूप से हटाया गया"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+

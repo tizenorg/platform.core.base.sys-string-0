@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Piektdiena"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Pirmdiena"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Sestdiena"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Svētdiena"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Ceturtdiena"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Otrdiena"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Trešdiena"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Zvana signāli"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Lietotājvārds"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Citi"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Skatīt pēc"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Slēpt"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Citi"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Atsvaidz."
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Atjaunināt"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Atcelt"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Automātiski"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Rediģēt"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Rediģēt"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Dzēst kontu"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Koplietot"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albumi"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "E-pasta adrese"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Atrašanās vieta"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Manuāli"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Vai dzēst?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Parole"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Bloķēt"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Izslēgt skaņu"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Konti"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Ieslēgt skaņu"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Attēli"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Citi"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Meklēt"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Tēma"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Video"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Fona attēls"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Pievienot kontaktiem"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Spilgtums"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Izveidot kontaktu"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Dzēst"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Saglabāt"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Savieno..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Izdzēsts"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Gatavs"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Zvans"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galerija"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Nav"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Izv. visu"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Atcelt"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Pievienot"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Atpakaļ"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Zvanīt"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Saglabāt"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Signāls"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Visas"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Parole"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Kalendārs"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Kontakti"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Kopēt"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-pasts"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM radio"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Pārsūtīt"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Palīdzība"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Attēlu redaktors"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internets"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Žurnāli"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Atgādne"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Ziņa"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Ziņas"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Mūzika"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Mani Faili"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Izslēgt"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Ieslēgt"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Tālrunis"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Iestatījumi"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Videozvans"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Balss zvans"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Balss ierakstītājs"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Jaunas e-pasta ziņas"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Dzēst"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Rediģēt"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Nē"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Labi"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Pārdēvēt"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Iestatīt"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Apturēt"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Jā"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Gatavs"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Ārkārtas zvans"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Pārsūtīšana"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Noraidīt"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies, izmantojot Wi-Fi"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Turpināt"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Pieteikšanās"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "Nav pieejams"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Meklēt"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Pamata"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Mainīt vārdu"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Veids"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Displejs"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "E-pasta sinhronizācija"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Mapes"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "Pārs.:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Informācija"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Atgādinājumu saraksts"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "minūtes"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Citi"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Nav videoklipu"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Privāti"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Atsākt"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "sekundes"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Izvēlēts"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Iestatīt kā"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Sistēma"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Nevar pievienot"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Fona attēla mainīšana"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Pievienots"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Pievienot kontaktu"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Piev. atz."
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Mapes"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Jauna atzīme"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Izvēlēts"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Atjaunināt"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Pievienots"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Pievienot"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Savienots"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Šāda faila nav."
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Nederīgas rakstzīmes"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Pārvietots"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Pārvieto..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Pārvietošana neizdevās"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Iekšēja kļūda"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Nav izvēlētu failu"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Nav izvēlēta neviena atzīme"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Notiek apstrāde..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Ierakstīšana neizdevās"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Izgūts"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Izguve neizdevās"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Saglabāšana neizdevās"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Saglabā..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Izvēlēts"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Krāsa"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Mēģiniet vēlreiz"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Neierobežots"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrācija"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Vai vēlaties to atbloķēt tagad?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Valoda"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Vēl"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Ierakstīt"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Rezultāts"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Iest. kā"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Izlase"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "Atzīme"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Kārtot pēc"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 stundas"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 sekunde"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 nedēļas"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Vienmēr"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Jautāt vienmēr"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Autors"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Nekad"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Piezīme"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Iepriekšējās dienas"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Meklē"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Skaņas"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Pieskarieties, lai pievienotu tekstu"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "Izmantojot e-pastu"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Kopl."
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Faili"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Importēt"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "Izmantojot e-pastu"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Fails"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Notiek inicializēšana..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Instalē..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "Nederīgs URL"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Prioritāte"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Nosūtīts"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Nevar saglabāt"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Apstipr."
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Pēdējais"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Grāmatzīme"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Grāmatzīmes"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Kārtot pēc"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Ielādē..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Atpakaļ"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Pieskarieties, lai pievienotu adresātu"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Zvanītāja ID"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Zvanītāja ID"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Lejupielāde neizdevās"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Fails nav atrasts"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Tīkla kļūda"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Nav kontu"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Restartēt"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Kopēt"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Albums"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Automātiskā atsvaidzināšana"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Apraksts"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Lejupielādēts"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Lejupielādes"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "E-pasta lielums"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Ievadiet paroli"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Formatēt"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Maps"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Nav satura"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Nav meklēšanas rezultātu"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Parole"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Noņemt"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Sūtīt ziņu"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Lielums"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Sākt"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Sv."
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Fotografēt"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Pieskarties, lai pievienotu"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Kam"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Balss"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Brīdinājums"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Atbilde"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Izrakstīties"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Reģistrēties"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Pierakstīties"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Augsta"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Nelasīta"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Izmantojot Bluetooth"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Jau pastāv"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Atcelts"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Dzēš..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Ielādē..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Formāts"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Ievietota atmiņas karte"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Atmiņas karte izņemta"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Atmiņa pilna"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Noņemts"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Meklē..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Neizdevās nosūtīt"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Pakalpojums nav pieejams"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Veids"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Nevar izdzēst"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Rakstīt"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Lejupiel."
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Jauns"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Atbildēt"
+
+msgid "IDS_COM_SK_START"
+msgstr "Sākt"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Atpakaļ"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Neizdevās izdzēst"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Atkārtot"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 diena"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 stunda"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 minūte"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 nedēļa"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Dzimšanas diena"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Aizvērt"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Izveidot mapi"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Dati"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Ievadiet vārdu"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Fonts"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Grupa"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Informācija"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Melodija"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d minūtes"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Pārdēvēt"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Zvana signāls"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Sūtīt"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "Īsziņa"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Šodien"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Vakar"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Pievienot grāmatzīmēm"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Efekti"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Attēls"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Tastatūra"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Izrakstīties"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Pieņemt"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Mainīt paroli"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Dzēst"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Aizvērt"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Savienojuma kļūda"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Savienojums neizdevās"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Ievadiet vārdu"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Kļūda"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Nepareiza parole"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Nederīga parole"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d stundas"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Noraidīt"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Noraidīts"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Saglabāts"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Sūta..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Neatbalstīts\nfaila veids"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Atjaunināt"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Atjaunināts"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Konta pievienošana"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Parasta"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Atcelt"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Kontakts"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Kartes"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Mūzikas krātuve"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Nav vārda"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "Nav SIM"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Adrese"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Neizdevās"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Nav"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Veiksmīgi"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Pieņemt"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Nāk."
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Iziet"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Aktivizēts"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Apr."
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Aug."
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Pieejams"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Atpakaļ"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Akumulators ir pilnībā uzlādēts.\nAtvienojiet lādētāju"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Akumulators ir pilnībā uzlādēts. Atvienojiet lādētāju"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Pārlūks"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Kalkulators"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Konvertētājs"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Izveidot"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Dec."
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Dzēst"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Dzēst visu"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Nosaukums"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Nosaukums"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Feb."
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Pārsūtīt"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Pk."
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Jan."
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Jūl."
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Jūn."
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Bloķēt"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Bloķēt"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Zema"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Akumulators gandrīz tukšs"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Mar."
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Maijs"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Atmiņas karte"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Ziņas"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Minūte"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "minūte"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "min."
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Pr."
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Pārvietot"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Mūzikas Atskaņotājs"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Mans konts"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Navigācija"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Nov."
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "Okt."
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN atslēga"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Atiestatīt"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Nodzēst"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Se."
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Sep."
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Klusums"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Viedā meklēšana"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Skaļrunis ieslēgts"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Hronometrs"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Sinhronizēt"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Ce."
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Taimeris"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Ot."
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Vienības"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "min."
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "sek."
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Nezināms"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Tr."
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Pasaules pulkstenis"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "GGGG.MM.DD"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "GGGG/MM/DD"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Ikdienas apskats"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Paziņojums"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Informācija"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Aktivizē..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Deaktivizēts"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Tukšs"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Stunda"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "stunda"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Neatbildēts zvans"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Neatbildētie zvani"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Nokavēts notikums"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Nokavētie notikumi"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Jauna e-pasta ziņa"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Jauna ziņa"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Jaunas ziņas"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Atbloķēt"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Brīdinājums"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Zvanītājs"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Gatavs"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Izvēlne"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Izslēgt"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Atvērt"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Iespējas"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Pauze"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Atskaņot"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Atskaņot"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Noņemt"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Meklēt"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Atlasīt"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Izv."
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Sūtīt"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Sūtīt"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Videozv."
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Izšķirtspēja"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Beigt"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Izlases"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Faila nosaukums"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Bez skaņas"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Nav failu"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Nav attēlu"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Nav vienumu"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Pauze"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Aizstāt"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Sūtīt, izmantojot Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Sūtīt, izmantojot"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Sūtīt, izmantojot Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Sūtīt, izmantojot e-pastu"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Sūtīt, izmantojot ziņu"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Sūtīt multiziņā"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "Sūtīt, izmantojot īsziņu"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Mape"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Pk."
+
+msgid "IDS_COM_POP_MON"
+msgstr "Pr."
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Bez skaņas"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Se."
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Saglabāt mapē Melnraksti"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Vai saglabāt mapē Melnraksti?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Sūtīt, izmantojot"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Vai atskaņot skaņu klusuma režīmā?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Sv."
+
+msgid "IDS_COM_POP_THU"
+msgstr "Ce."
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Ot."
+
+msgid "IDS_COM_POP_WED"
+msgstr "Tr."
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Programmas"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Izkārtojuma izvēle"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Palaist"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "Izmantojot multiziņu"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Austiņas"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d izvēlētas"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Atkārtot"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Neatbalstīts faila veids"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "Ievietojiet SIM karti"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Nokopēts"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Kopēts starpliktuvē"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Kopē..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Saraksts"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Saraksta skats"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Nekas nav izvēlēts"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Atlikušās lietošanas reizes"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Nav pakalpojuma"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Balss komanda"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Nevar lietot lielapjoma atmiņas režīma laikā"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Lielapjoma atmiņas režīms deaktivizēts"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Lielapjoma atmiņas režīms iespējots"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "pirms %d dienām"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Sertifikāti"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Servera kļūda"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Visi kanāli"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Apstipr."
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Vispārīgi"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Mājas"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Esmu sapulcē"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Mobilais"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Darbā"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Abidžana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Abū Dabī"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Apvienotie Arābu Emirāti"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Akra"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Gana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Adisabeba"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "Etiopija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Adelaida"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "Austrālija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Aļaska"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "ASV"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "Kotdivuāra"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Alžīra"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "Alžīrija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Alma-Ata"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "Kazahstāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Ambona"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "Indonēzija"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Ammana"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "Jordānija"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Amsterdama"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "Nīderlande"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Anadira"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "Krievija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Ankoridža"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Ankara"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "Turcija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Antananarivu"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "Madagaskara"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Ašgabata"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "Turkmenistāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Asmera"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "Eritreja"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Astana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Asunsjona"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Paragvaja"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "Atēnas"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "Grieķija"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Oklenda"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "Jaunzēlande"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Ostina"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "Azoru salas"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "Portugāle"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Bagdāde"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "Irāka"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Baku"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "Azerbaidžāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Baltimora"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Bamako"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Mali"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Bangkoka"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "Taizeme"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Bangi"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Centrālāfrikas Republika"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Barselona"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "Spānija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Bari"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "Itālija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Bastēra"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Gvadelupa"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Pekina"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "Ķīna"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Beiruta"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "Libāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Belgrada"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "Serbija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Beliza"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "Beliza"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Berlīne"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "Vācija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Berne"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "Šveice"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Biškeka"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "Kirgizstāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Bisava"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Gvineja-Bisava"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Bogota"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "Kolumbija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Boloņa"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Bostona"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Brazīlija"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "Brazīlija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "Bratislava"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "Slovākija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Bridžtauna"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Barbadosa"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Brisbene"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "Brisele"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "Beļģija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Bukareste"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "Rumānija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Budapešta"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "Ungārija"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Buenosairesa"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "Argentīna"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Kaira"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "Ēģipte"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Kalgari"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Kanāda"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Kanāriju salas"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Kanbera"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Kantona"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Keiptauna"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Dienvidāfrikas Republika"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Karakasa"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Venecuēla"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Kārdifa"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "Velsa"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Kasablanka"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Maroka"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Katandzāro"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Programma nav instalēta"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Platums"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Garums"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Skaļrunis"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Nevar atrast programmu, lai veiktu šo darbību"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Izslēgt"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Ieslēgt"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "Fails %s pašlaik ir bloķēts. Vai atbloķēt?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Failu %s var lietot vēl 1 reizi. Vai sākt tūlīt?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Failu %s var lietot vēl 2 reizes. Vai sākt tūlīt?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Failu %s varat lietot %d dienas. Vai sākt tūlīt?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "Failam %s drīz beigsies derīguma termiņš. Vai vēlaties iegūt citu licenci?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Failu %s var lietot vēl 1 reizi. Vai vēlaties iegūt citu licenci?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Failu %s vairs nevar lietot. Vai vēlaties iegūt citu licenci?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Audioierīce"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Instalēt"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Reģistrēt"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Negaidīta kļūda"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Starpniekservera savienojums neizdevās"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Tīkla savienojuma kļūda"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Nederīga SIM karte"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Darbība neizdevās"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Versija"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Noklusējums"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Izgriezt"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Ielīmēt"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Starpliktuve"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Drošības politika ierobežo ekrāna tvēruma lietošanu"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Kajenna"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Franču Gviāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Šarlote"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Šarlotamālija"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "ASV Virdžīnu salas"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Čeļabinska"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Čenaja"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "Indija"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Čikāga"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Kišiņeva"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "Moldova"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Čita"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Klīvlenda"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Kolombo"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Šrilanka"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Kolumbusa"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Konakri"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "Gvineja"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Koepnhāgena"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "Dānija"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Korka"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "Īrija"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Krotone"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Dakāra"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "Senegāla"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Dalasa"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "Damaska"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "Sīrija"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Dāresalāma"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "Tanzānija"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Dārvina"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Deli"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Denpasara"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Denvera"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Detroita"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Daka"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "Bangladeša"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Diego Garsia"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "Lielbritānija"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Džibutija"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Džibutija"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Doha"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Katara"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Duala"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Kamerūna"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Dubaja"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Dublina"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Dušanbe"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "Tadžikistāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Lieldienu sala"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "Čīle"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Edinburga"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Skotija"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "Elpaso"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Florence"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Fordefransa"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Martinika"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Frītauna"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Sjerraleone"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Gaborone"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "Botsvāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Galapagu salas"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Ekvadora"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "Ženēva"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Dženova"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Džordžtauna"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "Gajāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Grītvikena"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "Dienviddžordžija"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Guama"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Gvatemalas pilsēta"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Gvatemala"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Gustavja"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Senbartelmī"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Halifaksa"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Hamburga"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Hanoja"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Vjetnama"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Harare"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "Zimbabve"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Havanna"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Kuba"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Havaja"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Helsinki"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "Somija"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Hobārta"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Honkonga"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Honolulu"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Hjūstona"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Hovda"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "Mongolija"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Indianapolisa"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "Irkutska"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "Islamabada"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "Pakistāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "Stambula"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "Iževska"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Džakarta"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Džeda"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "Saūda Arābija"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Jeruzaleme"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "Izraēla"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Johannesburga"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Kabula"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "Afganistāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Kaļiņingrada"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Kamčatka"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Kampala"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Uganda"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Karači"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Katmandu"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Nepāla"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Habarovska"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Harkova"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "Ukraina"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Hartūma"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "Sudāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Kijeva"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Kingstona"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Jamaika"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Kinšasa"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Kongo Demokrātiskā Republika"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Kalkāta"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Krasnojarska"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Kualalumpura"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "Malaizija"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Kuveita"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Losandželosa"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "Lapasa"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "Bolīvija"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Lagosa"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "Nigērija"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Lasvegasa"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Lima"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Peru"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Lisabona"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Ļubļana"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "Londona"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Lunhua"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Luisvila"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Luanda"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Angola"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Lubumbaši"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Lusaka"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "Zambija"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Luksembruga"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Ļvova"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Makau"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Madride"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Magadana"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Malabu"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "Ekvatoriālā Gvineja"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Male"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Maldīvija"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Managva"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Nikaragva"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Manama"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Bahreina"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Manila"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Filipīnas"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Maputo"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Mozambika"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Marigo"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Senmartēna"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Mazatlana"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Meksika"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Rijāda"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Melburna"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Memfisa"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Mesīna"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Mehiko"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Maiami"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "Vidusatlantijas"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Midvejs"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Milāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Milvokī"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Minska"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "Baltkrievija"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Mogadiša"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "Somālija"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Monrovija"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "Libērija"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Montevideo"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Urugvaja"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Monreāla"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Maskava"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Mumbaja"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "Minhene"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Muskata"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Omāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Nairobi"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "Kenija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "Roma"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Natersa"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "Ndžamena"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Neapole"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "ČADA"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Meka"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "Ņūdeli"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "Ņujorka"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Ņūfaundlenda"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Niameja"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "Nigēra"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Nuakšota"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "Mauritānija"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Numea"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "Jaunkaledonija"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Novokuzņecka"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Novosibirska"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Nukualofa"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Tonga"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Nūka"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "Grenlande"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Omska"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Osaka"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "Japāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Otava"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Vagadugu"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Burkinafaso"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Pagopago"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Rietumsamoa"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Palermo"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Panama"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Panama"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Paramaribo"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Surinama"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "Parīze"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "Francija"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Perma"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Perta"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Petropavlovska-Kamčatska"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Filadelfija"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Pnompeņa"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "Kambodža"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Fīniksa"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Podgorica"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Melnkalne"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Pontadelgada"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Portluija"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Maurīcija"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Portoprensa"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Haiti"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Portlenda"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Prāga"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Čehijas Republika"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Phenjana"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "Ziemeļkoreja"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Kito"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Rabata"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Jangona"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Birma"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Resifi"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Ridžaina"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Reikjavīka"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "Islande"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Rīga"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "Latvija"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Riodežaneiro"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Sendenī"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Reinjonas sala"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Samāra"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "Sanantonio"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "Sandjego"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "Sanfrancisko"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "Sanhosē"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Kostarika"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "Sanhuana"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Puertoriko"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "Sanmarīno"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "Sansalvadora"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "Salvadora"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Sana"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Jemena"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Santjago"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Santodomingo"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "Dominikāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "Sanpaulu"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Sietla"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Seula"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Dienvidkoreja"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Šanhaja"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Šeņdžeņa"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Singapūra"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Singapūras Republika"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Skopje"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "Maķedonija"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "Sofija"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "Bulgārija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "Sentdžonsa"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Antigva un Barbuda"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Stokholma"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "Zviedrija"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Suva"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Fidži"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Fidži Republika"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Sidneja"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Taiti"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Franču Polinēzija"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Taipeja"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "Taivāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "Tallina"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "Igaunija"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Tarava"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Kiribati"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Taškenta"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "Uzbekistāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Tbilisi"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "Gruzija"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Tegusigalpa"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Hondurasa"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Teherāna"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "Irāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Hošimina"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "Setlementa"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Britu Virdžīnu salas"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Tiaņdzjiņa"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Tihuāna"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Tokija"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Toronto"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Treheta"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Tripole"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "Lībija"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Tunisa"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "Tunisija"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Turīna"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Ufa"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Baškīrija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Ulanbatora"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Vaduca"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Lihtenšteina"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "Valeta"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Malta"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Vankūvera"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Verona"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Viktorija"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Seišelu salas"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Vīne"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "Austrija"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Viļņa"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "Lietuva"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Vladivostoka"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Volgograda"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "Sanktpēterburga"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Varšava"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "Polija"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Vašingtona"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Velingtona"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Vinipega"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Jakutska"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Jamusukro"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Jaunde"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Jekaterinburga"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Erevāna"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "Armēnija"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Dienvidsahalīna"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Zagreba"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "Horvātija"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Cīrihe"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Nevar palaist %s"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "Mēģināt"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Noklusējuma programma"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Aktivizēts"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Atspējots"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Video atskaņotājs"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Janvāris"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Februāris"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Marts"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "Aprīlis"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "Jūnijs"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "Jūlijs"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "Augusts"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "Septembris"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "Oktobris"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "Novembris"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "Decembris"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Izvēlētie dati nav atrasti"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Laiks"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Sasniegts maksimālais rakstzīmju skaits"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Sasniegts maksimālais rakstzīmju skaits (%d)"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Izmest"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Datums"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Radās nezināma kļūda"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Laiks"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Pulkstenis"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Zvanītāja attēls"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Dzēst visu"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Sinhronizēt"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Ievietot"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Ielīmēt šeit"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Dzēst"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Drukāt"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Dzēšgum."
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Rediģēt atzīmi"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Bloķēt ekr. fona att."
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "Sagatavo SD karti..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Ignorēt"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Atsaukt"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD karte ir izņemta"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Nevar piekļūt SD kartei"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "var droši izņemt SD karti"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD karte neparedzēti izņemta"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#AĀBCČDEĒFGĢHIĪJKĶLĻMNŅOPRSŠTUŪVZŽ"
+

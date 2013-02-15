@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Ostirala"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Astelehena"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Larunbata"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Igandea"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Osteguna"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Asteartea"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Asteazkena"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Dei doinuak"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Erabiltzaile izena"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Gehiago"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Honela ikusi"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Ezkutatu"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Gehiago"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Eguneratu"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Eguneratu"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Ezeztatu"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Automatikoa"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Editatu"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Editatu"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Kontua ezabatu"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Partekatu"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albumak"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "Posta elektronikoaren helbidea"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Kokalekua"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Eskuzkoa"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Bideoa"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Ezabatu?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Pasahitza"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Blokeatu"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Soinua itzalita"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Kontuak"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Soinua piztuta"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Irudiak"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Besteak"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Bilatu"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Gaia"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Bideoak"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Pantaila atzealdea"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Kontaktuetara gehitu"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Argitasuna"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Kontaktua sortu"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Ezabatu"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Gorde"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Konektatzen"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Ezabatua"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Amaituta"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Deitu"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galeria"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Bat ere ez"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Denak aukeratu"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Ezeztatu"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Gehitu"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Atzera"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Deitu"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Gorde"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Alarma"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Guztia(k)"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Pasahitza"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Egutegia"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Kamera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Kontaktuak"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Kopiatu"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Posta elektroniko mezuak"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM Irratia"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Birbidali"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Laguntza"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Irudi editorea"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Erregistroak"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Oroigarriak"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Mezua"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Mezuak"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Musika"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Nire Fitxategiak"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Desaktibatuta"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Aktibatuta"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Telefonoa"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Ezarpenak"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Bideo-deia"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Ahots deia"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Ahots Grabagailua"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Mezu elektroniko berriak"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Ezabatu"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Editatu"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Ez"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ados"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Berrizendatu"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Ezarri"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Gelditu"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Bai"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Amaituta"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Emergentzia deia"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Birbidaltzea"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Uko egin"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies Wi-Fi bidez"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Jarraitu"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Saioa hasi"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "E/A"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Eskaneatzea"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Oinarrizkoa"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Izena aldatu"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Mota"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Pantaila"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Posta elektroniko sinkronizazioa"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Karpetak"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "FWD:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Informazioa"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Memorandumen zerrenda"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "minutu(ak)"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Gehiago"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Bideorik ez"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Pribatua"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Berrabiarazi"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "segundoak"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Aukeratutakoa(k)"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Honela zehaztu"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Sistema"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Ezin da gehitu"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Aldatu horma papera"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Gehituta"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Kontaktua gehitu"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Gehi. etik."
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Karpetak"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Etiketa berria"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Aukeratutakoa(k)"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Eguneratu"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Bideoa"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Gehituta"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Erantsi"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Konektatuta"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Fitxategia ez dago"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Karaktere baliogabeak"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Mugitua"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Mugitzen..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Errorea mugitzerakoan"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Barne akatsa"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Ez da fitxategirik aukeratu"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Ez da etiketarik aukeratu"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Prozesatzen..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Grabaketak huts egin du"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Berreskuratuta"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Errorea berreskuratzerakoan"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Errorea gordetzerakoan"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Gordetzen"
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Aukeratutakoa(k)"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Kolorea"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Berriro saiatu"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Mugagabea"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Dardara"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Orain deskonektatu nahi duzu?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Hizkuntza"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Gehiago"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Grabatu"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Emaitza"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Honela zehaztu"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Gogokoena"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "Etiketa"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Honen bidez antolatu"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 ordu"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "Segundo 1"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 aste"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Beti"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Beti galdetu"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Egilea"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Inoiz ez"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Oharra"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Aurreko egunetan"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Bilatzen"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Soinuak"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Ukitu testua gehitzeko"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "Posta elektroniko bidez"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Partek."
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Fitxategiak"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Inportatu"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "Posta elektroniko bidez"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Fitxategia"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Abiarazten..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Instalatzen..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "URL baliogabea"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Lehentasuna"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Bidalitakoak"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Ezin da gorde"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Baiezt."
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Berriki"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Laster-marka"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Laster-markak"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Honen arabera zerrendatu"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Kargatzen..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Aurrekoa"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Ukitu hartzailea gehitzeko"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Dei egilearen IDa"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Dei egilearen IDa"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Deskarga ez dago eskuragarri"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Fitxategia ez da aurkitu"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Sarearen errorea"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Konturik ez"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Berrabiarazi"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Kopiatu"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Albuma"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Freskatu automatikoki"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Deskribapena"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Deskargatuta"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Deskargak"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "P. elek. neurria"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Pasahitza idatzi"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Formateatu"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google Maps"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID."
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Ez dago edukirik"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Ez dago bilaketaren emaitzarik"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Pasahitza"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Kendu"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Mezua bidali"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Tamaina"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Abiarazi"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Iga."
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Argazkia atera"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Ukitu eransteko"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Hartzailea"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Ahotsa/Fax"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Oharra"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Erantzun"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Atera"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Saioa hasi"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Saioa hasi"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Handia"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Irakurri gabea"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Bluetooth bidez"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Dagoeneko badago"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Ezeztatua"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Ezabatzen..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Deskargatzen..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Formatua"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Memoria txartela sartuta"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Memoria txartela aterata"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ez dago memoria nahikoa"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Kenduta"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Bilatzen"
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Bidaltzerakoan akatsa"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Zerbitzua ez dago eskuragarri"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Mota"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Ezin da ezabatu"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Sortu"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Deskargatu"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Berria"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Erantzun"
+
+msgid "IDS_COM_SK_START"
+msgstr "Abiarazi"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Aurrebista"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Akatsa ezabatzerakoan"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Berriro saiatu"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "Egun 1"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "Ordu 1"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "Minutu 1"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "Aste 1"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Urtebetetzea"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Itxi"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Karpeta sortu"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Xehetasunak"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Izena idatzi"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Letra"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Taldea"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Informazioa"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Melodia"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d minutu"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Berrizendatu"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Dei doinua"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Bidali"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Gaur"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Atzo"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Laster-marketara gehitu"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Efektuak"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Irudia"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Teklatua"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Saioa amaitu"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Onartu"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Pasahitza aldatu"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Ezabatu"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Itxi"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Konexio errorea"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Konektatzerakoan errorea"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Izena idatzi"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Akatsa"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Pasahitz okerra"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Pasahitz baliogabea"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d ordu"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Ukatu"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Ezetsita"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Gordeta"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Bidaltzen"
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Fitxategi mota\nez bateragarria"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Eguneratu"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Eguneratua"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Kontua gehitu"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Arrunta"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Ezeztatu"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Kontaktua"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Mapak"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Musika denda"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Izenik gabe"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "Ez dago SIM txartelik"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Helbidea"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Huts egin du"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Bat ere ez"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Behar bezala"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Onartu"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Hurrengoa"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Irten"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Aktibatuta"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Api."
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Abu."
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Eskuragarri"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Atzera"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Bateria guztiz kargatuta.\nKargagailua deskonektatu"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Bateria guztiz kargatuta. Kargagailua deskonektatu"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Nabigatzailea"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Kalkulagailua"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Bihurgailua"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Sortu"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Abe."
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Ezabatu"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Dena(k) ezabatu"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Izena"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Izenburua"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Ots."
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Birbidali"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Otr."
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Urt."
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Uzt."
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Eka."
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Blokeatu"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Blokeatu"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Txikia"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Bateria gutxi"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Mar."
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Maiatza"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Memoria txartela"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Mezularitza"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Minutu"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "minutu"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "min"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Asl."
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Mugitu"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Musika Jogailua"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Nire kontua"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Nabigazioa"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Aza."
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "Urr."
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN blokeoa"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Berrezarri"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Berrezarri"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Lar."
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Ira."
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Isila"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Zentzuzko bilaketa"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Bozgorailua aktibatuta"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Kronometroa"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Sinkronizatu"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Osg."
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Tenporizadorea"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Asr."
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Unitateak"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "min"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "seg"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Ezezaguna"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Asz."
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Munduko Erlojua"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "UUUU.HH.EE"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "UUUU/HH/EE"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Eguneko laburpena"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Jakinarazpena"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Informazioa"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Aktibatzen..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Desaktibatuta"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Hutsik"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Ordua"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "ordu(a)"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Galdutako deia"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Galdutako deiak"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Galdutako gertaera"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Galdutako gertaerak"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Mezu elektroniko berria"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Mezu berria"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Mezu berriak"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Desblokeatu"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Oharra"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Markatz."
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Amaituta"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Menua"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Desaktibatu"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Ireki"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Aukerak"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Eten"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Erreproduzitu"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Erreprod."
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Kendu"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Bilatu"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Aukeratu"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Hautatu"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Bidali"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Bidali"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Bideodeia"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Bereizmena"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Amaitu"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Gogokoenak"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Fitxategiaren izena"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Isilarazi"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Fitxategirik ez"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Irudirik ez"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Elementurik ez"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Eten"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Ordezkatu"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Bluetooth bidez bidali"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Honen bidez bidali"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Bluetooth bidez bidali"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Bidali posta elektroniko bidez"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Mezu bidez bidali"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Bidali MMS bidez"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "SMS bidez bidali"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Karpeta"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Otr."
+
+msgid "IDS_COM_POP_MON"
+msgstr "Asl."
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Isilarazi"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Lar."
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Zirriborroetan gorde"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Zirriborroetan gorde?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Honen bidez bidali"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Modu isilean erreproduzitu?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Iga."
+
+msgid "IDS_COM_POP_THU"
+msgstr "Osg."
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Asr."
+
+msgid "IDS_COM_POP_WED"
+msgstr "Asz."
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Aplikazioak"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Aukeratu diseinua"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Abiarazi"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "MMS bidez"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Aurikularrak"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d aukeratuta"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Errepikatu"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Fitxategi mota ez bateragarria"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "SIM txartela sartu"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Kopiatuta"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Arbelera kopiatu da"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Kopiatzen..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Zerrenda"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Zerrenda ikuspegia"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Ez da ezer aukeratu"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Erabilera eskuragarriak"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Zerbitzurik gabe"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Ahots agindua"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Ezin da erabili Biltegimasiboan gordetzen den bitartean"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Masako biltegiratze modua ezgaituta"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Biltegiratze masibo modua gaituta"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "duela %d egun"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Ziurtagiriak"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Errorea zerbitzarian"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Kanal guztiak"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Baieztatu"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Orokorra"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Etxea"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Bilduta nago"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Mugikorra"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Lana"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Abidjan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Abu Dhabi"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Arabiar Emirerri Batuak"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Akkra"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Ghana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Addis Abeba"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "Etiopia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Adelaida"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "Australia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Alaska"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "AEB"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "Boli Kosta"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Aljer"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "Algeria"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Almaty"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "Kazakhstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Ambon"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "Indonesia"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Amman"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "Jordania"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Amsterdam"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "Herbehereak"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Anadyr"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "Errusia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Anchorage"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Ankara"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "Turkia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Antananarivo"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "Madagaskar"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Ashgabat"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "Turkmenistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Asmara"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "Eritrea"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Astana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Asuncion"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Paraguai"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "Atenas"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "Grezia"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Auckland"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "Zeelanda berria"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Austin"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "Azores"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "Portugal"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Bagdad"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "Irak"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Baku"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "Azerbaijan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Baltimore"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Bamako"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Mali"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Bangkok"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "Tailandia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Bangi"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Afrika Erdiko Errepublika"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Bartzelona"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "Espainia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Bari"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "Italia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Basse-Terre"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Guadalupe"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Pekin"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "Txina"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Beirut"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "Libano"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Belgrad"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "Serbia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Belize Hiria"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "Belize"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Berlin"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "Alemania"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Berna"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "Suitza"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Bishkek"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "Kirgizistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Bissau"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Ginea-Bissau"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Bogota"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "Kolonbia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Bolonia"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Boston                      "
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Brasilia"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "Brasil"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "Bratislava"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "Eslovakia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Bridgetown"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Barbados"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Brisbane"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "Brusela"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "Belgika"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Bukarest"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "Errumania"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Budapest"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "Hungaria"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Buenos Aires"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "Argentina"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Kairo"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "Egipto"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Calgary"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Kanada"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Kanaria Uharteak"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Canberra"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Canton"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Cape Town"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Hego Afrika"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Caracas"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Venezuela"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Cardiff"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "Gales"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Casablanca"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Maroko"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Catanzaro"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Aplikazioa instalatu gabe"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Latitudea"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Longitudea"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Bozgorai."
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Ezin da aplikazioa aurkitu ekintza gauzatzeko"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Desaktibatuta"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Aktibatuta"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s blokeatuta dago orain. Desblokeatu?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "%s erabili dezakezu beste behin. Hasi orain?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "%s erabili dezakezu beste 2 aldiz. Hasi orain?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "%s erabili dezakezu %d egunetan. Hasi orain?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s iraungitzear dago. Lortu beste lizentzia bat?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "%s erabili dezakezu beste behin. Lortu beste lizentzia bat?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Ezin duzu beste %s elementu gehiago erabili. Lortu beste lizentzia bat?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Audio gailua"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Instalatu"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Erregistratu"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Ustekabeko errorea"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Akatsa proxy konexioan"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Sare konexioaren errorea"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "SIM txartel baliogabea"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Eragiketak huts egin du"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Bertsioa"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Lehenetsia"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Moztu"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Itsatsi"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Arbela"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Segurtasun politikak pantaila kapturaren erabilera mugatzen du"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Cayenne"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Guyana Frantsesa"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Charlotte"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Charlotte Amalie"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "Birjina Uharte Amerikarrak"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Chelyabinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Chennai"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "India"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Chicago"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Chisinau"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "Moldavia"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Chita"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Cleveland"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Colombo"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Sri Lanka"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Columbus"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Conakry"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "Ginea"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Kopenhage"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "Danimarka"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Cork"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "Irlanda"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Crotone"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Dakar"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "Senegal"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Dallas"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "Damasko"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "Siria"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Dar es Salaam"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "Tanzania"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Darwin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Toronto, Kanada"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Denpasar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Denver"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Detroit"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Dhaka"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "Bangladesh"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Diego Garcia"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "Erresuma Batua"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Djibuti"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Djibuti"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Doha"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Qatar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Duala"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Kamerun"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Dubai"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Dublin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Dushanbe"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "Tadjikistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Pazko uhartea"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "Txile"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Edinburgo"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Eskozia"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "El Paso"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Florentzia"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Fort-de-France"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Martinika"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Freetown"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Sierra Leona"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Gaborone"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "Botswana"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Galapagoak"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Ekuador"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "Geneva"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Genoa"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Georgetown"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "Guyana"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Grytviken"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "Hegoaldeko Georgia"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Guam"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Guatemalako Hiria"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Guatemala"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Gustavia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Saint Barthélemy"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Halifax"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Hanburgo"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Hanoi"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Vietnam"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Harare"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "Zimbawe"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Habana"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Kuba"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Hawaii"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Helsinki"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "Finlandia"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Hobart"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Hong Kong"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Honolulu"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Houston"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Hovd"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "Mongolia"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Indianapolis"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "Irkutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "Islamabad"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "Pakistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "Istanbul"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "Izhevsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Jakarta"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Jidda"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "Saudi Arabia"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Jerusalem"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "Israel"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Johannesburgo"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Kabul"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "Afganistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Kaliningrad"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Kamchatka"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Kampala"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Uganda"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Karachi"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Kathmandu"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Nepal"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Khabarovsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Kharkiv"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "Ukrainia"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Khartum"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "Sudan"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Kiev"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Kingston"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Jamaika"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Kinshasa"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Kongoko Errepublika Demokratikoa"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Kolkata"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Krasnoyarsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Kuala Lumpur"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "Malaysia"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Kuwait"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Los Angeles"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "La Paz"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "Bolivia"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Lagos"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "Nigeria"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Las Vegas"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Lima"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Peru"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Lisboa"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Ljubljana"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "Londres"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Longhua"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Louisville"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Luanda"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Angola"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Lubumbashi"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Lusaka"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "Zambia"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Luxenburgo"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Lviv"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Macau"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Madrid"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Magadan"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Malabo"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "Ekuatore Ginea"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Male"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Maldivak"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Managua"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Nikaragua"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Manama"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Bahrein"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Manila"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Filipinak"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Maputo"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Mozambike"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Marigot"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Saint Martin"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Mazatlan"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Mexiko"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Riad"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Melbourne"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Memphis"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Messina"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Mexiko hiria"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Miami"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "Atlantiko erdia"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Midway Atoloia"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Milan"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Milwaukee"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Minsk"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "Bielorrusia"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Muqdisho"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "Somalia"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Monrovia"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "Liberia"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Montevideo"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Uruguai"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Montreal"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Mosku"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Mumbai"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "Munich"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Maskat"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Oman"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Nairobi"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "Kenya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "Erroma"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Naters"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "N'Djamena"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Napoli"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "Txad"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Meka"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "New Delhi"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "New York"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Newfoundland"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Niamei"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "Niger"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Nouakchott"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "Mauritania"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Nouméa"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "Kaledonia Berria"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Novokuznetsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Novosibirsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Nuku’alofa"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Tonga"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Nuuk"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "Groenlandia"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Omsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Osaka"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "Japonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Ottawa"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Uagadugu"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Burkina Faso"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Pago Pago"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Samoako Estatu Burujabea"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Palermo"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Panama City"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Panama"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Paramaribo"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Surinam"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "Paris"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "Frantzia"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Perm"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Perth"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Petropavlovsk-Kamchatskiy"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Filadelfia"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Phnom Penh"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "Kanbodia"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Phoenix"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Podgorica"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Montenegro"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Ponta Delgada"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Port Louis"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Maurizio"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Port-au-Prince"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Haiti"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Portland"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Praga"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Txekiar Errepublika"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Piongiang"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "Ipar Korea"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Quito"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Rabat"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Yangon"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Burma"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Recife"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Regina"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Reykjavik"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "Islandia"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Riga"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "Letonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Rio de Janeiro"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Saint-Denis"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Reunion Uhartea"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Samara"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "San Antonio"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "San Diego"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "San Frantzisko"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "San Jose"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Costa Rica"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "San Juan"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Puerto Rico"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "San Marino"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "San Salvador"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "El Salvador"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Sanaa"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Yemen"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Santiago"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Santo Domingo"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "Dominikar Errepublika"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "Sao Paulo"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Seattle"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Seul"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Koreako Errepublika"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Shanghai"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Shenzhen"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Singapur"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Singapurreko Errepublika"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Skopje"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "Mazedonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "Sofia"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "Bulgaria"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "St.John's"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Antigua eta Barbuda"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Stockholm"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "Suedia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Suva"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Fiji"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Fiji Uharteen Errepublika"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Sidney"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Tahiti"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Polinesia Frantsesa"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Taipei"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "Taiwan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "Tallinn"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "Estonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Tarawa"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Kiribati"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Tashkent"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "Uzbekistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Tbilisi"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "Georgia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Tegucigalpa"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Honduras"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Teheran"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "Iran"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Ho Chi Minh Hiria"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "The Settlement"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Birjina Uharte Britainiarrak"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Tianjin"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Tijuana"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Tokio"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Toronto"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Trehet"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Tripoli"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "Libia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Tunisia"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "Tunisia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Turin"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Ufa"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Baxkiria"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Ulan Bator"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Vaduz"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Liechtestein"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "Valleta"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Malta"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Vancouver"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Verona"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Victoria"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Seychelleak"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Viena"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "Austria"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Vilnius"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "Lituania"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Vladivostok"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Volgograd"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "San Petersburgo"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Varsovia"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "Polonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Washington DC"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Wellington"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Winnipeg"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Yakutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Jamusukro"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Jaunde"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Yekaterinburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Yerevan"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "Armenia"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Yuzhno-Sakhalinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Zagreb"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "Kroazia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Zurich"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Ezin da %s abiatu"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "Saiatu"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Lehenespenezko aplikazioa"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Gaituta"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Ezgaituta"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Bideo Jogailua"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Urtarrila"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Otsaila"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Martxoa"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "Apirila"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "Ekaina"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "Uztaila"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "Abuztua"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "Iraila"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "Urria"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "Azaroa"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "Abendua"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Hautatutako datuak ez dira aurkitu"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Eguraldia"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Gehienezko karaktere kopurura heldu zara"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Gehienezko karaktere kopurura (%d) iritsi zara"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S planifikagailua"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Baztertu"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Data"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Errore ezezaguna gertatu da"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Iraupena"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Ordularia"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Dei egilearen irudia"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Dena ezabatu"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Sink"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Idatzi"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Hemen erantsi"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Ezabatu"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Inprimatu"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Ezabag."
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Editatu etiketa"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Blokeo pantailako horma papera"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "SD txartela prestatzen..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Baztertu"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Eten"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD txartela kenduta"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Ezin da SD txartelera sartu"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "SD txartela segurtasunez atera daiteke"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD txartela ezustean atera da"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+

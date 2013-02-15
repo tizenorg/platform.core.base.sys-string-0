@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Föstudagur"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Mánudagur"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Laugardagur"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Sunnudagur"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Fimmtudagur"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Þriðjudagur"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Miðvikudagur"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Hringitónar"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Notandanafn"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Meira"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Birta eftir"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Hylja"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Meira"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Endurnýja"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Uppfæra"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Hætta við"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Sjálfvirkt"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Breyta"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Breyta"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Eyða reikningi"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Deila"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Albúm"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "Netfang"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Staðsetning"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Handvirkt"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Myndskeið"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Á að eyða?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Aðgangsorð"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Útiloka"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Hljóð af"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Pósthólf"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Hljóð á"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Myndir"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Aðrir"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Leit"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Efni"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Myndskeið"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Veggfóður"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Bæta við tengiliði"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Birtustig"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Nýr tengiliður"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Eyða"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Vista"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Verið er að tengjast..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Eytt"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Lokið"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Símtal"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Gallerí"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Ekkert"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Velja allt"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Hætta við"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Bæta við"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Bakka"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Símtal"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Vista"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Vekjaraklukka"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Allt"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Aðgangsorð"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Dagbók"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Myndavél"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Tengiliðir"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Afrita"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Tölvupóstur"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM-útvarp"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Framsending"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Hjálp"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Myndvinnsla"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internetið"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Skrár"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Minnispunktar"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Skilaboð"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Skilaboð"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Tónlist"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Skrárnar mínar"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Slökkt"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Kveikt"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Sími"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Stillingar"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Vídeósímtal"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Raddsímtal"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Raddupptaka"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Nýir póstar"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Eyða"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Breyta"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Nei"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Í lagi"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Endurnefna"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Stilla"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Stöðva"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Já"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Lokið"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Neyðarhringing"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Framsending"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Hafna"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies um Wi-Fi"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Halda áfram"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Innskráning"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "Óþekkt"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Skanna"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Venjulegt"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Breyta heiti"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Tegund"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Skjár"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Samstilling tölvupósts"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Möppur"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "FRS:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Upplýsingar"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Minnisgreinalisti"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "mínútur"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Meira"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Engin myndskeið"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Einkamál"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Halda áfram"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "sekúndur"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Valið"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Setja sem"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Kerfi"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Ekki tókst að bæta við"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Skipta um veggfóður"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Bætt við"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Bæta tengiliði við"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Merkja"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Möppur"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Nýtt merki"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Valið"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Uppfæra"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Myndskeið"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Bætt við"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Hengja við"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Tengt"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Skráin er ekki til"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Ógildir stafir"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Flutt"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Verið er að flytja..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Ekki tókst að flytja"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Innri villa"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Engar skrár valdar"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Engin merki valin"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Vinnsla í gangi..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Upptaka mistókst"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Sótt"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Ekki tókst að endurheimta"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Mistókst að vista"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Vista..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Valið"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Litur"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Reyna aftur"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Án takmarkana"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Titringur"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Á að taka úr lás núna?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Tungumál"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Meira"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Taka upp"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Niðurst."
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Nota sem"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Uppáhald"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "Merki"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Raða eftir"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 klst."
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 sekúnda"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 vikur"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Alltaf"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Spyrja alltaf"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Höfundur"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Aldrei"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Athugasemd"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Fyrri dagar"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Leita"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Hljóð"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Pikkaðu til að skrifa texta"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "Með tölvupósti"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Samnýta"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Skrár"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Flytja inn"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "Með tölvupósti"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Skrá"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Verið er að frumstilla..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Verið er að setja upp..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "Ógild slóð"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Forgangur"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Sent"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Ekki er hægt að vista"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Staðf."
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Nýlegt"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Bókamerki"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Bókamerki"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Raða eftir"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Hleð..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Fyrri"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Styðjið á til að bæta við viðtakanda"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Númerabirting"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Númerabirting"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Það er ekki hægt að hlaða niður"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Skráin fannst ekki"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Netvilla"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Engin pósthólf"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Endurræsa"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Afrita"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Albúm"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Sjálfvirk uppfærsla"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Lýsing"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Halað niður"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Niðurhal"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "Stærð tölvupósts"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Rita aðgangsorð"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Snið"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google Kort"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "Kenni"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Efni vantar"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Engar leitarniðurstöður"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Aðgangsorð"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Fjarlægja"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Senda skilaboð"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Stærð"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Ræsa"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Sun"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Taka mynd"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Snerta til að bæta við"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Til"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Tal"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Viðvörun"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Svara"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Útskrá"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Nýskrá"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Innskrá"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Mikið"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Ólesið"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Með Bluetooth"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Er þegar til"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Hætt við"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Verið er að eyða..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Verið er að hala niður..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Snið"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Minniskort sett í"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Minniskort tekið úr"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Ekki er nægt minni"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Fjarlægt"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Verið er að leita..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Sending mistókst"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Ótiltæk þjónusta"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Tegund"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Það er ekki hægt að eyða"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Skrifa"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Niðurhal"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Nýr"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Svara"
+
+msgid "IDS_COM_SK_START"
+msgstr "Ræsa"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Skoða"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Ekki tókst að eyða"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Reyna aftur"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 dagur"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 klst."
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 mínúta"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 vika"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Afmælisdagur"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Loka"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Búa til möppu"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Upplýsingar"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Rita nafn"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Letur"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Hópur"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Upplýsingar"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Lag"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d mínútur"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Endurnefna"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Hringitónn"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Senda"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Í dag"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Í gær"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Bæta við Bókamerki"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Brellur"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Mynd"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Hnappaskiki"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Útskráning"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Svara"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "f.h."
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Breyta aðgangsorði"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Hreinsa"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Loka"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Villa í tengingu"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Tenging brást"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Rita nafn"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Villa"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Rangt aðgangsorð"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Ógilt lykilorð"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d klukkustundir"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Hafna"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Hafnað"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Vistað"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Verið er að senda..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Óstudd skráargerð"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Uppfæra"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Uppfært"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Bæta við reikningi"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Venjulegt"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Hætta v."
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Tengiliður"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Kort"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Tónlistarverslun"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Ekkert heiti"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "Ekkert SIM-kort"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Heimilisfang"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Mistókst"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Ekkert"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Árangur"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Samþykkja"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Næsta"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Hætta"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Virkjað"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM-kort"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "f.h."
+
+msgid "IDS_COM_BODY_APR"
+msgstr "apr."
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "ág."
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Laust"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Til baka"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Rafhlaða fullhlaðin.\nAftengið hleðslutækið"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Rafhlaða fullhlaðin. Aftengið hleðslutækið"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Vafri"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Reiknivél"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Breytir"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Búa til"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Des."
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Eyða"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Eyða öllu"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Heiti"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Titill"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "feb."
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Framsenda"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Fös"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "Spjall"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Jan."
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Júl."
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Jún."
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Læsa"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Læsa"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Lítið"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Rafhlaðan er að tæmast"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Mar."
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Maí"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Minniskort"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Skilaboð"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Mínúta"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "mínúta"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "mín"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Mán"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Færa"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Tónlistarspilari"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Reikningur notanda"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Skoðun"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "nóv."
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "okt."
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PIN-lás"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Endurstilla"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Endurstilla"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Lau"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Sep."
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Án hljóðs"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Snjallleit"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Kveikt á hátalara"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Skeiðklukka"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Samstilla"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Fim"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Niðurteljari"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Þri"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Einingar"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "mín"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "sek"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Óþekkt"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Mið"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Heimsklukka"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "YYYY.MM.DD"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "ÁÁÁÁ/MM/DD"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Yfirlit dagsins"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Tilkynning"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Upplýsingar"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Ræsi..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Slökkt"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Tómt"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Klst."
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "klukkustund"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Ósvarað"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Ósvöruð símtöl"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Ósvarað"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Ósvaraðar áminningar"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Nýr póstur"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Ný boð"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Ný skilaboð"
+
+msgid "IDS_COM_POP_PM"
+msgstr "eh"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Taka úr lás"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Viðvörun"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Númeraval"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Lokið"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Valmynd"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Slökkt"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Opna"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Valkostir"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Hlé"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Spila"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Spila"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Fjarlægja"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Leit"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Velja"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Velja"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Senda"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Senda"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Myndsímtal"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Upplausn"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Ljúka"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Eftirlæti"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Skrárheiti"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Þögn"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Engar skrár"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Engar myndir"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Engin atriði"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Hlé"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Skipta út"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Senda með Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Senda með"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Senda með Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Senda í tölvupósti"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Á að senda með skilaboðum?"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Senda með MMS"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "Senda í SMS"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Mappa"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Fös"
+
+msgid "IDS_COM_POP_MON"
+msgstr "Mán"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Þögn"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Lau"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Vista í Drög"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Á að vista í Drög?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Senda með"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Á að spila í hljóðlausum ham?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Sun"
+
+msgid "IDS_COM_POP_THU"
+msgstr "Fim"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Þri"
+
+msgid "IDS_COM_POP_WED"
+msgstr "Mið"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Forrit"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Velja útlit"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Ræsa"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "Með MMS"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Höfuðtól"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d valið"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Endurtaka"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Óstutt skrársnið"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "Setjið SIM-kort í"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Afritað"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Afritað á klemmuspjald"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Afritun stendur yfir..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Listi"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Listaskjár"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Ekkert er valið"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Tiltæk notkun"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Engin þjónusta"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Talskipun"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Ekki hægt að nota í gagnageymslustillingu"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Slökkt á gagnageymslustillingu"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Stórvistunarhamur virkur"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "fyrir %d dögum"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Skírteini"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Netþjónsvilla"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Allar stöðvar"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Staðfesta"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Almennt"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Heima"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Ég er á fundi"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Farsími"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Vinna"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Abidjan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Abu Dabí"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Sameinuðu arabísku furstadæmin"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Akkra"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Gana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Addis Ababa"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "Eþíópía"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Adelaide"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "Ástralía"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Alaska"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "Bandaríkin"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "Fílabeinsströndin"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Algeirsborg"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "Alsír"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Almaty"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "Kasakstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Ambon"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "Indónesía"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Amman"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "Jórdanía"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Amsterdam"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "Holland"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Anadyr"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "Rússland"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Anchorage"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Ankara"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "Tyrkland"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Antananarivo"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "Madagaskar"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Askabad"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "Túrkmenistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Asmara"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "Erítrea"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Astana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Asuncion"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Paragvæ"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "Aþena"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "Greece"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Auckland"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "Nýja-Sjáland"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Austin"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "Asóreyjar"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "Portugal"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Bagdad"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "Írak"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Bakú"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "Aserbaítsjan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Baltimore"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Bamako"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Malí"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Bangkok"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "Taíland"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Bangví"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Mið-Afríkulýðveldið"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Barselóna"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "Spánn"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Bari"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "Ítalía"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Basse-Terre"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Gvadelúp"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Pekíng"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "Kína"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Beirut"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "Líbanon"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Belgrad"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "Serbía"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Belísborg"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "Belís"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Berlín"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "Þýskaland"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Bern"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "Sviss"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Bishkek"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "Kirgistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Bissá"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Gínea-Bissá"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Bógóta"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "Kólumbía"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Bologna"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Boston"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Brasilía"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "Brasilía"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "Bratislava"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "Slóvakía"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Bridgetown"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Barbados"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Brisbane"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "Brussel"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "Belgía"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Búkarest"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "Rúmenía"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Búdapest"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "Ungverjaland"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Búenos Aíres"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "Argentína"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Kaíró"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "Egyptaland"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Calgary"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Kanada"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Kanaríeyjar"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Canberra"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Canton"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Höfðaborg"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Suður-Afríka"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Karakas"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Venesúela"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Cardiff"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "Wales"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Casablanca"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Marokkó"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Catanzaro"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Forritið var ekki sett upp"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Breiddargráða"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Lengdargráða"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Hátalari"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Ekki fannst forrit til að framkvæma þessa aðgerð"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Slökkt"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Kveikt"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s er læst sem stendur. Opna?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Þú getur notað %s 1 sinni enn. Byrja núna?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Þú getur notað %s 2 sinnum enn. Byrja núna?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Hægt er að nota %s í %d daga. Viltu byrja núna?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s er að renna út. Fá nýtt leyfi?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Þú getur notað %s 1 sinni enn. Fá annað leyfi?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Þú getur ekki notað %s oftar. Fá annað leyfi?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Hljóðtæki"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Setja upp"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Skrá"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Óvænt villa"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Tenging við staðgengilsnetþjón brást"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Tengivilla"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Ógilt SIM-kort"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Aðgerð mistókst"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Útgáfa"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Sjálfgefið"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Klippa"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Líma"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Klippiborð"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Öryggisstefna takmarkar notkun skjámyndatöku"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Cayenne"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Franska Gvæjana"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Charlotte"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Charlotte Amalie"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "Bandarísku Jómrúaeyjar"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Chelyabinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Kennaí"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "Indland"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Chicago"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Chişinău"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "Moldóva"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Chita"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Cleveland"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Kólombó"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Sri Lanka"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Columbus"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Conakry"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "Gínea"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Kaupmannahöfn"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "Danmörk"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Cork"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "Írland"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Crotone"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Dakar"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "Senegal"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Dallas"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "Damaskus"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "Sýrland"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Dar es Salaam"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "Tansanía"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Darwin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Delí"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Denpasar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Denver"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Detroit"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Daka"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "Bangladess"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Diego Garcia"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "Bretland"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Djibútí"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Djibútí"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Doha"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Katar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Douala"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Kamerún"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Dubai"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Dublin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Dushanbe"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "Tadsjikistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Páskaeyja"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "Chile"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Edinborg"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Skotland"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "El Paso"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Florence"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Fort-de-France"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Martiník"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Freetown"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Síerra Leóne"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Gaborone"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "Botsvana"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Galápagoseyjar"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Ekvador"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "Genf"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Genoa"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Georgetown"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "Gvæjana"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Grytviken"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "Suður-Georgía"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Gvam"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Gvatemalaborg"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Gvatemela"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Gustavia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Saint Barthélemy"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Halifax"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Hamborg"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Hanoí"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Víetnam"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Harare"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "Simbabve"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Havana"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Kúba"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Havaí"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Helsinki"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "Finnland"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Hobart"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Hong Kong"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Honolúlú"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Houston"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Hovd"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "Mongólía"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Indianapolis"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "Irkutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "Íslamabad"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "Pakistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "Istanbúl"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "Izhevsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Jakarta"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Jeddah"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "Sádí-Arabía"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Jerúsalem"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "Ísrael"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Jóhannesarborg"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Kabúl"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "Afganistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Kaliníngrad"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Kamtjatka"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Kampala"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Úganda"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Karachi"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Katmandú"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Nepal"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Khabarovsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Kharkiv"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "Úkraína"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Kartúm"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "Súdan"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Kíev"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Kingston"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Jamaíka"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Kinsasa"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Lýðveldið Kongó"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Kolkata"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Krasnoyarsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Kúala Lúmpúr"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "Malasía"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Kúveit"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Los Angeles"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "La Paz"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "Bólivía"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Lagos"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "Nígería"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Las Vegas"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Líma"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Perú"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Lissabon"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Ljubljana"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "London"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Longhua"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Louisville"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Lúanda"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Angóla"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Lúbumbashi"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Lusaka"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "Sambía"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Lúxemborg"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Lviv"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Makaó"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Madrid"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Magadan"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Malabo"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "Miðbaugs-Gínea"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Male"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Maldívey"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Managua"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Níkaragva"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Manama"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Barein"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Maníla"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Filippseyjar"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Maputo"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Mósambík"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Marigot"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Saint Martin"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Masatlan"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Mexíkó"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Ríad"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Melbourne"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Memphis"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Messina"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Mexíkóborg"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Miami"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "Mið-Atlantshaf"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Midway Atoll"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Mílan"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Milwaukee"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Minsk"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "Hvíta-Rússland"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Mogadishu"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "Sómalía"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Monrovia"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "Líbería"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Montevideo"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Úrúgvæ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Montreal"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Moskva"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Bombay"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "München"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Múskat"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Óman"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Naíróbí"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "Kenýa"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "Róm"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Naters"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "Ndjamena"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Napólí"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "Tsjad"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Mecca"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "Nýja Delhi"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "New York"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Nýfundnaland"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Niamey"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "Níger"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Nouakchott"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "Máritanía"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Númea"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "Nýja-Kaledónía"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Novokuznetsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Novosibirsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Nuku'alofa"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Tonga"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Nuuk"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "Grænland"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Omsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Osaka"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "Japan"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Ottawa"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Ouagadougou"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Búrkína Fasó"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Pagó Pagó"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Samóa"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Palermo"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Panamaborg"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Panama"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Paramaribo"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Súrínam"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "París"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "France"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Perm"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Perth"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Petropavlovsk-Kamchatskiy"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Philadelphia"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Pnom Penn"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "Kambódía"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Phoenix"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Podgorica"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Svartfjallaland"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Ponta Delgada"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Port Louis"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Máritíus"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Port-au-Prince"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Haítí"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Portland"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Prag"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Tékkland"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Pyongyang"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "Norður-Kórea"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Quito"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Rabat"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Yangon"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Burma"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Recife"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Regina"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Reykjavík"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "Ísland"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Ríga"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "Lettland"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Rio De Janeiro"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Saint-Denis"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Reunion Island"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Samara"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "San Antonio"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "San Diego"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "San Francisco"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "San Jose"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Kosta Ríka"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "San Juan"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Púertó Ríkó"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "San Marínó"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "San Salvador"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "El Salvador"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Sana"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Jemen"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Santíagó"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Santo Domingo"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "Dóminíska lýðveldið"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "Sao Paulo"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Seattle"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Seúl"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Suður-Kórea"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Sjanghæ"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Shenzhen"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Singapúr"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Singapúr"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Skopje"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "Makedónía"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "Sofía"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "Búlgaría"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "St. John's"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Antígva og Barbúda"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Stokkhólmur"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "Svíþjóð"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Suva"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Fídjieyjar"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Fídjieyjar"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Sydney"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Tahítí"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Franska Pólýnesía"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Taípei"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "Taívan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "Tallinn"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "Eistland"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Tarava"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Kíribatí"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Taskent"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "Úsbekistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Tíblisi"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "Georgía"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Tegucigalpa"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Hondúras"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Teheran"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "Íran"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Ho Chi Minh"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "The Settlement"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Bresku Jómfrúreyjar"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Tianjin"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Tíjúana"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Tókíó"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Torontó"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Tréhet"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Trípólí"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "Líbía"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Túnis"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "Túnis"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Turin"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Ufa"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Bashkiriya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Úlan Bator"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Vaduz"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Liechtenstein"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "Valletta"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Malta"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Vancouver"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Verona"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Victoria"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Seychelles-eyjar"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Vín"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "Austurríki"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Vilníus"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "Litháen"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Vladivostok"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Volgograd"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "Sankti Pétursborg"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Varsjá"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "Pólland"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Washington DC"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Wellington"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Winnipeg"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Jakutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Yamoussoukro"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Yaounde"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Yekaterinburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Jerevan"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "Armenía"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Yuzhno-Sakhalinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Zagreb"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "Króatía"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Zürich"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Mistókst að opna %s"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "Reyna"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Sjálfgefið forrit"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Gert virkt"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Gert óvirkt"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Myndspilari"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Janúar"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Febrúar"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Mars"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "apríl"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "Júní"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "Júlí"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "ágúst"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "september"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "október"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "nóvember"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "Desember"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Valin gögn fundust ekki"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Veður"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Hámarksfjölda stafa hefur verið náð"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Hámarkfjölda stafa (%d) hefur verið náð"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S-skipulag"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Fleygja"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Dagsetning"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Óþekkt villa kom upp"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Tími"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Klukka"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Mynd af viðmælanda"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Hreinsa allt"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Samstilla"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Setja inn"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Líma hingað"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Hreinsa"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Prenta"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Stroka út"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Breyta merki"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Læsa veggfóðri á skjá"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "Undirbý SD-kort..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Hunsa"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Hætta við"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD-kortið er ekki í símanum"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Ekki er hægt að opna SD-kortið"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "Nú er hægt að fjarlægja SD-kortið"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD-kortið var fjarlægt óvænt"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZÁÐÉÍÓÚÞÝÖ"
+
