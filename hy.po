@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Ուրբաթ"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Երկուշաբթի"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Շաբաթ"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Կիրակի"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Հինգշաբթի"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Երեքշաբթի"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Չորեքշաբթի"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Մեղեդիներ"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Օգտվողի անուն"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Ավելի"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Դիտել ըստ ..."
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Թքցնել"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Ավելին"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Թարմացնել"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Թարմացնել"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Չեղարկել"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Ավտոմատ"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Խմբագրել"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Խմբագրել"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Ջնջել հաշիվը"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Համօգտգրծել"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Ալբոմներ"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "Էլ. փոստի հասցե"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Գտնվելու վայր"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Ձեռքով"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Վիդեո"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Ջնջե՞լ"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Գաղտնաբառ"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Արգլփկել"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Ձայնն անջատել"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Հաշիվներ"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Ձայնը միացնել"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Պատկերներ"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Այլ"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Որոնել"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Թեմա"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Տեսահոլովակներ"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Պաստառ"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Ավելացնել Կոնտակտներում"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Պայծառություն"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Ստեղծել կոնտակտ"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Ջնջել"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Պահպանել"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Միացում..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Ջնջված է"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Կատարված է"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Զանգ"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Պատկերասրահ"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Չկա"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Ընտրել բոլորը"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Չեղարկել"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Ավելացնել"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Հետ"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Զանգ"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Պահել"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Ազդանշան"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Բոլոր"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Գաղտնաբառ"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Օրացույց"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Խցիկ"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Կոնտակտներ"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Պատճենել"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "Էլ.փոստ"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "FM Ռադիո"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Փոխանցել"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Օգնություն"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Պատկերի խմբագրիչ"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Ինտերնետ"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Մատյաններ"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Հիշեցում"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Հաղորդագրություն"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Հղրդգրթ"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Երաժշտությն"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Իմ Ֆայլերը"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Անջատված է"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Միացված է"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Հեռախոս"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Պարամետրեր"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Վիդեո կանչ"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Ձայնային զանգ"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Ձայնագրիչ"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Նոր էլ-նամակներ"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Ջնջել"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Խմբագրել"
+
+msgid "IDS_COM_SK_NO"
+msgstr "Ոչ"
+
+msgid "IDS_COM_SK_OK"
+msgstr "Ընդունել"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Վրանվանել"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Գործադրել"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Կանգնել"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Այո"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Կատարված է"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Հրատապ զանգ"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Փոխանցում"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Մերժել"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies Wi-Fi-ի միջոցով"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Շարունակել"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Մտ գծ"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "Կիրառելի չէ"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Զննել"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Հիմնական"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Փոխել անունը"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Տեսակ"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Էկրան"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Էլփոստի համաժամացում"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Թղթապանակներ"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "Փխնց."
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Տեղեկություն"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Հիշեցումների ցուցակ"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "րոպեներ"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Ավելին"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Տեսանյութ չկա"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Գաղտնի"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Վերսկսել"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "վայրկյաններ"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Ընտրված"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Նշանակել որպես"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Համակարգ"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Անհնար է ավելացնել"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Փոխել պաստառը"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Ավելացված է"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Ավելացնել կոնտակտ"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Հվլլ պիտակ"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Թղթապանակներ"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Նոր տեգ"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Ընտրված"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Թարմացնել"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Վիդեո"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Ավելացված է"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Կցել"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Միացված է"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "Այս ֆայլը գոյություն չունի"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Անվավեր նիշեր"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Տեղափոխված է"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Տեղափոխում..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Տեղափոխումը ձախողվեց"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Ներքին սխալ"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Չի ընտրված որևէ ֆայլ"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Հատկորոշիչներ չեն ընտրվել"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Ընթացքում է"
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Ձայնագրումը ձախողվեց"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Ստացված է"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Ստացումը ձախողվեց"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Պահպանումը ձախողվեց"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Պահպանում է..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Ընտրված"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Գույն"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Կրկին փորձեք"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Անսահմանափակ"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Թրթռիչ"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Ցանկանո՞ւմ եք այժմ հանել արգելափակումը:"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Լեզու"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Ավելն"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Ձայնագրել"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Արդյունք"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Նշանակել որպես"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Սիրված"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "Հայտանիշ"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Տեսակավորել ըստ"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 ժամ"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 վայրկյան"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 շաբաթ"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Միշտ"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Միշտ հարցնել"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Հեղինակ"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Երբեք"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Նշում"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Նախորդ օրեր"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Որոնում"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Ձայներ"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Թակել՝ տեքստ ավելացնելու համար"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "Էլ.փոստով"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Համօգտ."
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "Ֆայլեր"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Ներարկում"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "Էլ.փոստով"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "Ֆայլ"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Գործարկում..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Տեղադրում..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "Անվավեր URL"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Առաջնություն"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Ուղարկված է"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Անհնար է պահել"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Հստել"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Վերջերս"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Էջանիշ"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Էջանիշեր"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Թվարկել ըստ"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Բեռնում է..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Նախորդ"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Սեղմեք թեթևակի՝ հասցեատեր ավելացնելու համար"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "Զանգահարողի ID"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "Զանգահարողի ID"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Բեռնումն անհասանելի է"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "Ֆայլը հայտնաբերված չէ"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Ցանցի սխալ"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Հաշիվներ չկան"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Վերսկսել"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Պատճենել"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Ալբոմ"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Ինքնանորացում"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Նկարագրություն"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Բեռնված է"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Բեռնումներ"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "Էլ. փոստի հաղորդագրության չափսը"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Մուտքագրեք գաղտնաբառը"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Ձևաչափել"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Google Քարտեզներ"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Պարունակության բացակայություն"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Որոնման արդյունքներ չկան"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Գաղտնաբառ"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Հեռացնել"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Ուղարկել հաղորդագրություն"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Չափս"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Սկիզբ"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Կիր"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Նկարահանում"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Թեթև սեղմեք ավելացնելու համար"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "Ում"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Ձայն"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Զգուշացում"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Պտսխնել"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Դուրս գալ"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Գրանցվել"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Մուտք գործել"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Բարձր"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Չկարդացած"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Bluetooth-ի միջոցով"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Արդեն գոյություն ունի"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Չեղարկված է"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Ջնջվում է..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Բեռնում..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Ձևաչափ"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Հիշողության քարտը տեղադրված է"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Հիշողության քարտը հեռացված է"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Չկա բավական հիշողություն"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Հեռացված է"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Որոնում է..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Ուղարկումը ձախողվեց"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Ծառայությունը անհասանելի է"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Տեսակ"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Անհար է ջնջել"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Կազմել"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Ներբեռնել"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Նոր"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Պտսխանել"
+
+msgid "IDS_COM_SK_START"
+msgstr "Սկսել"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Դիտում"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Ջնջումը ձախողվեց"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Կրկին փորձել"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 օր"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 ժամ"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 րոպե"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 շաբաթ"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Ծննդյան օր"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Փակել"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Ստեղծել թղթապանակ"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Մանրամասներ"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Մուտքագրեք անունը"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Տառատեսակ"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Խումբ"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Տեղեկատվություն"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Մեղեդի"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d րոպե"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Վերանվանել"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Մեղեդի"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Ուղարկում"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Այսօր"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Երեկ"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Ավելացնել Էջանիշերում"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Էֆեկտներ"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Պատկեր"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Ստեղնաշար"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Անջատում"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Ընդունել"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Փոխել գաղտնաբառը"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Մաքրել"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Փակել"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Միացման սխալ"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Միացումը ձախողվեց"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Մուտքագրեք անունը"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Սխալ"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Սխալ գաղտնաբառ"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Սխալ գաղտնաբառ"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d ժամ"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Մերժել"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Մերժված է"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Պահպանվեց"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Ուղարկում..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Անհամատեղելի\nֆայլի տեսակ"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Թարմացնել"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Թարմացված է"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Հաշվի ավելացում"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Նորմալ"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Չեղարկել"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Կոնտակտ"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Քարտեզներ"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Երաժշտական խանութ"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Անուն չկա"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "SIM չկա"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Հասցե"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Ձախողվեց"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Չկա"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Հաջողված է"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Ընդունել"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Հաջորդ"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Դուրս գալ"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Ակտիվացված է"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "ԿԱ"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Ապր."
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Օգս"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Հասանելի է"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Հետ"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Մարտկոցն ամբողջապես լիցքավորված է:\nԱնջատեք լիցքավորիչը"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Մարտկոցը լիցքավորված է: Անջատեք"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Դիտարկիչ"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Հաշվիչ"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Փոխարկող"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Ստեղծել"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Դեկտ"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Ջնջել"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Ջնջել բոլորը"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Անուն"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Վերնագիր"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Փտրվ"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Փոխանցել"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Ուրբ"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Հնվ"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Հուլ"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Հուն"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Արգելափակել"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Արգլփկլ"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Ցածր"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Մարտկոցի լիցքը թույլ է"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Մրտ"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Մայ"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Հիշողության քարտ"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Հաղորդագրությունների ուղարկում"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Րոպե"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "րոպե"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "րոպ"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Երկ"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Տեղափոխել"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Նվագարկիչ"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Իմ հաշիվը"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Նավարկում"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Նոյ"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "Հոկտ"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "PINԱՓ"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Զրոյացնել"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Զրոյացնել"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Շբթ"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Սպտ"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Անձայն"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "‘Խելացի’ որոնում"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Միացնել բարձրախոսը"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Վայրկյանաչափ"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Սինխրոնացնլ"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Հնգ"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Ժամանակաչափ"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Երք"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Միավորներ"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "րոպ"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "վրկ"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Անհայտ"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Չրք"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Համաշխարհային ժամացույց"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "ՏՏՏՏ.ԱԱ.ՕՕ"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "ՏՏՏՏ/ԱԱ/ՕՕ"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Ամենօրյա համառոտ ամփոփում"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Ծանուցում"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Տեղեկություն"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ԱԲԳ"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Ակտիվացվում է..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Ապաակտիվացված է"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Դատարկ է"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Ժամ"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "ժամ"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Բացթողած զանգ"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Բացթողնված կանչեր"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Բաց թողնված իրադարձություն"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Բաց թողնված իրադարձություններ"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Նոր էլ. փոստ"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "նոր հաղորդագրություն"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "նոր հաղորդագրություններ"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Հանել արգելափակումը"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Զգուշացում"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Հմրհվքիչ"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Պատրաստ"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Ցանկ"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "Անջտել"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Բացել"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Ընտրանքնր"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Դադար"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Վրարտադր."
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Նվգրկ"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Հեռացնել"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Որոնում"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Ընտրել"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Ընտրլ"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Ուղարկել"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Ուղկլ"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Վիդեոկանչ"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Լուծաչափ"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Ավարտ"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Սիրվածները"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Ֆայլի անուն"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Անձայն"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Ֆայլեր չկան"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Պատկերներ չկան"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Տարրեր չկան"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Դադար"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Փոխարինել"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Ուղարկել Bluetooth-ի միջոցով"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Ուղարկել ... միջոցով"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Ուղարկել Bluetooth-ի միջոցով"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Ուղարկել էլփոստով"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Ուղարկել հաղորդագրության միջոցով"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Ուղարկվեց MMS-ով"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "Ուղարկել SMS-ի միջոցով"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Թղթապանակ"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Ուրբ"
+
+msgid "IDS_COM_POP_MON"
+msgstr "Երկ"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Անձայն"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Շբթ"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Պահել Սևագրերում"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Պահպանե՞լ Սևագրերում"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Ուղարկել ... միջոցով"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Վերարտադրե՞լ լուռ ռեժիմում"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Կիր"
+
+msgid "IDS_COM_POP_THU"
+msgstr "Հնգ"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Երք"
+
+msgid "IDS_COM_POP_WED"
+msgstr "Չրք"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Ծրագրեր"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Ընտրել դասավորություն"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Գործարկել"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "MMS-ի միջոցով"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Գլխ. հեռախոսներ"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d ընտրվել է"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Կրկնել"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Ֆայլի չսատարվող տեսակ"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "Տեղադրեք SIM քարտը"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Պատճենված է"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Պատճենվել է գզրոցի մեջ"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Պատճենում է..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Ցանկ"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Դիտման ռեժիմների ցանկ"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Ոչինչ ընտրված չէ"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Հասանելի օգտվողներ"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Ծառայություն չկա"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Ձայնային հրաման"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Անհնար է օգտագործել Զանգվածային պահոցի ռեժիմում"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Զանգվածային պահոցի ռեժիմն ընձեռված է"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Միացված է զանգվածային պահպանման ռեժիմը"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d օր առաջ"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Վկայականներ"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Սերվերի սխալ"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Բոլոր ալիքները"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Հաստատել"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Ընդհանուր"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Տուն"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Ես հանդիպման եմ"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Բջջային"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Աշխատանք"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Աբիջան"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Աբու-Դաբի"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Միավորված Արաբական Էմիրություններ"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Ակկրա"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Գանա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Ադիս Աբեբա"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "Եթովպիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Ադելաիդա"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "Ավստրալիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Ալյասկա"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "ԱՄՆ"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "Կոտ դ'Իվուար"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Ալժիր"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "Ալժիր"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Ալմաթի"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "Ղազախստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Ամբոն"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "Ինդոնեզիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Աման"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "Հորդանան"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Ամստերդամ"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "Նիդեռլանդներ"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Անադիր"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "Ռուսաստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Անկորիջ"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Անքարա"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "Թուրքիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Անտանանարիվու"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "Մադագասկար"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Աշխաբադ"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "Թուրքմենստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Ասմարա"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "Էրիթրեա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Աստանա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Ասունսյոն"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Պարագվայ"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "Աթենք"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "Հունաստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Օկլենդ"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "Նոր Զելանդիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Օսթին"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "Ազորներ"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "Պորտուգալիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Բաղդադ"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "Իրաք"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Բաքու"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "Ադրբեջան"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Բալթիմոր"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Բամակո"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Մալի"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Բանգկոկ"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "Թաիլանդ"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Բանգի"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Կենտրոնաֆրիկյան Հանրապետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Բարսելոն"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "Իսպանիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Բարի"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "Իտալիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Բաս-Տեր"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Գվադելուպա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Պեկին"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "Չինաստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Բեյրութ"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "Լիբանան"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Բելգրադ"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "Սերբիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Բելիզ քաղաք"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "Բելիզ"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Բեռլին"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "Գերմանիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Բեռն"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "Շվեյցարիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Բիշքեկ"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "Ղրղզստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Բիսաու"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Գվինեա-Բիսաու"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Բոգոտա"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "Կոլումբիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Բոլոնիա"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Բոստոն"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Բրազիլիա"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "Բրազիլիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "Բրատիսլավա"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "Սլովակիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Բրիջթաուն"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Բարբադոս"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Բրիսբեն"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "Բրյուսել"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "Բելգիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Բուխարեստ"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "Ռումինիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Բուդապեշտ"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "Հունգարիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Բուենոս Այրես"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "Արգենտինա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Կահիրե"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "Եգիպտոս"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Կալգարի"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Կանադա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Կանարյան կղզիներ"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Կանբերա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Կանտոն"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Քեյփթաուն"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Հարավաֆրիկյան Հանրապետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Կարակաս"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Վենեսուելա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Կարդիֆ"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "Ուելս"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Կասաբլանկա"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Մարոկկո"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Կատանցարո"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Գործադիրը տեղադրված չէ"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "ԿԲ"
+
+msgid "IDS_COM_BODY_B"
+msgstr "Բ"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "ՄԲ"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "ԳԲ"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Լայնք"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Երկայնք"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Բարձրախոս"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Անհնար է ծրագիր գտնել՝ այս գործողությունը կատարելու համար"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Անջտվծ"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Միացված է"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s ներկայումս կողպված է: Բացե՞լ:"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Կարող եք օգտագործել %s ևս 1 անգամ. սկսե՞լ հիմա:"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Կարող եք օգտագործել %s ևս 2 անգամ. սկսե՞լ հիմա:"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "Կարող եք օգտագործել %s %d օրով. Սկսե՞լ հիմա:"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s-ի ժամկետն ավարտվում է. ստանա՞լ այլ արտոնագիր:"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Կարող եք օգտագործել %s ևս 1 անգամ. ստանա՞լ այլ արտոնագիր:"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Այլևս չեք կարող եք օգտագործել %s. ստանա՞լ այլ արտոնագիր:"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Ձայնային սարք"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Տեղրլ"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Գրանցել"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Անսպասելի սխալ"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Պրոքսիի միացումը ձախողվեց"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Ցանցային կապակցման սխալ"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Անվավեր SIM քարտ"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Գործողությունը ձախողվեց"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Տարբերակ"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Լռելյայն"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Կտրել"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Տեղադրել"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Գզրոց"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "Անվտանգության քաղաքականությունը սահմանափակում է էկրանի սևեռման օգտագործումը"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Կայեննա"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Ֆրանսիական Գվիանա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Շառլոտ"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Շառլոտտա-Ամալի"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "Միացյալ Նահանգների Վիրգինյան կղզիներ"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Չելյաբինսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Չեննայ"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "Հնդկաստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Չիկագո"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Քիշնև"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "Մոլդովա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Չիտա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Քլիվլենդ"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Կոլոմբո"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Շրի Լանկա"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Կոլումբուս"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Կոնակրի"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "Գվինեա"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Կոպենհագեն"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "Դանիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Կորկ"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "Իռլանդիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Կրոտոն"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Դակար"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "Սենեգալ"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Դալլաս"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "Դամասկոս"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "Սիրիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Դար էս Սալամ"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "Տանզանիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Դարվին"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Դելի"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Դենպասար"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Դենվեր"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Դետրոյթ"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Դակա"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "Բանգլադեշ"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Դիեգո Գարսիա"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "Միացյալ Թագավորություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Ջիբութի"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Ջիբութի"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Դոխա"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Կատար"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Դուալա"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Կամերուն"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Դուբայ"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Դուբլին"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Դուշանբե"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "Տաջիկստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Զատկի կղզի"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "Չիլի"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Էդինբուրգ"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Շոտլանդիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "Էլ-Պասո"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Ֆլորենցիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Ֆորտ դե Ֆրանս"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Մարտինիկա"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Ֆրիթաուն"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Սիեռա Լեոնե"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Գաբորոնե"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "Բոտսվանա"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Գալապագոսյան կղզիներ"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Էկվադոր"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "Ժնև"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Գենուա"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Ջորջթաուն"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "Գայանա"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Գրիտվիկեն"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "Հարավային Ջորջիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Գուամ"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Գվատեմալա քաղաք"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Գվատեմալա"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Գուստավիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Սուրբ Բարդուղիմեոսի կղզի"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Հալիֆաքս"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Համբուրգ"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Հանոյ"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Վիետնամ"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Հարարե"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "Զիմբաբվե"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Հավանա"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Կուբա"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Հավայի"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Հելսինկի"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "Ֆինլանդիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Հոբարտ"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Հոնկ-Կոնգ"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Հոնոլուլու"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Հյուսթոն"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Հովդ"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "Մոնղոլիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Ինդիանապոլիս"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "Իրկուտսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "Իսլամաբադ"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "Պակիստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "Ստամբուլ"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "Իժևսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Ջակարտա"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Ջեդա"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "Սաուդյան Արաբիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Երուսաղեմ"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "Իսրայել"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Յոհանեսբուրգ"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Կաբուլ"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "Աֆղանիստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Կալինինգրադ"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Կամչատկա"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Կամպալա"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Ուգանդա"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Կարաչի"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Կատմանդու"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Նեպալ"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Խաբարովսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Խարկով"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "Ուկրաինա"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Խարտում"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "Սուդան"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Կիև"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Կինգստոն"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Ջամայկա"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Կինշասա"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Կոնգոյի Ժողովրդական Հանրապետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Կալկաթա"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Կրասնոյարսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Կուալա Լումպուր"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "Մալայզիա"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Քուվեյթ"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Լոս-Անջելես"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "Լա-Պաս"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "Բոլիվիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Լագոս"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "Նիգերիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Լաս Վեգաս"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Լիմա"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Պերու"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Լիսաբոն"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Լյուբլյանա"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "Լոնդոն"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Լոնգհուա"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Լուիսվիլ"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Լուանդա"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Անգոլա"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Լուբումբաշի"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Լուսակա"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "Զամբիա"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Լյուքսեմբուրգ"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Լվով"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Մակաու"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Մադրիդ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Մագադան"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Մալաբո"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "Հասարակածային Գվինեա"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Մալե"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Մալդիվյան կղզիներ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Մանագուա"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Նիկարագուա"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Մանամա"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Բահրեյն"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Մանիլա"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Ֆիլիպիններ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Մապուտու"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Մոզամբիկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Մարիգո"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Սենտ-Մարտին"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Մազատլան"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Մեխիկո"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Ռիյադ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Մելբուրն"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Մեմֆիս"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Մեսսինա"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Մեխիկո"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Մայամի"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "Միջին Ատլանտյան"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Միդուեյ օղակղզի"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Միլան"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Միլուոքի"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Մինսկ"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "Բելառուս"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Մոգադիշո"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "Սոմալի"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Մոնրովիա"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "Լիբերիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Մոնտեվիդեո"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Ուրուգվայ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Մոնրեալ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Մոսկվա"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Մումբայ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "Մյունխեն"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Մուսկատ"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Օման"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Նայրոբի"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "Քենիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "Հռոմ"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Նատերս"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "Նջամենա"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Նեապոլ"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "Չադ"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Մեկկա"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "Նյու-Դելի"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "Նյու-Յորք"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Նյուֆաունդլենդ"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Նիամեյ"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "Նիգեր"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Նուակշոտ"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "ՄԱՎՐԻՏԱՆԻԱ"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Նումեա"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "Նոր Կալեդոնիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Նովոկուզնեցկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Նովոսիբիրսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Նուկուալոֆա"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Տոնգա"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Նուկ"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "Գրենլանդիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Օմսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Օսակա"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "Ճապոնիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Օտավա"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Ուագադուգու"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Բուրկինա Ֆասո"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Պագո Պագո"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Սամոայի անկախ պետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Պալերմո"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Պանամա քաղաք"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Պանամա"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Պարամարիբո"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Սուրինամ"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "Փարիզ"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "Ֆրանսիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Պերմ"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Պերտ"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Պետրոպավլովսկ-Կամչատսկի"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Ֆիլադելֆիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Պնոմպեն"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "Կամբոջա"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Ֆենիքս"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Պոդգորիցա"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Մոնտենեգրո"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Պոնտա Դելգադա"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Պորտ Լուի"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Մաուրիտիուս"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Պորտ-օ-Պրենս"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Հայիթի"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Փորթլենդ"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Պրահա"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Չեխիայի Հանրապետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Փխենյան"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "Հյուսիսային Կորեա"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Կիտո"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Ռաբատ"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Յանգոն"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Բիրմա"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Ռեսիֆի"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Ռիջայնա"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Ռեյկյավիկ"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "Իսլանդիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Ռիգա"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "Լատվիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Ռիո դե Ժանեյրո"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Սեն-Դենի"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Ռեյունիոն կղզի"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Սամարա"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "Սան Անտոնիո"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "Սան Դիեգո"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "Սան-Ֆրանցիսկո"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "Սան Խոսե"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Կոստա Ռիկա"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "Սան Խուան"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Պուերտո Ռիկո"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "Սան Մարինո"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "Սան Սալվադոր"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "Սալվադոր"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Սանա"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Յեմեն"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Սանտիագո"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Սանտո Դոմինգո"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "Դոմինիկյան Հանրապետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "Սան Պաուլու"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Սիետլ"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Սեուլ"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Կորեայի Հանրապետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Շանհայ"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Շենժեն"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Սինգապուր"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Սինգապուրի Հանրապետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Սկոպյե"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "ՄԱԿԵԴՈՆԻԱ"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "Սոֆիա"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "Բուլղարիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "Սբ.Ջոն"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Անտիգուա և Բարբուդա"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Սթոքհոլմ"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "Շվեդիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Սուվա"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Ֆիջի"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Ֆիջի Կղզիների Հանրապետություն"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Սիդնեյ"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Թայիթի"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Ֆրանսիական Պոլինեզիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Տայպեյ"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "Տայվան"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "Տալլինն"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "Էստոնիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Տարավա"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Կիրիբատի"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Տաշկենտ"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "Ուզբեկստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Թբիլիսի"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "Վրաստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Տեգուսիգալպա"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Հոնդուրաս"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Թեհրան"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "Իրան"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Հո Շի Մին"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "Սետլմենտ"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Բրիտանական Վիրգինյան կղզիներ"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Տյանցզին"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Տիխուանա"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Տոկիո"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Տորոնտո"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Տրեհե"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Տրիպոլի"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "Լիբիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Թունիս"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "Թունիս"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Տուրին"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Ուֆա"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Բաշկիրիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Ուլան-Բատոր"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Վադուց"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Լիխտենշտեյն"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "Վալետտա"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Մալթա"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Վանկուվեր"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Վերոնա"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Վիկտորիա"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Սեյշելյան կղզիներ"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Վիեննա"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "Ավստրիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Վիլնյուս"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "Լիտվա"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Վլադիվոստոկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Վոլգոգրադ"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "Սանկտ Պետերբուրգ"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Վարշավա"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "Լեհաստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Վաշինգտոն"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Վելլինգտոն"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Վինիպեգ"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Յակուտսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Յամուսուկրո"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Յաունդե"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Եկատերինբուրգ"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Երևան"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "Հայաստան"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Յուժնո-Սախալինսկ"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Զագրեբ"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "Խորվաթիա"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Ցյուրիխ"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Հնարավոր չէ գործարկել %s-ը"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "Փորձեք"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Կանխադրված ծրագիր"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Ակտիվացված է"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Անջատված"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Տեսանվագարկիչ"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Հունվար"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Փետրվար"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Մարտ"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "ապրիլ"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "Հունիս"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "Հուլիս"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "Oգոստոս"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "Սեպտեմբեր"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "Հոկտեմբեր"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "Նոյեմբեր"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "դեկտեմբեր"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Ընտրված տվյալները չեն գտնվել"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Եղանակ"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Հասել եք նիշերի առավելագույն քանակին"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Հասել է նիշերի առավելագույն քանակին (%d)"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "S Planner"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Դեն նետել"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Ամսաթիվ"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Անհայտ սխալ տեղի ունեցավ"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Ժամանակ"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Ժամացույց"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Զանգահարողի պատկեր"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Մաքրել բոլորը"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Համաժամացնել"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Ավելացնել"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Վերլուծել այստեղ"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Մաքրել"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Տպել"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Ջնջիչ"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Խմբագրել հատկորոշիչ"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Կողպված էկրանի պաստառ"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "Նախապատրաստվում է SD քարտ..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Արհամրհել"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Դադար"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "SD քարտը հեռացված է"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Անհնար է մուտք գործել SD քարտ"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "Ապահով է հեռացնել SD քարտը"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "SD քարտը անակնկալ հեռացվել է"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ"
+

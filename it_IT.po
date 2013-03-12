@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "Venerdì"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "Lunedì"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "Sabato"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "Domenica"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "Giovedì"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "Martedì"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "Mercoledì"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "Suonerie"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "Nome utente"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "Altro"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "Mostra per"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "Nascondi"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "Altro"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "Aggiorna"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "Aggiorna"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Annulla"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "Automatica"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "Modifica"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "Modifica"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "Elimina account"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "Condividi"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "Album"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "Indirizzo e-mail"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "Posizione"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "Manuale"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "Eliminare?"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "Password"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "Blocca"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "Audio disattivato"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "Account"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "Audio attivato"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "Immagini"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "Altro"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "Cerca"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "Oggetto"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "Video"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "Sfondo"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "Aggiungi a Rubrica"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "Luminosità"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "Aggiungi contatto"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "Elimina"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "Salva"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "Connessione..."
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "Eliminato/i"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "Fatto"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "Chiama"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "Galleria"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "Nessuno"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "Seleziona tutto"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "Annulla"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "Aggiungi"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "Indietro"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "Chiama"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "Salva"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "Sveglia"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "Tutti"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "Password"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "Bluetooth"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "Calendario"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "Fotocamera"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "Rubrica"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "Copia"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "E-mail"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "Radio FM"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "Inoltra"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "Guida"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "Editor immagini"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "Internet"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "Registro"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "Promemoria"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "Messaggio"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "Messaggi"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "Musica"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "Archivio"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "Non attivo"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "Attivo"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "Telefono"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "Impostazioni"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "Videochiamata"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "Chiamata vocale"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "Registratore vocale"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "Nuove e-mail"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "Elimina"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "Modifica"
+
+msgid "IDS_COM_SK_NO"
+msgstr "No"
+
+msgid "IDS_COM_SK_OK"
+msgstr "OK"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "Rinomina"
+
+msgid "IDS_COM_SK_SET"
+msgstr "Imposta"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "Ferma"
+
+msgid "IDS_COM_SK_YES"
+msgstr "Sì"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "Fatto"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "Chiamata di emergenza"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "Inoltro"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "Rifiuta"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies con Wi-Fi"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "Continua"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "Accesso"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "N/D"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "Scansione"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "Di base"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "Cambia nome"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "Tipo"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "Schermo"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "Sincronizza e-mail"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "Cartelle"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "I:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "Informazioni"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "Elenco promemoria"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "minuti"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "Altro"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "Nessun video"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "Evento privato"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "Riprendi"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "secondi"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "Selezionato"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "Imposta come"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "Sistema"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "Impossibile aggiungere"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "Modifica dello sfondo"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "Aggiunto"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "Agg. contatto"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "Aggiungi tag"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "Cartelle"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "Nuovo tag"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "Selezionato"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "Aggiorna"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "Video"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "Aggiunto"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "Allega"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "Collegato"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "File inesistente"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "Caratteri non validi"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "Spostato"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "Spostamento..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "Spostamento non riuscito"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "Errore interno"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "Nessun file selezionato"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "Nessun tag selezionato"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "Elaborazione..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "Registrazione non riuscita"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "Recuperata"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "Errore recupero"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "Errore salvataggio"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "Salvataggio..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "Selezionato"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "Colore"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "Riprovare"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "Senza limitazioni"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "Vibrazione"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "Sbloccarlo adesso?"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "Lingua"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "Altro"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "Registra"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "Risultato"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "Imp. come"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "Preferiti"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "Tag"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "Ordina per"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 ore"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "1 secondo"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "2 settimane"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "Sempre"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "Chiedi sempre"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "Autore"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "Mai"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "Nota"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "Giorni precedenti"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "Ricerca"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "Suoni"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "Toccare per aggiungere il testo"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "Tramite e-mail"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "Condiv."
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "File"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "Importa"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "Tramite e-mail"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "File"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "Inizializzazione..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "Installazione..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "URL non valida"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "Priorità"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "Inviato"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "Impossibile salvare"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "Conf."
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "Recenti"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "Preferito"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "Preferiti"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "Elenca per"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "Caricamento..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "Indietro"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "Destinatari"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "ID chiamante"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "ID chiamante"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "Download non riuscito"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "File non trovato"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "Errore di rete"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "Nessun account"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "Riavvia"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "Copia"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "Album"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "Aggiornamento automatico"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "Descrizione"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "Scaricato"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "Download"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "Dimensioni e-mail"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "Inserisci password"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "Formatta"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "Mappe"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "ID"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "Nessun contenuto"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "Nessun risultato della ricerca"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "Password"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "Rimuovi"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "Invia messaggio"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "Dimensioni"
+
+msgid "IDS_COM_BODY_START"
+msgstr "Avvia"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "Dom"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "Scatta foto"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "Tocca per aggiungere"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "A"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "Voce"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "Avviso"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "Rispondi"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "Disconnetti"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "Accedi"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "Accedi"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "Alta"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "Non letto"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "Con Bluetooth"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "Già esiste"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "Annullato"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "Eliminazione..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "Download..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "Formato"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "Scheda di memoria inserita"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "Scheda di memoria rimossa"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "Memoria insufficiente"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "Rimosso"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "Ricerca..."
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "Invio non riuscito"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "Servizio non disponibile"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "Tipo"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "Impossibile eliminare"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "Componi"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "Download"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "Nuovo"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "Rispondi"
+
+msgid "IDS_COM_SK_START"
+msgstr "Avvia"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "°C"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "°F"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "Anteprima"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "SOS"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "Eliminazione non riuscita"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "Riprova"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "1 giorno"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "1 ora"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "1 minuto"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "1 settimana"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "Compleanno"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "Chiudi"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "Crea cartella"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "Dettagli"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "Inserisci nome"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "Carattere"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "Gruppi"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "Info"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "Suoneria"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d minuti"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "Rinomina"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "Suoneria"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "Invia"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "SMS"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "Oggi"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "Ieri"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "Aggiungi a Preferiti"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "Effetti"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "Immagine"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "Tastiera"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "Disconnetti"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "Accetta"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "AM"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "Cambia password"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "Cancella"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "Chiudi"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "Errore di connessione"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "Errore connessione"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "Inserisci nome"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "Errore"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "Password errata"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "Password non valida"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d ore"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "Rifiuta"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "Rifiutata"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "Salvato"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "Invio..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "Tipo file\nnon supportato"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "Aggiorna"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "Aggiornato"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "Aggiungi account"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "Normale"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "Annulla"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "Contatto"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "Mappe"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "Music Store"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "Nessun nome"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "Nessuna SIM"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "Indirizzo"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "Errore"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "Nessuno"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "Operazione eseguita"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "Accetta"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "Avanti"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "Esci"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "Attivato"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "SIM"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "AM"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "Apr"
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "Ago"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "Disponibile"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "Indietro"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "Batteria ricaricata.\nScollegare caricabatterie"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "Batteria ricaricata.\nScollegare il caricabatterie"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "Browser"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "Calcolatrice"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "Convertitore"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "Crea"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "Dic"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "Elimina"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "Elimina tutto"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "Nome"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "Titolo"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "Feb"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "Inoltra"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "Ven"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "Gen"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "Lug"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "Giu"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "Blocca"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "Blocca"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "Bassa"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "Batteria scarica"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "Mar"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "Maggio"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "Scheda di memoria"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "Messaggi"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "Minuto"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "minuto"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "min"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "Lun"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "Sposta"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "Lettore musicale"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "Account personale"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "Navigatore"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "Nov"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "Ott"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "Blocco PIN"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "Ripristina"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "Ripristina"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "Sab"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "Set"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "Silenzioso"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "Ricerca veloce"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "Attiva vivavoce"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "Cronometro"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "Sincronizza"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "Gio"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "Timer"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "Mar"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "Unità di misura"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "min"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "sec"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "Sconosciuto"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "Mer"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "Fusi orari"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "AAAA/MM/GG"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "AAAA/MM/GG"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "Daily briefing"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Notifica"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "Informazioni"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "Attivazione..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "Disattivato"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "Vuoto"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "Ora"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "ora"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "Chiamata persa"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "Chiamate perse"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "Evento perso"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "Eventi persi"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "Nuova e-mail"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "Nuovo messaggio"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "Nuovi messaggi"
+
+msgid "IDS_COM_POP_PM"
+msgstr "PM"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "Blocco"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "Avviso"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "Composiz."
+
+msgid "IDS_COM_SK_DONE"
+msgstr "Fatto"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "Menu"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "No"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "Apri"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "Opzioni"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "Pausa"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "Riproduci"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "Riprod."
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "Rimuovi"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "Cerca"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "Seleziona"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "Sel."
+
+msgid "IDS_COM_SK_SEND"
+msgstr "Invia"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "Invia"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "Videochiamata"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "Risoluzione"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "Fine"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "Preferiti"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "Nome file"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "Silenzioso"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "Nessun file"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "Nessuna immagine"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Nessun elemento"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "Pausa"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "Sostituisci"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "Invia con Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "Invia con"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "Invia con Bluetooth"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "Invia tramite e-mail"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "Invia con messaggio"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "Invia con MMS"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "Invia con SMS"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "Cartella"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "Ven"
+
+msgid "IDS_COM_POP_MON"
+msgstr "Lun"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "Silenzioso"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "Sab"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "Salva in Bozze"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "Salvare in Bozze?"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "Invia con"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "Riprodurre con profilo Silenzioso?"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "Dom"
+
+msgid "IDS_COM_POP_THU"
+msgstr "Gio"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "Mar"
+
+msgid "IDS_COM_POP_WED"
+msgstr "Mer"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "Applicazioni"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "Seleziona aspetto"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "Avvia"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "Con MMS"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "Cuffie"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "%d selezionate"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "Ripeti"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "Tipo file non supportato"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "Nessuna scheda SIM"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "Copiato"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "Elemento copiato negli appunti"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "Copia..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "Elenco"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "Elenco"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "Nessun elemento selezionato"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "Usi disponibili"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "Nessun servizio"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "Comando vocale"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "Impossibile utilizzare in modalità Archiviazione di massa"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "Modalità archiviazione di massa disattivata"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "Modo archiviazione di massa attivato"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "%d giorni fa"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "Certificati"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "Errore del server"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "Tutti i canali"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "Conferma"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "Generale"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "Casa"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "Sono in riunione"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "Cellulare"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "Ufficio"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "Abidjan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "Abu Dhabi"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "Emirati Arabi Uniti"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "Accra"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "Ghana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "Addis Abeba"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "Etiopia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "Adelaide"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "Australia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "Alaska"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "Stati Uniti d'America"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "Costa d'Avorio"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "Algeri"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "Algeria"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "Almaty"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "Kazakhstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "Ambon"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "Indonesia"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "Amman"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "Giordania"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "Amsterdam"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "Paesi Bassi"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "Anadyr"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "Russia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "Anchorage"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "Ankara"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "Turchia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "Antananarivo"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "Madagascar"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "Ashgabat"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "Turkmenistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "Asmara"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "Eritrea"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "Astana"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "Asuncion"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "Paraguay"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "Atene"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "Grecia"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "Auckland"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "Nuova Zelanda"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "Austin"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "Azzorre"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "Portogallo"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "Baghdad"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "Iraq"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "Baku"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "Azerbaijan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "Baltimora"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "Bamako"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "Mali"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "Bangkok"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "Tailandia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "Bangui"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "Repubblica Centrafricana"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "Barcellona"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "Spagna"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "Bari"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "Italia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "Basse-Terre"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "Guadalupa"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "Pechino"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "Cina"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "Beirut"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "Libano"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "Belgrado"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "Serbia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "Belize City"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "Belize"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "Berlino"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "Germania"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "Berna"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "Svizzera"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "Bishkek"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "Kyrgyzstan"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "Bissau"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "Guinea Bissau"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "Bogota"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "Colombia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "Bologna"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "Boston                      "
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "Brasilia"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "Brasile"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "Bratislava"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "Slovacchia"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "Bridgetown"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "Barbados"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "Brisbane"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "Bruxelles"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "Belgio"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "Bucarest"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "Romania"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "Budapest"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "Ungheria"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "Buenos Aires"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "Argentina"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "Cairo"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "Egitto"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "Calgary"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "Canada"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "Isole Canarie"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "Canberra"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "Canton"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "Città del Capo"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "Repubblica Sudafricana"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "Caracas"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "Venezuela"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "Cardiff"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "Galles"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "Casablanca"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "Marocco"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "Catanzaro"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "Applicazione non installata"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "KB"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "MB"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "GB"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "Latitudine"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "Longitudine"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "Vivavoce"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "Impossibile trovare un'applicazione per compiere questa azione"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "Non attivo"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "Attivo"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "%s è attualmente bloccato. Sbloccarlo?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "Potete utilizzare %s ancora una volta. Avviare adesso?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "Potete utilizzare %s ancora due volte. Avviare adesso?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "È possibile utilizzare %s per %d giorni. Avviare adesso?"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "%s sta per scadere. Acquistare un'altra licenza?"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "Potete utilizzare %s ancora una volta. Acquistare un'altra licenza?"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "Non è più possibile utilizzare %s. Acquistare un'altra licenza?"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "Dispositivo audio"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "Installa"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "Registra"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "Errore inatteso"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "Errore connessione proxy"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "Errore di connessione di rete"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "Scheda SIM non valida"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "Operazione non eseguita"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "Versione"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "Predefinito"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "Taglia"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "Incolla"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "Appunti"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr "I criteri di protezione limitano l'acquisizione delle schermate"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "Caienna"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "Guyana francese"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "Charlotte"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "Charlotte Amalie"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "Isole Vergini Statunitensi"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "Chelyabinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "Chennai"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "India"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "Chicago"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "Chişinău"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "Moldavia"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "Chita"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "Cleveland"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "Colombo"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "Sri Lanka"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "Columbus"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "Conakry"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "Guinea"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "Copenhagen"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "Danimarca"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "Cork"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "Irlanda"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "Crotone"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "Dakar"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "Senegal"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "Dallas"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "Damasco"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "Siria"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "Dar es Salaam"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "Tanzania"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "Darwin"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "Delhi"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "Denpasar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "Denver"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "Detroit"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "Dhaka"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "Bangladesh"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "Diego Garcia"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "Regno Unito"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "Djibouti"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "Djibouti"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "Doha"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "Qatar"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "Douala"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "Camerun"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "Dubai"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "Dublino"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "Dushanbe"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "Tajikistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "Isola di Pasqua"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "Cile"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "Edinburgo"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "Scozia"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "El Paso"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "Firenze"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "Fort-de-France"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "Martinica"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "Freetown"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "Sierra Leone"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "Gaborone"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "Botswana"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "Isole Galapagos"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "Ecuador"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "Ginevra"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "Genova"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "Georgetown"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "Guyana"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "Grytviken"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "Georgia del Sud"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "Guam"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "Città del Guatemala"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "Guatemala"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "Gustavia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "Saint Barthélemy"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "Halifax"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "Amburgo"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "Hanoi"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "Vietnam"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "Harare"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "Zimbabwe"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "Havana"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "Cuba"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "Hawaii"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "Helsinki"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "Finlandia"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "Hobart"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "Hong Kong"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "Honolulu"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "Houston"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "Hovd"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "Mongolia"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "Indianapolis"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "Irkutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "Islamabad"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "Pakistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "Istanbul"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "Izhevsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "Jakarta"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "Jeddah"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "Arabia Saudita"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "Gerusalemme"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "Israele"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "Johannesburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "Kabul"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "Afghanistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "Kaliningrad"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "Kamchatka"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "Kampala"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "Uganda"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "Karachi"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "Katmandu"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "Nepal"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "Khabarovsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "Kharkiv"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "Ucraina"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "Khartoum"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "Sudan"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "Kiev"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "Kingston"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "Giamaica"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "Kinshasa"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "Repubblica Democratica del Congo"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "Calcutta"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "Krasnoyarsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "Kuala Lumpur"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "Malesia"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "Kuwait"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "Los Angeles"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "La Paz"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "Bolivia"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "Lagos"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "Nigeria"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "Las Vegas"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "Lima"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "Perù"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "Lisbona"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "Lubiana"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "Londra"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "Longhua"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "Louisville"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "Luanda"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "Angola"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "Lubumbashi"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "Lusaka"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "Zambia"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "Lussemburgo"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "Leopoli"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "Macau"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "Madrid"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "Magadan"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "Malabo"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "Guinea Equatoriale"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "Male"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "Maldive"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "Managua"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "Nicaragua"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "Manama"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "Bahrain"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "Manila"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "Filippine"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "Maputo"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "Mozambico"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "Marigot"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "Saint-Martin"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "Mazatlan"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "Messico"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "Riyadh"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "Melbourne"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "Memphis"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "Messina"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "Città del Messico"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "Miami"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "Atlantico centrale"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "Atollo di Midway"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "Milano"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "Milwaukee"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "Minsk"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "Bielorussia"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "Mogadiscio"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "Somalia"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "Monrovia"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "Liberia"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "Montevideo"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "Uruguay"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "Montreal"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "Mosca"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "Mumbai"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "Monaco di Baviera"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "Muscat"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "Oman"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "Nairobi"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "Kenya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "Roma"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "Naters"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "Ndjamena"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "Napoli"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "Chad"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "Mecca"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "Nuova Delhi"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "New York"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "Terranova"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "Niamey"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "Niger"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "Nouakchott"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "Mauritania"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "Nouméa"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "Nuova Caledonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "Novokuznetsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "Novosibirsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "Nuku’alofa"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "Tonga"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "Nuuk"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "Groenlandia"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "Omsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "Osaka"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "Giappone"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "Ottawa"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "Ouagadougou"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "Burkina Faso"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "Pago Pago"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "Stato Indipendente di Samoa"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "Palermo"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "Panama City"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "Panama"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "Paramaribo"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "Suriname"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "Parigi"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "Francia"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "Perm"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "Perth"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "Petropavlovsk-Kamchatskiy"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "Filadelfia"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "Phnom Penh"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "Cambogia"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "Phoenix"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "Podgorica"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "Montenegro"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "Ponta Delgada"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "Port Louis"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "Mauritius"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "Port-au-Prince"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "Haiti"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "Portland"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "Praga"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "Repubblica Ceca"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "Pyongyang"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "Corea del Nord"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "Quito"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "Rabat"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "Yangon"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "Burma"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "Recife"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "Regina"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "Reykjavík"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "Islanda"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "Riga"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "Lettonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "Rio De Janeiro"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "Saint-Denis"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "Isola di Reunion"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "Samara"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "San Antonio"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "San Diego"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "San Francisco"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "San Jose"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "Costa Rica"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "San Juan"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "Porto Rico"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "San Marino"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "San Salvador"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "El Salvador"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "Sana'a"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "Yemen"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "Santiago"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "Santo Domingo"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "Repubblica Dominicana"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "San Paolo"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "Seattle"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "Seul"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "Repubblica di Corea"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "Shanghai"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "Shenzhen"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "Singapore"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "Repubblica di Singapore"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "Skopje"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "Macedonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "Sofia"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "Bulgaria"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "St.John's"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "Antigua e Barbuda"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "Stoccolma"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "Svezia"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "Suva"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "Fiji"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "Repubblica delle Isole Fiji"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "Sydney"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "Tahiti"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "Polinesia francese"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "Taipei"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "Taiwan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "Tallinn"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "Estonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "Tarawa"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "Kiribati"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "Tashkent"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "Uzbekistan"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "Tbilisi"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "Georgia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "Tegucigalpa"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "Honduras"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "Teheran"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "Iran"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "Ho Chi Minh"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "The Settlement"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "Isole Vergini Britanniche"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "Tientsin"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "Tijuana"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "Tokyo"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "Toronto"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "Tréhet"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "Tripoli"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "Libia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "Tunisi"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "Tunisia"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "Torino"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "Ufa"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "Bashkiriya"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "Ulan Bator"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "Vaduz"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "Liechtenstein"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "La Valletta"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "Malta"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "Vancouver"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "Verona"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "Victoria"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "Seychelles"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "Vienna"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "Austria"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "Vilnius"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "Lituania"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "Vladivostok"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "Volgograd"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "San Pietroburgo"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "Varsavia"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "Polonia"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "Washington DC"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "Wellington"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "Winnipeg"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "Yakutsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "Yamoussoukro"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "Yaounde"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "Ekaterinburg"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "Yerevan"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "Armenia"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "Yuzhno-Sakhalinsk"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "Zagabria"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "Croazia"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "Zurigo"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "Impossibile avviare %s"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "Prova"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "Applicazione predefinita"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "Attivato"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "Disattivata"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "Lettore video"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "Gennaio"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "Febbraio"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "Marzo"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "Aprile"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "Giugno"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "Luglio"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "Agosto"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "Settembre"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "Ottobre"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "Novembre"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "Dicembre"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "Data selezionata non trovata"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "Meteo"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "Raggiunto numero massimo di caratteri"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "Raggiunto numero massimo di caratteri (%d)"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "Calendario"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "S Voice"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "S Cloud"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "Ignora"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "Data"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "Si è verificato un errore sconosciuto"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "Durata"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "Orologio"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "Immagine chiamante"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "Cancella tutto"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "Sincronizza"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "Inserisci"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "Incolla qui"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "Cancella"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "Stampa"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "Cancella"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "Modifica tag"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "Blocca sfondo schermo"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "Preparazione scheda SD..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "Ignora"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "Interrompi"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "Scheda SD rimossa"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "Impossibile accedere a scheda SD"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "La scheda SD può essere rimossa in sicurezza"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "La scheda SD è stata improvvisamente rimossa"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+

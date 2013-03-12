@@ -1,0 +1,3108 @@
+msgid "IDS_COM_BODY_FRIDAY"
+msgstr "جمعة"
+
+msgid "IDS_COM_BODY_MONDAY"
+msgstr "إثنين"
+
+msgid "IDS_COM_BODY_SATURDAY"
+msgstr "سبت"
+
+msgid "IDS_COM_BODY_SUNDAY"
+msgstr "أحد"
+
+msgid "IDS_COM_BODY_THURSDAY"
+msgstr "خميس"
+
+msgid "IDS_COM_BODY_TUESDAY"
+msgstr "ثلاثاء"
+
+msgid "IDS_COM_BODY_WEDNESDAY"
+msgstr "أربعاء"
+
+msgid "IDS_COM_BODY_RINGTONES"
+msgstr "نغمات الرنين"
+
+msgid "IDS_COM_BODY_USER_NAME"
+msgstr "اسم المستخدم"
+
+msgid "IDS_COM_SK3_MORE"
+msgstr "المزيد"
+
+msgid "IDS_COM_SK4_VIEW_BY"
+msgstr "عرض بواسطة"
+
+msgid "IDS_COM_SK_HIDE"
+msgstr "إخفاء"
+
+msgid "IDS_COM_SK_MORE"
+msgstr "المزيد"
+
+msgid "IDS_COM_SK_REFRESH"
+msgstr "إنعاش"
+
+msgid "IDS_COM_SK_UPDATE"
+msgstr "تحديث"
+
+msgid "IDS_COM_SK_CANCEL"
+msgstr "إلغاء"
+
+msgid "IDS_COM_BODY_AUTOMATIC"
+msgstr "تلقائي"
+
+msgid "IDS_COM_BODY_EDIT"
+msgstr "تعديل"
+
+msgid "IDS_COM_BODY_PICASA"
+msgstr "Picasa"
+
+msgid "IDS_COM_BODY_YOU_TUBE"
+msgstr "YouTube"
+
+msgid "IDS_COM_HEADER_EDIT"
+msgstr "تعديل"
+
+msgid "IDS_COM_POP_DELETE_ACCOUNT"
+msgstr "مسح الحساب"
+
+msgid "IDS_COM_SK4_SHARE"
+msgstr "مشاركة"
+
+msgid "IDS_COM_BODY_ALBUMS"
+msgstr "الألبومات"
+
+msgid "IDS_COM_BODY_EMAIL_ADDRESS"
+msgstr "عنوان البريد الإلكتروني"
+
+msgid "IDS_COM_BODY_LOCATION"
+msgstr "الموقع"
+
+msgid "IDS_COM_BODY_MANUAL"
+msgstr "يدوي"
+
+msgid "IDS_COM_BODY_VIDEO"
+msgstr "فيديو"
+
+msgid "IDS_COM_POP_DELETE_Q"
+msgstr "مسح؟"
+
+msgid "IDS_COM_POP_PASSWORD"
+msgstr "كلمة المرور"
+
+msgid "IDS_COM_SK3_BLOCK"
+msgstr "قفل"
+
+msgid "IDS_COM_POP_SOUND_OFF"
+msgstr "إيقاف الصوت"
+
+msgid "IDS_COM_BODY_ACCOUNTS"
+msgstr "حسابات"
+
+msgid "IDS_COM_POP_SOUND_ON"
+msgstr "تشغيل الصوت"
+
+msgid "IDS_COM_BODY_IMAGES"
+msgstr "الصور"
+
+msgid "IDS_COM_BODY_OTHERS"
+msgstr "أخرى"
+
+msgid "IDS_COM_BODY_SEARCH"
+msgstr "بحث"
+
+msgid "IDS_COM_BODY_SUBJECT"
+msgstr "الموضوع"
+
+msgid "IDS_COM_BODY_VIDEOS"
+msgstr "الفيديو"
+
+msgid "IDS_COM_BODY_WALLPAPER"
+msgstr "خلفية الشاشة"
+
+msgid "IDS_COM_OPT_ADD_TO_CONTACTS"
+msgstr "إضافة إلى الأسماء"
+
+msgid "IDS_COM_OPT_BRIGHTNESS"
+msgstr "السطوع"
+
+msgid "IDS_COM_OPT_CREATE_CONTACT"
+msgstr "إنشاء اسم"
+
+msgid "IDS_COM_OPT_DELETE"
+msgstr "حذف"
+
+msgid "IDS_COM_OPT_SAVE"
+msgstr "حفظ"
+
+msgid "IDS_COM_POP_CONNECTING"
+msgstr "جاري التوصيل"
+
+msgid "IDS_COM_POP_DELETED"
+msgstr "تم المسح"
+
+msgid "IDS_COM_POP_DONE"
+msgstr "تمت"
+
+msgid "IDS_COM_BODY_CALL"
+msgstr "اتصال"
+
+msgid "IDS_COM_BODY_GALLERY"
+msgstr "استوديو"
+
+msgid "IDS_COM_BODY_NONE"
+msgstr "لا شيء"
+
+msgid "IDS_COM_BODY_SELECT_ALL"
+msgstr "اختيار الكل"
+
+msgid "IDS_COM_POP_CANCEL"
+msgstr "إلغاء"
+
+msgid "IDS_COM_SK_ADD"
+msgstr "إضافة"
+
+msgid "IDS_COM_SK_BACK"
+msgstr "رجوع"
+
+msgid "IDS_COM_SK_CALL"
+msgstr "اتصال"
+
+msgid "IDS_COM_SK_SAVE"
+msgstr "حفظ"
+
+msgid "IDS_COM_BODY_ALARM"
+msgstr "المنبه"
+
+msgid "IDS_COM_BODY_ALL"
+msgstr "الكل"
+
+msgid "IDS_COM_BODY_AUTH_PASSWORD"
+msgstr "كلمة المرور"
+
+msgid "IDS_COM_BODY_BLUETOOTH"
+msgstr "البلوتوث"
+
+msgid "IDS_COM_BODY_CALENDAR"
+msgstr "التقويم"
+
+msgid "IDS_COM_BODY_CAMERA"
+msgstr "الكاميرا"
+
+msgid "IDS_COM_BODY_CONTACTS"
+msgstr "الأسماء"
+
+msgid "IDS_COM_BODY_COPY"
+msgstr "نسخ"
+
+msgid "IDS_COM_BODY_EMAIL"
+msgstr "بريد إلكتروني"
+
+msgid "IDS_COM_BODY_FACEBOOK"
+msgstr "Facebook"
+
+msgid "IDS_COM_BODY_FM_RADIO"
+msgstr "راديو FM"
+
+msgid "IDS_COM_BODY_FORWARD"
+msgstr "تحويل"
+
+msgid "IDS_COM_BODY_HELP"
+msgstr "مساعدة"
+
+msgid "IDS_COM_BODY_IMAGE_EDITOR"
+msgstr "محرر الصور"
+
+msgid "IDS_COM_BODY_INTERNET"
+msgstr "الإنترنت"
+
+msgid "IDS_COM_BODY_LOGS"
+msgstr "السجلات"
+
+msgid "IDS_COM_BODY_MEMO"
+msgstr "المذكرة"
+
+msgid "IDS_COM_BODY_MESSAGE"
+msgstr "رسالة"
+
+msgid "IDS_COM_BODY_MESSAGES"
+msgstr "الرسائل"
+
+msgid "IDS_COM_BODY_MUSIC"
+msgstr "الموسيقى"
+
+msgid "IDS_COM_BODY_MY_FILES"
+msgstr "ملفاتي"
+
+msgid "IDS_COM_BODY_OFF"
+msgstr "غير مفعل"
+
+msgid "IDS_COM_BODY_ON"
+msgstr "مفعل"
+
+msgid "IDS_COM_BODY_PHONE"
+msgstr "الهاتف"
+
+msgid "IDS_COM_BODY_SETTINGS"
+msgstr "الضبط"
+
+msgid "IDS_COM_BODY_VIDEO_CALL"
+msgstr "مكالمة فيديو"
+
+msgid "IDS_COM_BODY_VOICE_CALL"
+msgstr "مكالمة صوتية"
+
+msgid "IDS_COM_BODY_VOICE_RECORDER"
+msgstr "مسجل الصوت"
+
+msgid "IDS_COM_BODY_WI_FI"
+msgstr "Wi-Fi"
+
+msgid "IDS_COM_POP_NEW_EMAILS"
+msgstr "رسائل بريد إلكتروني جديدة"
+
+msgid "IDS_COM_SK_DELETE"
+msgstr "مسح"
+
+msgid "IDS_COM_SK_EDIT"
+msgstr "تعديل"
+
+msgid "IDS_COM_SK_NO"
+msgstr "لا"
+
+msgid "IDS_COM_SK_OK"
+msgstr "موافق"
+
+msgid "IDS_COM_SK_RENAME"
+msgstr "تغيير الاسم"
+
+msgid "IDS_COM_SK_SET"
+msgstr "ضبط"
+
+msgid "IDS_COM_SK_STOP"
+msgstr "إيقاف"
+
+msgid "IDS_COM_SK_YES"
+msgstr "نعم"
+
+msgid "IDS_COM_BODY_DONE"
+msgstr "تمت"
+
+msgid "IDS_IDLE_BODY_EMERGENCY_CALL"
+msgstr "مكالمة طوارئ"
+
+msgid "IDS_COM_BODY_FORWARDING"
+msgstr "التحويل"
+
+msgid "IDS_COM_SK_DECLINE"
+msgstr "رفض"
+
+msgid "IDS_COM_BODY_GOOGLE"
+msgstr "Google"
+
+msgid "IDS_COM_BODY_KIES_VIA_WI_FI"
+msgstr "Kies عبر Wi-Fi"
+
+msgid "IDS_COM_BODY_NFC"
+msgstr "NFC"
+
+msgid "IDS_COM_BODY_CONTINUE"
+msgstr "متابعة"
+
+msgid "IDS_COM_BUTTON_LOGIN"
+msgstr "تسجيل الدخول"
+
+msgid "IDS_COM_BODY_NA"
+msgstr "غير متاح"
+
+msgid "IDS_COM_BUTTON_SCAN"
+msgstr "بحث"
+
+msgid "IDS_COM_BODY_BASIC"
+msgstr "أساسي"
+
+msgid "IDS_COM_BODY_CHANGE_NAME"
+msgstr "تغييرالاسم"
+
+msgid "IDS_COM_BODY_DETAILS_TYPE"
+msgstr "النوع"
+
+msgid "IDS_COM_BODY_DISPLAY"
+msgstr "الشاشة"
+
+msgid "IDS_COM_BODY_EMAIL_SYNC"
+msgstr "مزامنة البريد"
+
+msgid "IDS_COM_BODY_FOLDERS"
+msgstr "المجلدات"
+
+msgid "IDS_COM_BODY_FWD_C"
+msgstr "تحويل:"
+
+msgid "IDS_COM_BODY_INFORMATION"
+msgstr "معلومات"
+
+msgid "IDS_COM_BODY_MEMO_LIST"
+msgstr "لائحة المذكرات"
+
+msgid "IDS_COM_BODY_MINUTES_LC"
+msgstr "دقائق"
+
+msgid "IDS_COM_BODY_MORE"
+msgstr "المزيد"
+
+msgid "IDS_COM_BODY_NO_VIDEOS"
+msgstr "لا توجد لقطات فيديو"
+
+msgid "IDS_COM_BODY_PRIVATE"
+msgstr "خاص"
+
+msgid "IDS_COM_BODY_RESUME"
+msgstr "استئناف"
+
+msgid "IDS_COM_BODY_SECONDS_LC"
+msgstr "ثوان"
+
+msgid "IDS_COM_BODY_SELECTED"
+msgstr "محدد"
+
+msgid "IDS_COM_BODY_SET_AS"
+msgstr "تعيين"
+
+msgid "IDS_COM_BODY_SYSTEM"
+msgstr "النظام"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ADD"
+msgstr "غير قابل على الإضافة"
+
+msgid "IDS_COM_HEADER_CHANGE_WALLPAPER"
+msgstr "تغيير الخلفية"
+
+msgid "IDS_COM_OPT_ADDED"
+msgstr "تمت الإضافة"
+
+msgid "IDS_COM_OPT_ADD_CONTACT"
+msgstr "إضافة اسم"
+
+msgid "IDS_COM_OPT_ADD_TAG"
+msgstr "إضافة علامة"
+
+msgid "IDS_COM_OPT_FOLDERS"
+msgstr "المجلدات"
+
+msgid "IDS_COM_OPT_NEW_TAG"
+msgstr "علامة جديدة"
+
+msgid "IDS_COM_OPT_SELECTED"
+msgstr "محدد"
+
+msgid "IDS_COM_OPT_UPDATE"
+msgstr "تحديث"
+
+msgid "IDS_COM_OPT_VIDEO"
+msgstr "فيديو"
+
+msgid "IDS_COM_POP_ADDED"
+msgstr "تمت الإضافة"
+
+msgid "IDS_COM_POP_ATTACH"
+msgstr "إلحاق"
+
+msgid "IDS_COM_POP_CONNECTED"
+msgstr "تم التوصيل"
+
+msgid "IDS_COM_POP_FILE_NOT_EXIST"
+msgstr "هذا الملف غير موجود"
+
+msgid "IDS_COM_POP_INVALID_CHARACTERS"
+msgstr "أحرف غير صالحة"
+
+msgid "IDS_COM_POP_MOVED"
+msgstr "تم النقل"
+
+msgid "IDS_COM_POP_MOVING"
+msgstr "جاري النقل..."
+
+msgid "IDS_COM_POP_MOVING_FAILED"
+msgstr "فشل النقل"
+
+msgid "IDS_COM_POP_NETWORK_INTERNAL_ERR"
+msgstr "خطأ داخلي"
+
+msgid "IDS_COM_POP_NO_FILES_SELECTED"
+msgstr "لم يتم تحديد ملفات"
+
+msgid "IDS_COM_POP_NO_TAGS_SELECTED"
+msgstr "لم يتم تحديد أية علامات"
+
+msgid "IDS_COM_POP_PROCESSING"
+msgstr "جاري المعالجة..."
+
+msgid "IDS_COM_POP_RECORDING_FAILED"
+msgstr "فشل التسجيل"
+
+msgid "IDS_COM_POP_RETRIEVED"
+msgstr "تم التحميل"
+
+msgid "IDS_COM_POP_RETRIEVING_FAILED"
+msgstr "فشل التحميل"
+
+msgid "IDS_COM_POP_SAVING_FAILED"
+msgstr "فشل الحفظ"
+
+msgid "IDS_COM_POP_SAVING_ING"
+msgstr "جاري الحفظ..."
+
+msgid "IDS_COM_POP_SELECTED"
+msgstr "تم التحديد"
+
+msgid "IDS_COM_OPT_COLOUR"
+msgstr "اللون"
+
+msgid "IDS_COM_POP_TRY_AGAIN"
+msgstr "حاول مرة أخرى"
+
+msgid "IDS_COM_POP_UNLIMITED"
+msgstr "غير محدود"
+
+msgid "IDS_COM_POP_VIBRATION"
+msgstr "اهتزاز"
+
+msgid "IDS_COM_POP_WANT_TO_UNLOCK_IT_NOW_Q"
+msgstr "أتريد إلغاء القفل الآن؟"
+
+msgid "IDS_COM_SK_LANGUAGE"
+msgstr "اللغة"
+
+msgid "IDS_COM_SK_MORE_LITE"
+msgstr "مزيد"
+
+msgid "IDS_COM_SK_RECORD"
+msgstr "تسجيل"
+
+msgid "IDS_COM_SK_RESULT"
+msgstr "النتيجة"
+
+msgid "IDS_COM_SK_SET_AS"
+msgstr "ضبط كـ"
+
+msgid "IDS_COM_BODY_FAVOURITE"
+msgstr "المفضلة"
+
+msgid "IDS_COM_BODY_TAG"
+msgstr "علامة"
+
+msgid "IDS_COM_OPT_SORT_BY"
+msgstr "فرز بواسطة"
+
+msgid "IDS_COM_BODY_12_HOURS"
+msgstr "12 ساعة"
+
+msgid "IDS_COM_BODY_1_SECOND"
+msgstr "ثانية واحدة"
+
+msgid "IDS_COM_BODY_2_WEEKS"
+msgstr "أسبوعين"
+
+msgid "IDS_COM_BODY_ALWAYS"
+msgstr "دائما"
+
+msgid "IDS_COM_BODY_ALWAYS_ASK"
+msgstr "اسأل دائما"
+
+msgid "IDS_COM_BODY_AUTHOR"
+msgstr "المؤلف"
+
+msgid "IDS_COM_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_COM_BODY_NEVER"
+msgstr "أبدا"
+
+msgid "IDS_COM_BODY_NOTE"
+msgstr "ملاحظة"
+
+msgid "IDS_COM_BODY_PREVIOUS_DAYS"
+msgstr "الأيام السابقة"
+
+msgid "IDS_COM_BODY_SEARCHING"
+msgstr "البحث"
+
+msgid "IDS_COM_BODY_SOUNDS"
+msgstr "الأصوات"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_TEXT"
+msgstr "انقر لإضافة نص"
+
+msgid "IDS_COM_BODY_VIA_EMAIL"
+msgstr "عبر البريد الإلكتروني"
+
+msgid "IDS_COM_BUTTON_SHARE"
+msgstr "مشاركة"
+
+msgid "IDS_COM_OPT_FILES"
+msgstr "ملف"
+
+msgid "IDS_COM_OPT_IMPORT"
+msgstr "تخزين"
+
+msgid "IDS_COM_OPT_VIA_EMAIL"
+msgstr "عبر البريد الإلكتروني"
+
+msgid "IDS_COM_POP_FILE"
+msgstr "الملف"
+
+msgid "IDS_COM_POP_INITIALIZING"
+msgstr "جاري البدء..."
+
+msgid "IDS_COM_POP_INSTALLING_ING"
+msgstr "جاري التثبيت..."
+
+msgid "IDS_COM_POP_INVALID_URL"
+msgstr "الموقع الالكتروني غير صالح"
+
+msgid "IDS_COM_POP_PRIORITY"
+msgstr "الأولوية"
+
+msgid "IDS_COM_POP_SENT"
+msgstr "تم الإرسال"
+
+msgid "IDS_COM_POP_UNABLE_TO_SAVE"
+msgstr "غير قادر على الحفظ"
+
+msgid "IDS_COM_SK_CONFIRM_LITE"
+msgstr "تأكيد"
+
+msgid "IDS_COM_BUTTON_RECENT"
+msgstr "حالي"
+
+msgid "IDS_COM_BODY_BOOKMARK"
+msgstr "علامة"
+
+msgid "IDS_COM_BODY_BOOKMARKS"
+msgstr "العلامات"
+
+msgid "IDS_COM_BODY_LIST_BY"
+msgstr "فرز بواسطة"
+
+msgid "IDS_COM_BODY_LOADING"
+msgstr "جاري التحميل ..."
+
+msgid "IDS_COM_BODY_PREVIOUS"
+msgstr "سابق"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD_RECIPIENT"
+msgstr "انقر لإضافة مستقبل"
+
+msgid "IDS_COM_OPT_CALLER_ID"
+msgstr "هوية المتصل"
+
+msgid "IDS_COM_POP_CALLER_ID"
+msgstr "هوية المتصل"
+
+msgid "IDS_COM_POP_DOWNLOAD_FAILED"
+msgstr "التنزيل غير متوفر"
+
+msgid "IDS_COM_POP_FILE_NOT_FOUND"
+msgstr "الملف غير موجود"
+
+msgid "IDS_COM_POP_NETWORK_ERROR"
+msgstr "خطأ في الشبكة"
+
+msgid "IDS_COM_POP_NO_ACCOUNTS"
+msgstr "بلا حسابات"
+
+msgid "IDS_COM_SK_RESTART"
+msgstr "إ. تشغيل"
+
+msgid "IDS_COM_OPT_COPY"
+msgstr "نسخ"
+
+msgid "IDS_COM_BODY_ALBUM"
+msgstr "الألبوم"
+
+msgid "IDS_COM_BODY_AUTO_REFRESH"
+msgstr "تحديث تلقائي"
+
+msgid "IDS_COM_BODY_DESCRIPTION"
+msgstr "الشرح"
+
+msgid "IDS_COM_BODY_DOWNLOADED"
+msgstr "تم التنزيل"
+
+msgid "IDS_COM_BODY_DOWNLOADS"
+msgstr "ملفات محملة"
+
+msgid "IDS_COM_BODY_EMAIL_SIZE"
+msgstr "حجم البريد الإلكتروني"
+
+msgid "IDS_COM_BODY_ENTER_PASSWORD"
+msgstr "أدخل كلمة المرور"
+
+msgid "IDS_COM_BODY_FORMAT"
+msgstr "تهيئة"
+
+msgid "IDS_COM_BODY_GOOGLE_MAPS"
+msgstr "الخرائط"
+
+msgid "IDS_COM_BODY_ID"
+msgstr "هوية المستخدم"
+
+msgid "IDS_COM_BODY_NO_CONTENTS"
+msgstr "بدون محتويات"
+
+msgid "IDS_COM_BODY_NO_SEARCH_RESULTS"
+msgstr "لا توجد نتائج للبحث"
+
+msgid "IDS_COM_BODY_PASSWORD"
+msgstr "كلمة المرور"
+
+msgid "IDS_COM_BODY_REMOVE"
+msgstr "حذف"
+
+msgid "IDS_COM_BODY_SEND_MESSAGE"
+msgstr "إرسال رسالة"
+
+msgid "IDS_COM_BODY_SIZE"
+msgstr "الحجم"
+
+msgid "IDS_COM_BODY_START"
+msgstr "بدء"
+
+msgid "IDS_COM_BODY_SUN"
+msgstr "أحد"
+
+msgid "IDS_COM_BODY_TAKE_PHOTO"
+msgstr "التقاط صورة"
+
+msgid "IDS_COM_BODY_TAP_TO_ADD"
+msgstr "انقر للإضافة"
+
+msgid "IDS_COM_BODY_TO"
+msgstr "إلى"
+
+msgid "IDS_COM_BODY_VOICE"
+msgstr "صوت"
+
+msgid "IDS_COM_BODY_WARNING"
+msgstr "تحذير"
+
+msgid "IDS_COM_BUTTON_REPLY"
+msgstr "رد"
+
+msgid "IDS_COM_BUTTON_SIGN_OUT"
+msgstr "تسجيل الخروج"
+
+msgid "IDS_COM_BUTTON_SIGN_UP"
+msgstr "إنشاء حساب‬"
+
+msgid "IDS_COM_HEADER_SIGN_IN"
+msgstr "تسجيل الدخول"
+
+msgid "IDS_COM_OPT_HIGH_M_QUALITY"
+msgstr "عالي"
+
+msgid "IDS_COM_OPT_UNREAD"
+msgstr "غير مقروء"
+
+msgid "IDS_COM_OPT_VIA_BLUETOOTH"
+msgstr "عبر البلوتوث"
+
+msgid "IDS_COM_POP_ALREDY_EXISTS"
+msgstr "موجود مسبقا"
+
+msgid "IDS_COM_POP_CANCELLED"
+msgstr "تم الإلغاء"
+
+msgid "IDS_COM_POP_DELETING"
+msgstr "جاري المسح..."
+
+msgid "IDS_COM_POP_DOWNLOADING"
+msgstr "جاري التنزيل..."
+
+msgid "IDS_COM_POP_FORMAT"
+msgstr "هيئة"
+
+msgid "IDS_COM_POP_MEMORY_CARD_INSERTED"
+msgstr "تم إدخال بطاقة الذاكرة"
+
+msgid "IDS_COM_POP_MEMORY_CARD_REMOVED"
+msgstr "تم إخراج بطاقة الذاكرة"
+
+msgid "IDS_COM_POP_NOT_ENOUGH_MEMORY"
+msgstr "الذاكرة لا تكفي"
+
+msgid "IDS_COM_POP_REMOVED"
+msgstr "تم الحذف"
+
+msgid "IDS_COM_POP_SEARCHING"
+msgstr "قيد البحث"
+
+msgid "IDS_COM_POP_SENDING_FAILED"
+msgstr "فشل الإرسال"
+
+msgid "IDS_COM_POP_SERVICE_UNAVAILABLE"
+msgstr "الخدمة غير متوفرة"
+
+msgid "IDS_COM_POP_TYPE"
+msgstr "النوع"
+
+msgid "IDS_COM_POP_UNABLE_TO_DELETE"
+msgstr "لا يمكن المسح"
+
+msgid "IDS_COM_SK3_COMPOSE"
+msgstr "إنشاء"
+
+msgid "IDS_COM_SK_DOWNLOAD"
+msgstr "تنزيل"
+
+msgid "IDS_COM_SK_NEW"
+msgstr "جديدة"
+
+msgid "IDS_COM_SK_REPLY"
+msgstr "رد"
+
+msgid "IDS_COM_SK_START"
+msgstr "بدء"
+
+msgid "IDS_COM_BODY_UNIT_C_MTEMPERATURE"
+msgstr "مئوية°"
+
+msgid "IDS_COM_BODY_UNIT_F_MTEMPERATURE"
+msgstr "فهرنهايت"
+
+msgid "IDS_COM_SK3_PREVIEW"
+msgstr "معاينة"
+
+msgid "IDS_COM_POP_SOS"
+msgstr "طوارئ"
+
+msgid "IDS_COM_POP_DELETE_FAILED"
+msgstr "فشل المسح"
+
+msgid "IDS_COM_SK_RETRY"
+msgstr "إ. محاولة"
+
+msgid "IDS_COM_BODY_1_DAY"
+msgstr "يوم واحد"
+
+msgid "IDS_COM_BODY_1_HOUR"
+msgstr "ساعة واحدة"
+
+msgid "IDS_COM_BODY_1_MINUTE"
+msgstr "دقيقة واحدة"
+
+msgid "IDS_COM_BODY_1_WEEK"
+msgstr "أسبوع واحد"
+
+msgid "IDS_COM_BODY_BIRTHDAY"
+msgstr "عيد ميلاد"
+
+msgid "IDS_COM_BODY_CLOSE"
+msgstr "إغلاق"
+
+msgid "IDS_COM_BODY_CREATE_FOLDER"
+msgstr "إنشاء مجلد"
+
+msgid "IDS_COM_BODY_DETAILS"
+msgstr "التفاصيل"
+
+msgid "IDS_COM_BODY_ENTER_NAME"
+msgstr "أدخل الاسم"
+
+msgid "IDS_COM_BODY_FONT"
+msgstr "الخط"
+
+msgid "IDS_COM_BODY_GROUP"
+msgstr "المجموعات"
+
+msgid "IDS_COM_BODY_INFO"
+msgstr "معلومات"
+
+msgid "IDS_COM_BODY_MELODY"
+msgstr "نغمة"
+
+msgid "IDS_COM_BODY_PD_MINUTES"
+msgstr "%d دقيقة"
+
+msgid "IDS_COM_BODY_RENAME"
+msgstr "تغيير الاسم"
+
+msgid "IDS_COM_BODY_RINGTONE"
+msgstr "نغمة الرنين"
+
+msgid "IDS_COM_BODY_SEND"
+msgstr "إرسال"
+
+msgid "IDS_COM_BODY_SMS"
+msgstr "رسالة قصيرة"
+
+msgid "IDS_COM_BODY_TODAY"
+msgstr "اليوم"
+
+msgid "IDS_COM_BODY_YESTERDAY"
+msgstr "أمس"
+
+msgid "IDS_COM_OPT_ADD_TO_BOOKMARKS"
+msgstr "أضف للعلامات"
+
+msgid "IDS_COM_OPT_EFFECTS"
+msgstr "المؤثرات"
+
+msgid "IDS_COM_OPT_IMAGE"
+msgstr "صورة"
+
+msgid "IDS_COM_OPT_KEYPAD"
+msgstr "لوحة المفاتيح"
+
+msgid "IDS_COM_OPT_LOGOUT"
+msgstr "تسجيل الخروج"
+
+msgid "IDS_COM_POP_ACCEPT"
+msgstr "قبول"
+
+msgid "IDS_COM_POP_AM_M_ABB"
+msgstr "ص"
+
+msgid "IDS_COM_POP_CHANGE_PASSWORD"
+msgstr "تغيير كلمة المرور"
+
+msgid "IDS_COM_POP_CLEAR"
+msgstr "مسح"
+
+msgid "IDS_COM_POP_CLOSE"
+msgstr "إغلاق"
+
+msgid "IDS_COM_POP_CONNECTION_ERROR"
+msgstr "خطأ اتصال"
+
+msgid "IDS_COM_POP_CONNECTION_FAILED"
+msgstr "فشل التوصيل"
+
+msgid "IDS_COM_POP_ENTER_NAME"
+msgstr "أدخل الاسم"
+
+msgid "IDS_COM_POP_ERROR"
+msgstr "خطأ"
+
+msgid "IDS_COM_POP_INCORRECT_PASSWORD"
+msgstr "كلمة مرور غير صحيحة"
+
+msgid "IDS_COM_POP_INVALID_PASSWORD"
+msgstr "كلمة مرور غير صالحة"
+
+msgid "IDS_COM_POP_PD_HOURS"
+msgstr "%d ساعات"
+
+msgid "IDS_COM_POP_REJECT"
+msgstr "رفض"
+
+msgid "IDS_COM_POP_REJECTED"
+msgstr "مرفوضة"
+
+msgid "IDS_COM_POP_SAVED"
+msgstr "تم الحفظ"
+
+msgid "IDS_COM_POP_SENDING"
+msgstr "جاري الإرسال..."
+
+msgid "IDS_COM_POP_UNSUPPORTED_FILE_TYPE"
+msgstr "نوع ملف غير مدعوم"
+
+msgid "IDS_COM_POP_UPDATE"
+msgstr "تحديث"
+
+msgid "IDS_COM_POP_UPDATED"
+msgstr "تم التحديث"
+
+msgid "IDS_COM_SK_ADD_ACCOUNT"
+msgstr "إضافة حساب"
+
+msgid "IDS_IDLE_BODY_NORMAL"
+msgstr "عادي"
+
+msgid "IDS_IDLE_BUTTON_CANCEL"
+msgstr "إلغاء"
+
+msgid "IDS_COM_BODY_CONTACT"
+msgstr "الاسم"
+
+msgid "IDS_COM_BODY_MAPS"
+msgstr "الخرائط"
+
+msgid "IDS_COM_BODY_MUSIC_STORE"
+msgstr "متجر الموسيقى"
+
+msgid "IDS_COM_BODY_NO_NAME"
+msgstr "لا يوجد اسم"
+
+msgid "IDS_COM_BODY_NO_SIM"
+msgstr "لا توجد SIM"
+
+msgid "IDS_COM_POP_ADDRESS"
+msgstr "العنوان"
+
+msgid "IDS_COM_POP_FAILED"
+msgstr "فشل"
+
+msgid "IDS_COM_POP_NONE"
+msgstr "لا شيء"
+
+msgid "IDS_COM_POP_SUCCESS"
+msgstr "نجاح"
+
+msgid "IDS_COM_SK_ACCEPT"
+msgstr "قبول"
+
+msgid "IDS_COM_SK_NEXT"
+msgstr "التالي"
+
+msgid "IDS_COM_SK_QUIT"
+msgstr "خروج"
+
+msgid "IDS_COM_BODY_ACTIVATED"
+msgstr "مفعل"
+
+msgid "IDS_COM_BODY_ADDTOPHONEBOOK_SIM"
+msgstr "البطاقة"
+
+msgid "IDS_COM_BODY_ALLSHARE"
+msgstr "AllShare"
+
+msgid "IDS_COM_BODY_AM"
+msgstr "ص"
+
+msgid "IDS_COM_BODY_APR"
+msgstr "04"
+
+msgid "IDS_COM_BODY_AUG"
+msgstr "08"
+
+msgid "IDS_COM_BODY_AVAILABLE"
+msgstr "متوفر"
+
+msgid "IDS_COM_BODY_BACK"
+msgstr "رجوع"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER"
+msgstr "تم شحن البطارية كاملة. أزل الشاحن"
+
+msgid "IDS_COM_BODY_BATTERY_FULLY_CHARGED_UNPLUG_CHARGER_ABB"
+msgstr "تم الشحن كاملا. افصل الشاحن"
+
+msgid "IDS_COM_BODY_BROWSER"
+msgstr "المتصفح"
+
+msgid "IDS_COM_BODY_CALCULATOR"
+msgstr "الحاسبة"
+
+msgid "IDS_COM_BODY_CONVERTOR"
+msgstr "المحول"
+
+msgid "IDS_COM_BODY_CREATE"
+msgstr "إنشاء"
+
+msgid "IDS_COM_BODY_DEC"
+msgstr "12"
+
+msgid "IDS_COM_BODY_DELETE"
+msgstr "حذف"
+
+msgid "IDS_COM_BODY_DELETE_ALL"
+msgstr "مسح الكل"
+
+msgid "IDS_COM_BODY_DETAILS_NAME"
+msgstr "الاسم"
+
+msgid "IDS_COM_BODY_DETAILS_TITLE"
+msgstr "العنوان"
+
+msgid "IDS_COM_BODY_FEB"
+msgstr "02"
+
+msgid "IDS_COM_BODY_FORWARD_A"
+msgstr "تحويل"
+
+msgid "IDS_COM_BODY_FRI"
+msgstr "جمعة"
+
+msgid "IDS_COM_BODY_IM"
+msgstr "IM"
+
+msgid "IDS_COM_BODY_JAN"
+msgstr "01"
+
+msgid "IDS_COM_BODY_JUL"
+msgstr "07"
+
+msgid "IDS_COM_BODY_JUN"
+msgstr "06"
+
+msgid "IDS_COM_BODY_LOCK"
+msgstr "قفل"
+
+msgid "IDS_COM_BODY_LOCK_A"
+msgstr "قفل"
+
+msgid "IDS_COM_BODY_LOW"
+msgstr "غير هامة"
+
+msgid "IDS_COM_BODY_LOW_BATTERY"
+msgstr "البطارية ضعيفة"
+
+msgid "IDS_COM_BODY_MAR"
+msgstr "03"
+
+msgid "IDS_COM_BODY_MAY"
+msgstr "05"
+
+msgid "IDS_COM_BODY_MEMORY_CARD"
+msgstr "بطاقة الذاكرة"
+
+msgid "IDS_COM_BODY_MESSAGING"
+msgstr "الرسائل"
+
+msgid "IDS_COM_BODY_MINUTE"
+msgstr "دقيقة"
+
+msgid "IDS_COM_BODY_MINUTE_LC"
+msgstr "دقيقة"
+
+msgid "IDS_COM_BODY_MIN_SMALL_ABB"
+msgstr "دقيقة"
+
+msgid "IDS_COM_BODY_MON"
+msgstr "إثنـ"
+
+msgid "IDS_COM_BODY_MOVE"
+msgstr "نقل"
+
+msgid "IDS_COM_BODY_MUSIC_PLAYER"
+msgstr "مشغل الموسيقى"
+
+msgid "IDS_COM_BODY_MY_ACCOUNT"
+msgstr "حسابي"
+
+msgid "IDS_COM_BODY_NAVIGATION"
+msgstr "الملاحة"
+
+msgid "IDS_COM_BODY_NOV"
+msgstr "11"
+
+msgid "IDS_COM_BODY_OCT"
+msgstr "10"
+
+msgid "IDS_COM_BODY_PIN_LOCK"
+msgstr "قفل PIN"
+
+msgid "IDS_COM_BODY_RESET"
+msgstr "إرجاع"
+
+msgid "IDS_COM_BODY_RESET_A"
+msgstr "إرجاع"
+
+msgid "IDS_COM_BODY_SAT"
+msgstr "سبت"
+
+msgid "IDS_COM_BODY_SEP"
+msgstr "09"
+
+msgid "IDS_COM_BODY_SILENT"
+msgstr "صامت"
+
+msgid "IDS_COM_BODY_SMART_SEARCH"
+msgstr "البحث الذكي"
+
+msgid "IDS_COM_BODY_SPEAKER_ON"
+msgstr "تفعيل مكبر الصوت"
+
+msgid "IDS_COM_BODY_STOPWATCH"
+msgstr "ساعة الإيقاف"
+
+msgid "IDS_COM_BODY_SYNCHRONIZE"
+msgstr "تزامن"
+
+msgid "IDS_COM_BODY_THU"
+msgstr "خميس"
+
+msgid "IDS_COM_BODY_TIMER"
+msgstr "المؤقت"
+
+msgid "IDS_COM_BODY_TUE"
+msgstr "ثلا"
+
+msgid "IDS_COM_BODY_TWITTER"
+msgstr "Twitter"
+
+msgid "IDS_COM_BODY_UNITS"
+msgstr "وحدات"
+
+msgid "IDS_COM_BODY_UNIT_MIN_ABB"
+msgstr "دقيقة"
+
+msgid "IDS_COM_BODY_UNIT_SEC_LC"
+msgstr "ثواني"
+
+msgid "IDS_COM_BODY_UNKNOWN"
+msgstr "غير معروف"
+
+msgid "IDS_COM_BODY_USB"
+msgstr "USB"
+
+msgid "IDS_COM_BODY_WED"
+msgstr "أربـ"
+
+msgid "IDS_COM_BODY_WORLD_CLOCK"
+msgstr "الساعة العالمية"
+
+msgid "IDS_COM_BODY_YYYYMMDD"
+msgstr "ي ي.ش ش.ع ع ع ع"
+
+msgid "IDS_COM_BODY_YYYY_MM_DD"
+msgstr "يوم/شهر/سنة"
+
+msgid "IDS_COM_HEADER_DAILY_BRIEFING"
+msgstr "تلخيص يومي"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "الإشعار"
+
+msgid "IDS_COM_OPT_INFORMATION"
+msgstr "معلومات"
+
+msgid "IDS_COM_OPT_INPUTMETHOD_ALLCAPS"
+msgstr "ABC"
+
+msgid "IDS_COM_POP_ACTIVATING"
+msgstr "جاري التفعيل..."
+
+msgid "IDS_COM_POP_DEACTIVATED"
+msgstr "غير مفعل"
+
+msgid "IDS_COM_POP_EMPTY"
+msgstr "خالي"
+
+msgid "IDS_COM_POP_HOUR"
+msgstr "ساعة"
+
+msgid "IDS_COM_POP_HOUR_LC"
+msgstr "ساعة"
+
+msgid "IDS_COM_POP_MISSED_CALL"
+msgstr "مكالمة فائتة"
+
+msgid "IDS_COM_POP_MISSED_CALLS"
+msgstr "مكالمات فائتة"
+
+msgid "IDS_COM_POP_MISSED_EVENT"
+msgstr "الأحداث الفائتة"
+
+msgid "IDS_COM_POP_MISSED_EVENTS"
+msgstr "الأحداث الفائتة"
+
+msgid "IDS_COM_POP_NEW_EMAIL"
+msgstr "بريد إلكتروني جديد"
+
+msgid "IDS_COM_POP_NEW_MESSAGE"
+msgstr "رسالة جديدة"
+
+msgid "IDS_COM_POP_NEW_MESSAGES"
+msgstr "رسائل جديدة"
+
+msgid "IDS_COM_POP_PM"
+msgstr "م"
+
+msgid "IDS_COM_POP_UNLOCK"
+msgstr "إلغاء القفل"
+
+msgid "IDS_COM_POP_WARNING"
+msgstr "تحذير"
+
+msgid "IDS_COM_SK_DIALLER"
+msgstr "المتصل"
+
+msgid "IDS_COM_SK_DONE"
+msgstr "تمت"
+
+msgid "IDS_COM_SK_MENU"
+msgstr "القائمة"
+
+msgid "IDS_COM_SK_OFF"
+msgstr "غير فعال"
+
+msgid "IDS_COM_SK_OPEN"
+msgstr "فتح"
+
+msgid "IDS_COM_SK_OPTIONS"
+msgstr "خيارات"
+
+msgid "IDS_COM_SK_PAUSE"
+msgstr "إ. مؤقت"
+
+msgid "IDS_COM_SK_PLAY"
+msgstr "تشغيل"
+
+msgid "IDS_COM_SK_PLAY_ABB"
+msgstr "تشغيل"
+
+msgid "IDS_COM_SK_REMOVE"
+msgstr "حذف"
+
+msgid "IDS_COM_SK_SEARCH"
+msgstr "بحث"
+
+msgid "IDS_COM_SK_SELECT"
+msgstr "اختيار"
+
+msgid "IDS_COM_SK_SELECT_ABB"
+msgstr "إختيار"
+
+msgid "IDS_COM_SK_SEND"
+msgstr "إرسال"
+
+msgid "IDS_COM_SK_SEND_ABB"
+msgstr "إرسال"
+
+msgid "IDS_COM_SK_VIDEO_CALL"
+msgstr "مكالمة فيديو"
+
+msgid "IDS_IDLE_BODY_ACTIVESYNC"
+msgstr "ActiveSync"
+
+msgid "IDS_IDLE_BODY_RESOLUTION"
+msgstr "الدقة"
+
+msgid "IDS_IDLE_BODY_RSS"
+msgstr "RSS"
+
+msgid "IDS_COM_BODY_END"
+msgstr "إنهاء"
+
+msgid "IDS_COM_BODY_FAVOURITES"
+msgstr "المفضلة"
+
+msgid "IDS_COM_BODY_FILE_NAME"
+msgstr "اسم الملف"
+
+msgid "IDS_COM_BODY_MUTE"
+msgstr "كتم"
+
+msgid "IDS_COM_BODY_NO_FILES"
+msgstr "لا توجد ملفات"
+
+msgid "IDS_COM_BODY_NO_IMAGES"
+msgstr "لا توجد صور"
+
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "لا توجد عناصر"
+
+msgid "IDS_COM_BODY_PAUSE"
+msgstr "إيقاف مؤقت"
+
+msgid "IDS_COM_BODY_REPLACE_ABB"
+msgstr "استبدال"
+
+msgid "IDS_COM_BODY_SEND_VIA_BLUETOOTH"
+msgstr "إرسال عبر البلوتوث"
+
+msgid "IDS_COM_OPT_SEND_VIA"
+msgstr "إرسال عبر"
+
+msgid "IDS_COM_OPT_SEND_VIA_BLUETOOTH"
+msgstr "إرسال عبر البلوتوث"
+
+msgid "IDS_COM_OPT_SEND_VIA_EMAIL"
+msgstr "إرسال بالبريد الإلكتروني"
+
+msgid "IDS_COM_OPT_SEND_VIA_MESSAGE_TMO"
+msgstr "إرسال عبر رسالة"
+
+msgid "IDS_COM_OPT_SEND_VIA_MMS"
+msgstr "إرسال عبر MMS"
+
+msgid "IDS_COM_OPT_SEND_VIA_SMS"
+msgstr "إرسال عبر SMS"
+
+msgid "IDS_COM_POP_FOLDER"
+msgstr "المجلد"
+
+msgid "IDS_COM_POP_FRI"
+msgstr "جمعة"
+
+msgid "IDS_COM_POP_MON"
+msgstr "إثنـ"
+
+msgid "IDS_COM_POP_MUTE"
+msgstr "كتم"
+
+msgid "IDS_COM_POP_SAT"
+msgstr "سبت"
+
+msgid "IDS_COM_POP_SAVE_IN_DRAFTS"
+msgstr "حفظ في المسودات"
+
+msgid "IDS_COM_POP_SAVE_TO_DRAFTS_Q"
+msgstr "حفظ في المسودات؟"
+
+msgid "IDS_COM_POP_SEND_VIA"
+msgstr "إرسال عبر"
+
+msgid "IDS_COM_POP_SILENT_PROFILE_ACTIVE_PLAY_AUDIO_ANYWAY"
+msgstr "تشغيل في النمط الصامت؟"
+
+msgid "IDS_COM_POP_SUN"
+msgstr "أحد"
+
+msgid "IDS_COM_POP_THU"
+msgstr "خميس"
+
+msgid "IDS_COM_POP_TUE"
+msgstr "ثلا"
+
+msgid "IDS_COM_POP_WED"
+msgstr "أربـ"
+
+msgid "IDS_COM_BODY_APPLICATIONS"
+msgstr "التطبيقات"
+
+msgid "IDS_COM_BODY_SELECT_LAYOUT"
+msgstr "تحديد مخطط"
+
+msgid "IDS_COM_SK_LAUNCH"
+msgstr "بدء"
+
+msgid "IDS_COM_BODY_VIA_MMS"
+msgstr "عبر رسائل الوسائط"
+
+msgid "IDS_COM_OPT_HEADPHONES_ABB"
+msgstr "سماعات رأس"
+
+msgid "IDS_COM_BODY_PD_SELECTED"
+msgstr "تم تحديد %d"
+
+msgid "IDS_COM_BODY_REPEAT"
+msgstr "تكرار"
+
+msgid "IDS_COM_BODY_UNSUPPORTED_FILE_TYPE"
+msgstr "نوع ملف غير مدعوم"
+
+msgid "IDS_COM_POP_INSERT_SIM_CARD"
+msgstr "يرجى إدخال البطاقة"
+
+msgid "IDS_COM_POP_COPIED_P"
+msgstr "تم النسخ"
+
+msgid "IDS_COM_POP_COPIED_TO_CLIPBOARD"
+msgstr "تم النسخ إلى الحافظة"
+
+msgid "IDS_COM_POP_COPYING_ING"
+msgstr "جاري النسخ..."
+
+msgid "IDS_COM_OPT_LIST"
+msgstr "اللائحة"
+
+msgid "IDS_COM_OPT_LIST_VIEW"
+msgstr "عرض القائمة"
+
+msgid "IDS_COM_POP_NOTHING_SELECTED"
+msgstr "لا شيء محدد"
+
+msgid "IDS_COM_POP_AVAILABLE_USES"
+msgstr "الاستخدامات المتوفرة"
+
+msgid "IDS_COM_BODY_NO_SERVICE"
+msgstr "لا توجد خدمة"
+
+msgid "IDS_COM_BODY_VOICE_COMMAND"
+msgstr "أمر صوتي"
+
+msgid "IDS_COM_POP_UNABLE_TO_USE_DURING_MASS_STORAGE_MODE"
+msgstr "تعذر الاستخدام خلال وضع التخزين كبير السعة"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_DISABLED"
+msgstr "تم إلغاء تفعيل وضع التخزين كبير السعة"
+
+msgid "IDS_COM_BODY_MASS_STORAGE_MODE_ENABLED"
+msgstr "تم تفعيل نمط مخزن البيانات"
+
+msgid "IDS_COM_BODY_PD_DAYS_AGO"
+msgstr "منذ %d يوم"
+
+msgid "IDS_COM_BODY_CERTIFICATES"
+msgstr "الشهادات"
+
+msgid "IDS_COM_POP_SERVER_ERROR"
+msgstr "خطأ في الخادم"
+
+msgid "IDS_COM_BODY_ALL_CHANNELS"
+msgstr "كل القنوات"
+
+msgid "IDS_COM_SK_CONFIRM"
+msgstr "تأكيد"
+
+msgid "IDS_COM_BODY_GENERAL"
+msgstr "عام"
+
+msgid "IDS_COM_BODY_HOME"
+msgstr "منزل"
+
+msgid "IDS_COM_BODY_IM_IN_A_MEETING"
+msgstr "أنا في اجتماع"
+
+msgid "IDS_COM_BODY_MOBILE"
+msgstr "الجوال"
+
+msgid "IDS_COM_BODY_WORK"
+msgstr "العمل"
+
+msgid "IDS_COM_OPT1_WI_FI_DIRECT"
+msgstr "Wi-Fi Direct"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABIDJAN"
+msgstr "أبيدجان"
+
+msgid "IDS_WCL_BODY_CITYNAME_ABUDHABI"
+msgstr "أبوظبي"
+
+msgid "IDS_WCL_BODY_UNITED_ARAB_EMIRATES"
+msgstr "الإمارات العربية المتحدة"
+
+msgid "IDS_WCL_BODY_CITYNAME_ACCRA"
+msgstr "أكرا"
+
+msgid "IDS_WCL_BODY_GHANA"
+msgstr "غانا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADDIS_ABABA"
+msgstr "أديس أبابا"
+
+msgid "IDS_WCL_BODY_ETHIOPIA"
+msgstr "إثيوبيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ADELAIDE"
+msgstr "اديلايد"
+
+msgid "IDS_WCL_BODY_AUSTRALIA"
+msgstr "أستراليا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALASKA"
+msgstr "ألاسكا"
+
+msgid "IDS_WCL_BODY_USA_M_COUNTRYNAME"
+msgstr "الولايات المتحدة الأمريكية"
+
+msgid "IDS_WCL_BODY_COTE_DIVOIRE"
+msgstr "كوت ديفوار"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALGIERS"
+msgstr "الجزائر"
+
+msgid "IDS_WCL_BODY_ALGERIA"
+msgstr "الجزائر"
+
+msgid "IDS_WCL_BODY_CITYNAME_ALMATY"
+msgstr "ألماتي"
+
+msgid "IDS_WCL_BODY_KAZAKHSTAN"
+msgstr "كازاخستان"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMBON"
+msgstr "أمبون"
+
+msgid "IDS_WCL_BODY_INDONESIA"
+msgstr "إندونيسيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMMAN"
+msgstr "عمان"
+
+msgid "IDS_WCL_BODY_JORDAN"
+msgstr "الأردن"
+
+msgid "IDS_WCL_BODY_CITYNAME_AMSTERDAME"
+msgstr "أمستردام"
+
+msgid "IDS_WCL_BODY_NETHERLANDS"
+msgstr "هولندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANADYR"
+msgstr "أنادير"
+
+msgid "IDS_WCL_BODY_RUSSIA"
+msgstr "روسيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANCHORAGE"
+msgstr "آنكورايج"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANKARA"
+msgstr "أنقرة"
+
+msgid "IDS_WCL_BODY_TURKEY"
+msgstr "تركيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ANTANANARIVO"
+msgstr "أنتاناناريفو"
+
+msgid "IDS_WCL_BODY_MADAGASCAR"
+msgstr "مدغشقر"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASHGABAT"
+msgstr "أشجابات"
+
+msgid "IDS_WCL_BODY_TURKMENISTAN"
+msgstr "تركمانستان"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASMARA"
+msgstr "أسمرا"
+
+msgid "IDS_WCL_BODY_ERITREA"
+msgstr "إريتريا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASTANA"
+msgstr "أستانا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ASUNCION"
+msgstr "أسونسيون"
+
+msgid "IDS_WCL_BODY_PARAGUAY"
+msgstr "باراجواي"
+
+msgid "IDS_WCL_BODY_CITYNAME_ATHENS"
+msgstr "أثينا"
+
+msgid "IDS_WCL_BODY_GREECE"
+msgstr "اليونان"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUCKLAND"
+msgstr "أوكلاند"
+
+msgid "IDS_WCL_BODY_NEW_ZEALAND"
+msgstr "نيوزيلندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_AUSTIN"
+msgstr "أوستن"
+
+msgid "IDS_WCL_BODY_CITYNAME_AZORES"
+msgstr "أزور"
+
+msgid "IDS_WCL_BODY_PORTUGAL"
+msgstr "البرتغال"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAGHDAD"
+msgstr "بغداد"
+
+msgid "IDS_WCL_BODY_IRAQ"
+msgstr "العراق"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAKU"
+msgstr "باكو"
+
+msgid "IDS_WCL_BODY_AZERBAIJAN"
+msgstr "أذربيجان"
+
+msgid "IDS_WCL_BODY_CITYNAME_BALTIMORE"
+msgstr "بالتيمور"
+
+msgid "IDS_WCL_BODY_CITYNAME_BAMAKO"
+msgstr "باماكو"
+
+msgid "IDS_WCL_BODY_MALI"
+msgstr "مالي"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGKOK"
+msgstr "بانكوك"
+
+msgid "IDS_WCL_BODY_THAILAND"
+msgstr "تايلاند"
+
+msgid "IDS_WCL_BODY_CITYNAME_BANGUI"
+msgstr "بانجوي"
+
+msgid "IDS_WCL_BODY_CENTRAL_AFRICAN_REPUBLIC"
+msgstr "جمهورية أفريقيا الوسطى"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARCELONA"
+msgstr "برشلونة"
+
+msgid "IDS_WCL_BODY_SPAIN"
+msgstr "أسبانيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BARI"
+msgstr "باري"
+
+msgid "IDS_WCL_BODY_ITALY"
+msgstr "إيطاليا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BASSE_TERRE"
+msgstr "باس تير"
+
+msgid "IDS_WCL_BODY_GUADELOUPE"
+msgstr "جواديلوب"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIJING"
+msgstr "بكين"
+
+msgid "IDS_WCL_BODY_CHINA"
+msgstr "الصين"
+
+msgid "IDS_WCL_BODY_CITYNAME_BEIRUT"
+msgstr "بيروت"
+
+msgid "IDS_WCL_BODY_LEBANON"
+msgstr "لبنان"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELGRADE"
+msgstr "بلغراد"
+
+msgid "IDS_WCL_BODY_SERBIA"
+msgstr "صربيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BELIZE_CITY"
+msgstr "مدينة بيليز"
+
+msgid "IDS_WCL_BODY_BELIZE"
+msgstr "بيليز"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERLIN"
+msgstr "برلين"
+
+msgid "IDS_WCL_BODY_GERMANY"
+msgstr "ألمانيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BERN"
+msgstr "برن"
+
+msgid "IDS_WCL_BODY_SWITZERLAND"
+msgstr "سويسرا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISHKEK"
+msgstr "بشكيك"
+
+msgid "IDS_WCL_BODY_KYRGYZSTAN"
+msgstr "قرغيزستان"
+
+msgid "IDS_WCL_BODY_CITYNAME_BISSAU"
+msgstr "بيساو"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUINEA_BISSAU"
+msgstr "غينيا بيساو"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOGOTA"
+msgstr "بوغوتا"
+
+msgid "IDS_WCL_BODY_COLOMBIA"
+msgstr "كولومبيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BOLOGNA"
+msgstr "بولونيا"
+
+msgid "IDS_WCL_BODY_BOSTON"
+msgstr "بوسطن"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRASILIA"
+msgstr "برازيليا"
+
+msgid "IDS_WCL_BODY_BRAZIL"
+msgstr "البرازيل"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRATISLAVA"
+msgstr "براتيسلافا"
+
+msgid "IDS_WCL_BODY_SLOVAKIA"
+msgstr "سلوفاكيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRIDGETOWN"
+msgstr "بريدج تاون"
+
+msgid "IDS_WCL_BODY_BARBADOS"
+msgstr "باربادوسا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRISBANE"
+msgstr "بريسبان"
+
+msgid "IDS_WCL_BODY_CITYNAME_BRUSSELS"
+msgstr "بروكسل"
+
+msgid "IDS_WCL_BODY_BELGIUM"
+msgstr "بلجيكا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUCHAREST"
+msgstr "بوخارست"
+
+msgid "IDS_WCL_BODY_ROMANIA"
+msgstr "رومانيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUDAPEST"
+msgstr "بودابست"
+
+msgid "IDS_WCL_BODY_HUNGARY_M_COUNTRY"
+msgstr "المجر"
+
+msgid "IDS_WCL_BODY_CITYNAME_BUENOSAIRES"
+msgstr "بيونس آيريس"
+
+msgid "IDS_WCL_BODY_ARGENTINA"
+msgstr "الأرجنتين"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAIRO"
+msgstr "القاهرة"
+
+msgid "IDS_WCL_BODY_EGYPT"
+msgstr "مصر"
+
+msgid "IDS_WCL_BODY_CITYNAME_CALGARY"
+msgstr "كالجاري"
+
+msgid "IDS_WCL_BODY_CANADA"
+msgstr "كندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANARY_ISLANDS"
+msgstr "جزر الكناري"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANBERRA"
+msgstr "كانبيرا"
+
+msgid "IDS_WCL_BODY_CITYNAME_CANTON"
+msgstr "كانتون"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAPE_TOWN"
+msgstr "كيب تاون"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SOUTH_AFRICA"
+msgstr "جمهورية جنوب إفريقيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARACAS"
+msgstr "كاراكاس"
+
+msgid "IDS_WCL_BODY_VENEZUELA"
+msgstr "فنزويلا"
+
+msgid "IDS_WCL_BODY_CITYNAME_CARDIFF"
+msgstr "كارديف"
+
+msgid "IDS_WCL_BODY_WALES_M_COUNTRYNAME"
+msgstr "ويلز"
+
+msgid "IDS_WCL_BODY_CITYNAME_CASABLANCA"
+msgstr "الدار البيضاء"
+
+msgid "IDS_WCL_BODY_MOROCCO"
+msgstr "المغرب"
+
+msgid "IDS_WCL_BODY_CITYNAME_CATANZARO"
+msgstr "كاتانزارو"
+
+msgid "IDS_COM_BODY_APPLICATION_NOT_INSTALLED"
+msgstr "لم يتم تثبيت التطبيق"
+
+msgid "IDS_COM_BODY_KB"
+msgstr "كيلوبايت"
+
+msgid "IDS_COM_BODY_B"
+msgstr "B"
+
+msgid "IDS_COM_BODY_MB"
+msgstr "ميجابايت"
+
+msgid "IDS_COM_BODY_GB"
+msgstr "جيجابايت"
+
+msgid "IDS_COM_BODY_LATITUDE"
+msgstr "المدى"
+
+msgid "IDS_COM_BODY_LONGITUDE"
+msgstr "خط الطول"
+
+msgid "IDS_COM_OPT_SPEAKER_ABB"
+msgstr "مجهر الصوت"
+
+msgid "IDS_COM_BODY_NO_APPLICATIONS_CAN_PERFORM_THIS_ACTION"
+msgstr "يتعذر العثور على التطبيق للقيام بهذا الإجراء"
+
+msgid "IDS_COM_BODY_OFF_M_STATUS"
+msgstr "إلفاء التفعيل"
+
+msgid "IDS_COM_BODY_ON_M_STATUS"
+msgstr "تفعيل"
+
+msgid "IDS_COM_POP_PS_CURRENTLY_LOCKED_UNLOCK_Q"
+msgstr "تم حظر %s في الوقت الحالي. هل تريد إلغاء الحظر؟"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_START_NOW_Q"
+msgstr "يمكنك استخدام %s مرة أخرى. هل تريد البدء الآن؟"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_2_MORE_TIMES_START_NOW_Q"
+msgstr "يمكنك استخدام %s مرتين آخرتين. هل تريد البدء الآن؟"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_FOR_PD_DAYS_START_NOW_Q"
+msgstr "يمكنك استخدام %s لمدة %d أيام. هل تريد البدء الآن؟"
+
+msgid "IDS_COM_POP_PS_IS_ABOUT_TO_EXPIRE_GET_ANOTHER_LICENCE_Q"
+msgstr "لقد أوشكت صلاحية %s على الانتهاء. هل تريد الحصول على ترخيص آخر؟"
+
+msgid "IDS_COM_POP_YOU_CAN_USE_PS_1_MORE_TIME_GET_ANOTHER_LICENCE_Q"
+msgstr "يمكنك استخدام %s أكثر من مرة واحدة. هل تريد الحصول على ترخيص آخر؟"
+
+msgid "IDS_COM_POP_YOU_CANNOT_USE_PS_ANY_MORE_TIMES_GET_ANOTHER_LICENCE_Q"
+msgstr "لا يمكنك استخدام %s لمرات أكثر من ذلك. هل تريد الحصول على ترخيص آخر؟"
+
+msgid "IDS_COM_HEADER_AUDIO_DEVICE_ABB"
+msgstr "جهاز صوت"
+
+msgid "IDS_COM_SK_INSTALL_A"
+msgstr "تثبيت"
+
+msgid "IDS_COM_OPT_REGISTER"
+msgstr "تسجيل"
+
+msgid "IDS_COM_POP_UNEXPECTED_ERROR"
+msgstr "خطأ غير متوقع"
+
+msgid "IDS_COM_POP_PROXY_CONNECTION_FAILED"
+msgstr "فشل اتصال التفويض"
+
+msgid "IDS_COM_POP_NETWORK_CONNECTION_ERROR"
+msgstr "خطأ في اتصال الشبكة"
+
+msgid "IDS_COM_BODY_INVALID_SIM_CARD"
+msgstr "بطاقة غير صالحة"
+
+msgid "IDS_COM_BODY_OPERATION_FAILED"
+msgstr "فشلت العملية"
+
+msgid "IDS_COM_POP_VERSION"
+msgstr "النسخة"
+
+msgid "IDS_COM_BODY_DEFAULT"
+msgstr "إفتراضي"
+
+msgid "IDS_COM_BODY_CUT"
+msgstr "قص"
+
+msgid "IDS_COM_BODY_PASTE"
+msgstr "لصق"
+
+msgid "IDS_COM_BODY_CLIPBOARD"
+msgstr "الحافظة"
+
+msgid "IDS_COM_POP_SECURITY_POLICY_RESTRICTS_USE_OF_SCREEN_CAPTURE"
+msgstr " سياسة الأمان  تقيد استخدام التقاط الشاشة‬"
+
+msgid "IDS_WCL_BODY_CITYNAME_CAYENNE"
+msgstr "كايين"
+
+msgid "IDS_WCL_BODY_FRENCH_GUIANA"
+msgstr "غويانا الفرنسية"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE"
+msgstr "شارلوت"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHARLOTTE_AMALIE"
+msgstr "شارلوت أمالي"
+
+msgid "IDS_WCL_BODY_UNITED_STATES_VIRGIN_ISLANDS_M_COUNTRYNAME"
+msgstr "جزر فيرجين التابعة للولايات المتحدة"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHELYABINSK"
+msgstr "تشيليابنسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHENNAI"
+msgstr "شيناي"
+
+msgid "IDS_WCL_BODY_INDIA"
+msgstr "الهند"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHICAGO"
+msgstr "شيكاغو"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHISINAU"
+msgstr "تشيسيناو"
+
+msgid "IDS_WCL_BODY_MOLDOVA"
+msgstr "مولدوفا"
+
+msgid "IDS_WCL_BODY_CITYNAME_CHITA"
+msgstr "تشيتا"
+
+msgid "IDS_WCL_BODY_CITYNAME_CLEVELAND"
+msgstr "كليفلاند"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLOMBO"
+msgstr "كولومبو"
+
+msgid "IDS_WCL_BODY_SRI_LANKA"
+msgstr "سريلانكا"
+
+msgid "IDS_WCL_BODY_CITYNAME_COLUMBUS"
+msgstr "كولومبوس"
+
+msgid "IDS_WCL_BODY_CITYNAME_CONAKRY"
+msgstr "كوناكري"
+
+msgid "IDS_WCL_BODY_GUINEA"
+msgstr "غينيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_COPENHAGEN"
+msgstr "كوبنهاجن"
+
+msgid "IDS_WCL_BODY_DENMARK"
+msgstr "الدنمارك"
+
+msgid "IDS_WCL_BODY_CITYNAME_CORK"
+msgstr "كورك"
+
+msgid "IDS_WCL_BODY_IRELAND"
+msgstr "أيرلندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_CROTONE"
+msgstr "كروتون"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAKAR"
+msgstr "داكار"
+
+msgid "IDS_WCL_BODY_SENEGAL"
+msgstr "السنغال"
+
+msgid "IDS_WCL_BODY_CITYNAME_DALLAS"
+msgstr "دالاس"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAMASCUS"
+msgstr "دمشق"
+
+msgid "IDS_WCL_BODY_SYRIA"
+msgstr "سوريا"
+
+msgid "IDS_WCL_BODY_CITYNAME_DAR_ES_SALAAM"
+msgstr "دار السلام"
+
+msgid "IDS_WCL_BODY_TANZANIA"
+msgstr "تنزانيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_DARWIN"
+msgstr "داروين"
+
+msgid "IDS_WCL_BODY_CITYNAME_DELHI"
+msgstr "دلهي"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENPASAR"
+msgstr "دنباسر"
+
+msgid "IDS_WCL_BODY_CITYNAME_DENVER"
+msgstr "دنفر"
+
+msgid "IDS_WCL_BODY_CITYNAME_DETROIT"
+msgstr "ديترويت"
+
+msgid "IDS_WCL_BODY_CITYNAME_DHAKA"
+msgstr "داكا"
+
+msgid "IDS_WCL_BODY_BANGLADESH"
+msgstr "بنجلاديش"
+
+msgid "IDS_WCL_BODY_CITYNAME_DIEGO_GARCIA"
+msgstr "دياجو جاراسيا"
+
+msgid "IDS_WCL_BODY_UNITED_KINGDOM"
+msgstr "المملكة المتحدة"
+
+msgid "IDS_WCL_BODY_CITYNAME_DJIBOUTI"
+msgstr "جيبوتي"
+
+msgid "IDS_WCL_BODY_DJIBOUTI"
+msgstr "جيبوتي"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOHA"
+msgstr "الدوحة"
+
+msgid "IDS_WCL_BODY_QATAR"
+msgstr "قطر"
+
+msgid "IDS_WCL_BODY_CITYNAME_DOUALA"
+msgstr "دوالا"
+
+msgid "IDS_WCL_BODY_CAMEROON"
+msgstr "الكاميرون"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBAI"
+msgstr "دبي"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUBLIN"
+msgstr "دبلن"
+
+msgid "IDS_WCL_BODY_CITYNAME_DUSHANBE"
+msgstr "دوشنبه"
+
+msgid "IDS_WCL_BODY_TAJIKISTAN"
+msgstr "طاجيكستان"
+
+msgid "IDS_WCL_BODY_CITYNAME_EASTER_ISLAND"
+msgstr "جزيرة إيستر"
+
+msgid "IDS_WCL_BODY_CHILE"
+msgstr "تشيلي"
+
+msgid "IDS_WCL_BODY_CITYNAME_EDINBURGH"
+msgstr "إدنبره"
+
+msgid "IDS_WCL_BODY_SCOTLAND_M_COUNTRYNAME"
+msgstr "اسكتلندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_EL_PASO"
+msgstr "إل باسو"
+
+msgid "IDS_WCL_BODY_CITYNAME_FLORENCE"
+msgstr "فلورنسا"
+
+msgid "IDS_WCL_BODY_CITYNAME_FORT_DE_FRANCE"
+msgstr "فور دو فرانس"
+
+msgid "IDS_WCL_BODY_MARTINIQUE"
+msgstr "المارتينيك"
+
+msgid "IDS_WCL_BODY_CITYNAME_FREETOWN"
+msgstr "فري تاون"
+
+msgid "IDS_WCL_BODY_SIERRA_LEONE"
+msgstr "سيراليون"
+
+msgid "IDS_WCL_BODY_CITYNAME_GABORONE"
+msgstr "جابورون"
+
+msgid "IDS_WCL_BODY_BOTSWANA"
+msgstr "بوتسوانا"
+
+msgid "IDS_WCL_BODY_CITYNAME_GALAPAGOS_ISLANDS"
+msgstr "جزر جالاباجوس"
+
+msgid "IDS_WCL_BODY_ECUADOR"
+msgstr "الإيكوادور"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENEVA"
+msgstr "جنيف"
+
+msgid "IDS_WCL_BODY_CITYNAME_GENOA"
+msgstr "جينوا"
+
+msgid "IDS_WCL_BODY_CITYNAME_GEORGETOWN"
+msgstr "جورج تاون"
+
+msgid "IDS_WCL_BODY_GUYANA"
+msgstr "جويانا"
+
+msgid "IDS_WCL_BODY_CITYNAME_GRYTVIKEN"
+msgstr "جريتفيكين"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOUTH_GEORGIA"
+msgstr "جورجيا الجنوبية"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUAM"
+msgstr "غوام"
+
+msgid "IDS_WCL_BODY_GUATEMALA_CITY"
+msgstr "مدينة جواتيمالا"
+
+msgid "IDS_WCL_BODY_GUATEMALA"
+msgstr "جواتيمالا"
+
+msgid "IDS_WCL_BODY_CITYNAME_GUSTAVIA"
+msgstr "جوستافيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_BARTHELEMY"
+msgstr "سان بارتيليمي"
+
+msgid "IDS_WCL_BODY_CITYNAME_HALIFAX"
+msgstr "هاليفاكس"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAMBURG"
+msgstr "هامبورج"
+
+msgid "IDS_WCL_BODY_CITYNAME_HANOI"
+msgstr "هانوي"
+
+msgid "IDS_WCL_BODY_VIETNAM"
+msgstr "فييتنام"
+
+msgid "IDS_WCL_BODY_CITYNAME_HARARE"
+msgstr "هراري"
+
+msgid "IDS_WCL_BODY_ZIMBABWE"
+msgstr "زيمبابوي"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAVANA"
+msgstr "هافانا"
+
+msgid "IDS_WCL_BODY_CUBA"
+msgstr "كوبا"
+
+msgid "IDS_WCL_BODY_CITYNAME_HAWAII"
+msgstr "هاواي"
+
+msgid "IDS_WCL_BODY_CITYNAME_HELSINKI"
+msgstr "هلسنكي"
+
+msgid "IDS_WCL_BODY_FINLAND"
+msgstr "فنلندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOBART"
+msgstr "هوبارت"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONGKONG"
+msgstr "هونج كونج"
+
+msgid "IDS_WCL_BODY_CITYNAME_HONOLULU"
+msgstr "هونولولو"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOUSTON"
+msgstr "هيوستن"
+
+msgid "IDS_WCL_BODY_CITYNAME_HOVD"
+msgstr "هوفد"
+
+msgid "IDS_WCL_BODY_MONGOLIA"
+msgstr "منغوليا"
+
+msgid "IDS_WCL_BODY_CITYNAME_INDIANAPOLIS"
+msgstr "إنديانابوليس"
+
+msgid "IDS_WCL_BODY_CITYNAME_IRKUTSK"
+msgstr "ايركوتسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISLAMABAD"
+msgstr "إسلام أباد"
+
+msgid "IDS_WCL_BODY_PAKISTAN"
+msgstr "باكستان"
+
+msgid "IDS_WCL_BODY_CITYNAME_ISTANBUL"
+msgstr "اسطنبول"
+
+msgid "IDS_WCL_BODY_CITYNAME_IZHEVSK"
+msgstr "ازهيفسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_JAKARTA"
+msgstr "جاكارتا"
+
+msgid "IDS_WCL_BODY_CITYNAME_JEDDAH"
+msgstr "جده"
+
+msgid "IDS_WCL_BODY_SAUDI_ARABIA"
+msgstr "السعودية"
+
+msgid "IDS_WCL_BODY_CITYNAME_JERUSALEM"
+msgstr "القدس"
+
+msgid "IDS_WCL_BODY_ISRAEL"
+msgstr "إسرائيل"
+
+msgid "IDS_WCL_BODY_CITYNAME_JOHANNESBURG"
+msgstr "جوهانسبرج"
+
+msgid "IDS_WCL_BODY_CITYNAME_KABUL"
+msgstr "كابول"
+
+msgid "IDS_WCL_BODY_AFGHANISTAN"
+msgstr "أفغانستان"
+
+msgid "IDS_WCL_BODY_CITYNAME_KALININGRAD"
+msgstr "كالينينغراد"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMCHATKA"
+msgstr "كامشاتكا"
+
+msgid "IDS_WCL_BODY_CITYNAME_KAMPALA"
+msgstr "كامبالا"
+
+msgid "IDS_WCL_BODY_UGANDA"
+msgstr "أوغندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_KARACHI"
+msgstr "كراتشي"
+
+msgid "IDS_WCL_BODY_CITYNAME_KATHMANDU"
+msgstr "كاتماندو"
+
+msgid "IDS_WCL_BODY_NEPAL"
+msgstr "نيبال"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHABAROVSK"
+msgstr "خاباروفسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARKIV"
+msgstr "خاريكف"
+
+msgid "IDS_WCL_BODY_UKRAINE"
+msgstr "أوكرانيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_KHARTOUM"
+msgstr "الخرطوم"
+
+msgid "IDS_WCL_BODY_SUDAN"
+msgstr "السودان"
+
+msgid "IDS_WCL_BODY_CITYNAME_KIEV"
+msgstr "كييف"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINGSTON"
+msgstr "كينجستون"
+
+msgid "IDS_WCL_BODY_JAMAICA"
+msgstr "جامايكا"
+
+msgid "IDS_WCL_BODY_CITYNAME_KINSHASA"
+msgstr "كنشاسا"
+
+msgid "IDS_WCL_BODY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO"
+msgstr "جمهورية الكونغو الديموقراطية"
+
+msgid "IDS_WCL_BODY_CITYNAME_KOLKATA"
+msgstr "كلكاتا"
+
+msgid "IDS_WCL_BODY_CITYNAME_KRASNOYARSK"
+msgstr "كراسنويارسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_KUALA_LUMPUR"
+msgstr "كوالا لمبور"
+
+msgid "IDS_WCL_BODY_MALAYSIA"
+msgstr "ماليزيا"
+
+msgid "IDS_WCL_BODY_KUWAIT"
+msgstr "الكويت"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOS_ANGELES"
+msgstr "لوس أنجلوس"
+
+msgid "IDS_WCL_BODY_CITYNAME_LA_PAZ"
+msgstr "لا باز"
+
+msgid "IDS_WCL_BODY_BOLIVIA"
+msgstr "بوليفيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAGOS"
+msgstr "لاغوس"
+
+msgid "IDS_WCL_BODY_NIGERIA"
+msgstr "نيجيريا"
+
+msgid "IDS_WCL_BODY_CITYNAME_LAS_VEGAS"
+msgstr "لاس فيجاس"
+
+msgid "IDS_WCL_BODY_CITYNAME_LIMA"
+msgstr "ليما"
+
+msgid "IDS_WCL_BODY_PERU"
+msgstr "بيرو"
+
+msgid "IDS_WCL_BODY_CITYNAME_LISBON"
+msgstr "لشبونا"
+
+msgid "IDS_WCL_BODY_CITYNAME_LJUBLJANA"
+msgstr "ليوبليانا"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONDON"
+msgstr "لندن"
+
+msgid "IDS_WCL_BODY_CITYNAME_LONGHUA"
+msgstr "لونجهوا"
+
+msgid "IDS_WCL_BODY_CITYNAME_LOUISVILLE"
+msgstr "لويسفيل"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUANDA"
+msgstr "لواندا"
+
+msgid "IDS_WCL_BODY_ANGOLA"
+msgstr "أنجولا"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUBUMBASHI"
+msgstr "لوبومباشي"
+
+msgid "IDS_WCL_BODY_CITYNAME_LUSAKA"
+msgstr "لوساكا"
+
+msgid "IDS_WCL_BODY_ZAMBIA"
+msgstr "زامبيا"
+
+msgid "IDS_WCL_BODY_LUXEMBOURG"
+msgstr "لكسمبورج"
+
+msgid "IDS_WCL_BODY_CITYNAME_LVIV"
+msgstr "لفيف"
+
+msgid "IDS_WCL_BODY_CITYNAME_MACAU"
+msgstr "ماكاو"
+
+msgid "IDS_WCL_BODY_CITYNAME_MADRID"
+msgstr "مدريد"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAGADAN"
+msgstr "ماغادان"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALABO"
+msgstr "مالابو"
+
+msgid "IDS_WCL_BODY_CITYNAME_EQUAORIAL_GUINEA"
+msgstr "غينيا الاستوائية"
+
+msgid "IDS_WCL_BODY_CITYNAME_MALE"
+msgstr "ماليه"
+
+msgid "IDS_WCL_BODY_MALDIVES"
+msgstr "المالديف"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAGUA"
+msgstr "ماناجوا"
+
+msgid "IDS_WCL_BODY_NICARAGUA"
+msgstr "نيكاراجوا"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANAMA"
+msgstr "المنامة"
+
+msgid "IDS_WCL_BODY_BAHRAIN"
+msgstr "البحرين"
+
+msgid "IDS_WCL_BODY_CITYNAME_MANILA"
+msgstr "مانيلا"
+
+msgid "IDS_WCL_BODY_PHILIPPINES"
+msgstr "الفلبين"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAPUTO"
+msgstr "مابوتو"
+
+msgid "IDS_WCL_BODY_MOZAMBIQUE"
+msgstr "موزامبيق"
+
+msgid "IDS_WCL_BODY_CITYNAME_MARIGOT"
+msgstr "ماريجوت"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_MARTIN"
+msgstr "سان مارتن"
+
+msgid "IDS_WCL_BODY_CITYNAME_MAZATLAN"
+msgstr "مازاتلان"
+
+msgid "IDS_WCL_BODY_MEXICO"
+msgstr "المكسيك"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIYADH"
+msgstr "الرياض"
+
+msgid "IDS_WCL_BODY_CITYNAME_MELBOURNE"
+msgstr "ملبورن"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEMPHIS"
+msgstr "ميمفيس"
+
+msgid "IDS_WCL_BODY_CITYNAME_MESSINA"
+msgstr "ميسينا"
+
+msgid "IDS_WCL_BODY_CITYNAME_MEXICO_CITY"
+msgstr "مكسيكو سيتي"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIAMI"
+msgstr "ميامي"
+
+msgid "IDS_WCL_BODY_CITYNAME_MID_ATLANTIC"
+msgstr "منتصف المحيط الأطلسي"
+
+msgid "IDS_WCL_BODY_CITYNAME_MIDWAY_ATOLL"
+msgstr "ميدواي أتول"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILAN"
+msgstr "ميلان"
+
+msgid "IDS_WCL_BODY_CITYNAME_MILWAUKEE"
+msgstr "ميلووكي"
+
+msgid "IDS_WCL_BODY_CITYNAME_MINSK"
+msgstr "مينسك"
+
+msgid "IDS_WCL_BODY_BELARUS"
+msgstr "بلاروسيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOGADISHU"
+msgstr "مقديشيو"
+
+msgid "IDS_WCL_BODY_SOMALIA"
+msgstr "الصومال"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONROVIA"
+msgstr "مونوروفيا"
+
+msgid "IDS_WCL_BODY_LIBERIA"
+msgstr "ليبيريا"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTEVIDEO"
+msgstr "مونتيفيديو"
+
+msgid "IDS_WCL_BODY_URUGUAY"
+msgstr "أورجواي"
+
+msgid "IDS_WCL_BODY_CITYNAME_MONTREAL"
+msgstr "مونتريال"
+
+msgid "IDS_WCL_BODY_CITYNAME_MOSCOW"
+msgstr "موسكو"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUMBAI"
+msgstr "مومباي"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUNICH"
+msgstr "ميونخ"
+
+msgid "IDS_WCL_BODY_CITYNAME_MUSCAT"
+msgstr "مسقط"
+
+msgid "IDS_WCL_BODY_OMAN"
+msgstr "عمان"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAIROBI"
+msgstr "نيروبي"
+
+msgid "IDS_WCL_BODY_KENYA"
+msgstr "كينيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ROME"
+msgstr "روما"
+
+msgid "IDS_WCL_BODY_CITYNAME_NATERS"
+msgstr "ناتيرز"
+
+msgid "IDS_WCL_BODY_CITYNAME_NDJAMENA"
+msgstr "إندجامينا"
+
+msgid "IDS_WCL_BODY_CITYNAME_NAPLES"
+msgstr "نابلس"
+
+msgid "IDS_WCL_BODY_CHAD"
+msgstr "تشاد"
+
+msgid "IDS_WCL_BODY_MECCA"
+msgstr "مكة"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWDELHI"
+msgstr "نيو دلهي"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWYORK"
+msgstr "نيويورك"
+
+msgid "IDS_WCL_BODY_CITYNAME_NEWFOUNDLAND"
+msgstr "نيوفاوندلاند"
+
+msgid "IDS_WCL_BODY_CITYNAME_NIAMEY"
+msgstr "نيامي"
+
+msgid "IDS_WCL_BODY_NIGER"
+msgstr "النيجر"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUAKCHOTT"
+msgstr "نواكشوط"
+
+msgid "IDS_WCL_BODY_MAURITANIA"
+msgstr "موريتانيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOUMEA"
+msgstr "نوميا"
+
+msgid "IDS_WCL_BODY_NEW_CALEDONIA"
+msgstr "نيوكاليدونيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOKUZNETSK"
+msgstr "نوفوكيزنتسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_NOVOSIBIRSK"
+msgstr "نوفوسيبيرسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUKUALOFA"
+msgstr "نوكو ألوفا"
+
+msgid "IDS_WCL_BODY_TONGA"
+msgstr "تونغا"
+
+msgid "IDS_WCL_BODY_CITYNAME_NUUK"
+msgstr "نووك"
+
+msgid "IDS_WCL_BODY_GREENLAND_M_COUNTRYNAME"
+msgstr "جرينلاند"
+
+msgid "IDS_WCL_BODY_CITYNAME_OMSK"
+msgstr "أومسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_OSAKA"
+msgstr "أوزاكا"
+
+msgid "IDS_WCL_BODY_JAPAN"
+msgstr "اليابان"
+
+msgid "IDS_WCL_BODY_CITYNAME_OTTAWA"
+msgstr "أوتاوا"
+
+msgid "IDS_WCL_BODY_CITYNAME_OUAGADOUGOU"
+msgstr "جوادوجو"
+
+msgid "IDS_WCL_BODY_BURKINA_FASO"
+msgstr "بوركينافاسو"
+
+msgid "IDS_WCL_BODY_CITYNAME_PAGO_PAGO"
+msgstr "باجو باجو"
+
+msgid "IDS_WCL_BODY_INDEPENDENT_STATE_OF_SAMOA"
+msgstr "دولة ساموا المستقلة"
+
+msgid "IDS_WCL_BODY_CITYNAME_PALERMO"
+msgstr "باليرمو"
+
+msgid "IDS_WCL_BODY_PANAMA_CITY"
+msgstr "بنما سيتي"
+
+msgid "IDS_WCL_BODY_PANAMA"
+msgstr "بنما"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARAMARIBO"
+msgstr "باراماريبو"
+
+msgid "IDS_WCL_BODY_SURINAME"
+msgstr "سورينام"
+
+msgid "IDS_WCL_BODY_CITYNAME_PARIS"
+msgstr "باريس"
+
+msgid "IDS_WCL_BODY_FRANCE"
+msgstr "فرنسا"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERM"
+msgstr "برن"
+
+msgid "IDS_WCL_BODY_CITYNAME_PERTH"
+msgstr "بيرث"
+
+msgid "IDS_WCL_BODY_CITYNAME_PETROPAVLOVSK_KAMCHATSKIY"
+msgstr "بيتروبافلوفسك-كامتشاتسكي"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHILADELPHIA"
+msgstr "فلاديلفيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHNOM_PENH"
+msgstr "بنوم بنه"
+
+msgid "IDS_WCL_BODY_CAMBODIA"
+msgstr "كمبوديا"
+
+msgid "IDS_WCL_BODY_CITYNAME_PHOENIX"
+msgstr "فينكس"
+
+msgid "IDS_WCL_BODY_CITYNAME_PODGORICA"
+msgstr "بودجوريكا"
+
+msgid "IDS_WCL_BODY_MONTENEGRO"
+msgstr "الجبل الأسود"
+
+msgid "IDS_WCL_BODY_CITYNAME_PONTA_DELGADA"
+msgstr "بونتا ديلجادو"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_LOUIS"
+msgstr "بورت لويس"
+
+msgid "IDS_WCL_BODY_MAURITIUS"
+msgstr "موريشيوس"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORT_AU_PRINCE"
+msgstr "بورت أو برنس"
+
+msgid "IDS_WCL_BODY_HAITI"
+msgstr "هاييتي"
+
+msgid "IDS_WCL_BODY_CITYNAME_PORTLAND"
+msgstr "بورتلاند"
+
+msgid "IDS_WCL_BODY_CITYNAME_PRAGUE"
+msgstr "باراجواي"
+
+msgid "IDS_WCL_BODY_CZECH_REPUBLIC"
+msgstr "جمهورية التشيك"
+
+msgid "IDS_WCL_BODY_CITYNAME_PYONGYANG"
+msgstr "بيونج يانج"
+
+msgid "IDS_WCL_BODY_NORTH_KOREA"
+msgstr "كوريا الشمالية"
+
+msgid "IDS_WCL_BODY_CITYNAME_QUITO"
+msgstr "كويتو"
+
+msgid "IDS_WCL_BODY_CITYNAME_RABAT"
+msgstr "الرباط"
+
+msgid "IDS_WCL_BODY_CITYNAME_YANGON"
+msgstr "رانجون"
+
+msgid "IDS_WCL_BODY_BURMA"
+msgstr "بورما"
+
+msgid "IDS_WCL_BODY_CITYNAME_RECIFE"
+msgstr "ريسايفي"
+
+msgid "IDS_WCL_BODY_CITYNAME_REGINA"
+msgstr "ريجينا"
+
+msgid "IDS_WCL_BODY_CITYNAME_REYKJAVIK"
+msgstr "ريكيافيك"
+
+msgid "IDS_WCL_BODY_ICELAND"
+msgstr "أيسلندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIGA"
+msgstr "ريجا"
+
+msgid "IDS_WCL_BODY_LATVIA"
+msgstr "لاتفيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_RIO_DE_JANEIRO"
+msgstr "ريو دي جانيرو"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAINT_DENIS"
+msgstr "سانت دينيس"
+
+msgid "IDS_WCL_BODY_REUNION_ISLAND_M_COUNTRYNAME"
+msgstr "جزر ريونيون"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAMARA"
+msgstr "سمارا"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_ANTONIO"
+msgstr "سان أنطونيو"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_DIEGO"
+msgstr "سان دييغو"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_FRANCISCO"
+msgstr "سان فرنسيسكو"
+
+msgid "IDS_WCL_BODY_SAN_JOSE"
+msgstr "سان خوسيه"
+
+msgid "IDS_WCL_BODY_COSTA_RICA"
+msgstr "كوستاريكا"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_JUAN"
+msgstr "سان خوان"
+
+msgid "IDS_WCL_BODY_PUERTO_RICO"
+msgstr "بورتوريكو"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_MARINO"
+msgstr "سان مارينو"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAN_SALVADOR"
+msgstr "سان سالفادور"
+
+msgid "IDS_WCL_BODY_EL_SALVADOR"
+msgstr "السلفادور"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANAA"
+msgstr "صنعاء"
+
+msgid "IDS_WCL_BODY_YEMEN"
+msgstr "اليمن"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTIAGO"
+msgstr "سانتياغو"
+
+msgid "IDS_WCL_BODY_CITYNAME_SANTO_DOMINGO"
+msgstr "سانتو دومينجو"
+
+msgid "IDS_WCL_BODY_DOMINICAN_REPUBLIC"
+msgstr "جمهورية الدومينيكان"
+
+msgid "IDS_WCL_BODY_CITYNAME_SAO_PAULO"
+msgstr "ساو باولو"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEATTLE"
+msgstr "سياتل"
+
+msgid "IDS_WCL_BODY_CITYNAME_SEOUL"
+msgstr "سيول"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_KOREA"
+msgstr "جمهورية كوريا"
+
+msgid "IDS_WCL_BODY_CITYNAME_SHANGHAI"
+msgstr "شنغهاي"
+
+msgid "IDS_WCL_BODY_SHENZHEN"
+msgstr "شينزين"
+
+msgid "IDS_WCL_BODY_CITYNAME_SINGAPORE"
+msgstr "سنغافورة"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_SINGAPORE_M_COUNTRY"
+msgstr "جمهورية سنغافورة"
+
+msgid "IDS_WCL_BODY_CITYNAME_SKOPJE"
+msgstr "سكوبي"
+
+msgid "IDS_WCL_BODY_MACEDONIA"
+msgstr "مقدونيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_SOFIA"
+msgstr "صوفيا"
+
+msgid "IDS_WCL_BODY_BULGARIA"
+msgstr "بلغاريا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_JOHNS"
+msgstr "سانتا جونز"
+
+msgid "IDS_WCL_BODY_ANTIGUA_AND_BARBUDA"
+msgstr "أنتيجوا وباربودا"
+
+msgid "IDS_WCL_BODY_CITYNAME_STOCKHOLM"
+msgstr "ستوكهولم"
+
+msgid "IDS_WCL_BODY_SWEDEN"
+msgstr "السويد"
+
+msgid "IDS_WCL_BODY_CITYNAME_SUVA"
+msgstr "سوفا"
+
+msgid "IDS_WCL_BODY_FIJI_M_COUNTRYNAME"
+msgstr "فيجي"
+
+msgid "IDS_WCL_BODY_REPUBLIC_OF_THE_FIJI_ISLANDS"
+msgstr "جمهورية جزر فيجي"
+
+msgid "IDS_WCL_BODY_CITYNAME_SYDNEY"
+msgstr "سيدني"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAHITI"
+msgstr "تاهيتي"
+
+msgid "IDS_WCL_BODY_FRENCH_POLYNESIA"
+msgstr "بولينيزيا الفرنسية"
+
+msgid "IDS_WCL_BODY_CITYNAME_TAIPEI"
+msgstr "تايبيه"
+
+msgid "IDS_WCL_BODY_TAIWAN"
+msgstr "تايوان"
+
+msgid "IDS_WCL_BODY_CITYNAME_TALLINN"
+msgstr "تالين"
+
+msgid "IDS_WCL_BODY_ESTONIA"
+msgstr "إستونيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_TARAWA"
+msgstr "تاراوا"
+
+msgid "IDS_WCL_BODY_KIRIBATI"
+msgstr "كريباتي"
+
+msgid "IDS_WCL_BODY_CITYNAME_TASHKENT"
+msgstr "طشقند"
+
+msgid "IDS_WCL_BODY_UZBEKISTAN"
+msgstr "أوزبكستان"
+
+msgid "IDS_WCL_BODY_CITYNAME_TBILISI"
+msgstr "تبليسي"
+
+msgid "IDS_WCL_BODY_GEORGIA"
+msgstr "جورجيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEGUCIGALPA"
+msgstr "تيجوسيجالبا"
+
+msgid "IDS_WCL_BODY_HONDURAS"
+msgstr "هندوراس"
+
+msgid "IDS_WCL_BODY_CITYNAME_TEHRAN"
+msgstr "طهران"
+
+msgid "IDS_WCL_BODY_IRAN_M_COUNTRYNAME"
+msgstr "إيران"
+
+msgid "IDS_WCL_BODY_CITYNAME_HO_CHI_MINH_CITY"
+msgstr "مدينة هو تشي منه"
+
+msgid "IDS_WCL_BODY_CITYNAME_THE_SETTLEMENT"
+msgstr "المستعمرة"
+
+msgid "IDS_WCL_BODY_BRITISH_VIRGIN_ISLANDS"
+msgstr "جزر فيرجين الانجليزية"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIANJIN"
+msgstr "تيانجين"
+
+msgid "IDS_WCL_BODY_CITYNAME_TIJUANA"
+msgstr "تيخوانا"
+
+msgid "IDS_WCL_BODY_CITYNAME_TOKYO"
+msgstr "طوكيو"
+
+msgid "IDS_WCL_BODY_CITYNAME_TORONTO"
+msgstr "تورونتو"
+
+msgid "IDS_WCL_BODY_CITYNAME_TREHET"
+msgstr "تريهيت"
+
+msgid "IDS_WCL_BODY_CITYNAME_TRIPOLI"
+msgstr "طرابلس"
+
+msgid "IDS_WCL_BODY_LIBYA"
+msgstr "ليبيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_TUNIS"
+msgstr "تونس"
+
+msgid "IDS_WCL_BODY_TUNISIA"
+msgstr "تونس"
+
+msgid "IDS_WCL_BODY_CITYNAME_TURIN"
+msgstr "تورين"
+
+msgid "IDS_WCL_BODY_CITYNAME_UFA"
+msgstr "أوفا"
+
+msgid "IDS_WCL_BODY_BASHKIRIYA_M_COUNTRYNAME"
+msgstr "بشكيريا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ULAN_BATOR"
+msgstr "أولان باتور"
+
+msgid "IDS_WCL_BODY_CITYNAME_VADUZ"
+msgstr "فادوز"
+
+msgid "IDS_WCL_BODY_LIECHTENSTEIN"
+msgstr "ليختنشتين"
+
+msgid "IDS_WCL_BODY_CITYNAME_VALLETTA"
+msgstr "فاليتا"
+
+msgid "IDS_WCL_BODY_MALTA"
+msgstr "مالطا"
+
+msgid "IDS_WCL_BODY_CITYNAME_VANCOUVER"
+msgstr "فانكوفر"
+
+msgid "IDS_WCL_BODY_CITYNAME_VERONA"
+msgstr "فيرونا"
+
+msgid "IDS_WCL_BODY_CITYNAME_VICTORIA"
+msgstr "فيكتوريا"
+
+msgid "IDS_WCL_BODY_SEYCHELLES"
+msgstr "سيشيل"
+
+msgid "IDS_WCL_BODY_CITYNAME_VIENNA"
+msgstr "فيينا"
+
+msgid "IDS_WCL_BODY_AUSTRIA"
+msgstr "النمسا"
+
+msgid "IDS_WCL_BODY_CITYNAME_VILNIUS"
+msgstr "فيلنيس"
+
+msgid "IDS_WCL_BODY_LITHUANIA"
+msgstr "ليتوانيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_VLADIVOSTOK"
+msgstr "فلاديفوستوك"
+
+msgid "IDS_WCL_BODY_CITYNAME_VOLGOGRAD"
+msgstr "فولجوجراد"
+
+msgid "IDS_WCL_BODY_CITYNAME_ST_PETERSBURG"
+msgstr "سانت بيترسبرج"
+
+msgid "IDS_WCL_BODY_CITYNAME_WARSAW"
+msgstr "وارسو"
+
+msgid "IDS_WCL_BODY_POLAND"
+msgstr "بولندا"
+
+msgid "IDS_WCL_BODY_CITYNAME_WASHINGTON_DC"
+msgstr "واشنطن"
+
+msgid "IDS_WCL_BODY_CITYNAME_WELLINGTON"
+msgstr "ويلينغتون"
+
+msgid "IDS_WCL_BODY_CITYNAME_WINNIPEG"
+msgstr "وينبج"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAKUTSK"
+msgstr "ياكوتسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_YAMOUSSOUKRO"
+msgstr "ياموسوكورو"
+
+msgid "IDS_WCL_BODY_YAOUNDE"
+msgstr "ياوندي"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEKATERINBURG"
+msgstr "يكاترينبورج"
+
+msgid "IDS_WCL_BODY_CITYNAME_YEREVAN"
+msgstr "يريفان"
+
+msgid "IDS_WCL_BODY_ARMENIA"
+msgstr "أرمينيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_YUZHNO_SAKHALINSK"
+msgstr "يوزنو - سخالينيسك"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZAGREB"
+msgstr "زغرب"
+
+msgid "IDS_WCL_BODY_CROATIA"
+msgstr "كرواتيا"
+
+msgid "IDS_WCL_BODY_CITYNAME_ZURICH"
+msgstr "زيورخ"
+
+msgid "IDS_IDLE_POP_UNABLE_TO_LAUNCH_PS"
+msgstr "يتعذر بدء %s"
+
+msgid "IDS_COM_SK_TRY"
+msgstr "حاول"
+
+msgid "IDS_COM_POP_DEFAULT_APPLICATION"
+msgstr "التطبيق الافتراضي"
+
+msgid "IDS_COM_POP_ENABLED"
+msgstr "مفعل"
+
+msgid "IDS_COM_POP_DISABLED"
+msgstr "غير مفعل"
+
+msgid "IDS_COM_BODY_VIDEO_PLAYER"
+msgstr "مشغل فيديو"
+
+msgid "IDS_COM_BODY_JANUARY"
+msgstr "01"
+
+msgid "IDS_COM_BODY_FEBRUARY"
+msgstr "02"
+
+msgid "IDS_COM_BODY_MARCH"
+msgstr "03"
+
+msgid "IDS_COM_BODY_APRIL"
+msgstr "04"
+
+msgid "IDS_COM_BODY_JUNE"
+msgstr "06"
+
+msgid "IDS_COM_BODY_JULY"
+msgstr "07"
+
+msgid "IDS_COM_BODY_AUGUST"
+msgstr "08"
+
+msgid "IDS_COM_BODY_SEPTEMBER"
+msgstr "09"
+
+msgid "IDS_COM_BODY_OCTOBER"
+msgstr "10"
+
+msgid "IDS_COM_BODY_NOVEMBER"
+msgstr "11"
+
+msgid "IDS_COM_BODY_DECEMBER"
+msgstr "12"
+
+msgid "IDS_COM_BODY_SELECTED_DATA_NOT_FOUND"
+msgstr "لم يتم العثور على البيانات المحددة"
+
+msgid "IDS_IDLE_BODY_WEATHER"
+msgstr "الطقس"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED"
+msgstr "تم الوصول إلى أقصى عدد من الحروف"
+
+msgid "IDS_COM_POP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_REACHED"
+msgstr "تم بلوغ أقصى عدد من الأحرف (%d)"
+
+msgid "IDS_COM_BODY_S_NOTE"
+msgstr "S Note"
+
+msgid "IDS_COM_BODY_S_PLANNER"
+msgstr "مخطط S"
+
+msgid "IDS_COM_BODY_S_VOICE"
+msgstr "صوت S"
+
+msgid "IDS_COM_BODY_S_CLOUD"
+msgstr "سحابة S"
+
+msgid "IDS_COM_BODY_CHATON"
+msgstr "ChatON"
+
+msgid "IDS_IDLE_OPT2_DISCARD"
+msgstr "رفض"
+
+msgid "IDS_COM_BODY_DATE"
+msgstr "التاريخ"
+
+msgid "IDS_COM_POP_UNKNOWN_ERROR_OCCURRED"
+msgstr "حدث خطأ غير معلوم"
+
+msgid "IDS_COM_BODY_TIME"
+msgstr "التوقيت"
+
+msgid "IDS_COM_BODY_CLOCK_T_MAINMENU"
+msgstr "الساعة"
+
+msgid "IDS_COM_BODY_CALLER_IMAGE"
+msgstr "صورة المتصل"
+
+msgid "IDS_COM_BODY_CLEAR_ALL"
+msgstr "حذف الكل"
+
+msgid "IDS_COM_BODY_SYNC"
+msgstr "مزامنة"
+
+msgid "IDS_COM_OPT_INSERT"
+msgstr "إدخال"
+
+msgid "IDS_COM_POP_PASTE_HERE"
+msgstr "لصق هنا"
+
+msgid "IDS_COM_SK_CLEAR"
+msgstr "مسح"
+
+msgid "IDS_COM_SK_PRINT"
+msgstr "طباعة"
+
+msgid "IDS_COM_SK3_ERASER"
+msgstr "الممحاة"
+
+msgid "IDS_COM_OPT2_EDIT_TAG"
+msgstr "تعديل الرمز"
+
+msgid "IDS_COM_BODY_LOCK_SCREEN_WALLPAPER_ABB"
+msgstr "خلفية شاشة القفل"
+
+msgid "IDS_COM_BODY_PREPARING_SD_CARD"
+msgstr "جارٍي إعداد بطاقة SD..."
+
+msgid "IDS_COM_SK_IGNORE"
+msgstr "تجاهل"
+
+msgid "IDS_COM_SK_ABORT"
+msgstr "إجهاض"
+
+msgid "IDS_COM_BODY_SD_CARD_REMOVED"
+msgstr "تمت إزالة بطاقة SD"
+
+msgid "IDS_COM_BODY_UNABLE_TO_ACCESS_SD_CARD"
+msgstr "يتعذر الوصول إلى بطاقة SD"
+
+msgid "IDS_COM_BODY_SD_CARD_SAFE_TO_REMOVE"
+msgstr "بطاقة SD آمنة لتتم إزالتها"
+
+msgid "IDS_COM_BODY_SD_CARD_UNEXPECTEDLY_REMOVED"
+msgstr "تمت إزالة بطاقة SD بشكل غير متوقع"
+
+msgid "IDS_PB_BODY_ABCDEFGHIJKLMNOPQRSTUVWXYZ_M_INDEXLIST"
+msgstr "#A ابتثجحخدذرزسشصضطظعغفقكلمنهوي"
+
