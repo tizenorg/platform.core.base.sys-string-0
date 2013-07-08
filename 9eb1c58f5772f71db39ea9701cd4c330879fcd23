@@ -1,0 +1,8 @@
+Change-Id: I9eb1c58f5772f71db39ea9701cd4c330879fcd23
+Code-Review+2: Ryan Ware <ware@linux.intel.com>
+Verified+1: Ryan Ware <ware@linux.intel.com>
+Submitted-by: Ryan Ware <ware@linux.intel.com>
+Submitted-at: Mon, 08 Jul 2013 09:37:59 -0700
+Reviewed-on: https://review.tizen.org/gerrit/5144
+Project: platform/core/base/sys-string-0
+Branch: refs/heads/tizen
